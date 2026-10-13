@@ -1,0 +1,4356 @@
+[
+  {
+    "id": 136,
+    "title": "104職涯導航",
+    "url": "https://guide.104.com.tw/?persona=seniorhigh&utm_source=104PC&utm_medium=cweb_student_hotkeyword",
+    "image": "covers/resources/136.png",
+    "description": "提供高中生生涯興趣測驗、升學就業地圖等資源",
+    "publisher": "104人力銀行",
+    "categories": [
+      "生涯與升學"
+    ],
+    "subjects": [
+      "綜合活動"
+    ],
+    "clicks": 458,
+    "order": 126
+  },
+  {
+    "id": 138,
+    "title": "Hyread電子雜誌",
+    "url": "https://ntledu.ebook.hyread.com.tw/Template/RWD3.0/magazine.jsp",
+    "image": "covers/resources/138.png",
+    "description": "HyRead ebook 為國內第一個整合圖書館永久館藏、計次服務及個人買書的創新雲端圖書館。兼具館藏永久性與服務即時性！ 提供豐富的電子書籍與電子雜誌。",
+    "publisher": "HyRead ebook 凌網科技",
+    "categories": [
+      "閱讀推薦與電子書",
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 23,
+    "order": 127
+  },
+  {
+    "id": 139,
+    "title": "LIS情境科學教材",
+    "url": "https://lis.org.tw/",
+    "image": "covers/resources/139.png",
+    "description": "LIS「以科學史作為課綱脈絡，實景與動畫穿插，結合角色、情境及知識內容」，打造一套能引起學習動機，以及培養能力的教材。",
+    "publisher": "社團法人台灣線上教育發展協會",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "自然科學"
+    ],
+    "clicks": 22,
+    "order": 128
+  },
+  {
+    "id": 140,
+    "title": "MyGoPen",
+    "url": "https://www.mygopen.com",
+    "image": "covers/resources/140.png",
+    "description": "MyGoPen 的起源是希望協助長輩或有資訊落差的朋友們，有個方便查證的地方，我們的努力是希望未來能有更乾淨的網路環境，希望培養大家都有個可以警戒查證訊息的態度，而不是人云亦云的分享資訊。",
+    "publisher": "MyGoPen",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 2,
+    "order": 129
+  },
+  {
+    "id": 143,
+    "title": "PhET模擬教材",
+    "url": "https://phet.colorado.edu/zh_TW/simulations/filter?type=html,prototype",
+    "image": "covers/resources/143.png",
+    "description": "PhET 是一個延伸教育研究專案計畫，透過動畫模擬遊戲的方式吸引學生探索與發現數學、科學方面的各種知識。它是於 2002 年由諾貝爾經濟學獎得主，科羅拉多大學的 Carl Wieman 教授所發起的。",
+    "publisher": "PhET Interactive Simulations project",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "數學",
+      "自然科學"
+    ],
+    "clicks": 39,
+    "order": 131
+  },
+  {
+    "id": 144,
+    "title": "UCAN大專校院就業職能平台",
+    "url": "https://ucan.moe.edu.tw/Account/Login.aspx",
+    "image": "covers/resources/144.png",
+    "description": "為有效協助學生瞭解自己的職涯發展方向，能更有目標、動機的加強其職場就業相關職能， 結合職業興趣探索及職能診斷，以貼近產業需求的職能為依據，增加學生對職場的瞭解，並透過職能自我評估，規劃自我能力養成計畫， 針對能力缺口進行學習，以具備正確的職場職能，提高個人職場競爭力。",
+    "publisher": "教育部",
+    "categories": [
+      "生涯與升學"
+    ],
+    "subjects": [
+      "綜合活動"
+    ],
+    "clicks": 339,
+    "order": 132
+  },
+  {
+    "id": 145,
+    "title": "udn talks聯合大講堂",
+    "url": "https://udntalks.udn.com/udntalks/videos",
+    "image": "covers/resources/145.png",
+    "description": "聯合報論壇品牌「udn talks 聯合大講堂」，提供主題演講、論壇影片免費觀看服務，以論壇形式，探討公民攸關議題，促成跨界新知分享，期盼發揮媒體力量，成就溝通平台，並透過此一平台「監督有權力的人，關懷有需要的人」，努力讓台灣更好。",
+    "publisher": "聯合報",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 721,
+    "order": 133
+  },
+  {
+    "id": 146,
+    "title": "一刻鯨選",
+    "url": "https://jinfm.net/org/cwktrial",
+    "image": "covers/resources/146.png",
+    "description": "一刻鯨選所收錄內容，是由聯合報系累積集團媒體與出版資源，打造出的專業有聲內容，現已累積超過100位名家內容，並破十萬人次下載使用。每支課程聚焦單一主題，10~15分鐘為一集，內容合計至少170門主題；精選名家包括蔣勳、劉岠渭、歐麗娟、吳若權、謝哲青、黃瑽寧、苦苓、筋肉媽媽等等，讀者可隨選隨聽名家精彩主題，讓零碎時間更加充實。",
+    "publisher": "聯合報系",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 576,
+    "order": 134
+  },
+  {
+    "id": 148,
+    "title": "十三行博物館線上展覽",
+    "url": "https://sshm.vm.ntpc.gov.tw/exhibition",
+    "image": "covers/resources/148.png",
+    "description": "新北市立十三行博物館，北臺灣考古學推廣的重鎮及新北市考古文化資產的守護者，將秉持著文化保存與活化的精神，使文化資產更貼近日常生活，讓民眾能在遊覽之餘，自然地認識八里在地到新北市或北臺灣的文化故事。",
+    "publisher": "新北市立十三行博物館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 6,
+    "order": 136
+  },
+  {
+    "id": 150,
+    "title": "大學問",
+    "url": "http://www.unews.com.tw/",
+    "image": "covers/resources/150.png",
+    "description": "大學問是國內最大的升學資訊平台。提供學生及師長最專業的大學升學資訊和教育趨勢報導。",
+    "publisher": "大學問",
+    "categories": [
+      "生涯與升學"
+    ],
+    "subjects": [
+      "綜合活動"
+    ],
+    "clicks": 1694,
+    "order": 137
+  },
+  {
+    "id": 151,
+    "title": "中華民國博物館學會博物館名錄",
+    "url": "http://www.cam.org.tw/museumsintaiwan/",
+    "image": "covers/resources/151.png",
+    "description": "提供台灣博物館界及國內外相關資訊",
+    "publisher": "中華民國博物館學會",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [],
+    "clicks": 11,
+    "order": 138
+  },
+  {
+    "id": 152,
+    "title": "中華開放教育平台 高中生自主學習課程",
+    "url": "https://www.openedu.tw/special_area/70/",
+    "image": "covers/resources/152.png",
+    "description": "中華開放教育聯盟秉持「開放、共享」的精神，透過平台聯盟合作與資源整合策略，深化校際合作關係與產學合作機制，建立營運模式，並發展多元化的推廣服務項目，提升聯盟的競爭力，以期實現深耕開放式課程的永續發展，接軌國際數位教育環境，邁向全民自主終身學習的願景",
+    "publisher": "中華開放教育聯盟",
+    "categories": [
+      "線上課程與影音",
+      "自主學習"
+    ],
+    "subjects": [],
+    "clicks": 102,
+    "order": 139
+  },
+  {
+    "id": 142,
+    "title": "PELAPELA日本語學習資料庫",
+    "url": "http://61.64.60.40/",
+    "image": "covers/resources/142.png",
+    "description": "●五十音入門 內容包括五十音平假名、片假名，以及清音，濁音，抝音等。每個發音都提供正東京腔的日本籍老師真人發音。同時提供例字及例字發音。 ●PELAPELA日本語線上課程 由日本語教學專家黑羽榮司老師設計課程並主講。強調以直接式母語學習法出發，配合與大量語音練習，加強學生的聽說能力。其中的聽力單元採取日語能力檢定測驗的標準格式，提高學生的應試能力。",
+    "publisher": "",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 870,
+    "order": 141
+  },
+  {
+    "id": 154,
+    "title": "公共圖書館分齡分眾服務for青少年讀者",
+    "url": "https://isp.ncl.edu.tw/teen-tw/submenu?usein=100&psid=0K192483762724907379",
+    "image": "covers/resources/154.png",
+    "description": "公共圖書館以青少年為對象整理全國公共圖書館的資源。好書漾讀提供各類推薦書單。教學資源整合了各領域的網路資源及教材供教師下載使用。",
+    "publisher": "國家圖書館",
+    "categories": [
+      "閱讀推薦與電子書"
+    ],
+    "subjects": [],
+    "clicks": 69,
+    "order": 142
+  },
+  {
+    "id": 157,
+    "title": "文化部典藏網",
+    "url": "https://collections.culture.tw/",
+    "image": "covers/resources/157.png",
+    "description": "文化部「典藏網」藏品類別有藝術、自然史、歷史文物、傳統藝術、工藝、音樂、戲劇、電影類、文學類、古蹟類等近90類。使用者可以利用「人名」、「年代」、「分類」、「典藏機關」、「關鍵詞」等不同形式的檢索方式，快速搜尋出所須之藏品資訊。若無鎖定特定的檢索項目，網站也提供「最新藏品」、「熱門分享」、「熱門瀏覽」、「熱門推薦」等瀏覽方式，引導一般民眾及學生族群欣賞文物之美，不必再耗時至各機關網站逐一檢視，在雲端一次暢遊臺灣各類博物館所，並跨領域迅速累積知識，文史工作者也能便利運用典藏網的整合性資料庫，成為策展或研究的一大利器。",
+    "publisher": "中華民國文化部",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [],
+    "clicks": 2,
+    "order": 144
+  },
+  {
+    "id": 159,
+    "title": "台灣事實查核中心",
+    "url": "https://tfc-taiwan.org.tw/",
+    "image": "covers/resources/159.png",
+    "description": "本中心參考國外具代表性的事實查核機制，並輔以我國的傳播生態需求，依循專業、透明、公正的原則，執行公共事務相關訊息之事實查核。期能抑制不實資訊的負面影響，提升公眾的資訊素養，裨益台灣的民主發展。",
+    "publisher": "台灣事實查核中心",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 0,
+    "order": 146
+  },
+  {
+    "id": 210,
+    "title": "開放個人經驗平台",
+    "url": "https://ioh.tw/",
+    "image": "covers/resources/210.png",
+    "description": "對於資訊不足或缺乏人脈連結的青年學子，IOH 要提供一個開放個人經驗的分享平台，讓不同領域的海內外講者透過平台，分享個人求學、工作與生活方面的經驗。讓青年學子藉由工作經驗分享講座，得知夢想的輪廓；藉由求學經驗分享講座，了解達成夢想的途徑。讓教育不是為了學歷而唸書，而是為了圓夢而讀。也希望藉由 IOH，替台灣學子開一扇世界的窗，並替他們尋找海外戰場，提供一個反轉社會階級的免費資源。 主要內容包含： 18學群介紹、校系總覽、教授談科系、博碩校系總覽、海外留學",
+    "publisher": "IOH 開放個人經驗平台",
+    "categories": [
+      "生涯與升學"
+    ],
+    "subjects": [
+      "綜合活動"
+    ],
+    "clicks": 1887,
+    "order": 147
+  },
+  {
+    "id": 160,
+    "title": "台灣媒體觀察教育基金會",
+    "url": "https://www.mediawatch.org.tw/work/literacy/materials",
+    "image": "covers/resources/160.png",
+    "description": "媒體素養教學素材庫提供各年級媒體素養的優良教案，供教師依需求自行利用。",
+    "publisher": "台灣媒體觀察教育基金會",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 1,
+    "order": 148
+  },
+  {
+    "id": 161,
+    "title": "台灣就業通工作百科",
+    "url": "https://jobooks.taiwanjobs.gov.tw/",
+    "image": "covers/resources/161.png",
+    "description": "「台灣就業通」為勞動部勞動力發展署集結原「全國就業e網」、「職訓e網」、「身心障礙者就業開門網」、「微型創業鳳凰網」以及「技能檢定中心」等五大網站所成立的整合性網站。是一個能夠提供民眾就業、訓練、檢定、創業及身心障礙就業等服務的終生職涯夥伴。台灣就業通為擴大就業服務面向，協助民眾即早認識職業世界，發展生涯規劃，「台灣就業通-Jobooks工作百科」應運而生。",
+    "publisher": "勞動部勞動力發展署",
+    "categories": [
+      "生涯與升學"
+    ],
+    "subjects": [
+      "綜合活動"
+    ],
+    "clicks": 474,
+    "order": 149
+  },
+  {
+    "id": 162,
+    "title": "國立台灣科學教育館",
+    "url": "https://www.ntsec.edu.tw/index.aspx",
+    "image": "covers/resources/162.png",
+    "description": "國立臺灣科學教育館為輔成學校科學教育，擴增推廣服務面向，善用無遠弗屆網路功能，建置「臺灣網路科教館資源網站」，透過簡便之資料庫檢索模式，開放分享包含「全國中小學科學展覽會」與「臺灣國際科學展覽會」歷屆優勝作品、生活科學問答、科學講座及展館展品之學習教材等豐富數位資源，供老師、學生及家長自由下載使用，提供教師教學…",
+    "publisher": "國立台灣科學教育館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "自然科學"
+    ],
+    "clicks": 5,
+    "order": 150
+  },
+  {
+    "id": 163,
+    "title": "生涯探索@Cheers",
+    "url": "https://www.cheers.com.tw/career",
+    "image": "covers/resources/163.png",
+    "description": "你喜歡自己的工作嗎？ 你了解自己的天賦與志趣嗎？ 每天早上，你是帶著微笑出門，還是麻木疲憊地又度過一天？ 在不斷變動的世界中，為你找到工作中的微笑，這，就是我們存在的理由。 我們以動態知識策展人自許，服務涵蓋雜誌、數位內容、線上影音課程、實體課程、大型論壇、出版，整合線上與線下360度知識服務，陪伴所有年輕世代在世界工作舞台上，綻放光芒、實踐自我。",
+    "publisher": "Cheers雜誌",
+    "categories": [
+      "生涯與升學"
+    ],
+    "subjects": [
+      "綜合活動"
+    ],
+    "clicks": 734,
+    "order": 151
+  },
+  {
+    "id": 164,
+    "title": "光國影音庫-文化臺灣、歷史臺灣",
+    "url": "http://192.192.13.156/login_videolib.htm",
+    "image": "covers/resources/164.png",
+    "description": "介紹各族群先民開發臺灣的史實，藉以對臺灣文化的認識與了解並珍惜和愛護臺灣。",
+    "publisher": "",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 1259,
+    "order": 152
+  },
+  {
+    "id": 218,
+    "title": "新課綱行動協作平臺：學習歷程檔案特輯, 第4集 自主學習動手做",
+    "url": "https://www.youtube.com/watch?v=N6rqcN2PmAM",
+    "image": "covers/resources/218.png",
+    "description": "新北市政府教育局策畫的「新課綱行動協作平臺：學習歷程檔案特輯」，由北大高中朱肇維主任簡潔又快速的介紹自主學習，可以幫忙你迅速掌握基本概況。",
+    "publisher": "新北市政府教育局 / 北大高中 朱肇維主任",
+    "categories": [
+      "自主學習"
+    ],
+    "subjects": [],
+    "clicks": 1296,
+    "order": 153
+  },
+  {
+    "id": 186,
+    "title": "高雄市立圖書館",
+    "url": "https://drs.ksml.edu.tw/",
+    "image": "covers/resources/186.png",
+    "description": "高雄市立圖書館數位資源入口網",
+    "publisher": "高雄市立圖書館",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 7,
+    "order": 154
+  },
+  {
+    "id": 165,
+    "title": "全國碩博士論文加值系統",
+    "url": "https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=E7Irxq/search?mode=basic",
+    "image": "covers/resources/165.png",
+    "description": "國家圖書館免費供眾使用之學位論文線上服務，尖峰時段同時上線人數突破2萬人，每天提供檢索人次亦超過100萬次，已成為國內最重要的學術支援網站之一。",
+    "publisher": "國家圖書館",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 33,
+    "order": 155
+  },
+  {
+    "id": 155,
+    "title": "天下雜誌深度專題",
+    "url": "https://www.cw.com.tw/special",
+    "image": "covers/resources/155.png",
+    "description": "天下雜誌，是台灣第一本專業的新聞財經雜誌。每日精選財經、國際、管理、教育、經濟學人、評論、時尚；互動圖表、影音等多媒體報導，深入解讀世界脈動，掌握前瞻觀念。以積極、前瞻、放眼天下的態度，試圖為台灣在世界前進的潮流中找到定位，為企業因應政經巨變找到出路，為領導人與中產階級搭起溝通的橋樑，提供台灣和華文世界讀者獨立的新聞、觀點與資訊。",
+    "publisher": "天下雜誌",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 9,
+    "order": 156
+  },
+  {
+    "id": 166,
+    "title": "地球圖輯隊",
+    "url": "https://dq.yam.com/",
+    "image": "covers/resources/166.png",
+    "description": "身為地球人，你今天關心地球事了嗎？ 我們致力以淺顯易懂的文字、豐富精彩的圖片為大家打開一扇關心地球大小事、理解國際要聞的入門窗。在這裡，你可以看到地球的各種風貌，無論是政治經濟、社會文化、科普新知、暖心趣聞這裡通通有。 你想看的國際要聞，都在DQ地球圖輯隊！",
+    "publisher": "天空傳媒股份有限公司",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 3,
+    "order": 157
+  },
+  {
+    "id": 179,
+    "title": "政大圖書館資訊素養課程",
+    "url": "http://lib.video.nccu.edu.tw/p/libraryelearning",
+    "image": "covers/resources/179.png",
+    "description": "本課程依據研究歷程結合圖書館資源，從研究主題的選訂、研究資源的蒐集、論文的撰寫、學位論文的架構、書目管理軟體EndNote的應用至論文完成後上傳至Turnitin比對系統，做一個完整的介紹。",
+    "publisher": "國立政治大學圖書館",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 19,
+    "order": 158
+  },
+  {
+    "id": 174,
+    "title": "法律百科",
+    "url": "https://www.legis-pedia.com/",
+    "image": "covers/resources/174.png",
+    "description": "網路科技普及，現代人遇到問題時第一步多上網尋求解答。 我們搭建專業資源平臺，開放給所有人無償使用。 邀請所有人提問，法律人或對法律有認知的人貢獻知識。",
+    "publisher": "自由百科有限公司",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 24,
+    "order": 159
+  },
+  {
+    "id": 168,
+    "title": "自主學習行動網",
+    "url": "https://sites.google.com/kclass.kh.edu.tw/lbms/virus",
+    "image": "covers/resources/168.png",
+    "description": "葉士昇老師(高雄市教育局國民教育輔導團高中團自主學習專案支援教師)在此網站中，提出對於自主學習的一些建議，並整理不同領域可以使用的相關資源與使用影音文字說明資源的查詢使用方式。葉老師有出版一本書「自主學習成就解鎖：帶你找到最想學、打造獨有學習歷程」，有興趣的人也可以閱讀書籍。",
+    "publisher": "高雄市教育局國民教育輔導團高中團自主學習專案支援教師-葉士昇老師",
+    "categories": [
+      "自主學習"
+    ],
+    "subjects": [],
+    "clicks": 573,
+    "order": 160
+  },
+  {
+    "id": 171,
+    "title": "我的自主學習筆記",
+    "url": "https://mynotes.org/istudy/",
+    "image": "covers/resources/171.png",
+    "description": "清水高中的周漢強老師在這個網站裡，用淺顯易懂的方式說明自主學習可以如何進行、應該注意的事項以及自主學習的實例分享，不論是學生或老師都可以在這裡快速找到自己好奇的問題與答案。周老師也有youtube頻道，可以看到其他老師對於自主學習課程的經驗分享。",
+    "publisher": "清水高中周漢強老師",
+    "categories": [
+      "自主學習"
+    ],
+    "subjects": [],
+    "clicks": 999,
+    "order": 161
+  },
+  {
+    "id": 184,
+    "title": "桃園市立圖書館",
+    "url": "https://hyint.typl.gov.tw/login/",
+    "image": "covers/resources/184.png",
+    "description": "桃園市立圖書館電子資源整合查詢系統",
+    "publisher": "桃園市立圖書館",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 1,
+    "order": 162
+  },
+  {
+    "id": 172,
+    "title": "育網開放教育平台eWant 高中專區",
+    "url": "https://www.ewant.org/local/enterprise/collegepage.php?id=20",
+    "image": "covers/resources/172.png",
+    "description": "由國立陽明交通大學於2013年建立的ewant育網開放教育平臺是臺灣第一個磨課師(massive open online courses, MOOCs)平臺，採用開放源碼的moodle線上教學系統作為平臺的核心，旨在為所有願意投入MOOCs運動的學校及單位提供一個展示及經營課程的平臺，也為所有想要免費利用線上課程的學習者提供方便的學習機會。",
+    "publisher": "國立陽明交通大學",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 91,
+    "order": 163
+  },
+  {
+    "id": 175,
+    "title": "知識大講堂",
+    "url": "https://knowledge.colife.org.tw/speech_list.aspx",
+    "image": "covers/resources/175.png",
+    "description": "為國家高速網路與計算中心Co-Life團隊所建置的網站，以期讓社會大眾培養知識素養與終身學習，使知識活動成為社會提升文化活動的一環，對於特殊族群的教育，能顧及偏遠地區與原住民學生，以使每一位特殊學生都擁有接受均等教育的機會，縮短原住民部落地區與平地的數位落差。",
+    "publisher": "國家高速網路與計算中心Co-Life團隊",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 615,
+    "order": 165
+  },
+  {
+    "id": 176,
+    "title": "空中英語教室影音典藏學習頻道",
+    "url": "https://webeng.ncl.edu.tw/",
+    "image": "covers/resources/176.png",
+    "description": "配合大家說英語、空中英語教室電視教學節目及雜誌內容出刊進度，自動每日下載最新的學習內容，學習者可點選當月及上月的學習內容並進入語文同步學習頁面播放，頁面節目之排列是依最近播放日期排序，並顯示該教學節目之中、英文主題、關鍵字以及該節目之學習難易度。 特色： (1)影音文字同步 (2)影音搜尋功能 (3)拖曳式備課播放清單 (4)資料即時更新 (5)採人性化管理，讀者可了解自己的學習狀況，並記錄個人使用情況",
+    "publisher": "",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "英文"
+    ],
+    "clicks": 1194,
+    "order": 166
+  },
+  {
+    "id": 170,
+    "title": "你的，我的，公眾領域",
+    "url": "https://ti-wb.github.io/pd4pd.tw/index.html#introduction",
+    "image": "covers/resources/170.png",
+    "description": "公眾領域 (Public Domain)是任何人都能自由使用的文字、圖片、影音等作品。你不用詢問作者，也不需支付費用，就能根據各種目的，將它們重製、改作，或是將它們公開的演出、口述、展示、上映。本網站提供公眾領域資源的介紹與素材查詢。",
+    "publisher": "台灣創用CC計畫, 網絡行動科技股份有限公司（NETivism）, MediaGoblin",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 4,
+    "order": 167
+  },
+  {
+    "id": 177,
+    "title": "青年壯遊臺灣",
+    "url": "https://www.yda.gov.tw/plan.aspx?p=1010&rn=22155",
+    "image": "covers/resources/177.png",
+    "description": "「青年壯遊臺灣-尋找感動地圖實踐計畫」，鼓勵青年以壯遊體驗多元方式，與臺灣各地人文社會深入互動交流， 認識瞭解臺灣不同面向，並從壯遊過程中探索自我，培養多元能力。青年可藉由議題探研、達人見習、環島探索等多元方式認識鄉土、行遍臺灣，形塑青年壯遊新文化，捲動青年壯遊臺灣風潮。經獲選者可獲部分經費補助，鼓勵青年完成壯遊臺灣夢想。",
+    "publisher": "教育部青年發展署",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 0,
+    "order": 168
+  },
+  {
+    "id": 185,
+    "title": "高雄市立美術館",
+    "url": "https://www.kmfa.gov.tw/onlinegallery?fbclid=IwAR26gHPlvFTuXQagiMvygt0AfiUTTjr45kgxI2zLAXpq7uCOhpOMbBT6_qQ",
+    "image": "covers/resources/185.png",
+    "description": "高美館透過多元經營，著重使園區與美術館整合，成為融合藝術、教育、自然、休閒的新式生活園地，並強化當代藝術、建築、設計與社區營造之元素暨創意，開擴群眾的視野，提供在地與國際、藝術與生態更多對話的機會。",
+    "publisher": "高雄市立美術館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 3,
+    "order": 169
+  },
+  {
+    "id": 180,
+    "title": "政府研究資訊系統",
+    "url": "https://www.grb.gov.tw/search/report/list",
+    "image": "covers/resources/180.png",
+    "description": "政府研究資訊系統將研究計畫摘要及計畫執行結束後之成果摘要與報告全文等予以電子化長期保存，並藉由網際網路對一般大眾提供資料庫查詢服務。",
+    "publisher": "財團法人國家實驗研究院科技政策研究與資訊中心",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 4,
+    "order": 170
+  },
+  {
+    "id": 187,
+    "title": "高雄市立歷史博物館 線上高雄學",
+    "url": "http://www.khm.org.tw/tw/research/khelearning?page=1",
+    "image": "covers/resources/187.png",
+    "description": "高雄市立歷史博物館為城市觀光重要的一環，也是民眾終身學習的重要場域，本館及附屬館舍本於深耕高雄，存續文化知識、展現地方視野的營運理念，致力於高雄歷史深入研究、豐實各類館藏主題，策辦多元精彩的在地性展覽、建立本館成為高雄地區文史知識庫，更期待跨越海洋，走向國際，加強文化交流。",
+    "publisher": "高雄市立歷史博物館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 3,
+    "order": 171
+  },
+  {
+    "id": 189,
+    "title": "國立公共資訊圖書館",
+    "url": "https://www.nlpi.edu.tw/",
+    "image": "covers/resources/189.png",
+    "description": "國立公共資訊圖書館除徵集、組織、典藏各種實體圖書資料、數位資源提供民眾閱讀與終身學習外，結合實體與虛擬服務空間，提供分齡分眾服務，以嶄新的閱讀模式、獨特的探索途徑、多元的休閒機能及舒適的終身學習環境，提供具有圖書閱覽、資訊檢索、數位服務、展覽及演講、訓練等場域。",
+    "publisher": "國立公共資訊圖書館",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 9,
+    "order": 172
+  },
+  {
+    "id": 211,
+    "title": "愛學網 名人講堂",
+    "url": "https://stv.naer.edu.tw/live/famous.jsp",
+    "image": "covers/resources/211.png",
+    "description": "愛學網歷年來邀請訪談教育工作者、作家、社會人文、科普達人等賢達楷模，分享他們豐富的人生故事及奮鬥歷程，勉勵全國中小學生陶養生活知能；愛學影展提供優質電影展及歷年徵集之微電影集錦，開拓多元文化與理解視野。",
+    "publisher": "國家教育研究院",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 634,
+    "order": 173
+  },
+  {
+    "id": 191,
+    "title": "國立科學工藝博物館",
+    "url": "https://www.nstm.gov.tw/Resources/Collection.htm",
+    "image": "covers/resources/191.png",
+    "description": "這幾個數位典藏網包含電信文物、鎖具文物、印刷文物、度量衡文物及臺灣工業文化資產等，讓大家宅在家也可以逛科工館。",
+    "publisher": "",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "科技"
+    ],
+    "clicks": 8,
+    "order": 174
+  },
+  {
+    "id": 192,
+    "title": "國立海洋生物博物館",
+    "url": "https://www.nmmba.gov.tw/Default.aspx",
+    "image": "covers/resources/192.png",
+    "description": "國立海洋生物博物館繼「台灣水域館」、「珊瑚王國館」開幕之後，結合水族館及全數位影像化的方式，介紹涵蓋全球水域、古海洋的「世界水域館」，透過先端科技的整合展示古代海洋、海藻森林、深海水域、極地水域等四大主題。",
+    "publisher": "國立海洋生物博物館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "自然科學"
+    ],
+    "clicks": 5,
+    "order": 175
+  },
+  {
+    "id": 194,
+    "title": "國立教育廣播電台xChannel+",
+    "url": "https://channelplus.ner.gov.tw/",
+    "image": "covers/resources/194.png",
+    "description": "國立教育廣播電台xChannel+提供專題策展、語言學習及素養頻道等不同領域的豐富內容",
+    "publisher": "國立教育廣播電台",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 619,
+    "order": 176
+  },
+  {
+    "id": 195,
+    "title": "國立臺灣大學圖書館「參考服務部落格」",
+    "url": "http://tul.blog.ntu.edu.tw/",
+    "image": "covers/resources/195.png",
+    "description": "提供台大讀者諮詢服務",
+    "publisher": "國立臺灣大學圖書館",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 2,
+    "order": 177
+  },
+  {
+    "id": 198,
+    "title": "國家圖書館",
+    "url": "https://www.ncl.edu.tw/links1_235.html",
+    "image": "covers/resources/198.png",
+    "description": "國家圖書館蒐集典藏歷代珍藏的典籍文獻以及現代的國內外出版品、海內外漢學資源、手稿等各式資料，豐富多元，其中又以善本古籍、臺灣出版書刊、博碩士論文、名人手稿、影音與數位資源為典藏特色。",
+    "publisher": "國家圖書館",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 26,
+    "order": 179
+  },
+  {
+    "id": 217,
+    "title": "新課綱行動協作平臺：學習歷程檔案特輯, 第3集 自主學習大哉問",
+    "url": "https://www.youtube.com/watch?v=0av3L2lW6eA",
+    "image": "covers/resources/217.png",
+    "description": "新北市政府教育局策畫的「新課綱行動協作平臺：學習歷程檔案特輯」，由北大高中朱肇維主任簡潔又快速的介紹自主學習，可以幫忙你迅速掌握基本概況。",
+    "publisher": "新北市政府教育局 / 北大高中 朱肇維主任",
+    "categories": [
+      "自主學習"
+    ],
+    "subjects": [],
+    "clicks": 1398,
+    "order": 180
+  },
+  {
+    "id": 216,
+    "title": "新課綱行動協作平臺：學習歷程檔案特輯, 第2集 學習歷程檔案上傳Q&A",
+    "url": "https://www.youtube.com/watch?v=2DO1uLlXX_E",
+    "image": "covers/resources/216.png",
+    "description": "新北市政府教育局策畫的「新課綱行動協作平臺：學習歷程檔案特輯」，由錦和高中孫嘉黛老師介紹學習歷程檔案，可以幫忙你迅速掌握基本概況。",
+    "publisher": "新北市政府教育局 / 錦和高中 孫嘉黛老師",
+    "categories": [
+      "學習歷程檔案"
+    ],
+    "subjects": [],
+    "clicks": 1241,
+    "order": 181
+  },
+  {
+    "id": 201,
+    "title": "教育部青年志工網站",
+    "url": "https://youthvolunteer.yda.gov.tw/content/m_news_list.php",
+    "image": "covers/resources/201.png",
+    "description": "為了能鼓勵全國各地的青年投入志工行列，本署參酌縣市幅員、大專院校與高中職數量，以北、中、南、東區共規劃設置12個「青年志工中心」。期待提供有意參與志願服務的青年(15至35歲)完善的培力與志工服務方案資訊，並透過強化與在地學校、民間組織之合作，並增進青年志工學習的成長與激勵，擴大捲動青年參與志願服務工作，並增加各地青年參與志願服務的可及性與可近性，同時協助青年轉化志工經驗有助其生涯探索與發展。",
+    "publisher": "教育部青年發展署",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 4,
+    "order": 183
+  },
+  {
+    "id": 190,
+    "title": "國立自然科學博物館",
+    "url": "https://www.nmns.edu.tw/ch/learn/online-museum/",
+    "image": "covers/resources/190.png",
+    "description": "國立自然科學博物館線上博物館專區提供網路特展、展覽線上解說等功能，整理各式多元學習項目，打破時間與空間的限制，在家就能飽覽各式自然科學知識，透過環景ＶＲ技術帶您逛遍科博館。",
+    "publisher": "國立自然科學博物館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "自然科學"
+    ],
+    "clicks": 7,
+    "order": 184
+  },
+  {
+    "id": 202,
+    "title": "教室電影院公播大平台",
+    "url": "https://ntl.app.visionmedia.com.tw/video",
+    "image": "covers/resources/202.png",
+    "description": "《教室電影院公播大平台》專為圖書館提供優質影視內容與串流影音平台(OTT)，平台內有百部以上普遍級與保護級寓教於樂的電影，讓使用者不用出門在任何地方只要擁有圖書館帳號及網路，就能享受隨選隨看的影音樂趣。平台每月皆有新片上架，是圖書館開展多新媒體平台應用服務之一。實現開放、自主、便利的社會教育目標，縮短城鄉使用數位工具的差距。",
+    "publisher": "視界影視文化",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 1320,
+    "order": 185
+  },
+  {
+    "id": 203,
+    "title": "創用CC的介紹與素材查詢",
+    "url": "https://tw.creativecommons.net/resource/",
+    "image": "covers/resources/203.png",
+    "description": "創用 CC，將「創作」、「創造」、「創意」容納於「創」字，將「使用」、「公用」、「共用」容納於「用」字，並再保留原文縮寫 “CC”，並以「我們創造，我們使用，我們 CC ！」為簡語，傳達創作共同、創作共享的理念",
+    "publisher": "CC台灣社群",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 5,
+    "order": 186
+  },
+  {
+    "id": 178,
+    "title": "青年第一讚 Youth First",
+    "url": "https://youthfirst.yda.gov.tw/",
+    "image": "covers/resources/178.png",
+    "description": "「青年第一讚 Youth First」平臺(前身為青年資源讚)彙集中央部會及地方政府與青年有關的計畫與資源。 為協助青年更有系統認識政府青年政策及有效利用相關資源，教育部青年發展署導入青年協作，辦理青年及公部門協作工作坊，調查青年關注議題與需求，結合部會共創協作，並整合原「青年資源讚」資源，參考各國青年網站架構，以敏捷開發思維完成平臺優化改版，並新增「創新青年護照」（運用區塊鏈技術）與「網站限時動態短影片」兩項亮點功能，提供讓青年有感的一站式資訊整合服務平臺。 期以開放政府「透明、參與、課責、涵容」之理念精神，共同維運平臺資源，以利平臺推廣利用。",
+    "publisher": "教育部青年發展署",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 5,
+    "order": 187
+  },
+  {
+    "id": 206,
+    "title": "媒體素養教育資源網",
+    "url": "https://mlearn.moe.gov.tw/eLearning",
+    "image": "covers/resources/206.png",
+    "description": "本網站所提供內容包括媒體素養教學教材、趨勢動態、成果展示與活動訊息等，期能成為媒體素養教育最完整、實用與即時之資訊平臺。",
+    "publisher": "教育部",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 3,
+    "order": 188
+  },
+  {
+    "id": 167,
+    "title": "汎科學",
+    "url": "https://pansci.asia/",
+    "image": "covers/resources/167.png",
+    "description": "PanSci 泛科學是台灣最大的科學網站及社群，於2011年成立，起初為台灣數位文化協會育成的計畫，2014年已獨立成立泛科知識股份有限公司。PanSci 泛科學邀請台灣科學研究者、教育者、愛好者、以及所有受科學影響的人們，共同暢談科學、將高深龐雜的科學發展重新放置回台灣公共論壇中，並且用理性思考社會議題中的科學面向，致力於提供科學討論的最佳場合，包括線上與線下。",
+    "publisher": "泛科知識股份有限公司",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [
+      "自然科學"
+    ],
+    "clicks": 62,
+    "order": 189
+  },
+  {
+    "id": 205,
+    "title": "報導者",
+    "url": "https://www.twreporter.org/",
+    "image": "covers/resources/205.png",
+    "description": "《報導者》是台灣第一個由公益基金會成立的網路媒體。秉持深度、開放、非營利的精神，致力於公共領域調查報導，共同打造多元進步的社會與媒體環境。",
+    "publisher": "財團法人報導者文化基金會",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 4,
+    "order": 190
+  },
+  {
+    "id": 197,
+    "title": "國立臺灣藝術教育館 網路藝學網",
+    "url": "https://elearn.arte.gov.tw/mooc/index.php",
+    "image": "covers/resources/197.png",
+    "description": "由國立臺灣藝術教育館所建置，提供全國各類藝術教育課程的線上課程。",
+    "publisher": "國立臺灣藝術教育館",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 9,
+    "order": 191
+  },
+  {
+    "id": 208,
+    "title": "華藝線上圖書館",
+    "url": "https://www.airitilibrary.com/Search/alGCS000003",
+    "image": "covers/resources/208.png",
+    "description": "整合台灣、中國大陸兩岸學術資源之檢索平台，收錄內容涵蓋期刊論文、學位論文、會議論文集等重要全文內容，提供全球學者優質便捷的學術知識服務。",
+    "publisher": "華藝數位股份有限公司 Airiti.Inc",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 8,
+    "order": 192
+  },
+  {
+    "id": 215,
+    "title": "新課綱行動協作平臺：學習歷程檔案特輯, 第1集 如何製作學習歷程檔案",
+    "url": "https://www.youtube.com/watch?v=gERTrlut67A",
+    "image": "covers/resources/215.png",
+    "description": "新北市政府教育局策畫的「新課綱行動協作平臺：學習歷程檔案特輯」，由錦和高中孫嘉黛老師介紹學習歷程檔案，可以幫忙你迅速掌握基本概況。",
+    "publisher": "新北市政府教育局/錦和高中 孫嘉黛老師",
+    "categories": [
+      "學習歷程檔案"
+    ],
+    "subjects": [],
+    "clicks": 1330,
+    "order": 193
+  },
+  {
+    "id": 193,
+    "title": "國立海洋科技博物館",
+    "url": "https://www.nmmst.gov.tw/chhtml/sitemap2/515/A07",
+    "image": "covers/resources/193.png",
+    "description": "國立海洋科技博物館學習資源網",
+    "publisher": "國立海洋科技博物館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "自然科學"
+    ],
+    "clicks": 7,
+    "order": 194
+  },
+  {
+    "id": 209,
+    "title": "超牆青年E學院",
+    "url": "https://elearn.ydahub.tw/mooc/index.php",
+    "image": "covers/resources/209.png",
+    "description": "教育部青年發展署建置的線上課程網站，包含青年服務培訓課程、青年行動參與相關課程。",
+    "publisher": "教育部青年發展署",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 34,
+    "order": 195
+  },
+  {
+    "id": 149,
+    "title": "大學招生委員會聯合會",
+    "url": "http://www.jbcrc.edu.tw/",
+    "image": "covers/resources/149.png",
+    "description": "提供大學招生相關各類資訊",
+    "publisher": "大學招生委員會聯合會",
+    "categories": [
+      "生涯與升學"
+    ],
+    "subjects": [
+      "綜合活動"
+    ],
+    "clicks": 1684,
+    "order": 196
+  },
+  {
+    "id": 204,
+    "title": "博物之島",
+    "url": "https://museums.moc.gov.tw/",
+    "image": "covers/resources/204.png",
+    "description": "文化部的博物之島整合了全台灣的博物館資訊，亦提供了國內外博物館學新訊及專文介紹博物館相關議題。",
+    "publisher": "中華民國文化部",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [],
+    "clicks": 26,
+    "order": 197
+  },
+  {
+    "id": 221,
+    "title": "臺大演講網",
+    "url": "https://speech.ntu.edu.tw/ntuspeech/",
+    "image": "covers/resources/221.png",
+    "description": "本校擁有全國最豐沛的師資與課程資源，也經常舉辦各種專題演講、系列演講或研討會，主題涵蓋各學科領域，兼具學術與應用等各層面，尤其主講者皆是當今社會優秀傑出人才，其中更不乏國際重量級大師之人物，甚至是諾貝爾得主等，這些都是超越課堂教學之重要學習資源，也是師生們相當重視的學習活動。為保存這類珍貴資產，教務處數位學習中心公共課程組負責建置「臺大演講網(NTU Speech)」，讓師生們可以不受時間與空間之限制，隨時反覆瀏覽這些精彩的演講，作為重要的延伸學習與進修資源。",
+    "publisher": "台灣大學",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 543,
+    "order": 198
+  },
+  {
+    "id": 213,
+    "title": "新北市立圖書館",
+    "url": "https://search.tphcc.gov.tw/ERS/",
+    "image": "covers/resources/213.png",
+    "description": "新北市立圖書館依不同主題整理的電子資源",
+    "publisher": "新北市立圖書館",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 8,
+    "order": 199
+  },
+  {
+    "id": 200,
+    "title": "從生涯探索角度談高中生學習歷程檔案之產製-臺中一中陳光鴻老師",
+    "url": "https://www.youtube.com/watch?v=ciyRilwvsK8",
+    "image": "covers/resources/200.jpg",
+    "description": "臺中一中陳光鴻老師帶來他引導學生如何改良學習歷程檔案的經驗，並由國立中山大學唐俊華副教授及鄭雯教授回應及討論。",
+    "publisher": "ColleGo!大學選才與高中育才輔助系統/大學招生委員會聯合會主辦、台北醫學大學承辦/臺中一中陳光鴻老師",
+    "categories": [
+      "學習歷程檔案"
+    ],
+    "subjects": [
+      "綜合活動"
+    ],
+    "clicks": 1290,
+    "order": 201
+  },
+  {
+    "id": 222,
+    "title": "臺中市立圖書館",
+    "url": "https://www.library.taichung.gov.tw/public/collection/index.asp?Parser=99,20,520,466,212",
+    "image": "covers/resources/222.png",
+    "description": "臺中市立圖書館電子書整合查詢入口網",
+    "publisher": "臺中市立圖書館",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 6,
+    "order": 202
+  },
+  {
+    "id": 223,
+    "title": "臺北市立美術館",
+    "url": "https://www.tfam.museum/Common/editor.aspx?id=268&ddlLang=zh-tw",
+    "image": "covers/resources/223.png",
+    "description": "本館肩負推動臺灣現當代藝術的保存、研究、發展與普及之使命，掌握全球趨勢、建立多元交流管道，提升普羅大眾對現當代藝術的認知與參與，促使臺灣現當代藝術發展臻至蓬勃，全民藝術涵養更加豐沛，以期形成具有美感修為及文化思辨力的當代社會。",
+    "publisher": "臺北市立美術館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 39,
+    "order": 203
+  },
+  {
+    "id": 207,
+    "title": "華人文化研究指引網",
+    "url": "http://ccshub.ccstw.nccu.edu.tw/",
+    "image": "covers/resources/207.png",
+    "description": "國立政治大學受教育部高教深耕計畫補助成立「華人文化主體性研究中心」，期能透過跨領域的研究整合，提高台灣在華人文化研究方面的國際能見度與學術水平，並期待因而能在華人學術圈中催生創新的思潮，讓全球共享中華文化的博大與精深。",
+    "publisher": "政治大學華人文化主體性研究中心",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 7,
+    "order": 205
+  },
+  {
+    "id": 225,
+    "title": "臺南市立圖書館",
+    "url": "https://www.tnpl.tn.edu.tw/u5106160943569128583/i1",
+    "image": "covers/resources/225.png",
+    "description": "臺南市立圖書館數位資源整合",
+    "publisher": "臺南市立圖書館",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 3,
+    "order": 206
+  },
+  {
+    "id": 212,
+    "title": "新北e書房",
+    "url": "https://search.tphcc.gov.tw/eLibrary/;jsessionid=24B8369E667476AAE0D25AE6F0584017",
+    "image": "covers/resources/212.png",
+    "description": "新北市立圖書館整合其下電子資源及活動資訊，讀者可以線上追書、了解各分館課程資訊、線上看電影、聽故事等。",
+    "publisher": "新北市立圖書館書館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [],
+    "clicks": 45,
+    "order": 207
+  },
+  {
+    "id": 199,
+    "title": "從生涯探索角度談高中生學習歷程檔案之產製-師大附中洪逸文老師",
+    "url": "https://www.youtube.com/watch?v=bmeXkoOtLf4",
+    "image": "covers/resources/199.jpg",
+    "description": "師大附中洪逸文老師於研討會中分享如何帶領學生完成自主學習，並由國立中山大學唐俊華副教授及鄭雯教授回應及討論。",
+    "publisher": "ColleGo!大學選才與高中育才輔助系統/大學招生委員會聯合會主辦、台北醫學大學承辦/師大附中洪逸文老師",
+    "categories": [
+      "自主學習"
+    ],
+    "subjects": [
+      "綜合活動"
+    ],
+    "clicks": 1330,
+    "order": 208
+  },
+  {
+    "id": 169,
+    "title": "自主學習經驗分享系列",
+    "url": "https://youtube.com/playlist?list=PLiKE-58InkJ8Xdh4PobajQjwX0gjscCp8",
+    "image": "covers/resources/169.jpg",
+    "description": "復興高中劉桂光校長分享同學們可以如何自行尋找自主學習主題及方向。 還有臺北市立復興中學及成功高中的幾位同學分享她們自主學習的經驗。",
+    "publisher": "ColleGo!大學選才與高中育才輔助系統/大學招生委員會聯合會主辦、台北醫學大學承辦",
+    "categories": [
+      "自主學習"
+    ],
+    "subjects": [],
+    "clicks": 1452,
+    "order": 209
+  },
+  {
+    "id": 188,
+    "title": "國民記憶庫—臺灣故事島",
+    "url": "https://storytaiwan.tw/",
+    "image": "covers/resources/188.png",
+    "description": "為鼓勵臺灣一般庶民願意說出自己的故事，並與最愛的家人、朋友，乃至社會各界分享，文化部推出「國民記憶庫：臺灣故事島」計畫，並規劃建置一個記憶分享網絡，將臺灣人民感動人心的故事記錄下來，匯集為國民記憶資料庫，並透過網站分享給社會大眾。未來並可作為導演、作家靈感的素材，喚起關懷家人、土地、社會的情感，豐富臺灣的人文記憶。",
+    "publisher": "文化部",
+    "categories": [
+      "媒體與知識雜誌",
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 721,
+    "order": 211
+  },
+  {
+    "id": 220,
+    "title": "臺大圖書館館員線上教學引導",
+    "url": "https://www.youtube.com/@ntulib_help/videos",
+    "image": "covers/resources/220.png",
+    "description": "內容包含臺大圖書館服務簡介、圖書館資源查詢方式、圖書館著作權注意事項、檢索技巧、引用概念+格式、Endnote書目管理軟體、量化學術評鑑指標、各類文獻何處尋、專門主題資料庫等。",
+    "publisher": "國立臺灣大學圖書館",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 18,
+    "order": 214
+  },
+  {
+    "id": 230,
+    "title": "獎金獵人",
+    "url": "https://bhuntr.com/tw/competitions/",
+    "image": "covers/resources/230.png",
+    "description": "獎金獵人平台是一個透過『蒐集全世界各地不同的比賽訊息』提供給創意人實現與追逐夢想的管道，我們蒐集大量的創意類競賽，並將他們有效分類，最後透過一個富有濃厚故事元素的介面表現出來，讓所有正努力成為各式不同領域精英的年輕人一個最舒服與方便的快速通道。",
+    "publisher": "恩克斯網路科技股份有限公司",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 4,
+    "order": 215
+  },
+  {
+    "id": 232,
+    "title": "衛生福利部志願服務資訊網",
+    "url": "https://vol.mohw.gov.tw/vol2/vb100/index",
+    "image": "covers/resources/232.png",
+    "description": "「全國志願服務資訊整合系統」，提供各級政府及志願服務團體使用。希望能隨時傳導最新的志願服務相關資訊，達到「貢獻有處，呼援有門」的目標，社會大眾可運用電腦透過網際網路系統，尋找適合自己服務的處所，志願服務運用單位更可透過系統的媒合，取得符合本身需求的志工資料。",
+    "publisher": "衛生福利部",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 5,
+    "order": 216
+  },
+  {
+    "id": 234,
+    "title": "學術中文寫作參考書目",
+    "url": "https://www.awec.ntu.edu.tw/%E5%8F%83%E8%80%83%E6%9B%B8%E7%B1%8D/",
+    "image": "covers/resources/234.png",
+    "description": "國立臺灣大學寫作教學中心整理的學術中文寫作參考書目",
+    "publisher": "國立臺灣大學寫作教學中心",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [
+      "國文"
+    ],
+    "clicks": 30,
+    "order": 218
+  },
+  {
+    "id": 235,
+    "title": "轉角國際",
+    "url": "https://global.udn.com/global_vision/index",
+    "image": "covers/resources/235.png",
+    "description": "轉角國際集結了聯合新聞網對於國際上的重要議題所做的深度報導。《udn Global 轉角國際：重磅廣播》於每周五固定更新於各大Podcast平台",
+    "publisher": "聯合線上股份有限公司",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 9,
+    "order": 219
+  },
+  {
+    "id": 238,
+    "title": "Google 圖書",
+    "url": "https://books.google.com.tw/",
+    "image": "covers/resources/238.png",
+    "description": "透過 Google Play 發掘最精彩的犯罪驚悚小說、科幻小說和回憶錄等各式電子書。 Google Play 提供超過百萬本有聲書和電子書，絕對能滿足所有人的需求。",
+    "publisher": "",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 5,
+    "order": 220
+  },
+  {
+    "id": 239,
+    "title": "Google學術搜尋",
+    "url": "https://scholar.google.com.tw/?hl=zh-TW",
+    "image": "covers/resources/239.png",
+    "description": "Google 學術搜尋可讓你輕鬆地搜尋大範圍的學術文獻。你可以廣泛搜尋多種學門和來源的文獻，例如文章、論文、書籍、摘要以及法院判決理由。",
+    "publisher": "",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 20,
+    "order": 221
+  },
+  {
+    "id": 241,
+    "title": "國家圖書館ISBN全國新書資訊網得獎好書",
+    "url": "https://isbn.ncl.edu.tw/NEW_ISBNNet/F00_index.php?Pact=showIntro",
+    "image": "covers/resources/241.png",
+    "description": "得獎好書，係以註記我國出版之優良得獎與推薦好書之書目資訊，並持續對這些書目資料進行彙整，以提供完整之得獎圖書目錄。目前收錄範圍，以政府機構所選出之優良出版品為主，如「圖書金鼎獎」、「金漫獎」、「中小學生優良課外讀物推介」、「經濟部金書獎」、「國民健康局健康好書」、「國家文官學院每月一書」、「台北國際書展大獎」，以及國家圖書館之「臺灣出版TOP1」（《全國新書資訊月刊》刊載，由出版社自由推薦）等。為擴大推薦優良圖書範圍，同時收錄報章雜誌於每年年底所選出之年度好書，如《中國時報》「開卷好書獎」，出版社自行辦理之「九歌現代少兒文學獎」與「兒童文學牧笛獎」等，以供各界瀏覽下載之用。",
+    "publisher": "",
+    "categories": [
+      "閱讀推薦與電子書"
+    ],
+    "subjects": [],
+    "clicks": 76,
+    "order": 222
+  },
+  {
+    "id": 227,
+    "title": "臺灣開放式課程暨教育聯盟(TOCEC)",
+    "url": "https://www.tocec.org.tw/web/index.jsp",
+    "image": "covers/resources/227.png",
+    "description": "以建立臺灣為亞洲開放教育資源中心為目標，致力於臺灣OER(Open educational resources，開放教育資源)的使用推廣與創新。聯盟發展至今，所建置之課程平台已經收錄約1400門影音課程，目前為最大華語開放教育課程平台，每年聯盟會員課程網站累計瀏覽量超過2000萬，其使用者涵蓋175個不同的國家及地區。",
+    "publisher": "社團法人臺灣開放式課程暨教育聯盟 (TOCEC)",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 55,
+    "order": 223
+  },
+  {
+    "id": 242,
+    "title": "台北市立圖書館-好書通報",
+    "url": "https://tpml.gov.taipei/Content_List.aspx?n=DF861A11B2309693",
+    "image": "covers/resources/242.png",
+    "description": "臺北市立圖書館整理 -得獎書 -各級學校推薦書單 -主題書展書單",
+    "publisher": "",
+    "categories": [
+      "閱讀推薦與電子書"
+    ],
+    "subjects": [],
+    "clicks": 384,
+    "order": 224
+  },
+  {
+    "id": 265,
+    "title": "臺灣方志網",
+    "url": "http://county.ntl.edu.tw/co_page/index.php",
+    "image": "covers/resources/265.png",
+    "description": "國家教育研究院建置「臺灣方志網」，蒐集各縣市鄉鎮區的史志，內容涵蓋臺灣歷史、地理、政治、經濟等重要史料，提供民眾查詢。",
+    "publisher": "國立臺灣圖書館",
+    "categories": [
+      "臺灣研究資料庫"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 730,
+    "order": 225
+  },
+  {
+    "id": 243,
+    "title": "博客來閱讀生活誌",
+    "url": "https://okapi.books.com.tw/?loc=logo",
+    "image": "covers/resources/243.png",
+    "description": "OKAPI閱讀生活誌成立於2010年，為博客來創立之原生內容平台，提供閱讀與生活兩大面向主題內容。藉由專訪、特企等方式介紹各種不同類型出版品，並引導讀者透過不同作品中延伸出思考態度。同時針對讀者五感體驗需要進行提案，給予能引導讀者思考閱讀需求的生活指南。",
+    "publisher": "",
+    "categories": [
+      "閱讀推薦與電子書"
+    ],
+    "subjects": [],
+    "clicks": 12,
+    "order": 226
+  },
+  {
+    "id": 244,
+    "title": "迷誠品-主題專欄",
+    "url": "https://meet.eslite.com/tw/tc/article?cat=e7ed0ad7-cd4f-eb11-a607-00155db22dd4",
+    "image": "covers/resources/244.png",
+    "description": "遇見兩岸三地誠品，走進閱讀世界，品味美好生活。讓人文、藝術、創意、生活，點亮你的光譜人生!",
+    "publisher": "",
+    "categories": [
+      "閱讀推薦與電子書"
+    ],
+    "subjects": [],
+    "clicks": 14,
+    "order": 227
+  },
+  {
+    "id": 245,
+    "title": "遠流博識網得獎書推薦",
+    "url": "https://www.ylib.com/award_list.aspx",
+    "image": "covers/resources/245.png",
+    "description": "遠流博識網既在遠流之內，又在遠流之外，以遠流出版品為出發，結合外界相關資源，予以加值設計，為上網讀者創造更高的閱讀價值，使有限的閱讀延伸為無限可能，遠流願成為您個人及家庭終身的圖書館",
+    "publisher": "",
+    "categories": [
+      "閱讀推薦與電子書"
+    ],
+    "subjects": [],
+    "clicks": 6,
+    "order": 228
+  },
+  {
+    "id": 247,
+    "title": "走讀台灣",
+    "url": "https://worldbookday.culture.tw/home/zh-tw/about",
+    "image": "covers/resources/247.png",
+    "description": "志在創造「走」與「讀」之連結，「走讀臺灣」作為臺灣響應世界閱讀日之特色活動與指標品牌，邀請大家一起成為「走讀人」，在心中種下閱讀的種子，靜心等候，閱讀的生命如新生的嫩芽，緩緩生根成為未來的大樹。",
+    "publisher": "",
+    "categories": [
+      "閱讀推薦與電子書"
+    ],
+    "subjects": [],
+    "clicks": 720,
+    "order": 230
+  },
+  {
+    "id": 256,
+    "title": "臺灣學/本土教育推薦書單",
+    "url": "https://docs.google.com/spreadsheets/d/1PQZ3OoqVCGrnQ6qMxSBX760BFpb20-cjfuHKwTH0hCY/edit#gid=1392856142",
+    "image": "covers/resources/256.png",
+    "description": "本館整理之臺灣學/本土教育推薦書單",
+    "publisher": "國立臺灣圖書館",
+    "categories": [
+      "閱讀推薦與電子書"
+    ],
+    "subjects": [],
+    "clicks": 360,
+    "order": 231
+  },
+  {
+    "id": 257,
+    "title": "主題書展及青少年書展書單",
+    "url": "https://drive.google.com/drive/folders/1Q258Rj6C33IZA2PcDB6wGLh8Q-GMGmyI",
+    "image": "covers/resources/257.png",
+    "description": "本館107年-110年主題書展及青少年書展書單",
+    "publisher": "國立臺灣圖書館",
+    "categories": [
+      "閱讀推薦與電子書"
+    ],
+    "subjects": [],
+    "clicks": 472,
+    "order": 233
+  },
+  {
+    "id": 253,
+    "title": "臺灣雲端書庫",
+    "url": "https://lib.ebookservice.tw/ntl2/#exhibition",
+    "image": "covers/resources/253.png",
+    "description": "「台灣雲端書庫」目前合作超過600家出版社，提供40,000種以上的優質電子書、雜誌，讀者只要持有「台灣雲端書庫」合作的公共圖書館借書證，即可享有免排隊、免等待，不受借閱本數的限制的電子書閱聽服務。 「台灣雲端書庫」以推廣閱讀為首要任務，持續增加電子書、雜誌藏量，積極改善讀者的電子書閱讀體驗，除了可以跨載具使用(手機、平板、電腦)，也支援離線閱讀。",
+    "publisher": "",
+    "categories": [
+      "閱讀推薦與電子書"
+    ],
+    "subjects": [],
+    "clicks": 10,
+    "order": 234
+  },
+  {
+    "id": 251,
+    "title": "閱讀前哨站",
+    "url": "https://readingoutpost.com/",
+    "image": "covers/resources/251.png",
+    "description": "一個愛書人的閱讀筆記 在這個部落格裡，與你分享我透過閱讀所學，真切記錄自己的思考歷程，以及我親身投入閱讀寫作、領導管理、投資理財的各種收穫。",
+    "publisher": "",
+    "categories": [
+      "閱讀推薦與電子書"
+    ],
+    "subjects": [],
+    "clicks": 613,
+    "order": 235
+  },
+  {
+    "id": 263,
+    "title": "臺灣學數位電子書資料庫",
+    "url": "http://tebook.ntl.edu.tw/",
+    "image": "covers/resources/263.png",
+    "description": "本館從百年的典藏中挑選出最有特色的日治時期寫真帖與圖書，加以加值運用於製作臺灣學數位電子書，並建置「臺灣學數位電子書資料庫」，民眾可利用電腦或行動裝置於遠端瀏覽或進行線上查閱，亦可以於本館各樓層的觸控互動裝置點選觀看。 期望透過數位化館藏的設計應用，整合館藏元素提供研究、教育及展示功能，增進民眾熟悉與利用數位媒材，提升民眾對於臺灣學之數位學習效能。",
+    "publisher": "國立臺灣圖書館",
+    "categories": [
+      "臺灣研究資料庫"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 732,
+    "order": 237
+  },
+  {
+    "id": 271,
+    "title": "臺灣學通訊",
+    "url": "http://tped.ntl.edu.tw/",
+    "image": "covers/resources/271.png",
+    "description": "《臺灣學通訊》為推廣臺灣學研究於民國96年6月創刊，第1~14期為報紙型半月刊，第15~72期為雜誌型月刊，自第73期（民國102年1月）起改為雜誌型雙月刊，以「主題」方式呈現，每單月中旬出刊，目前資料庫收錄1,184筆詮釋資料。",
+    "publisher": "國立臺灣圖書館",
+    "categories": [
+      "臺灣研究資料庫"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 727,
+    "order": 240
+  },
+  {
+    "id": 259,
+    "title": "本土教育資源資料庫",
+    "url": "https://herd.ntl.edu.tw/",
+    "image": "covers/resources/259.png",
+    "description": "臺灣的本土化運動約在90年代前後勃興，鄉土∕本土教育也約莫在同時期興起。不過，鑑於長久以來對於本土化運動與鄉土∕本土教育的相關資料缺乏專責單位梳理、彙整，因此教育部依據「本土教育實施方案」規劃由本館籌設「本土教育資源中心」，並建置「本土教育資源資料庫」，負責整理、徵集與數位化本土教育相關資料。",
+    "publisher": "國立臺灣圖書館",
+    "categories": [
+      "臺灣研究資料庫"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 736,
+    "order": 241
+  },
+  {
+    "id": 260,
+    "title": "臺灣政經人文剪報資料庫",
+    "url": "https://nctpehd.ntl.edu.tw/",
+    "image": "covers/resources/260.png",
+    "description": "本資料庫主要來源為臺灣研究基金會、黃光男教授、陳鴻瑜教授提供的剪報資料，其中臺灣研究基金會提供的剪報有關憲政改革、促進轉型正義委員會、黨產案、陳前總統⽔扁先⽣案、大巨蛋案、全民健保案、從國防預算到國防組織案等；黃光男教授提供為其所辦理的相關美展、任職感言、散文；陳鴻瑜教授提供的剪報為東南亞研究相關報導：亞太地區軍事新聞、如美軍與東南亞國家的軍事新聞。 報紙來源有自立早報、自立晚報、中央日報、中國時報、聯合報、聯合晚報、民眾日報、首都早報、中華日報、國語日報、大成報、民生報，其他地區有泰國星暹日報、菲律賓聯合日報、馬來西亞南洋商報、新加坡聯合早報等。",
+    "publisher": "國立臺灣圖書館",
+    "categories": [
+      "臺灣研究資料庫"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 830,
+    "order": 242
+  },
+  {
+    "id": 269,
+    "title": "臺灣寫真帖資料庫",
+    "url": "http://stfj.ntl.edu.tw/",
+    "image": "covers/resources/269.png",
+    "description": "本館「臺灣寫真帖」資料庫由資深館員建置，歷時10年完成。「臺灣寫真帖」資料庫共計1萬215筆詮釋資料，內含本館珍藏寫真帖共82冊(其中的多數為海內外孤本)，附有中文翻譯說明，方便讀者查詢利用。",
+    "publisher": "國立臺灣圖書館",
+    "categories": [
+      "臺灣研究資料庫"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 965,
+    "order": 244
+  },
+  {
+    "id": 273,
+    "title": "日文舊籍臺灣文獻聯合目錄",
+    "url": "http://192.192.13.206/cgi-bin/gs/wgsweb.cgi?o=dccw",
+    "image": "covers/resources/273.png",
+    "description": "本館為整合臺灣各單位收藏之日文舊籍臺灣文獻，提供研究資源，便利讀者使用，於民國93完成建置「日文舊籍臺灣文獻聯合目錄」，提供讀者線上查詢。主要收錄民國38年以前出版之日文臺灣資料，亦於收錄部分華南和南洋資料及少量中、西文臺灣資料，目前線上可查詢4萬7,113筆資料。",
+    "publisher": "國立臺灣圖書館",
+    "categories": [
+      "臺灣研究資料庫"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 1166,
+    "order": 245
+  },
+  {
+    "id": 261,
+    "title": "臺灣名家手稿資料庫",
+    "url": "https://mtpd.ntl.edu.tw/",
+    "image": "covers/resources/261.png",
+    "description": "本資料庫目前蒐集的名家，不限某一領域，涵蓋各方面，主要為專家學者所提供的手稿資料。目前收錄的名家有卞鳳奎、吳宇凡、李筱峯、周明德、林惠娟、柯華葳、康培德、張之申、陳鴻瑜、黃光男、劉宗銘、鍾芳玲等(依作者姓名筆畫順序排列)。其中資料類型有論文/書籍出版類：卞鳳奎〈人口論（マルサス）〉、李筱峯〈劉邦与朱元璋人格特質之比較〉，康培德〈東南亞：地名變遷與地理區劃〉，吳宇凡《日治時期臺灣教育寫真簿冊特色與文化意義》，鍾芳玲《西洋古書店好風景》大綱；藝術展覽：黃光男相關美展的報導；繪畫類：劉宗銘發表於《美國世界日報》與《國語日報》的漫畫，張之申手繪漫畫；英文書法類：張之申鋼筆之英文書法；隨手筆記：柯華葳對心理學、腦神經科學的筆記本，陳鴻瑜政治科學、政治整合理論的筆記、林惠娟在大學時代的地理系上課筆記《地形學講義》；資料報表：周明德的〈口述鄉土史〉。",
+    "publisher": "國立臺灣圖書館",
+    "categories": [
+      "臺灣研究資料庫"
+    ],
+    "subjects": [],
+    "clicks": 1170,
+    "order": 249
+  },
+  {
+    "id": 250,
+    "title": "古典音樂台-閱讀推手",
+    "url": "https://www.family977.com.tw/index.php?route=program/program/info&program_id=5&program_time_id=3370",
+    "image": "covers/resources/250.jpg",
+    "description": "《閱讀推手》由清華大學三研而立閱讀教育研究中心游婷雅、林玫伶兩位老師共同主持。每月單週規劃新近文學或科普書籍，雙週則規劃經典名著，每月第五週更規畫跨界好書。透過兩位主持人對書籍內容和寫作手法的導讀，帶領讀者進入文字的饗宴，讓聽眾更有意願打開一本書，並進而享受閱讀思考的樂趣。",
+    "publisher": "",
+    "categories": [
+      "閱讀推薦與電子書"
+    ],
+    "subjects": [],
+    "clicks": 614,
+    "order": 250
+  },
+  {
+    "id": 255,
+    "title": "UDN電子書",
+    "url": "https://reading.udn.com/udnlib/cwktrial/",
+    "image": "covers/resources/255.png",
+    "description": "「udn讀書館」服務已獲國內外六百間圖書館採購，客戶包括各級學校圖書館、政府機關、企業機構、建設住宅...等。提供讀者、民眾最多暢銷、熱門電子書刊免費借閱，只有擁有手機、平板即可「走到哪、讀到哪」。",
+    "publisher": "",
+    "categories": [
+      "閱讀推薦與電子書"
+    ],
+    "subjects": [],
+    "clicks": 13,
+    "order": 251
+  },
+  {
+    "id": 262,
+    "title": "采風新繹-臺灣古地圖與風俗風物教育特展",
+    "url": "http://67art.tnu.edu.tw/",
+    "image": "covers/resources/262.png",
+    "description": "國立臺灣圖書館珍藏之《臺灣番社圖》是三百年前清代繪製的單幅彩繪臺灣全圖，以山水卷軸形式描繪出臺灣島嶼的山川、地形，同時也畫出各地漢人官署、原住民番社以及其生活圖像；至於，《六十七兩采風圖合卷》則是西元1744年間清代巡臺監察御史六十七於巡臺期間請畫工繪製的「風俗圖」和「風物圖」，描繪 18 世紀臺灣原住民生活情景及當時臺灣物產。 國立臺灣圖書館與東南科技大學合作執行教育部「社教機構之數位人文計畫」，運用現代數位科技，將這兩份珍貴圖冊重製為2D及3D動畫之數位畫廊、VR虛擬實境、AR擴增實境、數位遊戲、電子書及影音數位教材等數位內容，並以互動展演方式讓民眾體驗感受先民的生活風貌。 「看見福爾摩沙－圖說十七、八世紀的臺灣」，以MOOCS課程對外開放。並製作華語、英語、越南語、馬來語等不同版本的數位教材，也開發了立體書、桌遊、畫冊等實體教具及VR、AR之虛擬教具，成為兼具實體展示與數位應用的國際化人文教育資源。",
+    "publisher": "教育部/國立臺灣圖書館/東南科技大學/復興商工",
+    "categories": [
+      "臺灣研究資料庫"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 1165,
+    "order": 252
+  },
+  {
+    "id": 229,
+    "title": "酷課OnO線上教室-高中自主學習課程",
+    "url": "https://ono.tp.edu.tw/public-course#/all?persistent=true",
+    "image": "covers/resources/229.png",
+    "description": "臺北酷課雲的核心理念是「以學生學習為中心」，提供臺北市的學生、教師及家長各項學習服務，包括「酷課學堂、酷課學習、酷課教室、酷課 App、及酷課校園」。其中高中自主學習專區提供包含外語學習、程式設計等各種多元的課程選擇。",
+    "publisher": "臺北市數位學習教育中心",
+    "categories": [
+      "線上課程與影音",
+      "自主學習"
+    ],
+    "subjects": [],
+    "clicks": 73,
+    "order": 253
+  },
+  {
+    "id": 277,
+    "title": "臺灣文獻資料聯合目錄",
+    "url": "http://192.192.13.206/cgi-bin/gs/ugsweb.cgi?o=dunidir",
+    "image": "covers/resources/277.png",
+    "description": "本目錄索引收錄本館、國史館灣文獻館、國立公共資訊圖書館、中央研究院、臺北市文獻館等36個單位，內容包括臺灣中文、日文、西文圖書文獻資料，凡古文書、古契、先賢遺著、士紳之文集、詩集、日記、帳簿、族譜、筆記、祭祀公業資料、寺廟教堂資料、產業組合檔案、口碑、口述史料、學術著作、政府單位出版品及博碩士論文等,本目錄另有書本式印行。",
+    "publisher": "國立臺灣圖書館",
+    "categories": [
+      "臺灣研究資料庫"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 1165,
+    "order": 254
+  },
+  {
+    "id": 252,
+    "title": "句點讀書會",
+    "url": "https://www.youtube.com/watch?v=aFBGa0tzWlw&list=PLaw6szoDmg5OqraHrLghet_0JSky5CGA4",
+    "image": "covers/resources/252.png",
+    "description": "本館邀請宋怡慧老師進行的「句點讀書會」",
+    "publisher": "國立臺灣圖書館",
+    "categories": [
+      "閱讀推薦與電子書"
+    ],
+    "subjects": [],
+    "clicks": 522,
+    "order": 256
+  },
+  {
+    "id": 231,
+    "title": "線上故宮",
+    "url": "https://ipalace.npm.edu.tw/techplans",
+    "image": "covers/resources/231.png",
+    "description": "可以線上觀賞故宮典藏及線上展覽，亦有深入學習區，帶你走近故宮國寶。奇幻互動區將藝術品與多媒體結合，帶給人不一樣的體驗。",
+    "publisher": "國立故宮博物院",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "藝術",
+      "社會"
+    ],
+    "clicks": 10,
+    "order": 257
+  },
+  {
+    "id": 254,
+    "title": "iRead華藝電子書",
+    "url": "https://www.airitibooks.com/Search/Collections?SubID=8",
+    "image": "covers/resources/254.png",
+    "description": "iRead eBooks也就是華藝電子書服務平台。iRead eBooks平台所收錄的內容主要為華文著作，而iRead eBooks平台的服務對象大致可區分為圖書館以及出版社兩個部分。",
+    "publisher": "",
+    "categories": [
+      "閱讀推薦與電子書"
+    ],
+    "subjects": [],
+    "clicks": 24,
+    "order": 258
+  },
+  {
+    "id": 276,
+    "title": "臺灣文獻期刊論文索引",
+    "url": "http://192.192.13.206/cgi-bin/gs/jgsweb.cgi?o=djtidx",
+    "image": "covers/resources/276.png",
+    "description": "將本館典藏的中文期刊自清末到現在，有關臺灣論文著作之文獻資料，編輯成索引，供讀者查詢參考，目前收錄10萬4,806筆詮釋資料。",
+    "publisher": "國立臺灣圖書館",
+    "categories": [
+      "臺灣研究資料庫"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 1320,
+    "order": 259
+  },
+  {
+    "id": 181,
+    "title": "故事",
+    "url": "https://storystudio.tw/",
+    "image": "covers/resources/181.png",
+    "description": "故事 StoryStudio 致力於人文知識的轉譯與傳播，創造屬於當代的，專注歷史與文化的新媒體，在這個破碎當道的時代，提供讀者理解世界的脈絡；在這個扁平至上的時代，探索文化議題的深度；在這個虛實不分的時代， 呈現真實而可靠的資訊。",
+    "publisher": "史多禮股份有限公司",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 30,
+    "order": 261
+  },
+  {
+    "id": 278,
+    "title": "臺灣資料剪報系統",
+    "url": "http://192.192.13.206/cgi-bin/gs/pgsweb.cgi?o=dclip",
+    "image": "covers/resources/278.png",
+    "description": "自民國77年起，將每日蒐集20餘種中文報紙剪輯有關臺灣論著文獻資料，建置5萬1,543筆詮釋資料，可供下載tiff影像檔。",
+    "publisher": "國立臺灣圖書館",
+    "categories": [
+      "臺灣研究資料庫"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 1008,
+    "order": 262
+  },
+  {
+    "id": 137,
+    "title": "ColleGo!大學選才與高中育才輔助系統",
+    "url": "https://collego.edu.tw/",
+    "image": "covers/resources/137.png",
+    "description": "ColleGo!提供豐富的大學校系資料、課程資訊，幫助學生探索、認識大學學群學類與學系",
+    "publisher": "大學招生委員會聯合會",
+    "categories": [
+      "生涯與升學"
+    ],
+    "subjects": [
+      "綜合活動"
+    ],
+    "clicks": 1854,
+    "order": 263
+  },
+  {
+    "id": 182,
+    "title": "研之有物",
+    "url": "https://research.sinica.edu.tw/",
+    "image": "covers/resources/182.png",
+    "description": "「研之有物」是中央研究院 2017 年成立的科普媒體，取音自「言之有物」，出處為《周易. 家人》:「君子以言有物而行有恆」。編輯部穿梭走訪中研院各個研究所、實驗室，採訪頂尖研究團隊，揭開研究前線的神秘面紗。",
+    "publisher": "中央研究院",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 86,
+    "order": 264
+  },
+  {
+    "id": 279,
+    "title": "臺灣政經資料庫",
+    "url": "http://tped.ntl.edu.tw/",
+    "image": "covers/resources/279.png",
+    "description": "本館典藏臺灣省行政長官公署至臺灣省政府時期等機關單位的出版品，其中以戰後至民國50年期間之政治、經濟相關資料深具研究價值。為利於使用及保存原件，於民國103年進行該批圖書數位化，並結合日治時期有關政治、經濟中已數位化的臺灣資料，建置「臺灣政經資料庫」提供民眾線上查閱。目前資料庫收錄4,205(含日治時期3,587)筆詮釋資料。",
+    "publisher": "國立臺灣圖書館",
+    "categories": [
+      "臺灣研究資料庫"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 1550,
+    "order": 265
+  },
+  {
+    "id": 236,
+    "title": "蘭陽博物館",
+    "url": "https://www.lym.gov.tw/ch/collection/knowledge-platform/generaly-info/",
+    "image": "covers/resources/236.png",
+    "description": "館藏文物主要以常民生活的民俗文物為主，在族群上，分屬漢人、泰雅及噶瑪蘭等族群，以功能來分，包括生產工具、飲食用具、衣物服飾、住居用具、交通運輸設備、宗教信仰與儀式、生命禮儀、建築工藝裝飾、民間知識等類別。 臺灣早期陶瓷碗盤，以及民俗版畫，充分反應與連結從清末到1970年代的常民生活記憶，是目前本館的主題典藏。",
+    "publisher": "宜蘭縣立蘭陽博物館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 41,
+    "order": 266
+  },
+  {
+    "id": 248,
+    "title": "Openbook閱讀誌",
+    "url": "https://www.openbook.org.tw/",
+    "image": "covers/resources/248.png",
+    "description": "台灣最專業的書評媒體。提供中立的原生報導，客觀的書籍評論，深度的文化觀察，豐富的人物採訪。 每年皆會評選公布Openbook年度好書獎。",
+    "publisher": "",
+    "categories": [
+      "閱讀推薦與電子書"
+    ],
+    "subjects": [],
+    "clicks": 718,
+    "order": 267
+  },
+  {
+    "id": 378,
+    "title": "國立臺灣藝術教育館",
+    "url": "https://www.arte.gov.tw/",
+    "image": "covers/resources/378.png",
+    "description": "本館隸屬於教育部，為推廣學校藝術教育之國立文教機構，館務之中心理念建立在人與藝術的互動之上。本館職司我國藝術教育之研究、推廣與輔導任務，館務之開展務求符應教育規準、切合學校需要、南海劇場以配合我國教育改革政策，順應國民終身學習需求，其涵蓋層面包括學校一般藝術教育與專業藝術教育，期扎根校園對藝術之學習、興趣、認知、欣賞、參與、創作與運用，以增進學校師生美感素養，陶冶品德，融鑄高尚品格情操，提昇國民生活素質。",
+    "publisher": "國立臺灣藝術教育館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 4,
+    "order": 268
+  },
+  {
+    "id": 379,
+    "title": "PaGamO",
+    "url": "https://www.pagamo.org/",
+    "image": "covers/resources/379.png",
+    "description": "內容簡介：內容涵蓋國小、國中、高中及高職各版本教科書個科目題庫，以及閱讀素養題目。教師使用題庫選題製作回家作業，學生透過遊戲任務完成作業。後臺可查看學生答題狀況、進行補救教學。",
+    "publisher": "BoniO Inc.(幫你優股份有限公司)",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 8,
+    "order": 269
+  },
+  {
+    "id": 380,
+    "title": "臺北酷課雲",
+    "url": "https://cooc.tp.edu.tw/",
+    "image": "covers/resources/380.jpg",
+    "description": "臺北市政府教育局設置的官方學習網站，提供國小到高中師生相關課程、大考等豐富的影片。",
+    "publisher": "臺北市政府教育局",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 7,
+    "order": 270
+  },
+  {
+    "id": 381,
+    "title": "均一教育平台",
+    "url": "https://www.junyiacademy.org/",
+    "image": "covers/resources/381.png",
+    "description": "免費線上教育平台，提供超過1萬部涵蓋國小到高中課程的教學影片，以及4萬題練習題，以數學、理科為大宗。",
+    "publisher": "財團法人均一教育基金會",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "數學",
+      "自然科學"
+    ],
+    "clicks": 50,
+    "order": 271
+  },
+  {
+    "id": 382,
+    "title": "COOLENGLISH",
+    "url": "https://www.coolenglish.edu.tw/?code=H1",
+    "image": "covers/resources/382.jpg",
+    "description": "為提升學生英語能力，教育部委請國立臺灣師範大學英語系教授陳浩然團隊，建置「Cool English 英語線上學習平臺」，以國中小學生為對象，啟用 7 年來廣獲好評。自 104 年 6 月 25 日正式啟用至今，累計超過 95 萬人註冊，使用人次突破 1 億次，深獲學生、家長、教師及學校肯定。 「Cool English英語線上學習平臺」國中小專區，以聽力、口說、閱讀、寫作、字彙/文法、遊戲、學習扶助內容及會考專區進行課程規劃，多元豐富的內容培養學生全方位的英語能力。因應行動載具普及化，Cool English 也特別研發行動載具可使用之課程，透過手機或平板電腦即可隨時隨地體驗互動式課程，讓數位學習不再侷限桌機及筆電。",
+    "publisher": "教育部、國立臺灣師範大學",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "英文"
+    ],
+    "clicks": 15,
+    "order": 272
+  },
+  {
+    "id": 384,
+    "title": "臺大開放式課程",
+    "url": "http://ocw.aca.ntu.edu.tw/ntu-ocw/",
+    "image": "covers/resources/384.png",
+    "description": "為促進教學資源共享，落實建構終身學習環境理念，提供自學者更寬廣的學習內容，開放式課程（OCW）已蔚為世界風潮。 而本校為響應全球開放式教育運動並善盡社會責任、提高本校能見度，將邀請各學系提供能彰顯該系特色之優質課程，建置「開放式課程」網站。 其教材內容除提供社會人士免費上網自我學習外，並提供予國內外學生、教師及相關研究人員作為學習輔助、課程教學及研究題材之參考，以提昇學習效果及研究品質。 本校持續製作並提供優質課程，包含各學系極具特色之基礎、專業課程、共同必修課程及通識教育課程。",
+    "publisher": "國立臺灣大學",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 374,
+    "order": 274
+  },
+  {
+    "id": 385,
+    "title": "三民東大學習平台",
+    "url": "https://elearning.sanmin.com.tw/",
+    "image": "covers/resources/385.png",
+    "description": "三民書局、東大圖書提供師生豐富的學習資源，同學即使在家也能輕鬆自學。",
+    "publisher": "三民書局x東大圖書",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 9,
+    "order": 275
+  },
+  {
+    "id": 386,
+    "title": "清大開放式教育平台",
+    "url": "https://ocw.nthu.edu.tw/ocw/",
+    "image": "covers/resources/386.png",
+    "description": "在打破傳統時間藩籬、減少學習差距的宗旨之下，以使用者導向為理念規劃更有效率的雲端學習課程。 希冀透過清華堅強的師資陣容孕育出一片知識之林，無償地提供學習者恣意地徜徉其中進行學習，希冀朝向【學習無藩籬 - 把清大老師帶回家】的教育目標邁進!",
+    "publisher": "國立清華大學",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 87,
+    "order": 276
+  },
+  {
+    "id": 387,
+    "title": "學習吧",
+    "url": "https://www.learnmode.net/home/",
+    "image": "covers/resources/387.png",
+    "description": "於2021年8月8日正式將學習吧平台更名為「學習吧」，本著平台建置初衷，我們會努力提供更好的服務， 而且所有內容持續免費，不會向使用「學習吧」的學校老師、學生、家長收取任何費用，也不會改變使用者權益。 與此同時，為了建立能永續發展的K-12教育生態系，我們推出一個全新的「加分吧」線上優質課程平台， 讓有更多學習需求的學生及家長付費訂閱、購買。學習吧攜手教育出版夥伴進行數位轉型，讓優質內容能服務更多學習者； 而「加分吧」的收入，將能支持內容產製者，也讓我們得以有更多資源投入，把「學習吧」和「加分吧」兩個平台都做得更好。",
+    "publisher": "威盛電子股份有限公司",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 57,
+    "order": 277
+  },
+  {
+    "id": 388,
+    "title": "新北市政府教育局數位學習影音網",
+    "url": "https://estudy.ntpc.edu.tw/page/Course/CourseList.aspx",
+    "image": "covers/resources/388.png",
+    "description": "為提供教師教學媒體資源豐富性及多樣性，新北市政府教育局規劃於「影音隨選服務」提供各業務科室推廣各項宣導主題、 成果影片及教學媒體資源串流服務，採購NHK及公視授權影音媒體，期能融入教學活動中，提升教學成效。",
+    "publisher": "新北市政府教育局",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 28,
+    "order": 278
+  },
+  {
+    "id": 389,
+    "title": "臺中市纖維工藝博物館",
+    "url": "https://mofia.taichung.gov.tw/",
+    "image": "covers/resources/389.jpg",
+    "description": "臺中市纖維工藝博物館於2018年10月17日正式營運，是臺中市首座市級公立博物館，也是全國第一座以纖維為主題的專業博物館。 我們希冀整合臺灣人文脈絡及自然資源，以既有典藏之漢人、臺灣原住民、中國西南少數民族、當代創作四大類文物為根基，作為橋接纖維創作者與文物的工藝平臺，傳承纖維工藝文化，邁向臺灣纖維工藝指標場館為願景。 本館以「纖維‧時尚‧綠工藝」為立館宗旨，秉持博物館之典藏、研究、展示、教育四大功能。於內典藏具歷史、文化、藝術價值之纖維文物，計有1200餘件，其中經指定為一般古物之重要典藏品為泰雅族傳統服飾《Lukus-kaxa’貝珠衣》；對外以發揚纖維文化為使命，期望將深富底蘊、兼具形美與器美之纖維工藝文物與全民共享，進而透過創新實驗，使工藝與藝術進行對話，活絡傳統技藝在當代社會形塑新面貌。",
+    "publisher": "臺中市纖維工藝博物館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 3,
+    "order": 279
+  },
+  {
+    "id": 390,
+    "title": "國立台灣美術館",
+    "url": "https://www.ntmofa.gov.tw/",
+    "image": "covers/resources/390.jpg",
+    "description": "國立臺灣美術館於1988年開館營運，以視覺藝術為主軸，專注於臺灣現、當代美術之典藏、研究、展覽與教育推廣，致力為觀眾提供豐富且專業的藝術欣賞環境。 全館總佔地面積約有10公頃（含戶外雕塑公園），主建築體呈東西向長條形設計，核心空間為地下兩層與地上三層，並設有多樣性的展覽與學習空間。主要展覽空間包含15間展覽室、「美術街」、「U-108 Space：5G沉浸式科技應用實驗場域」及「漂浮島城VR藝廊」，及陳列多件經典雕塑作品的戶外園區等；教育學習空間則包含「臺灣兒童藝術基地」、「兒童繪本區」、「資料中心」，及各項休閒場域等，期許能為觀眾創造更多元化的藝術體驗形式與學習資源。",
+    "publisher": "國立台灣美術館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 1,
+    "order": 280
+  },
+  {
+    "id": 391,
+    "title": "文化部公共藝術官方網站",
+    "url": "https://publicart.moc.gov.tw/home/zh-tw",
+    "image": "covers/resources/391.jpg",
+    "description": "公共藝術介紹網站",
+    "publisher": "文化部",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 2,
+    "order": 281
+  },
+  {
+    "id": 392,
+    "title": "台中國家歌劇院",
+    "url": "https://www.npac-ntt.org/index",
+    "image": "covers/resources/392.jpg",
+    "description": "臺中國家歌劇院 National Taichung Theater 隸屬國家表演藝術中心，以「藝術服務」為目標，以最頂尖的國內外表演藝術作品呈現，推動與國內外其他重要館所及藝術節的合作，持續開發優質演出；讓嚴選好看的節目成為歌劇院金字招牌，讓臺中成為藝術家心中首選的創作與發表基地。更在精緻細膩的服務中，民眾將在歌劇院盡享頂尖的藝術、美食、美酒、美物、美好生活。",
+    "publisher": "國家表演藝術中心",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 3,
+    "order": 282
+  },
+  {
+    "id": 393,
+    "title": "台灣音樂館",
+    "url": "https://tmi.openmuseum.tw/",
+    "image": "covers/resources/393.jpg",
+    "description": "本館源於文建會(文化部前身)1990年起籌設的「民族音樂中心」，2002年併入國立傳統藝術中心為其派出單位，並定名為「民族音樂研究所」。2008年配合組織整併，更名為「臺灣音樂中心」。2012年5月配合文化部成立，再更名為「臺灣音樂館」，隨著名稱的改變，本館的業務範圍也逐漸擴展，我們可以說：追尋臺灣音樂，就從這裡開始。",
+    "publisher": "台灣音樂館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 4,
+    "order": 283
+  },
+  {
+    "id": 394,
+    "title": "臺北市立國樂團",
+    "url": "https://www.tco.gov.taipei/",
+    "image": "covers/resources/394.jpg",
+    "description": "臺北市立國樂團成立於1979 年，是臺灣第一個專業國樂團。歷任團長為陳暾初、陳澄雄、王正平、鍾耀光、鄭立彬、現任團長為陳鄭港。在歷任團長及音樂總監王正平、邵恩、首席指揮瞿春泉與現任首席指揮張宇安的帶領下，厚植團員專業演奏素養，讓臺北市立國樂團躋身國際知名樂團，以開創性的跨界節目來拓展「國樂」的定義，樹立臺北市立國樂團獨特的樂團風格與藝術走向。 樂團的標語「讓您聽見世界」，明白點示出臺北市立國樂團不單只有演奏傳統國樂，更與國際名家合作，同時多方嘗試跨界演出，為觀眾不斷打造創新視野的聆賞感受，發展出臺灣國樂的新模式，為國樂永續發展創造嶄新視野。2017 年推出的「TCO 劇院」製作，更是展現了強烈的企圖心。近年大量委託臺灣作曲家為樂團量身創作新曲，也讓樂團成為全球委約及演出臺灣作曲家作品最多的樂團，以「臺灣品牌立足國際」。 臺北市立國樂團每年平均服務近10 萬名愛樂者，辦理超過百場各種型態的音樂會，包括每年3 月至6 月的「臺北市傳統藝術季」；肩負教育推廣的責任，每年20 多場專為臺北市國小六年級學生演出的「育藝深遠」教育音樂會和36 場「文化就在巷子裡」社區音樂會、國內巡迴演出、校園巡迴等等。還有由7 個附設樂團500 餘人組成的大家庭，每年定期培訓、展演，為國樂蓬勃發展打下良好的基礎。 在國際文化交流方面，曾多次出訪過歐、美、亞超過20 多個國家，足跡遍及世界各個重要音樂廳。2011年2 月由國際著名藝術經紀公司Opus 3 Artists 安排美國巡迴，成為世界第一個國際藝術經紀公司經紀的國樂團。2018 年11 月赴美國紐約市卡內基音樂廳演出，更成為首個登上卡內基音樂廳演出的臺灣樂團。巡演所到之處受到海外愛樂人士歡迎喜愛，成績斐然。 臺北市立國樂團創團至今共錄製超過50 張出版品，屢獲金曲獎入圍肯定並獲獎，傑出的表現更受到國際樂壇上的重視，2008 年起，應瑞典BIS 唱片公司邀請，陸續合作錄製了6 張專輯唱片，國際發行；其中專輯《胡旋舞》、《擊境》分別獲得第21、24 屆傳藝金曲獎「最佳民族音樂專輯獎」、「傳統暨藝術音樂類 ─ 最佳作曲人」獎。與繆斯藝術文化有限公司合作陸續發行年度專輯，以臺灣風土人文為主題，希望將臺灣音樂創演能量推向國際舞臺，持續發光發熱；其中《臺灣音畫》、《瘋．原祭》、《李天祿的四個女人》獲第28、29 屆傳藝金曲獎「最佳詮釋獎—指揮」、「最佳專輯製作人獎」、「最佳創作獎：作詞類」，《和諧．鳴響》獲第33屆傳藝金曲獎「最佳傳統音樂專輯」獎等殊榮；《我的媽媽欠栽培》獲109 年度優良政府出版品；《彩戲繽紛》獲111 年度優良政府出版品。 過去43年來，篳路藍縷，一步一腳印穩健成長。近年來在演奏上更以建構「國樂新聲響美學」的「臺北之聲」，琢磨出樂團獨有的細膩音色，朝向躋身世界級樂團的方向邁進，以展演優秀傳統國樂作品、展現臺灣國樂生命力為目標，努力開闢國樂新時代。",
+    "publisher": "臺北市立國樂團",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 1,
+    "order": 284
+  },
+  {
+    "id": 395,
+    "title": "衛武營國家藝術中心/學習推廣",
+    "url": "https://www.npac-weiwuying.org/learning",
+    "image": "covers/resources/395.jpg",
+    "description": "衛武營國家藝術文化中心座落於高雄市鳳山區，相鄰衛武營都會公園，基地總面積9.9公頃，其中建物面積共有3.3公頃。音波式的流線外型與白色波浪的自由曲線，以流暢的弧度滑入地面，與周遭環境巧妙結合。由荷蘭建築師法蘭馨・侯班以衛武營的老榕樹群為靈感設計，樹齡過百的榕樹群，盤根錯節、枝枒糾結，虛實互應的景象，開啟了建築師賦予衛武營具穿透感與呼吸節奏的想像，整棟建築物讓民眾能四面八方、毫無阻礙的走進場館，而由廳院屋頂延伸的通透空間，則是向眾人24 小時開放的榕樹廣場，民眾能夠自由穿梭其中、自在地活動與休憩。一座無圍欄的藝術中心，不僅有助於氣流流動，也創造了劇場與生活零距離的空間感。衛武營國家藝術文化中心於2018年10月13日啟用開幕，積極發展南臺灣的表演藝術環境，成為接軌國際的重要藝術基地。",
+    "publisher": "衛武營國家藝術中心",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 2,
+    "order": 285
+  },
+  {
+    "id": 396,
+    "title": "edu磨課師+",
+    "url": "https://moocs.moe.edu.tw/moocs/#/home",
+    "image": "covers/resources/396.png",
+    "description": "收錄專項科技教育計畫所發展的磨課師課程，也盤整教育部不同計畫發展的數位學習課程（含磨課師），目前計有包含宗教哲學、自然科學、資訊工程、應用科學、醫學、食品家政、商學管理、社會科學、史地遊憩與人文藝術等十大類別、共643門課程。 最熱門、多元的課程都在這・等你來學習！",
+    "publisher": "教育部",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 205,
+    "order": 286
+  },
+  {
+    "id": 397,
+    "title": "新北市立鶯歌陶博館",
+    "url": "https://www.ceramics.ntpc.gov.tw/",
+    "image": "covers/resources/397.png",
+    "description": "新北市立鶯歌陶瓷博物館於2000年11月26日正式開館啟用，是臺灣第一座以陶瓷為主題的專業博物館。致力於臺灣陶瓷文化之調查、收藏、保存與維護，從事研究、典藏、展示及教育推廣工作，積極促進國際交流合作，開放國際藝術家駐村並加入國際博物館協會、與德國及西班牙博物館簽訂姊妹館，更取得「2018國際陶藝學會世界年會」主辦權，將臺灣陶藝之美遠播國際，展現臺灣陶瓷文化與當代陶藝創作的活力。並致力於觀眾服務的創新，屢獲各界肯定，曾榮獲十大公辦好展覽、國家建築金獎文化教育類金獅獎及評審團首獎等各項肯定，讓民眾感受最優質的文化生活。",
+    "publisher": "新北市立鶯歌陶博館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 36,
+    "order": 287
+  },
+  {
+    "id": 398,
+    "title": "奇美博物館",
+    "url": "https://www.chimeimuseum.org/",
+    "image": "covers/resources/398.png",
+    "description": "奇美博物館 在台灣看見世界 不用出國就能感受世界之奇與文明之美",
+    "publisher": "奇美博物館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 314,
+    "order": 288
+  },
+  {
+    "id": 399,
+    "title": "NSO國家交響樂團 Taiwan Philharmonic",
+    "url": "https://www.youtube.com/@nsofilm/videos",
+    "image": "covers/resources/399.jpg",
+    "description": "NSO國家交響樂團╱台灣愛樂：為教育部於1986年為建立一個指標級交響樂團投下的希望，2014年起改隸國家表演藝術中心，長駐國家音樂廳，目前已成為頂尖的亞洲樂團。",
+    "publisher": "",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 4,
+    "order": 289
+  },
+  {
+    "id": 400,
+    "title": "國家電影及視聽文化中心",
+    "url": "https://www.tfai.org.tw/zh",
+    "image": "covers/resources/400.png",
+    "description": "「國家電影及視聽文化中心」是我國唯一典藏影視聽資產專責行政法人機構，以強化影視聽資產典藏研究修復推廣、實現資產公共化任務為宗旨。為「國際電影資料館聯盟」（FIAF）正式會員，前身為財團法人「國家電影中心」及「國家電影資料館」。 在十餘座片庫中典藏計有電影膠片約2萬部、影視聽文物近40萬件，自2008年起開始數位修復業務，至2022年高階數位掃描661部，合作修復76部，自主修復19部電影，致力於透過數位修復技術搶救保存影音檔案，以影視聽媒介保存記憶、典藏歷史。",
+    "publisher": "國家電影及視聽文化中心",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 5,
+    "order": 290
+  },
+  {
+    "id": 401,
+    "title": "台灣魚類資料庫",
+    "url": "https://fishdb.sinica.edu.tw/chi/fisheconomic.php",
+    "image": "covers/resources/401.gif",
+    "description": "台灣魚類資料庫",
+    "publisher": "中央研究院數位文化中心&中央研究院生物多樣性研究中心",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [
+      "自然科學"
+    ],
+    "clicks": 17,
+    "order": 291
+  },
+  {
+    "id": 402,
+    "title": "臺灣海洋教育中心",
+    "url": "https://tmec.ntou.edu.tw/",
+    "image": "covers/resources/402.jpg",
+    "description": "本中心係由教育部協助於2013年9月1日設置，為配合國家海洋教育政策之發展，建置永續推動海洋教育之整合性機構，設立宗旨為： 「秉持國家海洋教育政策，整合國內外海洋教育資源、調查海洋專業人才供需情形、建置海洋教育推動平台、提升全民海洋意識，並協助政府推動海洋教育，及結合社會各界永續發展海洋教育。」",
+    "publisher": "國立臺灣海洋大學臺灣海洋教育中心",
+    "categories": [
+      "生涯與升學",
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 9,
+    "order": 292
+  },
+  {
+    "id": 403,
+    "title": "國際運算思維挑戰賽",
+    "url": "https://bebras.csie.ntnu.edu.tw/",
+    "image": "covers/resources/403.png",
+    "description": "國際運算思維挑戰賽 (International Challenge on Informatics and Computational Thinking，簡稱 Bebras Challenge) 自 2004 年開始，每年於 11 月的國際 Bebras 週 (World-Wide Bebras Week) 在全球各國同步舉行。 Bebras Challenge 採用淺顯易懂且生活化的情境式任務，參與學生需運用抽象化、演算法設計、問題拆解、模式辨識、樣式一般化、自動化等運算思維 (Computational Thinking) 來解決問題挑戰。 Bebras Challenge可以讓任課教師了解學生的運算思維知能，發掘具備資訊科學性向的學生，亦希望透過問題思考過程激起學生對資訊科學的學習興趣。",
+    "publisher": "國立臺灣師範大學 資訊工程學系",
+    "categories": [
+      "生涯與升學",
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "科技"
+    ],
+    "clicks": 35,
+    "order": 293
+  },
+  {
+    "id": 404,
+    "title": "中小學網路素養與認知",
+    "url": "https://eteacher.edu.tw/Default.aspx",
+    "image": "covers/resources/404.png",
+    "description": "中小學網路素養與中小學網路素養與認知認知",
+    "publisher": "教育部",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 7,
+    "order": 294
+  },
+  {
+    "id": 405,
+    "title": "iWIN網路內容防護機構",
+    "url": "https://i.win.org.tw/index.php",
+    "image": "covers/resources/405.png",
+    "description": "iWIN網路內容防護機構",
+    "publisher": "iWIN網路內容防護機構",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 15,
+    "order": 295
+  },
+  {
+    "id": 406,
+    "title": "吉寶知識系統",
+    "url": "https://jibaoviewer.com/landing.html",
+    "image": "covers/resources/406.png",
+    "description": "JIBAO 優質教材共享平台 滿足跨領域、線上教學及特殊課程",
+    "publisher": "吉寶知識系統",
+    "categories": [
+      "線上課程與影音",
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 37,
+    "order": 296
+  },
+  {
+    "id": 407,
+    "title": "社團法人台灣開放式課程聯盟",
+    "url": "https://www.tocec.org.tw/web/index.jsp",
+    "image": "covers/resources/407.png",
+    "description": "國立交通大學是最先投入華文開放式課程的大專校院，當時吳重雨校長有感國外開放式課程內容仍存有語言與文化之差異，課程設計與教學方式也與臺灣教學方式有所不同，因此決定發展以臺灣大專校院華語文高等教育為主的開放式課程，便決定於2006年由理學院開始拍攝臺灣自製之開放式課程。2007年推出華文世界第一個擁有完整課程影音、課程資源與基礎科學學科討論區的開放式課程網站，並持續與國際接軌，成為臺灣第一所加入「全球開放教育聯盟」(Open Education Consortium, OEC)的大學。2008年成立全國首創之開放教育推動中心(Open Education Office, OEO)，專責開放式課程之建置與發展。時任國立交通大學開放教育推動中心白啟光主任、國立交通大學高等教育開放資源研究中心李威儀主任馬不停蹄地至全國大專校院積極推動開放式課程，促使各大學開始投入開放教育的行列。 國立交通大學開放式課程之發佈成為典範，多所大專院校也紛紛開始決定投入開放教育的運動與行列，2007年底，國立政治大學、國立成功大學…等校陸續投入開放教育行列。2008年底由國立交通大學集結其他14所大專校院組成「社團法人台灣開放式課程聯盟」（2018年更名「社團法人臺灣開放式課程暨教育聯盟」，以下簡稱「聯盟」），2009年向內政部登記成立為一教育公益性質的非營利社會團體組織，第一屆理事長為前國立交通大學吳重雨校長，協助全台有志投入開放教育資源活動的大專校院建置開放式課程並進行相關智財權諮詢；2011年第二屆理事長改選，由國立交通大學吳妍華校長榮任；2012年台灣開放式課程聯盟向新竹地方法院登記成為社團法人非營利組織，持續推動國內開放式課程，並完備開放式課程資料檢索平台；2015年由國立台灣師範大學柯皓仁博士擔任第四屆理事長，台灣開放式課程聯盟開始向下紮根，觸角進入高中校園，為準備進入大學殿堂的高中學子提供很好的瞭解大學課程之管道，減少選讀科系的探索時間；2017年由國立交通大學李大偉主任擔任第五屆理事長，積極推動轉型，除提出系統平台優化深化再造外，以推動「虛擬網路大學」及「建立中文開放教育資源」、規劃「特色領域」、「特色科系」及參與國際活動為主要目標；2021年國立交通大學與國立陽明大學合併，國立陽明交通大學誕出，由合校後新任國立陽明交通大學林奇宏校長擔任第七屆理事長，與國際同軌，符應聯合國教科文組織永續發展宗旨，以建立臺灣為亞洲開放教育資源中心為目標，致力於臺灣OER的使用推廣與創新。聯盟發展至今，所建置之課程平台已經收錄約1400門影音課程，目前為最大華語開放教育課程平台，每年聯盟會員課程網站累計瀏覽量超過2000萬，其使用者涵蓋175個不同的國家及地區。 目前，聯盟秘書處設立在位於新竹市的國立陽明交通大學內，以陽明交大、台大、清大對開放教育推動之領導地位，提供聯盟計畫執行最好的奧援，在開放式課程的平台建立、CC創用智財權推廣、開放教育資源之推動上，給予最佳之協助，輔以成大、政大、空大、淡江、輔仁、中興、中央、臺灣海大、北醫、中山、東華、東吳、靜宜、弘光、屏科、宜蘭、臺師大等多所大專校院，一起為台灣開放教育而努力，在多年的經營之下，臺灣參與全球開放教育聯盟之會員數僅次於美國，為全球第二大，在世界開放教育舞台上已具有舉足輕重之地位。",
+    "publisher": "國立交通大學數位內容製作中心",
+    "categories": [
+      "生涯與升學",
+      "博物館與線上展覽"
+    ],
+    "subjects": [],
+    "clicks": 53,
+    "order": 297
+  },
+  {
+    "id": 409,
+    "title": "全華出版社/全華教育平臺-學生資源專區-高中群",
+    "url": "http://www.chwa.com.tw/NewCIV/CHWA108/index.asp#/sResources_hi",
+    "image": "covers/resources/409.jpg",
+    "description": "知識傳播，為人類文明盡一份心力",
+    "publisher": "全華圖書股份有限公司",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 8,
+    "order": 299
+  },
+  {
+    "id": 410,
+    "title": "全華出版社/全華教育平臺-學生資源專區-高職群",
+    "url": "http://www.chwa.com.tw/NewCIV/CHWA108/index.asp#/sResources_civ",
+    "image": "covers/resources/410.jpg",
+    "description": "知識傳播，為人類文明盡一份心力",
+    "publisher": "全華圖書股份有限公司",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 19,
+    "order": 300
+  },
+  {
+    "id": 411,
+    "title": "技術型高級中等學校藝術群科中心/教學資源-線上課程",
+    "url": "https://vtedu.k12ea.gov.tw/nss/s/gcart/6659",
+    "image": "covers/resources/411.png",
+    "description": "技術型高級中等學校藝術群科中心/線上課程",
+    "publisher": "國立臺灣師範大學　教育研究與創新中心",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 34,
+    "order": 301
+  },
+  {
+    "id": 413,
+    "title": "技術型高級中等學校家政群科中心/教學資源-線上課程",
+    "url": "https://vtedu.k12ea.gov.tw/nss/s/HECS/500",
+    "image": "covers/resources/413.png",
+    "description": "技術型高級中等學校家政群科中心/教學資源-線上課程 家政群科中心學校（以下簡稱為本中心）自97年起，設立於國立嘉義高級家事職業學校（以下簡稱為本校），至112年已歷15年。本年度共服務89校，158科學程，對象為設有家政群各科之公立暨私立高級中等學校（含高中附設職業類科、實用技能學程、綜合型高中、進修部）。 本年度工作項目共具七大項，分別為： 一、配合課程研發單位及工作圈，執行課程綱要研修及協作相關工作，蒐集高級中等學校教學實務興革建議。 二、建置群科諮詢輔導機制，成立種子教師社群，並協助各區域學校推動教師專業社群及教師課程共備機制。 三、研發並彙整教材教法、教學與評量及課程綱要所定議題融入課程教案等示例，作為相關教學資源。 四、精進教師教學效能，依群科特色及教學現場需求，辦理全國或跨直轄市、縣（市）區域型式之教師專業研習，並推動跨領域、跨學科之專題類或統整類課程、活動或競賽。 五、充實及活化群科中心資訊平臺，定期發行電子刊物。 六、協助國教署與工作圈辦理高級中等學校課程推動事務及其他交辦事項。 七、中心特色工作自發性課程推動。",
+    "publisher": "國立嘉義高級家事職業學校",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "家政"
+    ],
+    "clicks": 27,
+    "order": 303
+  },
+  {
+    "id": 414,
+    "title": "技術型高級中等學校海事暨水產群科中心/教學資源-線上課程",
+    "url": "https://vtedu.k12ea.gov.tw/nss/s/marine/500",
+    "image": "covers/resources/414.png",
+    "description": "技術型高級中等學校家政群科中心/教學資源-線上課程",
+    "publisher": "國立東港高級海事水產職業學校",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 21,
+    "order": 304
+  },
+  {
+    "id": 415,
+    "title": "技術型高級中等學校食品群科中心/教學資源-線上課程",
+    "url": "https://vtedu.k12ea.gov.tw/nss/s/fgcc/516",
+    "image": "covers/resources/415.png",
+    "description": "技術型高級中等學校食品群科中心/線上課程",
+    "publisher": "教育部技術型高級中等學校食品群科中心學校",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 17,
+    "order": 305
+  },
+  {
+    "id": 416,
+    "title": "技術型高級中等學校設計群科中心/教學資源-線上課程",
+    "url": "https://vtedu.k12ea.gov.tw/nss/s/design/p/50105",
+    "image": "covers/resources/416.png",
+    "description": "技術型高級中等學校設計群科中心線上課程",
+    "publisher": "設計群科中心學校(彰化高商)",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 37,
+    "order": 306
+  },
+  {
+    "id": 417,
+    "title": "臺大開放式課程：樹木學",
+    "url": "http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/103S110",
+    "image": "covers/resources/417.png",
+    "description": "本課程內容將涵蓋植物分類學的發展歷史、分類學基本原理、植物命名法規簡介、標本館使用之基本規範、植物分類文獻基本知識、植物形態特徵、植物分類系統與其演變、台灣森林生態系之簡介。",
+    "publisher": "國立臺灣大學",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "自然科學"
+    ],
+    "clicks": 13,
+    "order": 307
+  },
+  {
+    "id": 418,
+    "title": "行政院農業委員會林業試驗所台北植物園/植物資料庫",
+    "url": "https://tpbg.tfri.gov.tw/PlantList.php",
+    "image": "covers/resources/418.jpg",
+    "description": "植物資料庫",
+    "publisher": "行政院農業委員會林業試驗所",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "自然科學"
+    ],
+    "clicks": 5,
+    "order": 308
+  },
+  {
+    "id": 419,
+    "title": "林務局/山林新聞",
+    "url": "https://www.forest.gov.tw/resources",
+    "image": "covers/resources/419.png",
+    "description": "林務局/山林新聞",
+    "publisher": "行政院農業委員會林務局",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 2,
+    "order": 309
+  },
+  {
+    "id": 420,
+    "title": "技術型高級中等學校農業群科中心/教學資源-線上課程",
+    "url": "https://vtedu.k12ea.gov.tw/nss/s/agcc/516",
+    "image": "covers/resources/420.png",
+    "description": "技術型高級中等學校農業群科中心/線上課程",
+    "publisher": "教育部技術型高級中等學校農業群科中心",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 9,
+    "order": 310
+  },
+  {
+    "id": 421,
+    "title": "臺大開放式課程：從案例演練中學習 BIM",
+    "url": "http://ocw.aca.ntu.edu.tw/ntu-ocw/ocw/cou/102S209",
+    "image": "covers/resources/421.png",
+    "description": "國立臺灣大學/臺大開放式課程：從案例演練中學習 BIM",
+    "publisher": "國立臺灣大學",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 120,
+    "order": 311
+  },
+  {
+    "id": 422,
+    "title": "技術型高級中等學校土木與建築群科中心/教學資源-線上課程",
+    "url": "https://vtedu.k12ea.gov.tw/nss/s/cagc/17",
+    "image": "covers/resources/422.png",
+    "description": "技術型高級中等學校土木與建築群科中心/課程新知",
+    "publisher": "教育部土木與建築群科中心 (國立臺南高級工業職業學校)",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 43,
+    "order": 312
+  },
+  {
+    "id": 423,
+    "title": "技術型高級中等學校外語群科中心/教學資源-線上課程",
+    "url": "https://vtedu.k12ea.gov.tw/nss/s/FL/5011",
+    "image": "covers/resources/423.png",
+    "description": "技術型高級中等學校外語群科中心/線上課程",
+    "publisher": "教育部外語群科中心",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 33,
+    "order": 313
+  },
+  {
+    "id": 424,
+    "title": "日本國立國語研究所/擬音語って？擬態語って？",
+    "url": "https://www2.ninjal.ac.jp/Onomatope/index.html",
+    "image": "covers/resources/424.png",
+    "description": "",
+    "publisher": "日本國立國語研究所",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 19,
+    "order": 314
+  },
+  {
+    "id": 425,
+    "title": "日語自學網",
+    "url": "https://smady.com/",
+    "image": "covers/resources/425.jpg",
+    "description": "日語自學網-最用心的免費學日文資源整理",
+    "publisher": "日語自學網",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 80,
+    "order": 315
+  },
+  {
+    "id": 426,
+    "title": "東京外国語大学言語モジュール",
+    "url": "http://www.coelang.tufs.ac.jp/mt/ja/",
+    "image": "covers/resources/426.png",
+    "description": "東京外国語大学言語モジュール",
+    "publisher": "東京外国語大学",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 45,
+    "order": 316
+  },
+  {
+    "id": 427,
+    "title": "與BBC一起學英語",
+    "url": "https://elt.rti.org.tw/",
+    "image": "covers/resources/427.png",
+    "description": "代表臺灣向國際廣播的中央廣播電臺 (Radio Taiwan International)，與全球新媒體、影音浪潮一同並進，除推陳出新既有與新創的各類型廣播節目，也運用原本的廣播資源，結合全新製播的影音及改版新官網，以「加乘」概念，有聲有影地傳遞臺灣多元面貌給全球聽網友。 央廣要讓閱聽眾在聽見臺灣的同時，也透過影音圖文廣播新媒體，一睹臺灣的美好。",
+    "publisher": "BBC英國廣播公司、中央廣播電臺",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "英文"
+    ],
+    "clicks": 66,
+    "order": 317
+  },
+  {
+    "id": 429,
+    "title": "技術型高級中等學校商業與管理群科中心/教學資源-線上課程",
+    "url": "https://vtedu.k12ea.gov.tw/nss/s/business/onlinecourse",
+    "image": "covers/resources/429.png",
+    "description": "技術型高級中等學校商業與管理群科中心-線上課程",
+    "publisher": "技術型高級中等學校商業與管理群科中心學校",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 73,
+    "order": 319
+  },
+  {
+    "id": 430,
+    "title": "教育部技術型高級中等學校化工群科中心youtube頻道",
+    "url": "https://www.youtube.com/channel/UCpJOAodUpFp3b2HYktjtyvg",
+    "image": "covers/resources/430.jpg",
+    "description": "youtube頻道",
+    "publisher": "教育部技術型高級中等學校化工群科中心",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 11,
+    "order": 320
+  },
+  {
+    "id": 431,
+    "title": "技術型高級中等學校化工群科中心/教學資源-線上課程",
+    "url": "https://vtedu.k12ea.gov.tw/nss/s/chemengcenter/p/409",
+    "image": "covers/resources/431.png",
+    "description": "技術型高級中等學校化工群科中心-教學資源",
+    "publisher": "技術型高級中等學校化工群科中心",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 15,
+    "order": 321
+  },
+  {
+    "id": 433,
+    "title": "DeltaMOOCx/youtube-電機與電子群科影片",
+    "url": "https://www.youtube.com/channel/UCyDIP-h6xNBAiXITkbvubhA/playlists?view=50&sort=dd&shelf_id=7",
+    "image": "covers/resources/433.png",
+    "description": "DeltaMOOCx/youtube-電機與電子群科影片",
+    "publisher": "DeltaMOOCx/youtube",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 27,
+    "order": 323
+  },
+  {
+    "id": 434,
+    "title": "台科大圖書-MOSME行動學習一點通",
+    "url": "http://www.mosme.net/",
+    "image": "covers/resources/434.png",
+    "description": "台科大圖書-MOSME行動學習一點通",
+    "publisher": "台科大圖書",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 28,
+    "order": 324
+  },
+  {
+    "id": 436,
+    "title": "瓊斯的電腦輔助繪圖教學youtube頻道",
+    "url": "https://www.youtube.com/channel/UC_mykKKiBfcOo_uOoiVObIQ/playlists",
+    "image": "covers/resources/436.png",
+    "description": "瓊斯的電腦輔助繪圖教學youtube頻道",
+    "publisher": "瓊斯的電腦輔助繪圖教學youtube頻道",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "科技"
+    ],
+    "clicks": 2,
+    "order": 326
+  },
+  {
+    "id": 437,
+    "title": "技術型高級中等學校機械群科中心/教學資源-線上課程",
+    "url": "https://vtedu.k12ea.gov.tw/nss/s/MGC/0501",
+    "image": "covers/resources/437.png",
+    "description": "技術型高級中等學校機械群科中心-教學資源-線上課程",
+    "publisher": "教育部技術型高級中等學校機械群科中心學校",
+    "categories": [
+      "生涯與升學",
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 10,
+    "order": 327
+  },
+  {
+    "id": 438,
+    "title": "ClarkHuang老師/機械基礎實習｜分章重點",
+    "url": "https://www.youtube.com/playlist?list=PL5ZtkgjtF9wf28XfemHDK-gi2VX-jbPl0",
+    "image": "covers/resources/438.png",
+    "description": "課程頻道",
+    "publisher": "",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 10,
+    "order": 328
+  },
+  {
+    "id": 439,
+    "title": "TUN大學網",
+    "url": "https://university.1111.com.tw/index.asp",
+    "image": "covers/resources/439.png",
+    "description": "認識大學與職涯的關係，對未來就業的發展有更多的補充與介紹。",
+    "publisher": "",
+    "categories": [
+      "生涯與升學"
+    ],
+    "subjects": [
+      "綜合活動"
+    ],
+    "clicks": 1968,
+    "order": 329
+  },
+  {
+    "id": 440,
+    "title": "CoreLab",
+    "url": "https://corelab.iiiedu.org.tw/",
+    "image": "covers/resources/440.png",
+    "description": "線上互動式程式設計學習，在平台上以互動式的操作，進行程式語言撰寫練習。",
+    "publisher": "財團法人資訊工業策進會",
+    "categories": [
+      "生涯與升學",
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "科技"
+    ],
+    "clicks": 15,
+    "order": 330
+  },
+  {
+    "id": 441,
+    "title": "程式自學平台",
+    "url": "https://e-tutor.itsa.org.tw/e-Tutor/",
+    "image": "covers/resources/441.png",
+    "description": "程式自學平臺係e-tutor服務機制，以程式練習為導向，提供軟體創作題庫出題及解題、軟體能力分級評量、線上競賽、觀摩及交流活動、潛力菁英選拔及培訓等內容；不定期辦理線上研討會或講習會，透過線上分享的機制，讓學生能夠以不同的學習方式進行學習與交流；線上題庫則讓學生除了在其他平臺上取得學習資源外，還能有進行程式練習的地方。故三平臺會互相連結，相輔相成，提高學生在軟體工程上的能力。 程式自學平臺中提供大量的題庫，題庫目前分為中英文題庫，主要來源為全國大專電腦軟體設計競賽(NCPC)所釋出的資料及各校老師的參與所建立完成。當點選題庫後可進入分類題庫，查看分類項目中的題目，再點選所喜好之題目，即可看到題目內容的詳細描述，輸入檔案格式、範例、繳交時間、是否可遲交等詳細的資料。進入題庫分類大項後，便可看到主題大綱，查看該分類項目中有哪些題目，討論區則讓學生可進行解題討論。 本平臺之線上練習功能，透過提交頁面，學生可以線上即時提交程式碼，選擇提交程式碼的方式及編譯器的種類，提交後線上系統會即時編譯，若結果或程式碼有誤，會在網頁上即時得到訊息，讓學生能了解程式碼錯誤之處，在提交頁面下方也提供題目提示，讓學生能同時查看題目並確定程式邏輯是否正確。 授課教師可查看學生程式碼提交次數、成功或失敗等其他訊息，得知學生程度，而該題目上傳次數，正確與否次數，長期累積下來可調整此題目難易度，作為教學調整之目的。",
+    "publisher": "教育部 - 智慧創新關鍵人才躍升計畫",
+    "categories": [
+      "生涯與升學"
+    ],
+    "subjects": [
+      "科技"
+    ],
+    "clicks": 32,
+    "order": 331
+  },
+  {
+    "id": 443,
+    "title": "非池中藝術網",
+    "url": "https://artemperor.tw/",
+    "image": "covers/resources/443.jpg",
+    "description": "提供最新藝術新聞，整合藝文單位展覽活動與畫廊訊息，提供全面藝術收藏與欣賞資訊，製作獨家藝文影音讓大家深入了解藝術、接近藝術。",
+    "publisher": "",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 3,
+    "order": 333
+  },
+  {
+    "id": 445,
+    "title": "空大知識王-英文大補帖",
+    "url": "https://campusfms.nou.edu.tw/km/1253",
+    "image": "covers/resources/445.jpg",
+    "description": "英文教學影片",
+    "publisher": "國立空中大學校園語音雲",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "英文"
+    ],
+    "clicks": 47,
+    "order": 335
+  },
+  {
+    "id": 446,
+    "title": "Easy test 線上學習測驗平台-日文檢定課程",
+    "url": "http://192.192.13.164/",
+    "image": "covers/resources/446.png",
+    "description": "本館線上學習測驗平台-日文檢定課程 館內外皆可使用，同時上線20人版。",
+    "publisher": "鉅數位科技有限公司",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 1441,
+    "order": 336
+  },
+  {
+    "id": 447,
+    "title": "HyRead ebook電子書暨電子雜誌",
+    "url": "https://ntledu.ebook.hyread.com.tw/",
+    "image": "covers/resources/447.png",
+    "description": "HyRead ebook 為國內第一個整合圖書館永久館藏、計次服務及個人買書的創新雲端圖書館。兼具館藏永久性與服務即時性！ 提供豐富的電子書籍與電子雜誌。 電子書：最新出版學術、專業、休閒及工具書各類書籍，包含人文社會、文學小說、語言學習、財經商管、科學科普、電腦資訊、宗教心靈、醫藥養生、藝術設計、休閒生活、親子童書、考試證照各領域電子書，特別推薦語言學習有聲書。",
+    "publisher": "HyRead ebook",
+    "categories": [
+      "閱讀推薦與電子書"
+    ],
+    "subjects": [],
+    "clicks": 38,
+    "order": 337
+  },
+  {
+    "id": 449,
+    "title": "Man’Du漫讀電子書",
+    "url": "https://hunteq.com/mandukmc/mandu?@@",
+    "image": "covers/resources/449.png",
+    "description": "唯有廣泛且深度的閱讀，才能豐富自我內涵與見識。『Man'Du漫讀』期許能讓您漫遊於知識海中，體驗電子書所帶來的便利與遼闊，培養內心深處閱讀的種子！ 『Man'Du漫讀』內容包羅萬象，囊括各類出版社的作品，包含學術教科書的【五南】、公職證照類的【鼎文】、經典文學的【遠景】、電腦資訊類的【碁峰】、宗教哲學類的【全佛】，超過5,000冊的書籍，讓您盡情遨遊，與我們共享閱讀的喜悅。 備註：已訂購之書集中置於資料庫首頁【本館館藏】，未訂購之書全部提供每本書前10%的頁碼供試閱。 館內不限同時上線使用人數，館外限制同時上線10人",
+    "publisher": "大鐸資訊",
+    "categories": [
+      "閱讀推薦與電子書"
+    ],
+    "subjects": [],
+    "clicks": 26,
+    "order": 339
+  },
+  {
+    "id": 450,
+    "title": "空中英語教室-影音典藏學習系統",
+    "url": "https://webeng.ncl.edu.tw/",
+    "image": "covers/resources/450.png",
+    "description": "配合大家說英語、空中英語教室電視教學節目及雜誌內容出刊進度，自動每日下載最新的學習內容，學習者可點選當月及上月的學習內容並進入語文同步學習頁面播放，頁面節目之排列是依最近播放日期排序，並顯示該教學節目之中、英文主題、關鍵字以及該節目之學習難易度。 特色： (1)影音文字同步 (2)影音搜尋功能 (3)拖曳式備課播放清單 (4)資料即時更新 (5)採人性化管理，讀者可了解自己的學習狀況，並記錄個人使用情況",
+    "publisher": "韋博數位有限公司",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "英文"
+    ],
+    "clicks": 1912,
+    "order": 340
+  },
+  {
+    "id": 451,
+    "title": "國立公共資訊圖書館電子書服務平台",
+    "url": "https://ebook.nlpi.edu.tw/index",
+    "image": "covers/resources/451.png",
+    "description": "國立公共資訊圖書館電子書服務平台",
+    "publisher": "國立公共資訊圖書館",
+    "categories": [
+      "閱讀推薦與電子書"
+    ],
+    "subjects": [],
+    "clicks": 366,
+    "order": 341
+  },
+  {
+    "id": 453,
+    "title": "雄獅美術知識庫",
+    "url": "http://192.192.13.166/art",
+    "image": "covers/resources/453.png",
+    "description": "「雄獅美術月刊」曾是1971-1996年間活躍於臺灣最有影響力的藝術期刊，也是許多海內外藝術人爭相投稿的平臺，記錄四分之一世紀臺灣藝術發展的軌跡，收錄的4,000位藝術家懷舊作品、一萬頁絕版畫廊廣告、藝評藝作及藝術家專輯等，皆為獨家史料。不僅為後世保存獨家史料，更是啟發觀念、樹立藝壇典範之創舉，影響深遠，雄獅文教事業體至今仍是台灣藝術出版界的第一品牌。",
+    "publisher": "國立臺灣圖書館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 71,
+    "order": 343
+  },
+  {
+    "id": 454,
+    "title": "故宮文物月刊、學術季刊資料庫",
+    "url": "https://periodicals.npmonline.net/npm/",
+    "image": "covers/resources/454.png",
+    "description": "完整收錄《故宮文物月刊》和《故宮學術季刊》，資料收錄範圍為第1期迄今，即期更新，檢索與瀏覽、全文PDF檔線上閱讀與下載、收藏及管理個人有興趣的文章",
+    "publisher": "國立故宮博物院",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 76,
+    "order": 344
+  },
+  {
+    "id": 455,
+    "title": "臺灣專業資料庫研究報告",
+    "url": "http://udndata.com/topic/dbtaiwan/",
+    "image": "covers/resources/455.png",
+    "description": "資訊爆炸的年代，在一片茫茫網海中，要怎麼找到你要的資料？你知道臺灣有哪些專業機關整理、出版並建置成好用、便於查找的資料庫嗎？聯合知識庫特別委請臺灣大學圖書館精心製作「臺灣專業資料庫研究報告」專輯資料庫分門別類介紹，有哪些？怎麼查找？通通告訴你...",
+    "publisher": "聯合知識庫",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 119,
+    "order": 345
+  },
+  {
+    "id": 458,
+    "title": "故宮線上學校",
+    "url": "https://ipalace.npm.edu.tw/Art",
+    "image": "covers/resources/458.png",
+    "description": "故宮線上學校提供國小到高中的學生線上免費課程，讓學生能學習文物背後的歷史、文化等知識。此外也提供師培課程以及教學資源。",
+    "publisher": "國立故宮博物院",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "藝術",
+      "社會"
+    ],
+    "clicks": 152,
+    "order": 348
+  },
+  {
+    "id": 459,
+    "title": "OceanTag 學習網",
+    "url": "https://oceantag.nmmba.gov.tw/",
+    "image": "covers/resources/459.png",
+    "description": "「3D動態標籤雲」：呈現的即時熱門關鍵字標籤。 「館藏」：來自館方豐富的影音與文獻資料庫，提供大眾正確的消息與資訊來源。 「趨勢」：從Google資料庫所撈出的相關時事新聞內容，提供完整之新聞連結。 「學習」：依12年國教課綱期程中與海洋相關之課程，從館方資料庫中撈取相對應之資料。",
+    "publisher": "國立海洋生物博物館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "自然科學"
+    ],
+    "clicks": 167,
+    "order": 349
+  },
+  {
+    "id": 460,
+    "title": "國立自然科學博物館-線上博物館",
+    "url": "https://www.nmns.edu.tw/ch/learn/online-museum/",
+    "image": "covers/resources/460.png",
+    "description": "防疫期間，學習不打烊，科博館推出「線上博物館」，整理各式多元學習項目，打破時間與空間的限制，在家就能飽覽各式自然科學知識，透過環景ＶＲ技術帶您逛遍科博館。",
+    "publisher": "國立自然科學博物館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "自然科學"
+    ],
+    "clicks": 156,
+    "order": 350
+  },
+  {
+    "id": 461,
+    "title": "嘎老師（Miss Ga）的頻道",
+    "url": "https://www.youtube.com/@MissGa/videos",
+    "image": "covers/resources/461.png",
+    "description": "教你如何唱歌與音樂相關的知識",
+    "publisher": "嘎老師（Miss Ga）的頻道",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 249,
+    "order": 351
+  },
+  {
+    "id": 462,
+    "title": "破解自主學習迷思！自主學習是自己學嗎？【藝智向前走Ep4】",
+    "url": "https://www.youtube.com/watch?v=_oax_KdKP1M",
+    "image": "covers/resources/462.jpg",
+    "description": "由廣達文教基金會執行長與新竹縣興隆國小美術老師及臺北市士東國小老師訪談，講授主題為破解自主學習迷思！自主學習是自己學嗎？ 當中分享自主學習的相關經驗。 內容包含： 1.老師怎麼引導學生自主學習？ 2.在課業壓力之下，也可以做到自主學習嗎？ 3.108課綱來了！高中生如何規劃自主學習？ 4.自主學習必備的核心觀念",
+    "publisher": "廣達文教基金會",
+    "categories": [
+      "自主學習"
+    ],
+    "subjects": [],
+    "clicks": 1239,
+    "order": 352
+  },
+  {
+    "id": 463,
+    "title": "臺灣小故事",
+    "url": "https://taiwanstory.naer.edu.tw/",
+    "image": "covers/resources/463.jpg",
+    "description": "教育學習內容宜合乎學生身心認知發展與教育原理，尤其人文學科與學生的生活世界關係密切，更能達到教育所期待的充實知識、培養情意與思維探索學習的目標。臺灣歷經近四十年的威權政治型態體制，教育宗旨理念與教學內容常有違教育原理，也欠缺斯土斯民的緊密聯結。隨著臺灣的民主化、自由化也帶動本土化，教育部在2002年成立「本土教育會」，主責規劃本土教育政策及發展，提供中小學教材建議，進行本土教育研究、規劃及諮詢等事務。 教育本土化不單是重視臺灣主體性，也要使教材與教學契合教育的原理，更有朝向深耕本土迎向世界的理念，2008年初國立編譯館（已改組編入國家教育研究院）曾編輯《臺灣小故事101》作為補充教材，然因當時受限於時間與經費，總篇數未達101，而且只以網路電子版流傳。 2019年適逢新課綱全面開展，教育部本土教育會認為《臺灣小故事101》仍極具補充教材價值，因此啟動新編作業。全書主題架構依舊沿用「島國意象」、「族群歷史」、「本土藝文」、「打拼精神」等四大面向。此一架構植基於文化扎根於土地而萌芽茁壯，海島臺灣的地理生態環境形塑臺灣風土文化，族群歷史闡述臺灣社會主要是由南島語族原住民與漢語系移民共構形成，多元族群也促成文化多樣性。藝文方面由文學家和藝術家帶出臺灣本土文學美術音樂的內涵，讓學生認識本土藝文也培養美學涵養。打拼精神單元則是敘說不同領域人士奮鬥有成的事蹟，彰顯臺灣人樸實努力追求卓越的精神。 新版的《臺灣小故事101》除審修原有文稿之外，另再增補篇章，使其真正達標101，部分照片圖像置換，版式編輯也作更新，呈現更充實精美的面貌。本書四大主題之下各篇都是淺顯生動、發人省思的小故事，這些題材也與中小學教科書的內容有相關，期待這些有啟發性的故事能充實青少年對臺灣自然意象、歷史事件、藝術文化、重要人物等之認識，形塑對臺灣主體的認同，從自知而培養自信。",
+    "publisher": "國家教育研究院",
+    "categories": [
+      "博物館與線上展覽",
+      "臺灣研究資料庫"
+    ],
+    "subjects": [],
+    "clicks": 24,
+    "order": 353
+  },
+  {
+    "id": 464,
+    "title": "教育部中小學數位教學指引",
+    "url": "https://ws.moe.edu.tw/001/Upload/23/relfile/8006/86277/2d47608d-1cb3-4477-9069-8e6e797d4f65.pdf",
+    "image": "covers/resources/464.jpg",
+    "description": "教育部中小學數位教學指引",
+    "publisher": "教育部",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 19,
+    "order": 354
+  },
+  {
+    "id": 466,
+    "title": "台灣教育藝術網-108課綱",
+    "url": "https://ed.arte.gov.tw/ch/content/m_108syllabus_list.aspx",
+    "image": "covers/resources/466.png",
+    "description": "108課綱專區深耕藝術涵養，透過跨學科整合，培育學生創造力、表現力及藝術思考力，強調藝術教育的多元性，旨在啟發學生對文化的敏感度，培養藝術品味與批判性思維，使其在現代社會中融匯藝術與人文素養，展現個人獨特的美學視野。",
+    "publisher": "國立臺灣藝術教育館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 14,
+    "order": 356
+  },
+  {
+    "id": 467,
+    "title": "達學堂",
+    "url": "https://high.deltamoocx.net/",
+    "image": "covers/resources/467.png",
+    "description": "台達電子文教基金會長期關注人才培育，董事長鄭崇華先生有感於學生時期，受到幾位教學認真的老師啟迪，激發出對學習的熱情，因此他深信教育可以改變下一代。隨著數位學習科技的發展，若能結合創新的教學方式，將可成為改變世界的動能，因此於2014年邀請清華大學彭宗平教授擔任計畫主持人，成立DeltaMOOCx計畫。 此計畫主要透過建立一個公益的公共網路學習平臺，分別針對高中/高工及大學的學生，設計網路課程、製作教材、提供線上諮詢，並建立學習評量機制，以提昇學生學習動機與學習成效。 高中/高工 MOOCs 課程係與國家教育研究院、教育部國民及國前教育署合作，邀請高級中等學校核心基礎科學(STEM)相關的學科(數學、物理、化學、生物、地球科學)中心及電機電子群科中心，共同規劃設計課程。 大學 MOOCs 課程先期係與臺灣科技大學、臺北科技大學與雲林科技大學共同組成聯盟，開設自動化學程，以縮短學用落差，強化學生在工業自動化領域之專業實力。未來將邀請更多大學共同參與，厚植學生之國際競爭力。",
+    "publisher": "台達電子文教基金會",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 62,
+    "order": 357
+  },
+  {
+    "id": 468,
+    "title": "國立公共資訊圖書館-數位資源入口網",
+    "url": "https://ers.nlpi.edu.tw/",
+    "image": "covers/resources/468.png",
+    "description": "國立公共資訊圖書館除徵集、組織、典藏各種實體圖書資料、數位資源提供民眾閱讀與終身學習外，結合實體與虛擬服務空間，提供分齡分眾服務，以嶄新的閱讀模式、獨特的探索途徑、多元的休閒機能及舒適的終身學習環境，提供具有圖書閱覽、資訊檢索、數位服務、展覽及演講、訓練等場域。",
+    "publisher": "國立公共資訊圖書館",
+    "categories": [
+      "博物館與線上展覽",
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 33,
+    "order": 358
+  },
+  {
+    "id": 469,
+    "title": "DQ地球圖輯隊",
+    "url": "https://dq.yam.com/",
+    "image": "covers/resources/469.png",
+    "description": "身為地球人，你今天關心地球事了嗎？ 我們致力以淺顯易懂的文字、豐富精彩的圖片為大家打開一扇關心地球大小事、理解國際要聞的入門窗。 在這裡，你可以看到地球的各種風貌，無論是政治經濟、社會文化、科普新知、暖心趣聞這裡通通有。",
+    "publisher": "天空傳媒股份有限公司",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 16,
+    "order": 359
+  },
+  {
+    "id": 470,
+    "title": "高雄中學自主學習專區",
+    "url": "https://affairs.kh.edu.tw/5985",
+    "image": "covers/resources/470.png",
+    "description": "",
+    "publisher": "高雄中學",
+    "categories": [
+      "線上課程與影音",
+      "自主學習"
+    ],
+    "subjects": [],
+    "clicks": 26,
+    "order": 360
+  },
+  {
+    "id": 471,
+    "title": "清大開放式課程",
+    "url": "https://ocw.nthu.edu.tw/ocw/index.php?lang=tw",
+    "image": "covers/resources/471.png",
+    "description": "致力於人才培育、回饋社會，頂尖大學的堅強師資 - 我們無償提供，充實縝密的優質課程 - 我們免費上傳，讓你在家也能上大學 !",
+    "publisher": "國立清華大學",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 219,
+    "order": 361
+  },
+  {
+    "id": 472,
+    "title": "教育雲電子書整合服務平台",
+    "url": "https://oidcebook.nlpi.edu.tw/",
+    "image": "covers/resources/472.png",
+    "description": "教育雲電子書整合服務平台由國立公共資訊圖書館(簡稱國資圖)建置維運，配合教育部推動中小學數位學習精進方案，規劃「數位內容充實」，以學生願意讀、感興趣、易理解，可學習到教材中的知識為前提，建立優質數位內容。 本平台整合udn讀書館、iRead eBooks、Hyread電子書、台灣雲端書庫與國資圖電子書服務平台，涵蓋5個電子書資料庫，匯集約3,600種電子書、24,000冊，期望提供教師與學生優質多元的電子書館藏，透過便利的數位閱讀，進而達成師生更好的教學與學習成效，讓教材更生動、教學更多元。",
+    "publisher": "國立公共資訊圖書館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [],
+    "clicks": 26,
+    "order": 362
+  },
+  {
+    "id": 473,
+    "title": "國圖到你家",
+    "url": "https://nclibtv.ncl.edu.tw/web/index.php",
+    "image": "covers/resources/473.png",
+    "description": "「國圖到你家」民眾家中的智慧圖書館。 「國圖到你家」擘劃的藍圖是以全民為對象，打開家中數位電視即能進入虛擬圖書館，使用圖書館提供的各項圖書資料及服務，並能觀看圖書館結合AR、VR及3D技術所設計的圖書、展覽，或進入虛擬講堂參加各類活動及課程。為達到「國圖到你家」所擘劃的藍圖，未來圖書館將是一個迎合科技發展、應用創新技術，結合圖書館服務及內容的加值，提供科技化、人性化之智能圖書館服務。 「國圖到你家」數位服務，以符應數位匯流趨勢、應用Cloud-IPTV、OTT等技術和服務發展智慧化服務，期以智慧科技回應人類對美好生活的需求。打造「圖書館到你家」OTT TV服務平臺，強調「以OTT技術建構服務應用的新模式」及「與電腦、行動載具終端應用差異化的服務模式」，創建民眾打開家中數位電視即能進入智慧圖書館，使用圖書館各項圖書資料及服務的藍圖。 「國圖到你家」於108年完成OTT TV平臺之開發，並於數位電視盒上線啟用，在109年陸續提供線上閱讀區於服務網站，上架Android及iOS版本APP提供多元服務管道。除持續精進平臺服務功能外，服務內容以學童、親子為主要服務對象，提供的電子書、數位影音、VR互動內容等，主要為全國各政府機關出版的圖書與影音，主題包含文學、觀光旅遊、自然生態、科學工藝、藝術文物、人文歷史等等。國圖取得各機關出版品授權後，在不改變原始內容的原則下，將每一頁的版面與字數、行距、字型大小等重新編排與設計，以符合電視螢幕之最佳閱讀版式，並為電子書錄製朗讀、設計互動學習單元等等予以加值，並輸出可由遙控器控制翻頁的TV版電子書，免費提供給民眾、中小學生閱讀及觀賞。",
+    "publisher": "國家圖書館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [],
+    "clicks": 9,
+    "order": 363
+  },
+  {
+    "id": 475,
+    "title": "交大育網開放教育平台",
+    "url": "https://www.ewant.org/",
+    "image": "covers/resources/475.png",
+    "description": "由國立陽明交通大學於2013年建立的ewant育網開放教育平臺是臺灣第一個磨課師(massive open online courses, MOOCs)平臺，採用開放源碼的moodle線上教學系統作為平臺的核心，旨在為所有願意投入MOOCs運動的學校及單位提供一個展示及經營課程的平臺，也為所有想要免費利用線上課程的學習者提供方便的學習機會。",
+    "publisher": "國立陽明交通大學",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 340,
+    "order": 365
+  },
+  {
+    "id": 476,
+    "title": "CG 數位學習網",
+    "url": "https://www.cg.com.tw/",
+    "image": "covers/resources/476.png",
+    "description": "",
+    "publisher": "",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "科技"
+    ],
+    "clicks": 43,
+    "order": 366
+  },
+  {
+    "id": 479,
+    "title": "技術型高級中等學校動力機械群科中心/教學資源-線上課程",
+    "url": "https://vtedu.k12ea.gov.tw/nss/s/power/0510",
+    "image": "covers/resources/479.png",
+    "description": "動力機械群科中心學校現況 「高級中等教育法」已於民國102年07月10日完成公告並自103年8月1日施行，該法第一條揭示「高級中等教育，應接續九年國民教育，以陶冶青年身心，發展學生潛能，奠定學術研究或專業技術知能之基礎，培養五育均衡發展之優質公民為宗旨」；而第五條亦規範技術型高級中等學校乃提供專業及實習學科為主課程，包括實用技能及建教合作，強化學生專門技術及職業能力；由此可見，技術型高中教育目標，即是透過課程規劃設計，提供學生專業知識技能的學習，提升與就業現場銜接之能力，進而培養其繼續進修以及促進生涯發展之能力為目的。 務實致用為技職教育的核心理念，其展現在課程設計則強調實務與理論兼重，讓學生可順利將所學知能運用於工作，縮短學用間的落差。因應時代進展與產業變遷，也因應多元特色發展需求之殷切聲浪，在十二年國教課程綱要實施後，讓學校保有更大課程自主的空間，以訂定學校本位課程並發展學校自我特色。群科中心學校每年依教育部技術型高級中等學校群科中心學校工作計畫提列年度工作重點，持續推動本群包含執行課程綱要研修及協作相關工作，蒐集高級中等學校教學實務興革建議。建置群科諮詢輔導機制，推動種子教師社群，並協助各區域學校發展教師專業社群。研發教材教法，彙整課程綱要所定重大議題融入課程教案，作為相關教學資源。辦理群科各種專業研習及競賽。充實及活化群科中心資訊平臺，定期發行電子刊物。建立群科中心學校特色工作等任務，以期達成群科中心學校協助新課綱推動之設置目的。 技職教育是最能與經濟及就業做最緊密結合的一種教育。縱觀世界上技職教育的發展趨勢，從許多經濟強國的經驗得知，技職教育確實可以提高勞動者的人力素質，進而讓經濟全面發展，對國家經濟的發展而言，技職教育的成敗往往是關鍵所在。而技職教育中課程更是學校教育的核心，也是教師專業活動的主體，直接關係學生學習成效和未來發展需求，因此，技職教育中課程的改革修訂與實施情形，決定了技職教育的品質與成效，進而維繫著學校教育實施的成敗。 110年本中心除依教育部技術型高級中等學校群科中心學校實施計畫內容，持續執行各項常態性工作外，尤其著重在配合十二年國民基本教育實施後，各項工作之執行，例如配合協助新課綱之修訂工作並辦理課綱宣導、協助各校之課程諮詢服務等等，群科中心學校希望藉由教育部及工作圈協助與指導下，順利如期完成上述各項任務，以協助群科所屬各校順利推動技職教育課程之教學實施，同時達成協助推動十二年國民教育之目標。 111學年度本中心除依教育部技術型高級中等學校群科中心學校實施計畫內容，持續執行各項常態性工作外，尤其著重在配合十二年國民基本教育實施後，各項工作之執行，例如配合協助新課綱之修訂工作並辦理課綱宣導、協助各校之課程諮詢服務等等，本中心希望藉由教育部及工作圈協助與指導下，順利如期完成上述各項任務，以協助群科所屬各校順利推動技職教育課程之教學實施，同時達成協助推動十二年國民教育之目標。 111學年度持續配合課程研發單位及工作圈，執行課程推動、課程綱要宣導、課綱意見問題蒐集等相關工作，工作內容如下： (一)配合課程研發單位及工作圈，執行課程綱要研修及協作相關工作，蒐集高級中等學校教學實務興革建議。 (二)建置群科諮詢輔導機制，成立種子教師社群，並協助各區域學校推動教師專業社群及教師課程共備機制。 (三)研發並彙整教材教法、教學與評量及課程綱要所定議題融入課程教案等示例，作為相關教學資源。 (四)精進教師教學效能，依群科特色及教學現場需求，辦理全國或跨直轄市、縣（市）區域型式之教師專業研習，並推動跨領域、跨學科之專題類或統整類課程、活動或競賽。 (五)充實及活化群科中心資訊平臺，定期發行電子刊物。 (六)協助國教署與工作圈辦理高級中等學校課程推動事務及其他交辦事項。 (七)中心特色工作自發性課程推動。",
+    "publisher": "國立彰化師範大學附屬高級工業職業學校",
+    "categories": [
+      "生涯與升學",
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 14,
+    "order": 369
+  },
+  {
+    "id": 480,
+    "title": "技術型高級中等學校電機與電子群科中心/教學資源-線上課程",
+    "url": "https://vtedu.k12ea.gov.tw/nss/s/eegc/510",
+    "image": "covers/resources/480.png",
+    "description": "95年4月奉教育部指示成立電機與電子群科中心學校，完成組織編制、網站架設、發行電子報及辦理相關研習活動。96年度起承接課程發展中心工作，針對課程綱要、專業科目等研擬規劃及辦理教師進修、教材教法等研習活動。97年度推動電機與電子群學校本位課程及規劃總體課程計畫，蒐集各校電機與電子群教師針對電機與電子群類對應之四技二專考試科目、考試範圍之意見，提供四技二專統一入學測驗中心作為修訂四技二專考試科目、考試範圍之重要參考。98年度針對新增部定科目辦理教師知能研習、專題製作研習與專題製作示例評選，以及辦理教師「教學檔案」製作研習與觀摩，為99職業學校群科課程綱要實施做好充分準備。 99年度至105年度，配合99課綱實施推動重點課程發展，加強辦理各項教師研習及課程規劃觀摩與經驗分享，並配合教學政策推動跨領域(科)課程、專題課程或競賽活動，且提供各校諮詢使課綱課程推動順利進行。106年度至107年度因應十二年國民教育及配合推動第二期技職再造計畫，完成各項108課綱實施課程推動工作。 因應108課綱實施，108年度至迄今辦理各項課程推動工作：「配合課程研發單位及工作圈，執行課程綱要研修及協作相關工作，蒐集高級中等學校教學實務興革建議」、「建置群科諮詢輔導機制，推動種子教師社群，並協助各區域學校推動教師專業社群及教師課程共備機制」、「研發並彙整教材教法、教學與評量及課程綱要所定議題融入課程教案等示例，作為相關教學資源」、「精進教師教學效能，依群科特色及教學現場需求，辦理全國或跨直轄市、縣(市)區域型式之教師專業研習，並推動跨領域、跨學科之專題類或統整類課程、活動或競賽」、「充實及活化群科中心資訊平臺，定期發行電子刊物」、「協助國教署與工作圈辦理高級中等學校課程推動事務及其他交辦事項」、「中心特色工作自發性課程推動」等七項重點工作。",
+    "publisher": "臺中市立臺中工業高級中等學校",
+    "categories": [
+      "生涯與升學",
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 67,
+    "order": 370
+  },
+  {
+    "id": 493,
+    "title": "綜高中心-教學資源",
+    "url": "https://vtedu.k12ea.gov.tw/nss/s/comp/05001",
+    "image": "covers/resources/493.png",
+    "description": "綜合高中自85學年度試辦至正式納入「高級中學法」，與普通高中、單科高中、實驗高中並立成為學校類型之一，期間歷經綜合高中課程綱要、高中課程綱要、高職課程綱要、後期中等教育核心課程之修訂、頒布、再修訂，學生成績考查從綜合高中首先施行學年學分制，高職、高中亦隨之調整轉變，四技二專之考招制度變革。綜合高中在多元課程、學校本位課程發展、彈性選修、學生適性發展等方面皆有其重要的成就以及先進於其他學制的作法，惟於教育政策與環境不斷變動的今日，綜合高中推動問題有長足深入探討必要性。 目前綜合高中正面臨十二年國民基本教育及108課綱，以及考招制度的變革，仍有多項重大議題如綜合高中的課程發展、課程特色、課程選修、試探與分流及學生進路等問題，有待解決及研議，如何連繫普通型高中學科中心以及技術型群科中心學校，免探討課程實施問題時對於綜合高中有所忽略。 綜上所述，由於目前綜合高中尚有許多議題亟待解決，經98學年度綜合高中工作圈以及100年度綜合高中業務研討會之建議，遂規劃成立綜合高中中心學校，期仿效普通型學科中心以及技術型群科中心學校之運作方式，積極發展綜合高中之特色課程與建立選修輔導機制。 綜合高中中心學校於101年正式成立，其設立之目的乃在於建立在一個推動綜合高中學校與普通型學科中心，以及技術型群科中心學校的聯繫平台，期望共同解決課程發展等相關待解決之議題，並表達綜合高中之意見與立場，使綜合高中更能因應十二年國民基本教育所帶來之影響。 101年綜合高中中心學校業務由私立光啟高級中學負責推動，在各項工作計畫上成果亮眼且與各學校形成緊密連結。102年由國立溪湖高中承接光啟高中業務之後，持續推動中心學校相關業務並發展特色課程供各學校參酌，本校共有45班，設置有學術社會、學術自然、商業服務、應用英語、觀光餐飲5種學程，發展至今，多元且生動化的課程符應多元文化教育之理念，以學生為本位，透過充分的試探課程，引導學生適性發展並擇其所愛，完成自我實現之教育理想。",
+    "publisher": "國立溪湖高級中學",
+    "categories": [
+      "生涯與升學",
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 25,
+    "order": 383
+  },
+  {
+    "id": 495,
+    "title": "中華民國專利資訊檢索系統",
+    "url": "https://tiponet.tipo.gov.tw/twpat2/twpatc/twpatkm?@@0.6657941641151095",
+    "image": "covers/resources/495.png",
+    "description": "",
+    "publisher": "經濟部智慧財產局",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 5,
+    "order": 384
+  },
+  {
+    "id": 496,
+    "title": "全球專利檢索系統",
+    "url": "https://tiponet.tipo.gov.tw/gpss1/gpsskmc/gpssbkm?@@0.4097334086551734",
+    "image": "covers/resources/496.png",
+    "description": "",
+    "publisher": "經濟部智慧財產局",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 2,
+    "order": 385
+  },
+  {
+    "id": 497,
+    "title": "全文報紙資料庫-聯合知識庫",
+    "url": "https://udndata.com/ndapp/udntag/Index",
+    "image": "covers/resources/497.png",
+    "description": "",
+    "publisher": "聯合線上公司",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 3,
+    "order": 386
+  },
+  {
+    "id": 498,
+    "title": "中華民國統計資訊網",
+    "url": "https://www.stat.gov.tw/default.aspx",
+    "image": "covers/resources/498.png",
+    "description": "",
+    "publisher": "行政院主計處",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 3,
+    "order": 387
+  },
+  {
+    "id": 499,
+    "title": "台灣現代影劇暨表演影音資料庫",
+    "url": "https://www.eti-tw.com/",
+    "image": "covers/resources/499.png",
+    "description": "「台灣現代戲劇暨表演影音資料庫」(Electronic Theater Intermix in Taiwan，簡稱ETI；網址www.eti-tw.com)，於2003年建置持續運作至今，是第一個以台灣現代戲劇為專題的非營利性影音資料庫，也是目前仍在運作且持續時間最久的相關數位典藏資料庫，更是一個提供中英文網路介面和搜尋功能且獲得國際學術研究矚目的網站。ETI主要營運目標在於保存重要文化資產、推動相關學術研究與教育資源開發和分享，並進一步研發表演藝術數位資源再利用，在學術網站與數位內容開發和表演藝術產業之間，搭建創新產業內容，探索新的產學研三方合作模式。ETI至今已完成1985年以降74位創作者（導演）執導總計約600部的戲劇演出影音紀錄數位化檔案，累積典藏超過一萬分鐘珍貴影音資料，其中有160部現當代戲劇作品的影音紀錄因為加入國家數位典藏而開放近乎全長的免費網路閱覽。各界研究者及戲劇愛好者可於資料庫網站上，查詢劇作資料及瀏覽其一分鐘（至數分鐘）的數位化影音檔；此外，也可透過線上預約，於開放時間親至館內，閱覽劇作完整影音資料。",
+    "publisher": "國立中央大學",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 9,
+    "order": 388
+  },
+  {
+    "id": 500,
+    "title": "國家教育研究院-學習資源",
+    "url": "https://www.naer.edu.tw/PageMenu?fid=43",
+    "image": "covers/resources/500.png",
+    "description": "國家教育研究院提供學習資源平台",
+    "publisher": "國家教育研究院",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 18,
+    "order": 389
+  },
+  {
+    "id": 501,
+    "title": "全球華文網",
+    "url": "https://www.huayuworld.org/",
+    "image": "covers/resources/501.png",
+    "description": "本會長期致力於推展海外僑民教育，與全球友我僑校及文教組織共同合作，發展華文教育。為了善用數位網路科技，發展華語文數位學習，本會於96年著手建置「全球華文網」，結合我國數位科技及生動、活潑的華語文教學理念，藉由本網站提供豐富之華語文及文化類輔助教材、課程、影片、遊戲等各類教學資源，鼓勵僑校發展更多元、生動的教學模式，提高海外學子學習動機，更期盼藉此建立臺灣華語文數位學習之品牌形象，行銷臺灣優質華語文教學內涵。",
+    "publisher": "中華民國僑務委員會",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "國文"
+    ],
+    "clicks": 23,
+    "order": 390
+  },
+  {
+    "id": 502,
+    "title": "欽定四庫全書",
+    "url": "https://ctext.org/library.pl?if=gb&collection=4",
+    "image": "covers/resources/502.png",
+    "description": "歡迎您來到中國哲學書電子化計劃首頁。中國哲學書電子化計劃是一個線上開放電子圖書館，為中外學者提供中國歷代傳世文獻，力圖超越印刷媒體限制，通過電子科技探索新方式與古代文獻進行溝通。收藏的文本已超過三萬部著作，並有五十億字之多，故為歷代中文文獻資料庫最大者。",
+    "publisher": "中國哲學書電子化計劃",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "國文"
+    ],
+    "clicks": 6,
+    "order": 391
+  },
+  {
+    "id": 503,
+    "title": "四庫全書總目提要",
+    "url": "https://ctext.org/wiki.pl?if=gb&res=569524",
+    "image": "covers/resources/503.png",
+    "description": "歡迎您來到中國哲學書電子化計劃首頁。中國哲學書電子化計劃是一個線上開放電子圖書館，為中外學者提供中國歷代傳世文獻，力圖超越印刷媒體限制，通過電子科技探索新方式與古代文獻進行溝通。收藏的文本已超過三萬部著作，並有五十億字之多，故為歷代中文文獻資料庫最大者。",
+    "publisher": "中國哲學書電子化計劃",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "國文"
+    ],
+    "clicks": 5,
+    "order": 392
+  },
+  {
+    "id": 504,
+    "title": "數位經典",
+    "url": "https://www.chineseclassic.com/",
+    "image": "covers/resources/504.png",
+    "description": "雖然數位內容一直以等比級數的速度在爆炸性的成長，然而，古人智慧的結晶──古代的經典書籍，其數位化的腳步卻是相對落後許多，因此讓我們興起了將古籍有系統、有組織數位化的念頭。 數位經典網站創始於2003年5月，由站長獨自一人在維護，並由旅居加拿大的高保民先生提供免費的網站代管。2011年10月，數位經典網站重新開始，站長重新以Drupal架設這個網站。 網站的長期目標原是要建立一個中文的電子書計畫，透過社群的力量將所有中文的人類資產數位化。但多年來，站長因為不具技術能力，因此未能發揮網路及志工的力量。也讓這麼多年來，熱心想要幫忙的志工都不知從何幫忙起。期望新網站的架設，能夠不負志工們的期待。 事實上，中文古籍的數位化早就有許多計畫在進行，在肯定這些相關計畫既有成就的同時，數位經典網站也自我期許要達到以下願景： 資料的可靠性： 目前網路上流傳的許多電子書版本未經過校對，也沒有所謂的「版本」的任何標記，因此其品質良莠不齊，我們希望未來透過這個網站建立可靠的古文版本。我們會做校稿的工作，並將校稿過的電子書編輯成可讀性更高的HTML檔。 格式的可讀性：（開放自由的格式與標準） 目前網路上所能取得的電子書版本多為純文字檔，或者是未經編排的HTML檔、PDF檔，我們希望能夠提供可讀性較高的HTML檔及PDF檔，因此電子書都做過基本的編輯及章節編排。另一方面我們也提供.txt全文下載，讓有需要複製、引用、研究...等各種需要的讀者能夠方便使用。我們更擁抱各種開放的檔案格式，像是ePub，以方便使用者以任何閱讀裝置閱讀。當然，如果有任何其他好的開放格式，能力所能及我們也都希望支援，唯一條件就是：只要能夠便於經典的流通，我們都願意去做。 天下為公： 數位經典網站所有的書籍都是屬公眾領域，當然我們也接受當代作者捐獻。因此這裡所有數位化之後的版本，不只一切格式皆採用自由、開放標準，任何人都可自由在此取用、轉載，傳播本網站的所有內容。",
+    "publisher": "",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "國文"
+    ],
+    "clicks": 2,
+    "order": 393
+  },
+  {
+    "id": 505,
+    "title": "網 路 展 書 讀",
+    "url": "http://cls.lib.ntu.edu.tw/",
+    "image": "covers/resources/505.png",
+    "description": "羅鳳珠教授一生致力於文學研究及推廣，將《網路展書讀》網站捐贈給臺灣大學圖書館，羅教授已於104年8月22日逝世，為感念其精神，本館將接續羅教授遺願，將人文教育與科學教育結合，提供文學研究及愛好者優質的網路資源。 《網路展書讀》網站為羅教授多年研究之成果蒐集與呈現，涵蓋多個計畫與單位的珍貴資源，羅教授於102年開始協助本館陸續取得相關單位的內容授權，有臺灣民間文學資料、賴和紀念館、及鍾理和紀念館等。今將網站重新上線，供眾使用。典型夙昔，共同感念。為保存網站原始樣貌，不修改變動網頁內容。",
+    "publisher": "臺灣大學圖書館",
+    "categories": [
+      "博物館與線上展覽",
+      "臺灣研究資料庫"
+    ],
+    "subjects": [
+      "國文"
+    ],
+    "clicks": 6,
+    "order": 394
+  },
+  {
+    "id": 506,
+    "title": "台灣師大圖書館【寒泉】古典文獻全文檢索資料庫",
+    "url": "http://skqs.lib.ntnu.edu.tw/dragon/",
+    "image": "covers/resources/506.png",
+    "description": "大女兒讀市立師院博士班，選修梁館長的課，為著使用 師大圖書館教育資料庫，請教梁館長，因而提到本人。梁館 長對我略有耳聞，知道我有個【寒泉】在故宮，問我能不能 連線？我說MORE。於是師大圖書館【寒泉】便誕生了。",
+    "publisher": "台灣師大圖書館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "國文"
+    ],
+    "clicks": 2,
+    "order": 395
+  },
+  {
+    "id": 507,
+    "title": "漢達文庫",
+    "url": "https://www.cuhk.edu.hk/ics/rccat/download.html",
+    "image": "covers/resources/507.png",
+    "description": "劉殿爵中國古籍研究中心成立於2005年，前身為漢達古文獻資料庫（建於1988年），旨在全面整理中國古代傳世及出土文獻，並建立電腦資料庫，藉此進行多項研究工作，然後通過各種媒體出版研究成果。",
+    "publisher": "香港中文大學",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "國文"
+    ],
+    "clicks": 2,
+    "order": 396
+  },
+  {
+    "id": 508,
+    "title": "蔣經國國際學術交流",
+    "url": "http://www.cckf.org/zh/sino/search#c1=Sinology&c4=01",
+    "image": "covers/resources/508.png",
+    "description": "財團法人蔣經國國際學術交流基金會成立於1989年，成立之目的除了在紀念故總統經國先生對中華民國的卓越貢獻外，並希望以嚴謹的學術立場，獎勵支持世界各國之學術機構與學者從事中華文化之研究，促進國內外之學術機構進行學術交流合作，使國際間對中華文化有更充分的瞭解，進而與其他文化融合，為全體人類的福祉盡一分心力。 本會組織分決策、行政與學術三部分。董事會乃最高決策單位，由董事十五人至二十一人組成，並設監察人三位。總部綜理行政事務，同時在美國華盛頓特區近郊設美洲辦事處襄助美洲事務；並在美國、捷克、香港、德國設置蔣經國基金會海外漢學中心。學術部分則設立國內、美洲、歐洲、亞太及新興地區等五個諮議委員會，由各地區資深學者組成，分別負責審核該地區之計畫申請案及中華民國留學生博士論文獎學金申請案，另聘請各國德望俱隆之耆彥為顧問，指導會務。 本會出版中英文年報，並備有簡介，歡迎索取。",
+    "publisher": "蔣經國國際學術交流基金會",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [],
+    "clicks": 1,
+    "order": 397
+  },
+  {
+    "id": 509,
+    "title": "當代名人手稿典藏",
+    "url": "https://manu.ncl.edu.tw/nclmanuscriptc/nclmanukm?@@0.19897402500570616",
+    "image": "covers/resources/509.png",
+    "description": "國家圖書館職司全國文獻之徵集與典藏，所以蒐求名家手稿、函牘及日記等資料向為本館工作之重點。資訊時代，已少有人提筆作書，即便以書寫為業的作家都以電腦做稿，未來人類可能不再書寫，不留任何手跡，當然也不再製作任何手稿，書寫也必須重新定義，這是人類文化史上最大的變革。手稿的保存乃文化之傳承，所以就保存文化的角度而言，職責所在，國家圖書館自當全力以赴。本館徵集手稿的重點，著眼於當下，以當今之名人名家為徵求對象，此外既是名人名家，其對象自然不限於文人作家，也包括重要的政治人物、軍事家、科學家、企業家、藝術家、宗教家等對社會卓有貢獻的各行各業人士。然而作家以寫作為業，自然容易產出較多的手稿，所以也較容易成為本館徵求資料的對象。關於手稿的界定，我們仍堅持古典意義所指涉的手寫、手作的資料，也就是所謂「任何非印刷的手寫文本資料」。本館典藏手稿的形式非常多樣，包括詩歌、散文、小說、書信、日記、劇本、評論等各種寫作體例，此外我們也注重名人作家其他不同的筆觸，如書法、中國水墨、素描、水彩、油畫等藝術作品。這些以不同的工具，進行不同的表現，其線條不同，色彩各異，往往顯現作者廣泛的面向與更為全面的精神風貌。本館手稿的典藏環境為善本書庫，恆溫恆濕，防火防盜，國寶重地，舉世聞名，管理極為嚴格。資訊時代，讀者親臨圖書館閱覽資料，已不敷大眾需求，所以本館運用資訊工具建置「當代名人手稿典藏系統」，逐步將本館珍藏大批手稿資料全文掃描上網，可無遠弗界的提供讀者進行欣賞和研究，也可達到社會教育的最高目標。系統的建置特別著重圖像的顯示，透過不同的檢索路徑，無論文字或者畫作，都能在系統上清晰的呈現，而且圖像可不斷放大以檢視筆觸和用色，幾已達到欣賞原作的效果。本系統的建置在國內應為一新的嘗試。本系統另一重要功能為整合本館原「當代文學史料影像系統」，該系統本館長期經營，資料豐富，內容包括臺灣50年來逾2千位著名作家，海內外知名，相關資料涵蓋作家傳記、著作年表、作品目錄、評論文獻等大量的文學史料，加以新上傳的圖像資料，整合後新系統的內容及呈現定更為多元和全面。期盼各位親愛的讀者，一如既往的愛護和支持國家圖書館，並不吝對本館繼續提出批評和指教。",
+    "publisher": "國家圖書館",
+    "categories": [
+      "博物館與線上展覽",
+      "臺灣研究資料庫"
+    ],
+    "subjects": [],
+    "clicks": 10,
+    "order": 398
+  },
+  {
+    "id": 510,
+    "title": "網上小說故事世界",
+    "url": "http://www.uswebcity.com/story/",
+    "image": "covers/resources/510.png",
+    "description": "",
+    "publisher": "",
+    "categories": [
+      "閱讀推薦與電子書"
+    ],
+    "subjects": [
+      "國文"
+    ],
+    "clicks": 15,
+    "order": 399
+  },
+  {
+    "id": 512,
+    "title": "地理學報",
+    "url": "http://www.geog.ntu.edu.tw/tw/journal/volumns/authorize",
+    "image": "covers/resources/512.png",
+    "description": "",
+    "publisher": "國立臺灣大學地理環境資源學系",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 4,
+    "order": 401
+  },
+  {
+    "id": 513,
+    "title": "燦爛的中國文明",
+    "url": "https://chiculture.org.hk/",
+    "image": "covers/resources/513.png",
+    "description": "中國文化研究院致力弘揚傳統中華文化，介紹當代中國發展。研究院以嶄新形式、豐富題材和多元角度，呈現古代中國的燦爛文明，傳遞當代中國的偉大復興，探索百年變局的發展機遇。研究院紮根香港，懷抱世界，不斷增強年青一代的民族認同，讓港人認識過去、融通古今、成就未來；讓世界聆聽中國聲音、認識中國發展、了解中國主張。",
+    "publisher": "中國文化研究院",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 8,
+    "order": 402
+  },
+  {
+    "id": 515,
+    "title": "國立臺灣歷史博物館",
+    "url": "https://www.nmth.gov.tw/",
+    "image": "covers/resources/515.png",
+    "description": "國立臺灣歷史博物館，簡稱臺史博、台史博，基地位於臺南市安南區，佔地20公頃，鄰近亞太國際棒球訓練中心，建築物計行政典藏大樓、展示教育大樓、湖畔圖書館各一座。展示內容著重在臺灣歷史，包括多民族長時間與臺灣自然環境互動的歷史。另外也包括臺灣對外關係、臺灣各族群、以及現代化的臺灣等多項展覽主題。",
+    "publisher": "國立臺灣歷史博物館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 20,
+    "order": 404
+  },
+  {
+    "id": 516,
+    "title": "國家文化資產網",
+    "url": "https://nchdb.boch.gov.tw/",
+    "image": "covers/resources/516.png",
+    "description": "文化資產展現土地與人民的歷史記憶，不僅是建構國家文化主體性的重要環節，透過傳承無形傳統文化核心價值，亦彰顯臺灣文化的多元性及獨特性。為保存文化資產所具有之歷史、藝術、科學等文化價值，並呼應國際文化資產保護趨勢，我國自民國(下同)71年《文化資產保存法》（以下簡稱文資法）公布施行，開始有系統的進行文化資產保存工作，歷經多次修訂，將文化資產分為「有形文化資產」及「無形文化資產」共14類。為保存、保護及管理水下文化資產，於104年制定《水下文化資產保存法》，確立且開啟水下文化資產之法定地位與保存政策。",
+    "publisher": "文化部文化資產局",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 4,
+    "order": 405
+  },
+  {
+    "id": 517,
+    "title": "臺灣百年歷史地圖",
+    "url": "https://gissrv4.sinica.edu.tw/gis/twhgis/",
+    "image": "covers/resources/517.png",
+    "description": "台灣百年歷史地圖是中研院人社中心地理資訊科學研究專題中心運用「地圖與遙測數位典藏計畫」所累積大量的台灣地圖資料，結合Google地圖介面，所建立一個全新的網站服務。透過該系統，使用者可以任意選取2~3個 圖層進行套疊，並各自設定不同的透明度，便能輕易地進行不同時期之間地圖套疊與比對作業，掌握臺灣百年來環境變遷基本資訊。",
+    "publisher": "地理資訊科學研究專題中心",
+    "categories": [
+      "臺灣研究資料庫"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 16,
+    "order": 406
+  },
+  {
+    "id": 518,
+    "title": "中央研究院史語所",
+    "url": "https://dahcr.ihp.sinica.edu.tw/home.php",
+    "image": "covers/resources/518.png",
+    "description": "",
+    "publisher": "中央研究院歷史語言研究所",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 0,
+    "order": 407
+  },
+  {
+    "id": 519,
+    "title": "京都大学石刻拓本",
+    "url": "http://kanji.zinbun.kyoto-u.ac.jp/db-machine/imgsrv/takuhon/",
+    "image": "covers/resources/519.png",
+    "description": "資料庫名稱為「京都大學人文科學研究所所藏石刻本資料\u0002」，此網頁提供文字檢索，可依需求，根據全文、名稱、原提名、年代、出土地點、版本，藏拓及拔印及文獻記載等分類檢索，便利讀者查詢。",
+    "publisher": "京都大学人文科学研究所",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [],
+    "clicks": 6,
+    "order": 408
+  },
+  {
+    "id": 520,
+    "title": "高雄市立歷史博物館典藏查詢系統",
+    "url": "https://collection.khm.gov.tw/index.aspx",
+    "image": "covers/resources/520.png",
+    "description": "高雄市立歷史博物館典藏文物係蒐藏高雄歷史發展軌跡及多元文化內涵，以及高雄地區各時代居民生活記憶相關之文物與史料等文化資產，予以系統整理、蒐集、維護，作為研究、展覽、教育之依據，期成為高雄地區文史知識庫。 本館自民國87年10月25日開館至今，已將所有典藏文物進行數位化，並於民國104年更新系統，將本館典藏品逾2萬件，諸如史料文獻、老照片、漆器、木質、織品、金工及皮影戲偶等，全部建置進入系統以利查詢，文物時間則涵蓋自史前乃至現今，內容豐富多元，提供各界研究、展覽、推廣及教育使用。",
+    "publisher": "高雄市立歷史博物館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 3,
+    "order": 409
+  },
+  {
+    "id": 521,
+    "title": "國家地理雜誌中文網",
+    "url": "http://www.natgeomedia.com/",
+    "image": "covers/resources/521.png",
+    "description": "大石國際文化有限公司（下簡稱大石文化）於 2009 年成立於臺灣，是美國國家地理合股有限公司（National Geographic Partners LLC）在臺灣及大陸授權的出版公司，並與大英博物館、Weldon Owen、White Star 等多家國際頂尖出版機構合作。大石文化以“用最精緻的方式傳遞知識”為宗旨，以出版最高品質的中文圖文書為目標。除了傳統出版外，大石文化也致力於舉辦攝影課程，近年引進國家地理知名攝影大師如麥可•山下、法蘭斯•蘭汀等在臺灣與海外開辦高端攝影課程，讓臺灣攝影愛好者有機會親炙國際攝影大師。 2013 年大石文化在臺重新發行《國家地理》雜誌中文版，出版紙本及電子雜誌，成為全方位的出版公司。大石文化執行長暨《國家地理》雜誌中文版總編輯李永適歷任《大地地理》雜誌總編輯、《國家地理》雜誌中文版創刊主編、《華夏地理》雜誌主編（中國大陸）等職務，並四度獲雜誌報導金鼎獎、吳舜文新聞獎、中國時報開卷版年度十大好書等多項獎項。",
+    "publisher": "大石國際文化有限公司",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 47,
+    "order": 410
+  },
+  {
+    "id": 522,
+    "title": "地理資訊圖資雲服務",
+    "url": "https://www.tgos.tw/tgos",
+    "image": "covers/resources/522.png",
+    "description": "內政地理資訊圖資雲整合服務平台（以下簡稱TGOS平台）定位為全國地理空間資料及網路服務搜尋取用、瀏覽查詢與加值媒合之入口，擁有最完整及正確的全國地理資料與網路服務之查詢目錄與詮釋資料庫，並作為全國地理資料與網路服務供應的仲介者，使用者只需於 TGOS平台，透過查找圖資資料集名稱，即能輕易發現哪裡有想要的相關地理資料與網路服務，內容是什麼，該跟誰申請，有什麼供應或限制條件等，讓社會大眾及各機關 （包括政府、民間及學術機構），可以很方便地在單一平台上發現何處有自己想要的地理資料與網路服務。（包括政府、民間及學術機構），可以很方便地在單一平台上發現何處有自己想要的地理資料與網路服務。",
+    "publisher": "內政部資訊服務司",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 7,
+    "order": 411
+  },
+  {
+    "id": 524,
+    "title": "BBC 中文網",
+    "url": "https://www.bbc.com/zhongwen/trad/topics/c83plve5vmjt",
+    "image": "covers/resources/524.png",
+    "description": "",
+    "publisher": "",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 44,
+    "order": 413
+  },
+  {
+    "id": 525,
+    "title": "公民新聞",
+    "url": "https://www.peopo.org/",
+    "image": "covers/resources/525.png",
+    "description": "",
+    "publisher": "財團法人公共電視文化事業基金會",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 8,
+    "order": 414
+  },
+  {
+    "id": 528,
+    "title": "商業應用的英文練習",
+    "url": "https://www.businessenglishsite.com/",
+    "image": "covers/resources/528.png",
+    "description": "",
+    "publisher": "BusinessEnglishSite",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "英文"
+    ],
+    "clicks": 41,
+    "order": 417
+  },
+  {
+    "id": 529,
+    "title": "昌爸工作坊",
+    "url": "http://www.mathland.idv.tw/",
+    "image": "covers/resources/529.png",
+    "description": "身為E世代學童的教師得認真思考運用新科技融入教學，全方位激發學童的學習動機，協助他們擁有終身不斷學習的能力。顯然，網際網路可以在教育環境，發揮更積極的功能，它能突破時間、空間的限制，提供學習者在一個虛擬環境，共同討論、交換心得。學習地點不限定在教室，教材也不限定是書包內的教科書，藉著網路教學，教師可以採取不同途徑，不同步調的適性教學，提供學生一個多元互動、能自主又無壓力的學習環境，可以隨時隨地上網探索知識，快樂學習成長。",
+    "publisher": "昌爸工作坊",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "數學"
+    ],
+    "clicks": 55,
+    "order": 418
+  },
+  {
+    "id": 530,
+    "title": "科學小玩意",
+    "url": "http://n.sfs.tw/?u=zfang",
+    "image": "covers/resources/530.png",
+    "description": "這是一個喜歡科學的理化老師所分享的網站，內容包含生活中發現的小科學、小趣味與小玩意，以及在理化教學上的點點滴滴。",
+    "publisher": "",
+    "categories": [
+      "線上課程與影音",
+      "媒體與知識雜誌"
+    ],
+    "subjects": [
+      "自然科學"
+    ],
+    "clicks": 61,
+    "order": 419
+  },
+  {
+    "id": 531,
+    "title": "高中物理教學E化網",
+    "url": "https://sites.google.com/site/phyelearning/",
+    "image": "covers/resources/531.png",
+    "description": "高中物理線上學習網站",
+    "publisher": "",
+    "categories": [
+      "生涯與升學",
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "自然科學"
+    ],
+    "clicks": 228,
+    "order": 420
+  },
+  {
+    "id": 533,
+    "title": "環境資訊中心",
+    "url": "https://e-info.org.tw/",
+    "image": "covers/resources/533.png",
+    "description": "《環境資訊中心》是由「社團法人台灣環境資訊協會」成立的非營利網路媒體，自2000年起，我們致力於提供全面的國內外環境報導，期許能替沒有選票的山林、海洋、土地發聲。 我們相信，任何行動都源自於「知道身邊發生什麼事」開始，唯有資訊公開、普及，並透過社會大眾參與，方能促進人與自然和諧，臻至永續發展。",
+    "publisher": "社團法人台灣環境資訊協會",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 9,
+    "order": 422
+  },
+  {
+    "id": 534,
+    "title": "教育部原力網",
+    "url": "https://indigenous.moe.gov.tw/",
+    "image": "covers/resources/534.png",
+    "description": "網際網路是最方便取得資訊的媒體工具之一，透過資訊網將各式資訊放在網頁上，提供大眾瀏覽觀看，隨著現今使用電腦的人口日益增多，對於網路的依賴與需求已達密不可分的程度。因此，教育部致力改善原住民學生的學習環境、提升教育成效及強化學習與生活輔導，惟現有相關助學、獎勵、考試、交流、就業等相關措施與訊息係散於各相關網站，搜尋較為費時且不便，爰整合相關政府資源，提供大專校院原住民學生即時且更為便利的使用資訊。 簡稱：原力網(透過整合後的全新網頁，提供原住民學生一站式的優質服務) 原意：”出力”為原住民族人彼此加油鼓勵的吆喝語，給予原住民學生力量及”原動力”，在助學、獎勵或就業等資訊搜尋能更為方便，同時整合各校原住民族文化活動，讓學生對原住民族文化有更深的認識，讓我們大家一起「出力」、「努力」、「給力」，為充滿「活力」的原住民學生生涯「培力」。",
+    "publisher": "教育部原住民族及少數族群教育資訊網",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 30,
+    "order": 423
+  },
+  {
+    "id": 536,
+    "title": "愛學網",
+    "url": "https://stv.naer.edu.tw/index.jsp",
+    "image": "covers/resources/536.png",
+    "description": "簡介 本網站自101年2月4日開站，正式命名為「愛學網」，提供學生課後學習及教師課堂教學輔助之參考。內容包含： 愛學習 愛學習目標對象為國小至高中階段的學生，內容架構完整呈現語文、數學、社會、自然科學、藝術、綜合活動、健康與體育、科技等八大領域及電機與電子群科的課程影片，包羅萬象的影音學習資源，結合108課綱核心素養的豐富內涵，影片皆經過專業老師篩選與編排，讓學生成為學習的主體，引發學生學習動機與熱情，自主行動，成為具有社會適應力與應變力的終身學習者。 愛教學 愛教學目標對象為教師，以十二年國民基本教育課程綱要為出發點，導入以八大領域及電機與電子群科為主體的課程地圖，並以各階段的學習重點對應本站所有影音學習資源分類，是教師教學輔助的工具；教學設計為教師備課與教學最佳利器，佐以教學示例影片與教案徵集得獎之創意教案，供教師以本站學習資源進行教案實作，活化教學內容；虛擬教室為站內小型社群功能，提供教師與學生進行站內學習資源分享與討論，進行有效的溝通互動。 愛參與 愛參與目標對象為家長與一般民眾，本站提供認識課綱的宣導影片，使家長與民眾對於課綱有更深入的認識；教育趨勢配合本院研究主軸，以課程教學、教育人力、公平/素質、績效責任、其他等五大主題，分別介紹近年國內外最新教育動態與趨勢，提高民眾在教育領域的社會參與；生涯發展著重於孩子的適性揚才與輔導，兼顧學生個別需求，提倡適才適性教育；百年老校是臺灣校園歷史的重要軌跡，是教與學交織的百年美麗篇章，本站將以百年小學至大學細細訴說這精采的百年故事。 愛生活 愛學網歷年來邀請訪談教育工作者、作家、社會人文、科普達人等賢達楷模，分享他們豐富的人生故事及奮鬥歷程，勉勵全國中小學生陶養生活知能；愛學影展提供優質電影展及歷年徵集之微電影集錦，開拓多元文化與理解視野。",
+    "publisher": "國家教育研究院",
+    "categories": [
+      "線上課程與影音",
+      "博物館與線上展覽",
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 164,
+    "order": 425
+  },
+  {
+    "id": 537,
+    "title": "VoiceTube",
+    "url": "https://tw.voicetube.com/",
+    "image": "covers/resources/537.png",
+    "description": "『看影片』英文學習法 死記數千個單字卻聽不懂？ 真人母語的生活場景，讓你學到口語或更正式的英語用法，VoiceTube 全球超過 450 萬人使用、近 9 成學習者好評推薦！ 超過十萬部道地情境影音，一次加強聽說讀寫！",
+    "publisher": "VoiceTube",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "英文"
+    ],
+    "clicks": 262,
+    "order": 426
+  },
+  {
+    "id": 538,
+    "title": "TED Talks",
+    "url": "https://www.ted.com/talks?language=zh-tw",
+    "image": "covers/resources/538.png",
+    "description": "TED is on a mission to discover and spread ideas that spark imagination, embrace possibility and catalyze impact. Our organization is devoted to curiosity, reason, wonder and the pursuit of knowledge — without an agenda. We welcome people from every discipline and culture who seek a deeper understanding of the world and connection with others, and we invite everyone to engage with ideas and activate them in your community.",
+    "publisher": "TED Talks",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 139,
+    "order": 427
+  },
+  {
+    "id": 539,
+    "title": "CoSci虛擬實驗室",
+    "url": "https://cosci.tw/",
+    "image": "covers/resources/539.png",
+    "description": "",
+    "publisher": "",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [
+      "自然科學"
+    ],
+    "clicks": 44,
+    "order": 428
+  },
+  {
+    "id": 540,
+    "title": "DeltaMOOCx 台達磨課師 YouTube 頻道",
+    "url": "https://www.youtube.com/channel/UCyDIP-h6xNBAiXITkbvubhA/videos",
+    "image": "covers/resources/540.png",
+    "description": "關於DeltaMOOCx台達磨課師 Massive Open Online Courses （簡稱MOOCs）係大量且開放又兼具互動功能的線上課程，中文譯為「磨課師」。台達電子創辦人暨台達電子文教基金會董事長鄭崇華先生，有感於MOOCs的開課方式與教學功能，是未來教育的重要趨勢， 2014年決定出資贊助開設MOOCs課程，邀請清華大學彭宗平講座教授擔任計畫主持人。首要原則為聚焦在特定領域，另外堅持兩個原則，亦即DeltaMOOCx是基於公益，且長期永續經營，以達成效。本MOOCs平臺定名為「DeltaMOOCx」，即「台達磨課師」。 課程平臺分兩部分，大學部分，以「自動化學程」為優先實施的核心領域，再擴及電機與機械相關課程。台達基金會與國立臺北科技大學、國立臺灣科技大學、國立雲林科技大學三所重點科技大學，成立聯盟，邀請教學優良的教授，共同規劃及開設課程。 高中部分，係與教育部國民與學前教育署、國家教育研究院合作，由教育部所屬各相關學／群科中心規劃及開設課程，包括普通高中的數學、物理、化學、生物、地球科學等五學科，以及高工的數學和電機電子群科的核心科目，包括基本電學、電子學、數位邏輯、電工機械等課程。所有課程影片均經過國家教育研究院審查通過，確保內容之品質與正確性。 DeltaMOOCx初期使用捷鎏公司開發的ShareCourse平臺，2018年起，委由元智大學技術團隊另行開發客製化平臺。課程影片均為高畫質，由愛爾達電視台負責錄製與剪輯。",
+    "publisher": "DeltaMOOCx/youtube",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 95,
+    "order": 429
+  },
+  {
+    "id": 546,
+    "title": "國立臺灣圖書館網路辦證步驟說明(借閱電子資源)",
+    "url": "https://cis.ntl.edu.tw/F?func=file&file_name=net-bor-new",
+    "image": "covers/resources/546.png",
+    "description": "",
+    "publisher": "",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 17,
+    "order": 431
+  },
+  {
+    "id": 547,
+    "title": "台灣國家公園網站",
+    "url": "https://www.nps.gov.tw/",
+    "image": "covers/resources/547.png",
+    "description": "透過台灣國家公園網站，能認識台灣動植物生態，增加登山知識，也能研擬登山路線，是進行登山安全教育的好幫手。網站中有個「青少年知識平台」的頻道，雖然內容量不多，但能帶孩子認識全球暖化、生物多樣性等環境教育議題。",
+    "publisher": "內政部國家公園署",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [
+      "自然科學"
+    ],
+    "clicks": 16,
+    "order": 432
+  },
+  {
+    "id": 548,
+    "title": "線上美術館： Google Arts & Culture",
+    "url": "https://artsandculture.google.com/",
+    "image": "covers/resources/548.png",
+    "description": "一個超讚的藝術網站，能認識各類藝術流感、近距離接觸著名藝術家的畫作，也可以用超高倍率觀看在故宮沒辦法近距離觀看的翠玉白菜面貌。",
+    "publisher": "google",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 54,
+    "order": 433
+  },
+  {
+    "id": 559,
+    "title": "臺北市立圖書館",
+    "url": "https://isearch.tpml.edu.tw/",
+    "image": "covers/resources/559.png",
+    "description": "臺北市立圖書館依不同主題整理的電子資源",
+    "publisher": "臺北市立圖書館",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 35,
+    "order": 434
+  },
+  {
+    "id": 557,
+    "title": "教育部108課綱資訊網-自主學習專區",
+    "url": "https://shs.k12ea.gov.tw/site/12basic/category?root=42&cid=16614&oid=92008",
+    "image": "covers/resources/557.png",
+    "description": "教育部108課綱資訊網-自主學習專區的數位課程學習，適合想要瞭解自主學習的學生、家長和教師們，透過線上數位學習課程認識更認識自主學習。 內容包含： 一、高級中等學校學生自主學習數位學習課程說明 二、高級中等學校學生自主學習類型及教師指導模組 三、高級中等學校學生自主學習先導課程：學生篇 四、高級中等學校學生自主學習先導課程：學生篇(影片) 五、高級中等學校學生自主學習數位學習課程：教師篇（簡報） 六、高級中等學校學生自主學習數位學習課程：教師篇（影片） 七、教育部因材網課程包操作手冊 八、 教育部磨課師使用者操作手冊",
+    "publisher": "教育部國民及學前教育屬",
+    "categories": [
+      "自主學習"
+    ],
+    "subjects": [],
+    "clicks": 897,
+    "order": 436
+  },
+  {
+    "id": 553,
+    "title": "108課綱 教育改變發生中",
+    "url": "https://www.youtube.com/watch?v=OX9u7q0SmD4&ab_channel=%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E6%95%99%E8%82%B2%E9%83%A8",
+    "image": "covers/resources/553.jpg",
+    "description": "教育部介紹108課綱的影片",
+    "publisher": "中華民國教育部",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 1371,
+    "order": 437
+  },
+  {
+    "id": 555,
+    "title": "National Taiwan University",
+    "url": "https://www.coursera.org/taiwan",
+    "image": "covers/resources/555.png",
+    "description": "We firmly believe that open access to learning is a powerful socioeconomic equalizer. NTU is especially delighted to join other world-class universities on Coursera and to offer quality university courses to the Chinese-speaking population. We hope to transform the rich rewards of learning from a limited commodity to an experience available to all.",
+    "publisher": "Coursera",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 212,
+    "order": 438
+  },
+  {
+    "id": 550,
+    "title": "K歌學英文： Lyrics Training",
+    "url": "https://lyricstraining.com/",
+    "image": "covers/resources/550.png",
+    "description": "透過唱KTV方式來學英文很好玩吧！還提供挖空特定單字的歌詞列印功能，讓應文能力在歌唱間進步神速。",
+    "publisher": "",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "英文"
+    ],
+    "clicks": 153,
+    "order": 439
+  },
+  {
+    "id": 542,
+    "title": "LIS 情境科學教材",
+    "url": "https://lis.org.tw/",
+    "image": "covers/resources/542.png",
+    "description": "LIS 最早起源於 2013 年，創辦人嚴天浩為追求臺灣教育平等而創立了 LIS，一開始運用 PPT 錄製大量免費的教學影片，但隨後發現這些以補救概念錄製的影片並非學習弱勢孩子的根本解。2014 年團隊走訪了台東孩子的書屋，看見學習弱勢的孩子不是看不到這些教學影片，而是不想看。於是團隊暫停了影片錄製，重新思考：「身為一個老師，如果沒有考試與課本，我真正想教給孩子的是什麼？」 2015 年在書屋的支持下，團隊重啟了影片製作，也開啟台北台東的「影片測試」之旅。團隊每 2-3 個月便會回到書屋，把一部部影片播放給孩子們看，同時收取回饋以確保影片能符合「引起學習動機」的需求。在同年 LIS 確立了教學影片的風格：「以科學史作為課綱脈絡，實景與動畫穿插，結合角色、情境及知識內容」，並正式啟動大科學計畫，打造一套能引起學習動機，以及培養能力的教材。",
+    "publisher": "社團法人台灣線上教育發展協會",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "自然科學"
+    ],
+    "clicks": 267,
+    "order": 440
+  },
+  {
+    "id": 549,
+    "title": "TED-Ed頻道(中文化課程)",
+    "url": "https://www.youtube.com/playlist?list=PLDYWZUcGbh494_GlcJjd3SlF5p4JPAsUF",
+    "image": "covers/resources/549.png",
+    "description": "把生硬知識變得好玩動畫： 先有雞還是先有蛋？你看到的是白色的嗎？像這樣的科學大哉問、生硬的光波長原理，TED-Ed都透過生動活潑的動畫演給你看。 各領域傑出人物發表觀點的演講平台TED，鼓勵有熱情的老師或非正規教育者創造互動課程，並分享給Ted-Ed，再由TED-Ed志工動畫師將課程製作成短片，使用者可根據內容類型、學習年紀、影片長度、國家地區等的條件選課，目前共有12大主題類別，課程數將近20萬。",
+    "publisher": "",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 201,
+    "order": 441
+  },
+  {
+    "id": 554,
+    "title": "全國法規資料庫",
+    "url": "https://law.moj.gov.tw/",
+    "image": "covers/resources/554.jpg",
+    "description": "歡迎使用全國法規資料庫網站，本網站提供各界經由網際網路單一窗口簡單、方便、公開查詢法規資料及各機關法規網站，以達有效管理及公開法令資訊，建構法治社會之目標。",
+    "publisher": "法務部",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 39,
+    "order": 442
+  },
+  {
+    "id": 551,
+    "title": "教育部性別平等全球資訊網-線上課程",
+    "url": "https://www.gender.edu.tw/web/index.php/m7/m7_10_01_index",
+    "image": "covers/resources/551.png",
+    "description": "1.學校通報校園性別事件調查及處理程序教學影片 2.大專校院校園性別事件防治與處理線上課程教材",
+    "publisher": "教育部",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 38,
+    "order": 443
+  },
+  {
+    "id": 544,
+    "title": "成大開放式教育平台",
+    "url": "https://i-ocw.ctld.ncku.edu.tw/",
+    "image": "covers/resources/544.png",
+    "description": "美國麻省理工學院(MIT)1999年起開始推動Open Course Ware (OCW)計畫，於網路上無償地開放分享該校課程資源供大眾學習。2002年美國麻省理工學院組織國際開放式課程聯盟(Open Course Ware Consortium, OCWC)，國外院校陸續加入該組織並參與開放式課程之推動，開放分享各校專精的課程知識領域，目前約46個國家，超過250所大學暨非營利組織參與。 Open Course Ware (OCW)本意是知識的開放與分享，中文譯為「開放式課程」就常被誤認為是完整課程開放。其實開放式課程是由學校單方向提供自學資源與知識，由自學者自我訂定學習目標，並自行決定學習方式與內容。其成立目的主要是為了鼓勵全球各國共同開放課程教材，並擴展開放式課程的範圍和影響力。 為促進教學資源共享，落實建構終身學習環境理念，提供自學者更寬廣的學習內容。而為響應全球開放式教育運動並善盡社會責任、提高能見度，將邀請各學系及區域夥伴學校提供能彰顯該特色之優質課程，建置「開放式課程」網站。其教材內容除提供社會人士免費自我學習外，並提供予國內外學生、教師及相關研究人員作為學習輔助、課程教學及研究題材之參考，以提昇學習效果及研究品質。 進行開放式課程之學術機構，為整合開放學術資源，決定共同成立「開放式課程聯盟(OpenCourseWare Consortium, OCWC)」。交通大學為響應世界開放教育資源運動，於2007年4月加入，成為台灣第一所加入該組織的頂尖學府，透過持續與聯盟成員的互動、分享，拓展國際間校際合作機會。2007年底政治大學、成功大學...等學校亦陸續加入該聯盟。",
+    "publisher": "成功大學",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 422,
+    "order": 444
+  },
+  {
+    "id": 562,
+    "title": "期刊文獻資訊網",
+    "url": "https://tpl.ncl.edu.tw/NclService/",
+    "image": "covers/resources/562.png",
+    "description": "國家圖書館查詢期刊文獻的網站",
+    "publisher": "國家圖書館",
+    "categories": [
+      "圖書館與學術資源"
+    ],
+    "subjects": [],
+    "clicks": 138,
+    "order": 445
+  },
+  {
+    "id": 545,
+    "title": "臺師大開放式課程",
+    "url": "http://ocw.lib.ntnu.edu.tw/",
+    "image": "covers/resources/545.png",
+    "description": "臺師大開放式課程( NTNU OCW)秉持開放學習的原則，本校專業、通識課程，及邀請校外來賓演講等多數課程開放中！開放學習，免費觀看！ 使用者只要針對想看的「課程影音」滑鼠右鍵一點，就能聆聽演講內容；如果點擊「課程講義」，還能觀看、下載課程講義喔！(部分「課程影音」為flash檔案由於2020/12/31 adobe flash終止支援相關影音無法觀看，部分已改為提供影片檔，敬請見諒。如仍欲觀看flash課程影音包，需使用仍支援flash的瀏覽器例如：百分瀏覽器(Windows)、Puffin瀏覽器(android、iOS)觀看。) 只要能進入課程頁面、看到影音連結便不需要帳號即可觀看。如果想觀看需要登入帳號密碼的課程，請來信e-mail服務信箱ocw@ntnu.edu.tw或是電洽7749-5577，請務必提供申請帳號者的真實姓名、聯絡e-mail、現居國家及城市（例如臺灣臺北），資料只做為申請帳密之用，個資嚴守保密，請申請者們放心喔！（帳號開通後會回信或電話告知申請者個人帳號密碼） 不分年齡老少、職業級別，人人皆可學習！請多加利用本校開放式課程吧！",
+    "publisher": "國立臺灣師範大學",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 570,
+    "order": 447
+  },
+  {
+    "id": 567,
+    "title": "老師怎麼引導學生自主學習？原來有意想不到的方法！【藝智向前走Ep4】",
+    "url": "https://www.youtube.com/watch?v=iNJOrcBtcaw",
+    "image": "covers/resources/567.jpg",
+    "description": "由廣達文教基金會執行長與新竹縣興隆國小美術老師及臺北市士東國小老師訪談，講授主題為老師怎麼引導學生自主學習？ 當中分享自己引導學生自主學習的經驗給教師。",
+    "publisher": "廣達文教基金會",
+    "categories": [
+      "自主學習"
+    ],
+    "subjects": [],
+    "clicks": 1254,
+    "order": 448
+  },
+  {
+    "id": 570,
+    "title": "作伙學",
+    "url": "https://www.108epo.com/results.php",
+    "image": "covers/resources/570.png",
+    "description": "111學年度開始，大學申請入學（學測）審查將採計學習歷程檔案，而學習歷程檔案中的「課程學習成果」是新制中一項重要變革。為瞭解高中現場實行情況，並凝聚高中端和大學端對於「課程學習成果」該如何呈現、如何審查的共識，台大社會系「作伙學團隊」已於109年舉辦五十場審議會議，蒐集大學教授、高中教師、家長和學生的意見。超過九成的與會者認為大學在審查「課程學習成果」時，應該秉持「過程比結果更重要，或一樣重要」，以及「核心素養能力比學科知識更重要，或一樣重要」兩大原則。招聯會也將此意見納入大學審查學習歷程檔案將採「三重二不」的建議原則。 然而，學生的作品該如何具體呈現重視「學習過程」與「核心素養能力」的原則，目前高中端仍缺乏明確的建議指引。因此，作伙學團隊110年度預計將繼續舉辦五十場的審議會議，邀請大學教授、高中老師、學生和家長參加。希望透過充分的討論，達成以下目標： （一）持續瞭解高中端在準備學習歷程檔案時，所遇到的挑戰及相應的改善建議 （二）將請高中學生及老師將實際製作出的作品帶來現場分享，討論並蒐集高中現場與大學端之建議，讓高中端瞭解大學端對作品的期待，也讓大學端實際看到學生多元的作品類型與實作情況，為111年的審查預作準備 （三）透過對話，協助高中端產出符合 108 課綱精神的課程學習成果作品",
+    "publisher": "國立臺灣大學社會學系",
+    "categories": [
+      "學習歷程檔案"
+    ],
+    "subjects": [],
+    "clicks": 24,
+    "order": 449
+  },
+  {
+    "id": 571,
+    "title": "技職大玩JOB",
+    "url": "https://www.twmakers.com.tw/home.jsp",
+    "image": "covers/resources/571.png",
+    "description": "讓相關單位、技專校院能夠分享辦理的各種活動，藉以發揮技職再造特色，讓大眾了解、認同技職教育並提供相關建議。",
+    "publisher": "國立高雄科技大學",
+    "categories": [
+      "生涯與升學",
+      "媒體與知識雜誌"
+    ],
+    "subjects": [
+      "綜合活動"
+    ],
+    "clicks": 12,
+    "order": 450
+  },
+  {
+    "id": 543,
+    "title": "國立陽明交通大學ewant育網開放教育平臺精選70門精彩線上課程",
+    "url": "https://www.ewant.org/local/enterprise/highschoolsailpage.php?id=64",
+    "image": "covers/resources/543.png",
+    "description": "新課綱實施後，現在高中生每週皆有2-3節課需安排彈性自主學習，以培養個人興趣及展現自學能力。自主學習的主題可以多樣化，學習方式則可以多元，並沒有特別的限制，只要經過學校老師的同意即可進行。 線上學習已經是國外學生學習的重要方式之一，也迅速成為未來終身學習的主流趨勢，因此已經有國外大學要求其學生在畢業前必須選修至少一門線上學習的課程。台灣的高中生如果可以有機會嘗試利用線上學習的方式進行自主學習，將會對其日後的大學教育及終身學習產生正面的影響。 國立陽明交通大學經營之ewant育網開放教育平臺是目前臺灣最大及最重要的開放式線上學習平臺，自2014年至今，已經累積提供來自至少50所大學的上千課次給一般大眾、企業人士及大專學生選修，而為配合高中自主學習的需求，國立陽明交通大學特別從其中精心挑選出一批適合高中生自主學習的線上課程，再針對高中生的需求做過調整後置於此專區，供有興趣的高中生採用作為新課綱中要求的高中自主學習之用。",
+    "publisher": "國立陽明交通大學",
+    "categories": [
+      "生涯與升學",
+      "線上課程與影音",
+      "媒體與知識雜誌",
+      "自主學習"
+    ],
+    "subjects": [],
+    "clicks": 4316,
+    "order": 452
+  },
+  {
+    "id": 572,
+    "title": "yory優歷",
+    "url": "https://www.yory.school/",
+    "image": "covers/resources/572.png",
+    "description": "Yory 能幫助初學者著手寫學習歷程，一步步引導慢慢抓到敘寫的脈絡。寫完後還能透過AI 檢視並給予學生意見，能豐富與深化學生的學檔內容。",
+    "publisher": "思學優有限公司",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 11,
+    "order": 453
+  },
+  {
+    "id": 575,
+    "title": "中學生網站-小論文得獎作品",
+    "url": "https://www.shs.edu.tw/Customer/Winning/EssayIndex",
+    "image": "covers/resources/575.png",
+    "description": "提供教師及學生參閱歷屆小論文得獎作品。",
+    "publisher": "",
+    "categories": [
+      "學習歷程檔案"
+    ],
+    "subjects": [],
+    "clicks": 8,
+    "order": 454
+  },
+  {
+    "id": 564,
+    "title": "在課業壓力之下，也可以做到自主學習嗎？【藝智向前走Ep4】",
+    "url": "https://www.youtube.com/watch?v=_xXEWSdTKh8",
+    "image": "covers/resources/564.jpg",
+    "description": "由廣達文教基金會執行長與新竹縣興隆國小美術老師及臺北市士東國小老師訪談，講授主題為在課業壓力之下，也可以做到自主學習嗎？ 當中分享老師及學生面對自主學習時所遇到的困境，可以如何去對應。",
+    "publisher": "廣達文教基金會",
+    "categories": [
+      "自主學習"
+    ],
+    "subjects": [],
+    "clicks": 1261,
+    "order": 455
+  },
+  {
+    "id": 577,
+    "title": "自主學習怎麼做（學生篇）？",
+    "url": "https://www.youtube.com/playlist?list=PLOG4pyKCUrsT-jg8QZsrh_89jwruTep8f",
+    "image": "covers/resources/577.jpg",
+    "description": "依據高級中等學校學生自主學習實施規範（參考規定），自主學習的分類主要有三大主軸，九個面向：A.課程與學習：A1學科知識、A2開放式網路課程、A3閱讀心得；B.實作與練習：B1主題練習與探索、B2實察體驗、B3行動方案；C.專題與研究：C1實作實驗、C2專題製作、C3獨立研究。 本課程由國立師範大學附屬高級中學洪逸文教師授課，說明自主學習的定義、階段工作任務、分類、主題查找等部分。自主學習是指學習者主動執行的個別學習，學習者可在教師的協助下，確立學習目標，調整學習方法與進度，反思學習成效的個人化學習",
+    "publisher": "",
+    "categories": [
+      "自主學習"
+    ],
+    "subjects": [],
+    "clicks": 1282,
+    "order": 456
+  },
+  {
+    "id": 578,
+    "title": "如何指導學生自主學習（教師篇）？",
+    "url": "https://www.youtube.com/playlist?list=PLOG4pyKCUrsTwliTfOdDgxPJv-Uk3xfz6",
+    "image": "covers/resources/578.jpg",
+    "description": "依據高級中等學校學生自主學習實施規範，高級中等學校之自主學習可以概分為三大主軸，九個面向：A.課程與學習：A1學科知識、A2開放式網路課程、A3閱讀心得；B.實作與練習：B1主題練習與探索、B2實察體驗、B3行動方案；C.專題與研究：C1實作實驗、C2專題製作、C3獨立研究。 本課程由10餘位教師合力編寫，內容包含自主學習的簡介、類型、指導方法及成果呈現方式等。透過本課程教師可以具體瞭解自主學習三大主軸九個面向之內涵、指導策略、以及詰問討論之方法，能更有效與系統化的指導學生進行自主學習。",
+    "publisher": "",
+    "categories": [
+      "自主學習"
+    ],
+    "subjects": [],
+    "clicks": 1244,
+    "order": 457
+  },
+  {
+    "id": 565,
+    "title": "自主學習必備的核心觀念【藝智向前走Ep4】",
+    "url": "https://www.youtube.com/watch?v=3VIqT9DS7fQ",
+    "image": "covers/resources/565.jpg",
+    "description": "由廣達文教基金會執行長與新竹縣興隆國小美術老師及臺北市士東國小老師訪談，講授主題為自主學習必備的核心觀念，老師分享相關知識給學生。",
+    "publisher": "廣達文教基金會",
+    "categories": [
+      "自主學習"
+    ],
+    "subjects": [],
+    "clicks": 1081,
+    "order": 458
+  },
+  {
+    "id": 566,
+    "title": "108課綱來了！高中生如何規劃自主學習？【藝智向前走Ep4】",
+    "url": "https://www.youtube.com/watch?v=xGtmMScuhMk",
+    "image": "covers/resources/566.jpg",
+    "description": "由廣達文教基金會執行長與新竹縣興隆國小美術老師及臺北市士東國小老師訪談，講授主題為高中生如何規劃自主學習？ 當中老師分享如何篩選、運用學習資源及高中生如何規劃自主學習。",
+    "publisher": "廣達文教基金會",
+    "categories": [
+      "自主學習"
+    ],
+    "subjects": [],
+    "clicks": 1653,
+    "order": 459
+  },
+  {
+    "id": 581,
+    "title": "戶外教育資源平台",
+    "url": "https://outdoor.moe.edu.tw/",
+    "image": "covers/resources/581.png",
+    "description": "臺灣學校與相關單位近年來逐漸重視戶外教育一環，然而，這些戶外教育相關政策與計畫之推動成果仍未以「戶外教育」之視野加以檢視與整合，活動與政策資源的串聯也尚未完備，而優質戶外教育課程教學與學習成效，以及戶外教育對學校學習之影響效果等議題仍未獲得進一步的研究及釐清。 有鑑於此，教育部於103年1月訂定發布「教育部戶外教育推動會設置要點」，103年 6 月 26日召開記者會發布 《中華民國戶外教育宣言》，完成推動戶外教育五年中程計畫各項行動方案規劃，藉由相關具體行動方案，系統化啟動臺灣戶外教育相關政策、課程及研究等運作規畫。 系統性地規劃與建立推動機制至為重要，教育部推動戶外教育五年中程計畫，包括行政支持、場域資源整合、安全管理、教學輔導和課程發展等五大系統，期能以系統性地策略，逐步推動戶外教育理念，並邀請中央、地方及民間共同營造「人人可為師、處處可學習」之學習環境。 其中行政支持部分，雖臺灣推展戶外教育已久，但於校園中仍面臨許多困境和挑戰，如現有各級教育單位與學校行政制度法規無法提供更多資源協助師生進行戶外學習。因此，針對國內各單位與民間機構進行戶外教育場域進行調查與盤點，形成戶外教育全國性資源之資料庫，並設置資源平台，將資源公開共享，以利教育工作者能取得相關資訊與資源，便是刻不容緩的重要工作。 為能逐步奠定戶外教育推動基礎，由教育部委請國家教育研究院執行戶外教育推動實施計畫，進行戶外教育場域資源盤整，以建立學校教師實施戶外教育的支持系統，並為後續促進場域單位/組織與學校合作，共同發展優質場域與課程方案奠定基礎。 108年10月23日教育部舉辦「2016-2019戶外教育分享會」，以「山、海、都市、國際」四主題面向結合聯合國「全球永續發展目標」（Sustainable Development Goals, SDGs），展現四年多來戶外教育的推動成果，並同時發佈《讓學習走入真實世界：戶外教育2.0宣言》及《戶外教育實施參考手冊-行政指引篇》，以期透過戶外教育的推動，讓學科知識學習更連結真實環境，強調在真實生活情境中學習的戶外教育，是培育臺灣學生實現永續發展目標的關鍵，希望臺灣的學生都能培養地球公民的素養，面對未來挑戰。具體落實108新課綱精神。 分享會主題「讓學習走入真實世界！戶外教育 扎根課綱」，鼓勵學生不僅從課本擷取知識，更要懂得親近土地、走入社會文化場域，探索與認識世界。藉由戶外教育分享會，鼓勵更多教師一同努力，除落實十二年國教自發、互動、共好的核心理念，同時也回應國際永續發展趨勢，讓我們的孩子們具備抽象思考、應變與問題解決的能力。豐富孩子的戶外教育學習內涵，邀請家長一起支持孩子在真實世界中的學習。",
+    "publisher": "教育部",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 9,
+    "order": 460
+  },
+  {
+    "id": 583,
+    "title": "數位讀寫網",
+    "url": "https://eliteracy.twnread.org.tw/default.aspx",
+    "image": "covers/resources/583.png",
+    "description": "歡迎來到「數位讀寫網」， 這裡是一個可靠、免費且開放的學習平台， 豐富的學習資源，是學習的最佳幫手！",
+    "publisher": "財團法人台灣閱讀文化基金會",
+    "categories": [
+      "閱讀推薦與電子書"
+    ],
+    "subjects": [
+      "國文"
+    ],
+    "clicks": 27,
+    "order": 462
+  },
+  {
+    "id": 582,
+    "title": "臺大科學教育發展中心CASE",
+    "url": "https://www.youtube.com/user/NTUCASE/videos",
+    "image": "covers/resources/582.png",
+    "description": "臺灣大學科學教育發展中心（Center for the Advancement of Science Education，簡稱NTUCASE）成立於2008年10月。成立宗旨乃在期許能將臺灣大學的科學研究及相關專業，貢獻於科學教育、科學素養，以及科技文化之啟迪養成，深耕在地放眼國際，將NTUCASE打造成一個以臺大為基地的華文科教資源平台。 NTUCASE採雙軌策略，藉由時興的「網路」、「傳播」，舉辦各項科教活動、開發科普影音網路節目、經營科普多媒體傳播，同時推動科普平面、電子出版等。以推動科學人文跨科際教育的新觀念，集結科教、科傳社群革新科學教育，開創了臺灣科學教育前所未有的紀錄。",
+    "publisher": "臺灣大學",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "自然科學"
+    ],
+    "clicks": 40,
+    "order": 463
+  },
+  {
+    "id": 574,
+    "title": "技專校院招生策略委員會-宣導資源",
+    "url": "https://www.techadmi.edu.tw/manual.php",
+    "image": "covers/resources/574.png",
+    "description": "為使學生對技藝學習與職涯發展能有初步的認識，技專校院招生策略委員會提供宣導資源等相關內容，供下載參閱。",
+    "publisher": "技專校院招生策略委員會",
+    "categories": [
+      "生涯與升學",
+      "媒體與知識雜誌"
+    ],
+    "subjects": [
+      "綜合活動"
+    ],
+    "clicks": 1802,
+    "order": 464
+  },
+  {
+    "id": 556,
+    "title": "清華磨課師MOOCS",
+    "url": "https://mooc.nthu.edu.tw/",
+    "image": "covers/resources/556.png",
+    "description": "清華大學的免費線上開放式課程平台",
+    "publisher": "清華大學",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 885,
+    "order": 465
+  },
+  {
+    "id": 558,
+    "title": "臺灣數位藝術",
+    "url": "https://www.digiarts.org.tw/Digiarts/Index/Chi",
+    "image": "covers/resources/558.png",
+    "description": "為整合數位科技藝術及跨界創作之線上資源，提供社會大眾數位科技藝術創作與發展的研究管道，國美自2004年底規劃建置「臺灣數位藝術知識與創作流通平台」網站（以下簡稱本網站），並委由專業團隊負責內容維運。為因應臺灣數位藝術環境變化、使用者習慣及媒體載具變遷，本網站因應使用者需求變遷陸續進行網站前後端之改版與優化，並於2017年進行網站全面改版，重新更名為「臺灣數位藝術」網站，期能藉更友善的介面及專題規劃，彙整臺灣數位藝術資源及論述，提供臺灣數位科技藝術相關專業人士及學生更多開放的資源與協助。",
+    "publisher": "國立臺灣美術館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 107,
+    "order": 466
+  },
+  {
+    "id": 561,
+    "title": "教育雲電子書整合服務平台",
+    "url": "https://oidcebook.nlpi.edu.tw/",
+    "image": "covers/resources/561.png",
+    "description": "教育雲電子書整合服務平台由國立公共資訊圖書館(簡稱國資圖)建置維運，配合教育部推動中小學數位學習精進方案，規劃「數位內容充實」，以學生願意讀、感興趣、易理解，可學習到教材中的知識為前提，建立優質數位內容。 本平台整合udn讀書館、iRead eBooks、HyRead電子書、HyRead電子書(計次)、台灣雲端書庫與國資圖電子書服務平台，涵蓋6個電子書資料庫，匯集約5,600種電子書、37,000+冊，期望提供教師與學生優質多元的電子書館藏，透過便利的數位閱讀，進而達成師生更好的教學與學習成效，讓教材更生動、教學更多元。",
+    "publisher": "國立公共資訊圖書館建",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [],
+    "clicks": 248,
+    "order": 467
+  },
+  {
+    "id": 560,
+    "title": "「教育部主管高級中等學校數位學習推動辦公室暨數位學習資源中心」",
+    "url": "https://vtedu.k12ea.gov.tw/nss/s/DLRC/selfdirected",
+    "image": "covers/resources/560.png",
+    "description": "高級中等學校學生自主學習數位課程，適合想要瞭解自主學習的學生、家長和教師們，透過線上數位學習課程認識更認識自主學習。",
+    "publisher": "教育部",
+    "categories": [
+      "線上課程與影音",
+      "自主學習"
+    ],
+    "subjects": [],
+    "clicks": 1339,
+    "order": 468
+  },
+  {
+    "id": 569,
+    "title": "北一女中開放式課程 x 典藏北一酷課師",
+    "url": "https://tfgcoocs.fg.tp.edu.tw/",
+    "image": "covers/resources/569.png",
+    "description": "北一女中開放式課程計畫 (TAIPEI FIRST GIRLS CREATIVE ONLINE OPEN COURSEWARES，TFG COOCS)構想來自於史丹佛大學主導的COURSERA教育平臺與麻省理工學院的MIT OPEN COURSEWARE，其宗旨在普及全世界最好的教育，向所有人提供免費的線上課程。 2015年秋冬至今，我們已完成超過3000支課堂影片錄製，內容含括高三選修數學、選修物理、選修生物、選修化學；高二數學、國文、英文、歷史、基礎物理、基礎化學、基礎生物；高一地理、歷史、地科、數學、音樂等課程。歡迎認真的孩子不限時空，適性學習；也歡迎曾經是高中生的妳/你，一起重溫高中的美好時光。",
+    "publisher": "",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 372,
+    "order": 469
+  },
+  {
+    "id": 573,
+    "title": "科宇宙悠遊學-108課綱專區",
+    "url": "https://nmns.arplanets.com/categories/c108/subject-domains/nature",
+    "image": "covers/resources/573.png",
+    "description": "108課綱專區，可更方便地依分類瀏覽課綱內的學習資源，更有效地學習符合最新課綱要求的知識。",
+    "publisher": "國立自然科學博物館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "自然科學"
+    ],
+    "clicks": 104,
+    "order": 470
+  },
+  {
+    "id": 579,
+    "title": "深入淺出 認識學習歷程檔案",
+    "url": "https://www.youtube.com/playlist?list=PLOG4pyKCUrsT5VjIA4Q4-KE0YagwCCCSL",
+    "image": "covers/resources/579.jpg",
+    "description": "本課程是高級中等學校學生學習歷程檔案入門指導課程，特別適合想要瞭解學習歷程檔案的學生、家長和教師們，透過線上數位學習課程認識學習歷程檔案。對於學校學習歷程推動者或教師來說，本課程也適合作為教學或說明的教材。整個課程分為三大主題：認識篇、實務篇以及工具篇。 在認識篇中，課程介紹了學習歷程檔案的目的、涵蓋內容，與上傳方式等；在實務篇中，則說明如何作好一份學習歷程檔案，並給予範例參考，最後，說明學習歷程檔案與大學考招的關係；在工具篇中，課程介紹了幾種常用製作工具、轉換檔案格式的方法，以及檔案大小壓縮方式，並推薦了相關資源供進一步學習。",
+    "publisher": "高級中等學校數位學習資源中心",
+    "categories": [
+      "學習歷程檔案"
+    ],
+    "subjects": [],
+    "clicks": 71,
+    "order": 471
+  },
+  {
+    "id": 591,
+    "title": "台灣當代藝術資料庫",
+    "url": "https://tcaaarchive.org/",
+    "image": "covers/resources/591.png",
+    "description": "本資料庫建置將從台灣藝術發展脈絡切入行為藝術、錄像藝術、新媒體藝術、裝置藝術、攝影藝術、繪畫、雕塑和藝評/策展人等8個方面之發展，以1980年後的創作為主，進行有系統且充分涵蓋的資料整理。資料庫能清晰呈現藝術家、相關論述、作品與其概念，透過資料的分類方式，讓使用者快速搜尋出所需的資料。透過長期持續的觀察，收集台灣當代藝術作品與論述資料以達成全面與完整為之最終目標，並透過自發性登錄、更新資料保持平台活絡。",
+    "publisher": "台灣視覺藝術協會",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 36,
+    "order": 472
+  },
+  {
+    "id": 580,
+    "title": "臺灣高中職半導體課程 課程簡介",
+    "url": "https://www.youtube.com/playlist?list=PLOG4pyKCUrsRF7DfrVSE2wNSrMu_WeEVu",
+    "image": "covers/resources/580.jpg",
+    "description": "為配合政府規劃與建構符合產業需求之人才培育系統，國教署於111年底邀請一群有相關開課經驗的相關教師們，協力開發適用高中職的相關半導體課程模組，以期提升學生對半導體產業生態、生活應用與國際地緣政治的認識，進而培育STEM領域相關科系的相關人才。 高級中等教育階段「半導體」課程之架構及內容，含「電的科學知識」、「半導體原理」、「半導體製程」、「半導體在生活中的應用」、「電路設計」及「社會面向」等6個主題與相對應的實作。本課程架構採彈性設計，可依照學校教師教學需求有多元的開課及使用方式。",
+    "publisher": "高級中等學校數位學習資源中心",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "科技"
+    ],
+    "clicks": 370,
+    "order": 473
+  },
+  {
+    "id": 584,
+    "title": "RE-THINK 海廢圖鑑",
+    "url": "https://oceantrash.rethinktw.org/",
+    "image": "covers/resources/584.jpg",
+    "description": "每年有800萬公噸垃圾進入海洋，這些不速之客入侵海洋後，被海塑造成另一個模樣，最後被海浪還給我們、擱淺在海灘上。 透過全台的淨灘，RE-THINK 拾起這些海洋廢棄物（簡稱海廢），不單只是把它清除丟掉，而是要了解它們到底是什麼、從哪來、又會去哪？了解問題，我們才可能真的解決問題。 因此，RE-THINK 花了數個月的時間，把垃圾分門別類、360 度棚拍、將生硬的資訊翻譯成白話文，跟企業夥伴、NGO 夥伴協力推出台灣第一本海洋廢棄物圖鑑。我們期待這個網站可以把生活在各處的大家帶進海邊的現場直視海廢問題，並重新思考自己生活的行為如何深深影響著這片美麗的海洋。",
+    "publisher": "社團法人台灣重新思考環境教育協會",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 53,
+    "order": 474
+  },
+  {
+    "id": 585,
+    "title": "RE-THINK 回收大百科",
+    "url": "https://recycle.rethinktw.org/",
+    "image": "covers/resources/585.png",
+    "description": "台灣是個海島國家，在面對龐大的垃圾污染時，首當其衝的是我們的海洋。但比較少見的，是我們將垃圾丟入垃圾桶後，後頭看不見的焚化、掩埋、垃圾無處安放的問題。 在全台超過 3 萬民眾的調查中，我們發現了大家有不少關於垃圾的迷思和困惑：回收有用嗎？這算是資源回收嗎？PLA 是什麼？ 寶特瓶怎麼丟？丟回收就可能被回收嗎？塑膠袋到底可不可回收？ 在台灣，回收體系極度複雜，不見得有永遠的標準答案。於是，RE-THINK 盡可能透過最專業的夥伴、彙整最可行資訊、找到最大的交集，逐步帶給大家最可靠的回收知識和規範。",
+    "publisher": "回收大百科團隊",
+    "categories": [
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "clicks": 41,
+    "order": 475
+  },
+  {
+    "id": 586,
+    "title": "PhET-科學與數學的互動式模擬教學",
+    "url": "https://phet.colorado.edu/zh_TW/",
+    "image": "covers/resources/586.png",
+    "description": "PhET 是一個延伸教育研究專案計畫，透過動畫模擬遊戲的方式吸引學生探索與發現數學、科學方面的各種知識。它是於 2002 年由諾貝爾經濟學獎得主，科羅拉多大學的 Carl Wieman 教授所發起的。",
+    "publisher": "PhET",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [
+      "數學",
+      "自然科學"
+    ],
+    "clicks": 211,
+    "order": 476
+  },
+  {
+    "id": 587,
+    "title": "教育部因材網",
+    "url": "https://adl.edu.tw/HomePage/home/",
+    "image": "covers/resources/587.png",
+    "description": "教育部因材網是一個為國中小學生設計的適性教學平台，旨在提升學習成效和教師教學效能。 它提供豐富的線上教材、診斷測驗、個人化學習路徑，以及智慧適性診斷等功能，協助學生更有效率地學習，並幫助教師更精準地進行教學。",
+    "publisher": "教育部",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 81,
+    "order": 477
+  },
+  {
+    "id": 588,
+    "title": "教育雲數位學習入口網",
+    "url": "https://elearning.cloud.edu.tw/",
+    "image": "covers/resources/588.png",
+    "description": "教育雲數位學習入口網是中華民國教育部建置的，為全國教育體系提供數位學習資源的整合平台。 它匯集了來自全國教育體系內部的特色內容，專門為教師教學和學生學習設計，提供優質的教育資源和服務",
+    "publisher": "教育部",
+    "categories": [
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "clicks": 84,
+    "order": 478
+  },
+  {
+    "id": 589,
+    "title": "爆學力｜自主學習實戰手冊",
+    "url": "https://atomskool.notion.site/583a575a4efb48c6842437f6e96084af",
+    "image": "covers/resources/589.png",
+    "description": "本書的目標，是要幫助你掌握自主學習、了解自主學習課程，更有目的地運用高中彈性學習時間。手冊內容根據同學遇到的挑戰，整合出自主學習六階段，提供豐富的實例輔助理解。",
+    "publisher": "爆學力",
+    "categories": [
+      "媒體與知識雜誌",
+      "自主學習"
+    ],
+    "subjects": [],
+    "clicks": 193,
+    "order": 479
+  },
+  {
+    "id": 590,
+    "title": "圓夢繪本",
+    "url": "https://storybook.nlpi.edu.tw/",
+    "image": "covers/resources/590.png",
+    "description": "圓夢繪本資料庫以「為自己圓一個繪本創作的夢」為主要目標，並以「原創精神」為特色，打造繪本創意作品交流園地與作品展示舞台。100年12月建置上線，初期主要收錄學生繪本作品，103年起擴大收錄地方特色繪本及得獎繪本作品，至今繪本數量超過1397種。 本資料庫繪本提供文字隱藏、有聲朗誦或加註漢語拼音的功能選項，可依需要自選親子共讀資源模式。同時標註適讀年齡並收錄相關教學資源（如著色紙或學習單），提供教師應用於多元教學內容，亦不定期邀請辦理作品展或繪本教學研習課程。",
+    "publisher": "國立公共資訊圖書館",
+    "categories": [
+      "閱讀推薦與電子書"
+    ],
+    "subjects": [
+      "藝術"
+    ],
+    "clicks": 117,
+    "order": 480
+  },
+  {
+    "id": 593,
+    "title": "常設展- 斯土斯民-臺灣的故事（探索臺灣史+）",
+    "url": "https://the.nmth.gov.tw/nmth",
+    "image": "covers/resources/593.png",
+    "description": "一站式探索臺灣史，線上學習帶著走： 可搜尋包含890件展品、30檔以上720°環景特展，108式以上臺灣史數位轉譯學習資源。 線上展覽，探索臺灣史的世界，以國立臺灣歷史博物館常設展為範圍，從史前到當代議題，常設展七大展區帶你走一遍臺灣歷史。 數位學習專區，讓教與學都更簡單： 使用108課綱關鍵字，專為教學打造的教案、學習單、主題影片，涵蓋歷史、地理、公民等領域，拓展師生數位學習的視野，更延伸臺史博15個線上展覽、主題網站及研究資料庫。 全新推出影音教材「臺灣歷史調查所」 ： 以108課綱主題為軸線，對應國高中臺灣史課程，觸及臺灣史重要節點。綜整6大學習單元、36支動畫影音，30個常設展物件，幫助脈絡化學習。 打造個人臺灣史數位資源包： 開啟我的會員服務功能收藏臺灣史展品及數位學習資源，紀錄學習足跡等，建構屬於個人的線上臺灣史數位資源學習包。",
+    "publisher": "國立臺灣歷史博物館",
+    "categories": [
+      "博物館與線上展覽"
+    ],
+    "subjects": [
+      "社會"
+    ],
+    "clicks": 7,
+    "order": 481
+  }
+]

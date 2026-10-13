@@ -1,0 +1,313 @@
+[
+ {
+  "group": "News",
+  "zh": "新聞",
+  "items": [
+   {
+    "name": "World",
+    "zh": "國際",
+    "link": "https://www.nytimes.com/section/world"
+   },
+   {
+    "name": "U.S.",
+    "zh": "美國",
+    "link": "https://www.nytimes.com/section/us"
+   },
+   {
+    "name": "Politics",
+    "zh": "政治",
+    "link": "https://www.nytimes.com/section/politics"
+   },
+   {
+    "name": "New York",
+    "zh": "紐約",
+    "link": "https://www.nytimes.com/section/nyregion"
+   },
+   {
+    "name": "Business",
+    "zh": "商業",
+    "link": "https://www.nytimes.com/section/business"
+   },
+   {
+    "name": "Tech",
+    "zh": "科技",
+    "link": "https://www.nytimes.com/section/technology"
+   },
+   {
+    "name": "Science",
+    "zh": "科學",
+    "link": "https://www.nytimes.com/section/science"
+   },
+   {
+    "name": "Health",
+    "zh": "健康",
+    "link": "https://www.nytimes.com/section/health"
+   },
+   {
+    "name": "Education",
+    "zh": "教育",
+    "link": "https://www.nytimes.com/section/education"
+   },
+   {
+    "name": "Climate",
+    "zh": "氣候",
+    "link": "https://www.nytimes.com/section/climate"
+   },
+   {
+    "name": "Sports",
+    "zh": "體育",
+    "link": "https://www.nytimes.com/section/sports"
+   },
+   {
+    "name": "Obituaries",
+    "zh": "訃聞",
+    "link": "https://www.nytimes.com/section/obituaries"
+   },
+   {
+    "name": "The Upshot",
+    "zh": "數據解讀",
+    "link": "https://www.nytimes.com/section/upshot"
+   },
+   {
+    "name": "Today’s Paper",
+    "zh": "今日報紙",
+    "link": "https://www.nytimes.com/section/todayspaper"
+   }
+  ]
+ },
+ {
+  "group": "World",
+  "zh": "國際區域",
+  "items": [
+   {
+    "name": "Africa",
+    "zh": "非洲",
+    "link": "https://www.nytimes.com/section/world/africa"
+   },
+   {
+    "name": "Americas",
+    "zh": "美洲",
+    "link": "https://www.nytimes.com/section/world/americas"
+   },
+   {
+    "name": "Asia",
+    "zh": "亞洲",
+    "link": "https://www.nytimes.com/section/world/asia"
+   },
+   {
+    "name": "Australia",
+    "zh": "澳洲",
+    "link": "https://www.nytimes.com/section/world/australia"
+   },
+   {
+    "name": "Canada",
+    "zh": "加拿大",
+    "link": "https://www.nytimes.com/section/world/canada"
+   },
+   {
+    "name": "Europe",
+    "zh": "歐洲",
+    "link": "https://www.nytimes.com/section/world/europe"
+   },
+   {
+    "name": "Middle East",
+    "zh": "中東",
+    "link": "https://www.nytimes.com/section/world/middleeast"
+   }
+  ]
+ },
+ {
+  "group": "Business",
+  "zh": "商業財經",
+  "items": [
+   {
+    "name": "Economy",
+    "zh": "經濟",
+    "link": "https://www.nytimes.com/section/business/economy"
+   },
+   {
+    "name": "DealBook",
+    "zh": "併購交易",
+    "link": "https://www.nytimes.com/section/business/dealbook"
+   },
+   {
+    "name": "Finance and Markets",
+    "zh": "金融市場",
+    "link": "https://www.nytimes.com/section/markets-overview"
+   },
+   {
+    "name": "Media",
+    "zh": "媒體產業",
+    "link": "https://www.nytimes.com/section/business/media"
+   },
+   {
+    "name": "Energy Transition",
+    "zh": "能源轉型",
+    "link": "https://www.nytimes.com/section/business/energy-environment"
+   },
+   {
+    "name": "Personal Tech",
+    "zh": "個人科技",
+    "link": "https://www.nytimes.com/section/technology/personaltech"
+   },
+   {
+    "name": "Your Money",
+    "zh": "理財",
+    "link": "https://www.nytimes.com/section/your-money"
+   }
+  ]
+ },
+ {
+  "group": "Arts",
+  "zh": "藝文",
+  "items": [
+   {
+    "name": "Arts",
+    "zh": "藝文總覽",
+    "link": "https://www.nytimes.com/section/arts"
+   },
+   {
+    "name": "Book Review",
+    "zh": "書評",
+    "link": "https://www.nytimes.com/section/books"
+   },
+   {
+    "name": "Movies",
+    "zh": "電影",
+    "link": "https://www.nytimes.com/section/movies"
+   },
+   {
+    "name": "Music",
+    "zh": "音樂",
+    "link": "https://www.nytimes.com/section/arts/music"
+   },
+   {
+    "name": "Television",
+    "zh": "電視",
+    "link": "https://www.nytimes.com/section/arts/television"
+   },
+   {
+    "name": "Theater",
+    "zh": "劇場",
+    "link": "https://www.nytimes.com/section/theater"
+   },
+   {
+    "name": "Dance",
+    "zh": "舞蹈",
+    "link": "https://www.nytimes.com/section/arts/dance"
+   },
+   {
+    "name": "Visual Arts",
+    "zh": "視覺藝術",
+    "link": "https://www.nytimes.com/section/arts/design"
+   },
+   {
+    "name": "T Magazine",
+    "zh": "T 雜誌",
+    "link": "https://www.nytimes.com/section/t-magazine"
+   },
+   {
+    "name": "The Magazine",
+    "zh": "時報雜誌",
+    "link": "https://www.nytimes.com/section/magazine"
+   }
+  ]
+ },
+ {
+  "group": "Lifestyle",
+  "zh": "生活",
+  "items": [
+   {
+    "name": "Well",
+    "zh": "健康生活",
+    "link": "https://www.nytimes.com/section/well"
+   },
+   {
+    "name": "Food",
+    "zh": "飲食",
+    "link": "https://www.nytimes.com/section/food"
+   },
+   {
+    "name": "Travel",
+    "zh": "旅遊",
+    "link": "https://www.nytimes.com/section/travel"
+   },
+   {
+    "name": "Style",
+    "zh": "時尚",
+    "link": "https://www.nytimes.com/section/style"
+   },
+   {
+    "name": "Real Estate",
+    "zh": "房地產",
+    "link": "https://www.nytimes.com/section/realestate"
+   },
+   {
+    "name": "Love",
+    "zh": "婚戀",
+    "link": "https://www.nytimes.com/section/fashion/weddings"
+   }
+  ]
+ },
+ {
+  "group": "Opinion",
+  "zh": "評論",
+  "items": [
+   {
+    "name": "Today’s Opinion",
+    "zh": "今日評論",
+    "link": "https://www.nytimes.com/section/opinion"
+   },
+   {
+    "name": "Guest Essays",
+    "zh": "客座專文",
+    "link": "https://www.nytimes.com/section/opinion/contributors"
+   },
+   {
+    "name": "Editorials",
+    "zh": "社論",
+    "link": "https://www.nytimes.com/section/opinion/editorials"
+   },
+   {
+    "name": "Letters",
+    "zh": "讀者投書",
+    "link": "https://www.nytimes.com/section/opinion/letters"
+   },
+   {
+    "name": "Politics",
+    "zh": "政治評論",
+    "link": "https://www.nytimes.com/section/opinion/politics"
+   },
+   {
+    "name": "World",
+    "zh": "國際評論",
+    "link": "https://www.nytimes.com/section/opinion/international-world"
+   },
+   {
+    "name": "Business",
+    "zh": "商業評論",
+    "link": "https://www.nytimes.com/section/opinion/business-economics"
+   },
+   {
+    "name": "Tech",
+    "zh": "科技評論",
+    "link": "https://www.nytimes.com/section/opinion/technology"
+   },
+   {
+    "name": "Climate",
+    "zh": "氣候評論",
+    "link": "https://www.nytimes.com/section/opinion/environment"
+   },
+   {
+    "name": "Health",
+    "zh": "健康評論",
+    "link": "https://www.nytimes.com/section/opinion/health"
+   },
+   {
+    "name": "Culture",
+    "zh": "文化評論",
+    "link": "https://www.nytimes.com/section/opinion/culture"
+   }
+  ]
+ }
+]

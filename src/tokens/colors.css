@@ -1,0 +1,26 @@
+/* Retro rollout: legacy names remapped onto the Colorado-Minimal-GUI palette (see retro.css). Source of truth: tokens.css (sabrinachen0302/K12_e-library_design) = Figma "Color" collection (11). Do not add color families. */
+:root{
+--color-brand-primary:#3a2f5a;
+--color-brand-mint:#9ed9d3;
+--color-brand-cta:#fe8812;
+--color-brand-accent:#f4d070;
+--color-text-primary:#252329;
+--color-text-secondary:#6F6B75;
+--color-background-page:#F7F4EC;
+--color-background-white:#FFFDF7;
+--color-border-default:#CFCAD8;
+--color-border-card:#3A2F5A;
+--color-link:#252329;
+/* Semantic aliases (point at the 11 tokens only) */
+--surface-page:var(--color-background-page);
+--surface-card:var(--color-background-white);
+--surface-nav:var(--color-brand-mint);
+--surface-nav-hover:var(--color-brand-accent);
+--surface-footer:var(--color-brand-mint);
+--text-body:var(--color-text-primary);
+--text-muted:var(--color-text-secondary);
+--text-on-brand:var(--color-text-primary);
+--action-primary:var(--color-brand-mint);
+--action-cta:var(--color-brand-cta);
+--action-toggle-active:var(--color-brand-accent);
+}

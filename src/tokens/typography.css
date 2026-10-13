@@ -1,0 +1,23 @@
+/* The .fig defines no named text styles; this scale is derived from actual usage. */
+:root{
+--font-base:"Datatype","Noto Sans TC",sans-serif;
+--font-display:"Emblema One",serif;
+--font-inter:"Inter","Noto Sans TC",sans-serif;
+--font-school:"Dhyana","Noto Sans TC",sans-serif;
+--font-card-serif:"Vesper Libre","Noto Sans TC",serif;
+--font-badge:"Rubik One",sans-serif;
+--text-display:61px;   /* landing title, Emblema One */
+--text-h-category:36px;/* category block titles, Bold */
+--text-h1:32px;        /* hero 你想找什麼？, detail title */
+--text-h2:28px;        /* section titles, SemiBold */
+--text-nav-brand:24px; /* header wordmark SemiBold / header links Regular */
+--text-lg:20px;        /* nav items Medium, search input, CTA */
+--text-field:18px;
+--text-md:16px;        /* news rows, dropdown options */
+--text-db-name:17px;
+--text-body:14px;      /* default body, card title/author */
+--text-sm:13px;
+--text-xs:12px;
+--text-chip:10px;
+--weight-regular:400;--weight-medium:500;--weight-semibold:600;--weight-bold:700;
+}

@@ -1,0 +1,8 @@
+/* Source of truth: tokens.css — Figma "Spacing" (7) + "Radius" (5). */
+:root{
+--spacing-xs:4px;--spacing-sm:8px;--spacing-md:12px;--spacing-lg:16px;--spacing-xl:20px;--spacing-2xl:32px;--spacing-3xl:48px;
+--radius-sm:4px;--radius-md:6px;--radius-lg:8px;--radius-xl:8px;--radius-pill:6px;
+/* Layout (brief: 1440 page, 48 gutters, 1344 content) */
+--page-width:1440px;--page-gutter:var(--spacing-3xl);--content-width:1344px;
+--header-height:100px;--nav-height:72px;--footer-height:72px;
+}

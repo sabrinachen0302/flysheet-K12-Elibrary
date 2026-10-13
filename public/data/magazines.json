@@ -1,0 +1,416 @@
+[
+ {
+  "id": "kono-01",
+  "title": "經濟一週",
+  "author": "KONO 電子雜誌",
+  "category": "商業財經",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a8a4ed52d767",
+  "cover": "assets/covers/magazine/mag-01.webp"
+ },
+ {
+  "id": "kono-02",
+  "title": "今周刊",
+  "author": "KONO 電子雜誌",
+  "category": "商業財經",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a86ab8f79919",
+  "cover": "assets/covers/magazine/mag-02.webp"
+ },
+ {
+  "id": "kono-03",
+  "title": "天下雜誌",
+  "author": "KONO 電子雜誌",
+  "category": "商業財經",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a86aa1c49e00",
+  "cover": "assets/covers/magazine/mag-03.webp"
+ },
+ {
+  "id": "kono-04",
+  "title": "理財周刊",
+  "author": "KONO 電子雜誌",
+  "category": "商業財經",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a86a527f366b",
+  "cover": "assets/covers/magazine/mag-04.webp"
+ },
+ {
+  "id": "kono-05",
+  "title": "商業周刊精選",
+  "author": "KONO 電子雜誌",
+  "category": "商業財經",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a865e026a70f",
+  "cover": "assets/covers/magazine/mag-05.webp"
+ },
+ {
+  "id": "kono-06",
+  "title": "PC home 電腦家庭",
+  "author": "KONO 電子雜誌",
+  "category": "科技科學",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a6ffe942bfbd",
+  "cover": "assets/covers/magazine/mag-06.webp"
+ },
+ {
+  "id": "kono-07",
+  "title": "Android 玩樂誌",
+  "author": "KONO 電子雜誌",
+  "category": "科技科學",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a87f2aa8601f",
+  "cover": "assets/covers/magazine/mag-07.webp"
+ },
+ {
+  "id": "kono-08",
+  "title": "iPhone, iPad 玩樂誌",
+  "author": "KONO 電子雜誌",
+  "category": "科技科學",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a7afac481aa6",
+  "cover": "assets/covers/magazine/mag-08.webp"
+ },
+ {
+  "id": "kono-09",
+  "title": "IT PRO 應用投資月刊",
+  "author": "KONO 電子雜誌",
+  "category": "科技科學",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/61937e81b8464",
+  "cover": "assets/covers/magazine/mag-09.webp"
+ },
+ {
+  "id": "kono-10",
+  "title": "數位時代",
+  "author": "KONO 電子雜誌",
+  "category": "科技科學",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a6c3ae667d5b",
+  "cover": "assets/covers/magazine/mag-10.webp"
+ },
+ {
+  "id": "kono-11",
+  "title": "ALL+互動英語",
+  "author": "KONO 電子雜誌",
+  "category": "語言學習",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a6d865b95628",
+  "cover": "assets/covers/magazine/mag-11.webp"
+ },
+ {
+  "id": "kono-12",
+  "title": "ABC互動英語",
+  "author": "KONO 電子雜誌",
+  "category": "語言學習",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a6d8554a5f4a",
+  "cover": "assets/covers/magazine/mag-12.webp"
+ },
+ {
+  "id": "kono-13",
+  "title": "Hello! English英語學習誌",
+  "author": "KONO 電子雜誌",
+  "category": "語言學習",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a8be3c326ef7",
+  "cover": "assets/covers/magazine/mag-13.webp"
+ },
+ {
+  "id": "kono-14",
+  "title": "Hi!JAPAN 日語學習誌",
+  "author": "KONO 電子雜誌",
+  "category": "語言學習",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a8be38e4e18e",
+  "cover": "assets/covers/magazine/mag-14.webp"
+ },
+ {
+  "id": "kono-15",
+  "title": "常春藤解析英語雜誌",
+  "author": "KONO 電子雜誌",
+  "category": "語言學習",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a8bbcab0c66c",
+  "cover": "assets/covers/magazine/mag-15.webp"
+ },
+ {
+  "id": "kono-16",
+  "title": "CNN互動英語",
+  "author": "KONO 電子雜誌",
+  "category": "語言學習",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a6d8994df5cc",
+  "cover": "assets/covers/magazine/mag-16.webp"
+ },
+ {
+  "id": "kono-17",
+  "title": "康軒學習雜誌初階版",
+  "author": "KONO 電子雜誌",
+  "category": "親子家庭",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a7c3bc01df6a",
+  "cover": "assets/covers/magazine/mag-17.webp"
+ },
+ {
+  "id": "kono-18",
+  "title": "康軒學習雜誌進階版",
+  "author": "KONO 電子雜誌",
+  "category": "親子家庭",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a7c3bd6f3b5d",
+  "cover": "assets/covers/magazine/mag-18.webp"
+ },
+ {
+  "id": "kono-19",
+  "title": "親子天下",
+  "author": "KONO 電子雜誌",
+  "category": "親子家庭",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a7d860807f8d",
+  "cover": "assets/covers/magazine/mag-19.webp"
+ },
+ {
+  "id": "kono-20",
+  "title": "媽媽寶寶",
+  "author": "KONO 電子雜誌",
+  "category": "親子家庭",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a8bb3cb2f533",
+  "cover": "assets/covers/magazine/mag-20.webp"
+ },
+ {
+  "id": "kono-21",
+  "title": "號外 City Magazine",
+  "author": "KONO 電子雜誌",
+  "category": "藝文美學",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a7bd98f44953",
+  "cover": "assets/covers/magazine/mag-21.webp"
+ },
+ {
+  "id": "kono-22",
+  "title": "聯合文學",
+  "author": "KONO 電子雜誌",
+  "category": "藝文美學",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a72a1550d138",
+  "cover": "assets/covers/magazine/mag-22.webp"
+ },
+ {
+  "id": "kono-23",
+  "title": "La Vie",
+  "author": "KONO 電子雜誌",
+  "category": "藝文美學",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a7571fa89e74",
+  "cover": "assets/covers/magazine/mag-23.webp"
+ },
+ {
+  "id": "kono-24",
+  "title": "字花",
+  "author": "KONO 電子雜誌",
+  "category": "藝文美學",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a544c835aa6e",
+  "cover": "assets/covers/magazine/mag-24.webp"
+ },
+ {
+  "id": "kono-25",
+  "title": "新假期",
+  "author": "KONO 電子雜誌",
+  "category": "旅遊美食",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/61ad863f1a17e",
+  "cover": "assets/covers/magazine/mag-25.webp"
+ },
+ {
+  "id": "kono-26",
+  "title": "放假啦！",
+  "author": "KONO 電子雜誌",
+  "category": "旅遊美食",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/611106e779392",
+  "cover": "assets/covers/magazine/mag-26.webp"
+ },
+ {
+  "id": "kono-27",
+  "title": "行遍天下旅遊月刊",
+  "author": "KONO 電子雜誌",
+  "category": "旅遊美食",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a7415627b641",
+  "cover": "assets/covers/magazine/mag-27.webp"
+ },
+ {
+  "id": "kono-28",
+  "title": "微笑台灣",
+  "author": "KONO 電子雜誌",
+  "category": "旅遊美食",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a39ef56b1edd",
+  "cover": "assets/covers/magazine/mag-28.webp"
+ },
+ {
+  "id": "kono-29",
+  "title": "常春月刊",
+  "author": "KONO 電子雜誌",
+  "category": "健康樂齡",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a7d31accc4d3",
+  "cover": "assets/covers/magazine/mag-29.webp"
+ },
+ {
+  "id": "kono-30",
+  "title": "早安健康",
+  "author": "KONO 電子雜誌",
+  "category": "健康樂齡",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a6ae831efc62",
+  "cover": "assets/covers/magazine/mag-30.webp"
+ },
+ {
+  "id": "kono-31",
+  "title": "康健雜誌",
+  "author": "KONO 電子雜誌",
+  "category": "健康樂齡",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a41e5af582d1",
+  "cover": "assets/covers/magazine/mag-31.webp"
+ },
+ {
+  "id": "kono-32",
+  "title": "秋刀魚",
+  "author": "KONO 電子雜誌",
+  "category": "生活風格",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a8dbb7c39cb9",
+  "cover": "assets/covers/magazine/mag-32.webp"
+ },
+ {
+  "id": "kono-33",
+  "title": "Shopping Design 設計採買誌",
+  "author": "KONO 電子雜誌",
+  "category": "生活風格",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/69e9a2e5a6647",
+  "cover": "assets/covers/magazine/mag-33.webp"
+ },
+ {
+  "id": "kono-34",
+  "title": "小日子享生活誌",
+  "author": "KONO 電子雜誌",
+  "category": "生活風格",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/68f3a32fb4e6c",
+  "cover": "assets/covers/magazine/mag-34.webp"
+ },
+ {
+  "id": "kono-35",
+  "title": "職業棒球",
+  "author": "KONO 電子雜誌",
+  "category": "運動競技",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a6c37f586d4b",
+  "cover": "assets/covers/magazine/mag-35.webp"
+ },
+ {
+  "id": "kono-36",
+  "title": "單車誌",
+  "author": "KONO 電子雜誌",
+  "category": "運動競技",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a60403c7f419",
+  "cover": "assets/covers/magazine/mag-36.webp"
+ },
+ {
+  "id": "kono-37",
+  "title": "高爾夫文摘",
+  "author": "KONO 電子雜誌",
+  "category": "運動競技",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a6c7573eab20",
+  "cover": "assets/covers/magazine/mag-37.webp"
+ },
+ {
+  "id": "kono-38",
+  "title": "NBA美國職籃XXL",
+  "author": "KONO 電子雜誌",
+  "category": "運動競技",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a68bb968bbae",
+  "cover": "assets/covers/magazine/mag-38.webp"
+ },
+ {
+  "id": "kono-39",
+  "title": "游絲腕表",
+  "author": "KONO 電子雜誌",
+  "category": "興趣品味",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a7aac2b7fb33",
+  "cover": "assets/covers/magazine/mag-39.webp"
+ },
+ {
+  "id": "kono-40",
+  "title": "Hi Fi 聖經",
+  "author": "KONO 電子雜誌",
+  "category": "興趣品味",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a754560ea890",
+  "cover": "assets/covers/magazine/mag-40.webp"
+ },
+ {
+  "id": "kono-41",
+  "title": "音響技術",
+  "author": "KONO 電子雜誌",
+  "category": "興趣品味",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a720140bfa58",
+  "cover": "assets/covers/magazine/mag-41.webp"
+ },
+ {
+  "id": "kono-42",
+  "title": "iLook電影雜誌",
+  "author": "KONO 電子雜誌",
+  "category": "娛樂情報",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/61ad7b4b11527",
+  "cover": "assets/covers/magazine/mag-42.webp"
+ },
+ {
+  "id": "kono-43",
+  "title": "時報周刊-娛樂版",
+  "author": "KONO 電子雜誌",
+  "category": "娛樂情報",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/61271a1da6389",
+  "cover": "assets/covers/magazine/mag-43.webp"
+ },
+ {
+  "id": "kono-44",
+  "title": "周刊王",
+  "author": "KONO 電子雜誌",
+  "category": "娛樂情報",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/612718b4ae592",
+  "cover": "assets/covers/magazine/mag-44.webp"
+ },
+ {
+  "id": "kono-45",
+  "title": "一手車訊",
+  "author": "KONO 電子雜誌",
+  "category": "汽車專區",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a7ee076eed7d",
+  "cover": "assets/covers/magazine/mag-45.webp"
+ },
+ {
+  "id": "kono-46",
+  "title": "Option改裝車訊",
+  "author": "KONO 電子雜誌",
+  "category": "汽車專區",
+  "source": "KONO",
+  "url": "https://library.thekono.com/issues/6a7f43597b500",
+  "cover": "assets/covers/magazine/mag-46.webp"
+ }
+]

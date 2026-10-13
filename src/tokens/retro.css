@@ -1,0 +1,28 @@
+/* Colorado-Minimal-GUI retro print tokens. Main hues: Mint / CTA / Accent. Primary (purple) is reserved for strokes + hard shadows only. Phase 1: used by Home + components/core. Other pages still on colors.css/spacing.css until rollout. */
+:root{
+/* Brand (4) */
+--color-brand-primary:#3A2F5A;--color-brand-mint:#9ED9D3;--color-brand-cta:#FE8812;--color-brand-accent:#F4D070;
+/* Neutrals (6) */
+--color-bg:#F7F4EC;--color-surface:#FFFDF7;--color-text:#252329;--color-text-muted:#6F6B75;--color-border:#3A2F5A;--color-disabled:#D8D5D0;
+/* Tints & states — derived from the four brand colours only */
+--color-mint-tint:#E2F3F0;--color-accent-tint:#FBF0CC;--color-primary-tint:#E8E5EE;--color-cta-hover:#F07C08;--color-on-primary:#FFFDF7;
+--color-divider:#CFCAD8;
+/* Border */
+--border-width-sm:1.5px;--border-width-md:2px;
+--border-thin:1.5px solid var(--color-border);--border-default:2px solid var(--color-border);--border-dashed:1.5px dashed var(--color-divider);
+/* Radius (max 8) */
+--corner-sm:4px;--corner-md:6px;--corner-lg:8px;
+/* Hard shadows — solid, no blur */
+--shadow-hard-sm:3px 3px 0 0 var(--color-border);--shadow-hard-md:4px 4px 0 0 var(--color-border);
+--shadow-hard-accent:4px 4px 0 0 var(--color-brand-accent);--shadow-hard-pressed:1px 1px 0 0 var(--color-border);--shadow-none:0 0 0 0 transparent;
+/* Spacing (4px scale) */
+--space-1:4px;--space-2:8px;--space-3:12px;--space-4:16px;--space-5:20px;--space-6:24px;--space-8:32px;--space-10:40px;--space-12:48px;--space-14:56px;
+--space-control-x:20px;--space-control-y:10px;--space-card:20px;--space-section:40px;
+/* Control heights */
+--control-sm:36px;--control-md:44px;--control-lg:56px;
+/* Focus */
+--focus-outline:2px solid var(--color-brand-cta);--focus-offset:2px;
+/* Type */
+--font-heading:"Noto Sans TC",sans-serif;
+--motion-press:.12s ease; /* @kind other */
+}
