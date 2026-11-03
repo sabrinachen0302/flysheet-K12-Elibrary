@@ -72,3 +72,8 @@ Object.assign(window, { K12_PLATFORMS, bookDesc, openExternal, K12_MAGAZINES, lo
 
 // 書籍標籤：books.json 的 tag 欄位（畫面上顯示的分類標籤，與 topics 分開管理）
 window.bookTag = (b) => (b && b.tag) || "";
+// 學科比對：資源資料有的標「領域」（如自然科學），有的標「科目」（如生物），兩個層級互相認得。
+// 勾科目 → 符合該科目或所屬領域；勾領域 → 符合該領域或底下任一科目。「地球科學」視同「地科」、「公民」視同「公民與社會」。
+const SUBJ_ALIAS = { "地球科學": "地科", "公民": "公民與社會" };
+window.subjRelated = (l) => { const row = CURRICULUM.find(([d, ss]) => d === l || (d === "高中家政" && l === "家政") || ss.includes(l)); if (!row) return [l]; const dom = row[0] === "高中家政" ? "家政" : row[0]; return row[0] === l || dom === l ? [l, dom, ...row[1]] : [l, dom]; };
+window.subjMatch = (x, l) => { const want = window.subjRelated(l); return (x.subjects || []).some(s => want.includes(SUBJ_ALIAS[s] || s)); };
