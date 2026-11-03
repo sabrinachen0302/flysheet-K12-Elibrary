@@ -44,7 +44,8 @@ function SearchResultsScreen({ go }) {
   const [within, setWithin] = React.useState(false);
   const [op, setOp] = React.useState("AND");
   const [scopes, setScopesRaw] = React.useState(() => (Array.isArray(saved.scope) ? saved.scope : saved.scope && saved.scope !== "全部" ? [saved.scope] : []).map(s => s === "線上學習資源" ? "電子資源" : s));
-  const setScopes = (v) => { setScopesRaw(v); setPage("1"); };
+  const autoScope = React.useRef(false); // 目前的格式勾選是否由系統自動勾選
+  const setScopes = (v) => { autoScope.current = false; setScopesRaw(v); setPage("1"); };
   React.useEffect(() => { if (saved.applied) setPicked(saved.applied); }, []);
   React.useEffect(() => { localStorage.setItem("k12-search", JSON.stringify({ terms, applied, scope: scopes })); }, [terms, applied, scopes]);
   const BOOK_FMTS = ["電子書", "有聲書", "雜誌"];
@@ -69,13 +70,12 @@ function SearchResultsScreen({ go }) {
   const hintRes = !withRes && resHitsAll.length > 0 && (terms.length > 0 || applied.some(l => domainOf(l) || RES_TYPES.includes(l)));
   const NEWS_CATS = React.useMemo(() => (window.K12_TOPICS && window.K12_TOPICS.news) || [], []);
   const TIME_LABELS = window.NEWS_TIMES.map(([l]) => l);
-  const newsHits = React.useMemo(() => {
-    if (!withNews) return [];
+  const newsHitsAll = React.useMemo(() => {
     const cats = applied.filter(l => NEWS_CATS.includes(l));
     const srcs = applied.filter(l => l === "The New York Times");
     const time = applied.find(l => TIME_LABELS.includes(l));
     return window.K12_NEWS.filter(n => window.newsMatchTerms(n, terms) && (!cats.length || cats.includes(n.category)) && (!srcs.length || srcs.includes(n.source)) && window.newsInTime(n, time)).sort((a, b) => b.date.localeCompare(a.date));
-  }, [withNews, terms, applied]);
+  }, [terms, applied]);
   React.useEffect(() => { if (newsOnly) setSort("出版日期新到舊"); }, [newsOnly]);
   const doSearch = () => {
     const text = q.trim();
@@ -92,13 +92,13 @@ function SearchResultsScreen({ go }) {
   const newsCatItems = NEWS_CATS.map(c => [c, window.K12_NEWS.filter(n => n.category === c).length]);
   const timeItems = window.NEWS_TIMES.map(([l]) => [l, window.K12_NEWS.filter(n => window.newsInTime(n, l)).length]);
   const newsCard = (n) => <DSR.NewsCard key={n.id} style={{ boxShadow: "none" }} thumbnail={n.image} section={n.sectionLabel} source={n.source} date={window.fmtNewsDate(n.date)} title={n.title} summary={n.summary} url={n.url} checked={selection.has(window.newsKey(n))} onCheck={(on) => selection.set(window.newsKey(n), on)} bookmarked={window.favStore.has(window.newsKey(n))} onBookmark={() => window.favStore.toggle(window.newsKey(n))} onOpen={() => window.openPreview("news", n)} />;
-  const fmtItems = [["電子書", window.K12_BOOKS.filter(b => b.type === "電子書").length], ["有聲書", window.K12_BOOKS.filter(b => b.type === "有聲書").length], ["雜誌", window.K12_MAGAZINES.length], ["新聞", window.K12_NEWS.length], ["電子資源", (resData || []).length]];
   const toggle = (l) => setPicked(p => p.includes(l) ? p.filter(x => x !== l) : [...p, l]);
   const chip = { border: 0, cursor: "pointer", background: "var(--color-accent-tint)", borderRadius: 6, padding: "4px 14px", fontFamily: "inherit", fontSize: 14, fontWeight: 700, color: "var(--color-text)", display: "flex", gap: 6, whiteSpace: "nowrap" };
   const [perPage, setPerPage] = React.useState(20);
   const [preview, setPreview] = React.useState(null);
   const [ppOpen, setPpOpen] = React.useState(false);
-  const bookPool = [...window.K12_BOOKS, ...window.K12_MAGAZINES.map(m => ({ ...m, type: "雜誌", tag: m.category }))].filter(b => bookTypes.includes(b.type));
+  const allBooks = [...window.K12_BOOKS, ...window.K12_MAGAZINES.map(m => ({ ...m, type: "雜誌", tag: m.category }))];
+  const bookPool = allBooks.filter(b => bookTypes.includes(b.type));
     // 依搜尋詞篩選書籍與雜誌（欄位：名稱／作者／平台／主題／所有欄位）
   const bookMatch = (b, t) => { const k = t.text.toLowerCase(); const pool = t.field === "名稱" ? [b.title] : t.field === "作者" ? [b.author] : t.field === "平台" ? [b.source, b.publisher] : t.field === "主題" ? [b.category, b.tag, ...(b.topics || [])] : [b.title, b.author, b.category, b.tag, b.synopsis, ...(b.topics || [])]; return pool.some(v => v && String(v).toLowerCase().includes(k)); };
   // 左側「狀態／讀者／類別／對應課綱」篩選：同一組內任一符合即可，不同組之間須同時符合
@@ -106,11 +106,26 @@ function SearchResultsScreen({ go }) {
   const bookStatus = (b) => b.available === "即將上架" ? "不可用" : "可用";
   // 主題：書籍用 topics 欄位，雜誌用 category；與課綱科目同名的（如「地理」）不重複列出
   const topicsOf = (b) => b.topics || (b.category ? [b.category] : []);
-  const TOPICS = [...new Set(bookPool.flatMap(topicsOf))].filter(l => !SUBJECTS.includes(l));
+  const TOPICS = [...new Set(allBooks.flatMap(topicsOf))].filter(l => !SUBJECTS.includes(l));
   const facet = (b) => { const pick = (list) => applied.filter(l => list.includes(l)); const st = pick(STATUS), rd = pick(READERS), kl = pick(KLASSES), sb = pick(SUBJECTS), tp = pick(TOPICS); return (!st.length || st.includes(bookStatus(b))) && (!rd.length || rd.includes(b.reader)) && (!kl.length || kl.includes(b.klass)) && (!sb.length || sb.some(x => (b.curriculum || []).includes(x))) && (!tp.length || tp.some(x => topicsOf(b).includes(x))); };
-  const books = bookPool.filter(b => !terms.length || terms.reduce((acc, t, i) => i === 0 ? bookMatch(b, t) : t.op === "OR" ? acc || bookMatch(b, t) : acc && bookMatch(b, t), true)).filter(facet);
+  const termOk = (b) => !terms.length || terms.reduce((acc, t, i) => i === 0 ? bookMatch(b, t) : t.op === "OR" ? acc || bookMatch(b, t) : acc && bookMatch(b, t), true);
+  const books = bookPool.filter(termOk).filter(facet);
   // 單一結果清單：書籍為主，每 3 本穿插 1 則新聞、1 項線上學習資源（同一種清單卡呈現）
-  const resPool = withRes ? resSorted : [];
+  // 勾了書籍條件（狀態／讀者／類別／主題）時不顯示電子資源；勾了書籍條件或對應課綱時不顯示新聞（與新聞分類同名的主題除外）
+  const bookOnly = applied.some(l => [...STATUS, ...READERS, ...KLASSES, ...TOPICS].includes(l));
+  const hideNews = applied.some(l => [...STATUS, ...READERS, ...KLASSES, ...SUBJECTS, ...TOPICS].includes(l) && !NEWS_CATS.includes(l));
+  const newsHits = !withNews || hideNews ? [] : newsHitsAll;
+  const resPool = withRes && !bookOnly ? resSorted : [];
+  // 「格式」旁的數字：依目前的搜尋詞與篩選條件即時計算，不受已勾選的格式影響
+  const liveBooks = allBooks.filter(b => termOk(b) && facet(b));
+  const fmtItems = [...BOOK_FMTS.map(f => [f, liveBooks.filter(b => b.type === f).length]), ["新聞", hideNews ? 0 : newsHitsAll.length], ["電子資源", bookOnly ? 0 : resHitsAll.length]];
+  // 套用篩選條件且使用者沒有自己選格式時，自動勾選有結果的格式（可在上方打叉移除）；篩選條件全部清掉時自動取消
+  React.useEffect(() => {
+    if (!applied.length) { if (autoScope.current) setScopes([]); return; }
+    if (scopes.length && !autoScope.current) return;
+    const has = fmtItems.filter(([, n]) => n > 0).map(([f]) => f);
+    setScopes(has.length < fmtItems.length ? has : []); autoScope.current = has.length < fmtItems.length;
+  }, [applied, resData]);
   const allResults = React.useMemo(() => {
     const out = []; let ni = 0, ri = 0;
     books.forEach((b, i) => {
@@ -161,7 +176,7 @@ function SearchResultsScreen({ go }) {
           <FilterBlock title="讀者" items={READERS.map(l => [l, bookPool.filter(b => b.reader === l).length])} selected={picked} onToggle={toggle} />
           <FilterBlock title="類別" items={KLASSES.map(l => [l, bookPool.filter(b => b.klass === l).length])} selected={picked} onToggle={toggle} />
           <FilterBlock title="對應課綱" items={SUBJECTS.map(l => [l, bookPool.filter(b => (b.curriculum || []).includes(l)).length])} selected={picked} onToggle={toggle} initial={6} step={5} />
-          <FilterBlock title="主題" items={TOPICS.map(l => [l, bookPool.filter(b => topicsOf(b).includes(l)).length]).sort((x, y) => y[1] - x[1])} selected={picked} onToggle={toggle} initial={6} step={5} />
+          <FilterBlock title="主題" items={TOPICS.filter(l => bookPool.some(b => topicsOf(b).includes(l))).map(l => [l, bookPool.filter(b => topicsOf(b).includes(l)).length]).sort((x, y) => y[1] - x[1])} selected={picked} onToggle={toggle} initial={6} step={5} />
           </>}
           {withRes && <>
           <FilterBlock title="資源類型" items={resTypeItems} selected={picked} onToggle={toggle} />
