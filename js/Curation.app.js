@@ -1,6 +1,10 @@
 const { BookCard: KBook } = window.DesignSystem_65d3d1;
 const KI = "assets/images/";
 const STAGE_H = 1029;
+// 舞台固定在導覽列下方（距頂端 132px）。實際高度依視窗高度計算，最高 STAGE_H，避免矮螢幕下半部被切掉。
+const NAV_H = 132;
+const SCATTER_W = 1382, SCATTER_H = 748;
+const stageHeight = () => { const z = parseFloat(document.getElementById("root").style.zoom) || 1; return Math.max(420, Math.min(STAGE_H, Math.floor(window.innerHeight / z - NAV_H))); };
 const SCROLL_SCREENS = 9;
 const SCATTER = [[2,30,210,6],[270,148,140,-5],[1190,0,190,-6],[952,190,150,4],[70,444,180,-5],[1110,440,200,5],[480,472,160,-3],[726,40,140,8]];
 const SETS_RAW = [
@@ -33,6 +37,9 @@ function CurationScreen({ go }) {
   const SETS = cur ? cur.sets.map(s => ({ ...s, items: s.items.map(window.resolveCurItem) })) : [];
   const ref = React.useRef(null);
   const [p, setP] = React.useState(REDUCED ? 0.2 : 0);
+  const [stageH, setStageH] = React.useState(stageHeight);
+  // 視窗太矮時，整組散落書本等比例縮小，保持完整可見
+  const fitK = Math.min(1, (stageH - 40) / SCATTER_H);
   React.useEffect(() => {
     const update = () => {
       const el = ref.current; if (!el) return;
@@ -41,6 +48,7 @@ function CurationScreen({ go }) {
       const maxY = STAGE_H * (SCROLL_SCREENS - 1);
       const yy = Math.max(0, Math.min(maxY, -r.top / scale));
       setP(yy / maxY);
+      setStageH(stageHeight());
     };
     update();
     window.addEventListener("scroll", update, { passive: true });
@@ -54,7 +62,7 @@ function CurationScreen({ go }) {
   if (cur && cur.layout === "journey") return <window.JourneyCuration key={cur.id} cur={cur} go={go} />;
   return (
     <div ref={ref} style={{ height: STAGE_H * SCROLL_SCREENS, position: "relative" }}>
-      <div style={{ position: "sticky", top: 132, height: STAGE_H, overflow: "hidden", background: "var(--color-background-page)" }}>
+      <div style={{ position: "sticky", top: NAV_H, height: stageH, overflow: "hidden", background: "var(--color-background-page)" }}>
         {cur && <div style={{ ...vis(hero), position: "absolute", inset: 0, zIndex: 5, display: "flex", alignItems: "center", justifyContent: "center" }}>
           <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 24, maxWidth: 760, textAlign: "center" }}>
             <a href="#curations" onClick={(e) => { e.preventDefault(); go("curations"); }} style={{ fontSize: 14, color: "var(--color-text-secondary)", textDecoration: "underline", cursor: "pointer" }}>‹ 主題書單</a>
@@ -65,7 +73,7 @@ function CurationScreen({ go }) {
           </div>
         </div>}
         {SETS.map((set, k) => (
-          <div key={k} style={{ position: "absolute", left: 29, top: (STAGE_H - 748) / 2, width: 1382, height: 748 }}>
+          <div key={k} style={{ position: "absolute", left: 29, top: (stageH - SCATTER_H) / 2, width: SCATTER_W, height: SCATTER_H, transform: `scale(${fitK})`, transformOrigin: "center" }}>
             {SCATTER.map(([x, y, w, r], i) => <ScatterCard key={i} x={x} y={y} w={w} r={r} it={set.items[i]} o={cards[k][i]} onClick={() => set.items[i] && window.openCurItem(go, set.items[i])} />)}
           </div>
         ))}
