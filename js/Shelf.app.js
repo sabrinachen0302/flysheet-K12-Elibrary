@@ -77,7 +77,9 @@ function RightContent({ b }) {
 }
 // 翻頁：下一本 = 右頁沿書脊翻向左；上一本 = 左頁翻向右。翻動中底下兩頁分別顯示舊／新書內容。
 const FLIP_MS = 700;
-function OpenBook({ b, dir = 1 }) {
+// 闔書動畫長度（毫秒）
+const CLOSE_MS = 650;
+function OpenBook({ b, dir = 1, closing = false }) {
   const [shown, setShown] = React.useState(false);
   const [flip, setFlip] = React.useState(null);
   const prev = React.useRef(b);
@@ -92,7 +94,8 @@ function OpenBook({ b, dir = 1 }) {
   }, [b.id]);
   const leftB = flip && flip.dir > 0 ? flip.old : b;
   const rightB = flip && flip.dir < 0 ? flip.old : b;
-  const pageT = "transform .55s cubic-bezier(.2,.7,.2,1)";
+  const pageT = closing ? `transform ${CLOSE_MS * 0.7}ms cubic-bezier(.45,0,.25,1)` : "transform .55s cubic-bezier(.2,.7,.2,1)";
+  const on = shown && !closing; // 書本攤開中
   const face = { position: "absolute", inset: 0, backfaceVisibility: "hidden", WebkitBackfaceVisibility: "hidden" };
   let leaf = null;
   if (flip) {
@@ -107,10 +110,10 @@ function OpenBook({ b, dir = 1 }) {
   }
   return (
     <div style={{ perspective: 1800, display: "flex", justifyContent: "center", padding: "12px 0 28px" }}>
-      <div style={{ position: "relative", display: "flex", transformStyle: "preserve-3d", transform: "rotateX(14deg)" }}>
+      <div style={{ position: "relative", display: "flex", transformStyle: "preserve-3d", transform: closing ? "rotateX(14deg) scale(.9)" : "rotateX(14deg)", opacity: closing ? 0 : 1, transition: `transform ${CLOSE_MS}ms ease, opacity ${CLOSE_MS * 0.3}ms ease ${CLOSE_MS * 0.7}ms` }}>
         <div aria-hidden="true" style={{ position: "absolute", inset: "-10px -12px -14px", background: "var(--color-brand-primary)", border: "var(--border-default)", borderRadius: "var(--corner-md)", boxShadow: "var(--shadow-hard-md)", transform: "translateZ(-2px)" }} />
-        <div style={{ ...PAGE_L, position: "relative", transformOrigin: "right center", transform: `rotateY(${shown ? 10 : 80}deg)`, transition: pageT }}><LeftContent b={leftB} /></div>
-        <div style={{ ...PAGE_R, position: "relative", transformOrigin: "left center", transform: `rotateY(${shown ? -10 : -80}deg)`, transition: pageT }}><RightContent b={rightB} /></div>
+        <div style={{ ...PAGE_L, position: "relative", transformOrigin: "right center", transform: `rotateY(${on ? 10 : closing ? 90 : 80}deg)`, transition: pageT }}><LeftContent b={leftB} /></div>
+        <div style={{ ...PAGE_R, position: "relative", transformOrigin: "left center", transform: `rotateY(${on ? -10 : closing ? -90 : -80}deg)`, transition: pageT }}><RightContent b={rightB} /></div>
         {leaf}
       </div>
     </div>
@@ -145,6 +148,14 @@ function BookShelf({ go, mode = "先展示封面", spineAuthor = true }) {
   const [tab, setTab] = React.useState("新到電子書");
   const [sel, setSel] = React.useState(0);
   const [open, setOpen] = React.useState(false);
+  // 回到書架：先播放闔書動畫，結束後才切回書架（使用者設定「減少動態效果」時直接切回）
+  const [closing, setClosing] = React.useState(false);
+  const closeBook = () => {
+    if (closing) return;
+    if (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches) { setOpen(false); return; }
+    setClosing(true);
+    setTimeout(() => { setClosing(false); setOpen(false); }, CLOSE_MS + 50);
+  };
   const [dir, setDir] = React.useState(1);
   const isShelf = !!SHELF_LISTS[tab];
   const books = (SHELF_LISTS[tab] || SHELF_LISTS["新到電子書"]).map(id => window.bookById(id));
@@ -165,9 +176,9 @@ function BookShelf({ go, mode = "先展示封面", spineAuthor = true }) {
           <div aria-hidden="true" style={{ height: 14, background: "var(--color-brand-cta)", borderBottom: "var(--border-default)" }} />
           {!isShelf ? <MediaPanel tab={tab} go={go} /> : open ? (
             <div style={{ display: "grid", gridTemplateColumns: "minmax(0,1fr) 300px", gap: 32, alignItems: "center", padding: "28px 40px 28px 24px" }}>
-              <OpenBook b={b} dir={dir} />
+              <OpenBook b={b} dir={dir} closing={closing} />
               <div style={{ display: "flex", flexDirection: "column", gap: 14 }}>
-                <div style={{ display: "flex", justifyContent: "flex-end" }}><SH.Button size="sm" variant="ghost" onClick={() => setOpen(false)}>回到書架 ✕</SH.Button></div>
+                <div style={{ display: "flex", justifyContent: "flex-end" }}><SH.Button size="sm" variant="ghost" onClick={closeBook}>回到書架 ✕</SH.Button></div>
                 <span style={{ fontSize: 13, color: "var(--color-text-muted)", fontVariantNumeric: "tabular-nums" }}>{tab} · {sel + 1} / {n}</span>
                 <span style={{ fontFamily: "var(--font-heading)", fontSize: 22, fontWeight: 700, lineHeight: 1.3 }}>{b.title}</span>
                 {b.author && <span style={{ fontSize: 15, color: "var(--color-text-muted)", marginTop: -6 }}>{b.author}</span>}
