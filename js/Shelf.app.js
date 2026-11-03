@@ -159,6 +159,7 @@ function BookShelf({ go, mode = "先展示封面", spineAuthor = true }) {
   const [sel, setSel] = React.useState(0);
   const [open, setOpen] = React.useState(false);
   // 回到書架：先播放闔書動畫，結束後才切回書架（使用者設定「減少動態效果」時直接切回）
+  const [closing, setClosing] = React.useState(false);
   const [landing, setLanding] = React.useState(false); // 剛闔上書、封面正落回書架
   const closeBook = () => {
     if (closing) return;
