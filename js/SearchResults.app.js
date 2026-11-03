@@ -102,7 +102,11 @@ function SearchResultsScreen({ go }) {
   const bookPool = [...window.K12_BOOKS, ...window.K12_MAGAZINES.map(m => ({ ...m, type: "雜誌", tag: m.category }))].filter(b => bookTypes.includes(b.type));
     // 依搜尋詞篩選書籍與雜誌（欄位：名稱／作者／平台／主題／所有欄位）
   const bookMatch = (b, t) => { const k = t.text.toLowerCase(); const pool = t.field === "名稱" ? [b.title] : t.field === "作者" ? [b.author] : t.field === "平台" ? [b.source, b.publisher] : t.field === "主題" ? [b.category, b.tag, ...(b.topics || [])] : [b.title, b.author, b.category, b.tag, b.synopsis, ...(b.topics || [])]; return pool.some(v => v && String(v).toLowerCase().includes(k)); };
-  const books = bookPool.filter(b => !terms.length || terms.reduce((acc, t, i) => i === 0 ? bookMatch(b, t) : t.op === "OR" ? acc || bookMatch(b, t) : acc && bookMatch(b, t), true));
+  // 左側「狀態／讀者／類別／對應課綱」篩選：同一組內任一符合即可，不同組之間須同時符合
+  const STATUS = ["可用", "不可用"], READERS = ["成人", "青少年"], KLASSES = ["文學小說類", "非小說類"], SUBJECTS = window.K12_CURRICULUM.flatMap(([, ss]) => ss);
+  const bookStatus = (b) => b.available === "即將上架" ? "不可用" : "可用";
+  const facet = (b) => { const pick = (list) => applied.filter(l => list.includes(l)); const st = pick(STATUS), rd = pick(READERS), kl = pick(KLASSES), sb = pick(SUBJECTS); return (!st.length || st.includes(bookStatus(b))) && (!rd.length || rd.includes(b.reader)) && (!kl.length || kl.includes(b.klass)) && (!sb.length || sb.some(x => (b.curriculum || []).includes(x))); };
+  const books = bookPool.filter(b => !terms.length || terms.reduce((acc, t, i) => i === 0 ? bookMatch(b, t) : t.op === "OR" ? acc || bookMatch(b, t) : acc && bookMatch(b, t), true)).filter(facet);
   // 單一結果清單：書籍為主，每 3 本穿插 1 則新聞、1 項線上學習資源（同一種清單卡呈現）
   const resPool = withRes ? resSorted : [];
   const allResults = React.useMemo(() => {
@@ -151,12 +155,12 @@ function SearchResultsScreen({ go }) {
           </div>
           <FilterBlock title="格式" items={fmtItems} selected={scopes} onToggle={(f) => setScopes(scopes.includes(f) ? scopes.filter(x => x !== f) : [...scopes, f])} />
           {bookTypes.length > 0 && <>
-          <Collapsible><DSR.AvailableCollapse text1="狀態" selected={picked} onToggle={toggle} /></Collapsible>
-          <Collapsible><DSR.ReaderCollapse selected={picked} onToggle={toggle} /></Collapsible>
+          <FilterBlock title="狀態" items={STATUS.map(l => [l, bookPool.filter(b => bookStatus(b) === l).length])} selected={picked} onToggle={toggle} />
+          <FilterBlock title="讀者" items={READERS.map(l => [l, bookPool.filter(b => b.reader === l).length])} selected={picked} onToggle={toggle} />
           {bookTypes.includes("電子書") && <Collapsible><DSR.EbookCollapse selected={picked} onToggle={toggle} /></Collapsible>}
           {bookTypes.includes("有聲書") && <Collapsible><DSR.AudiobookCollapse selected={picked} onToggle={toggle} /></Collapsible>}
-          <FilterBlock title="類別" items={[["文學小說類", 2400], ["非小說類", 750]]} selected={picked} onToggle={toggle} />
-          <FilterBlock title="對應課綱" items={window.K12_CURRICULUM.flatMap(([, ss]) => ss).map(s => [s, window.subjectCount(s)])} selected={picked} onToggle={toggle} initial={6} step={5} />
+          <FilterBlock title="類別" items={KLASSES.map(l => [l, bookPool.filter(b => b.klass === l).length])} selected={picked} onToggle={toggle} />
+          <FilterBlock title="對應課綱" items={SUBJECTS.map(l => [l, bookPool.filter(b => (b.curriculum || []).includes(l)).length])} selected={picked} onToggle={toggle} initial={6} step={5} />
           <FilterBlock title="主題" items={topicItems} selected={picked} onToggle={toggle} initial={6} step={5} />
           </>}
           {withRes && <>
