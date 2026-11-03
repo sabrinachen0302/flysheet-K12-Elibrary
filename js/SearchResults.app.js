@@ -47,7 +47,7 @@ function SearchResultsScreen({ go }) {
   const setScopes = (v) => { setScopesRaw(v); setPage("1"); };
   React.useEffect(() => { if (saved.applied) setPicked(saved.applied); }, []);
   React.useEffect(() => { localStorage.setItem("k12-search", JSON.stringify({ terms, applied, scope: scopes })); }, [terms, applied, scopes]);
-  const BOOK_FMTS = ["電子書", "有聲書"];
+  const BOOK_FMTS = ["電子書", "有聲書", "雜誌"];
   const bookTypes = scopes.length ? BOOK_FMTS.filter(f => scopes.includes(f)) : BOOK_FMTS;
   const withNews = !scopes.length || scopes.includes("新聞");
   const withRes = !scopes.length || scopes.includes("電子資源");
@@ -106,7 +106,7 @@ function SearchResultsScreen({ go }) {
   const [perPage, setPerPage] = React.useState(20);
   const [preview, setPreview] = React.useState(null);
   const [ppOpen, setPpOpen] = React.useState(false);
-  const bookPool = window.K12_BOOKS.filter(b => bookTypes.includes(b.type));
+  const bookPool = [...window.K12_BOOKS, ...window.K12_MAGAZINES.map(m => ({ ...m, type: "雜誌", tag: m.category }))].filter(b => bookTypes.includes(b.type));
   const books = bookPool.length ? Array.from({ length: perPage }, (_, i) => bookPool[i % bookPool.length]) : [];
   // 單一結果清單：書籍為主，每 3 本穿插 1 則新聞、1 項線上學習資源（同一種清單卡呈現）
   const resPool = withRes ? resSorted : [];
