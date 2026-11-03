@@ -56,7 +56,12 @@ function SearchResultsScreen({ go }) {
   const resOnly = withRes && !bookTypes.length && !withNews;
   const { data: resData } = window.useResources(window.RES_ALL);
   const RES_TYPES = window.RES_TYPES;
-  const resDomains = React.useMemo(() => window.RES_SUBJECTS.filter(d => (resData || []).some(x => (x.subjects || []).includes(d))), [resData]);
+    // 學科領域選項：課綱領域（國文、自然科學、社會⋯⋯）＋資料裡出現、但不屬於任何課綱領域的學科（如醫學、全科適用）
+  const resDomains = React.useMemo(() => {
+    const known = window.RES_SUBJECTS.filter(d => (resData || []).some(x => window.subjMatch(x, d)));
+    const extra = [...new Set((resData || []).flatMap(x => x.subjects || []))].filter(s => !window.RES_SUBJECTS.some(d => window.subjMatch({ subjects: [s] }, d)));
+    return [...known, ...extra];
+  }, [resData]);
   // 對應課綱（科目）→ 領域，讓書籍與資源共用學科篩選
   const domainOf = (label) => { if (resDomains.includes(label)) return label; const hit = window.K12_CURRICULUM.find(([, ss]) => ss.includes(label)); return hit ? (hit[0] === "高中家政" ? "家政" : hit[0]) : null; };
   const resMatch = (x, t) => { const k = t.text.toLowerCase(); const pool = t.field === "名稱" ? [x.title] : t.field === "平台" ? [x.publisher] : t.field === "作者" ? [] : t.field === "主題" ? [...(x.categories || []), ...(x.subjects || [])] : [x.title, x.description, x.publisher, ...(x.categories || []), ...(x.subjects || [])]; return pool.some(v => v && v.toLowerCase().includes(k)); };
