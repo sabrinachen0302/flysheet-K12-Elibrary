@@ -46,7 +46,7 @@ function CurriculumScreen({ go }) {
   const domainOf = (s) => { const hit = C.find(([, ss]) => ss.includes(s)); return hit ? (hit[0] === "高中家政" ? "家政" : hit[0]) : s; };
   const itemsOf = (s) => [
     ...window.K12_BOOKS.filter(b => (fmt === "全部格式" || b.type === fmt) && (b.curriculum || []).includes(s)).map(b => b.id),
-    ...(fmt === "全部格式" ? res.filter(x => (x.subjects || []).includes(domainOf(s))).map(window.olrKey) : []),
+    ...(fmt === "全部格式" ? res.filter(x => window.subjMatch(x, s)).map(window.olrKey) : []),
   ];
   const countOf = (s) => itemsOf(s).length;
   const totalOf = (ss) => new Set(ss.flatMap(itemsOf)).size; // 同一筆資料只算一次
