@@ -95,7 +95,6 @@ function SearchResultsScreen({ go }) {
   const fmtItems = [["電子書", window.K12_BOOKS.filter(b => b.type === "電子書").length], ["有聲書", window.K12_BOOKS.filter(b => b.type === "有聲書").length], ["雜誌", window.K12_MAGAZINES.length], ["新聞", window.K12_NEWS.length], ["電子資源", (resData || []).length]];
   const toggle = (l) => setPicked(p => p.includes(l) ? p.filter(x => x !== l) : [...p, l]);
   const chip = { border: 0, cursor: "pointer", background: "var(--color-accent-tint)", borderRadius: 6, padding: "4px 14px", fontFamily: "inherit", fontSize: 14, fontWeight: 700, color: "var(--color-text)", display: "flex", gap: 6, whiteSpace: "nowrap" };
-  const topicItems = React.useMemo(() => { const T = window.K12_TOPICS || { fiction: [], nonfiction: [], magazine: [], news: [] }; return [...new Set([...T.fiction, ...T.nonfiction, ...T.magazine])].map(l => [l, 50]); }, []);
   const [perPage, setPerPage] = React.useState(20);
   const [preview, setPreview] = React.useState(null);
   const [ppOpen, setPpOpen] = React.useState(false);
@@ -105,7 +104,10 @@ function SearchResultsScreen({ go }) {
   // 左側「狀態／讀者／類別／對應課綱」篩選：同一組內任一符合即可，不同組之間須同時符合
   const STATUS = ["可用", "不可用"], READERS = ["成人", "青少年"], KLASSES = ["文學小說類", "非小說類"], SUBJECTS = window.K12_CURRICULUM.flatMap(([, ss]) => ss);
   const bookStatus = (b) => b.available === "即將上架" ? "不可用" : "可用";
-  const facet = (b) => { const pick = (list) => applied.filter(l => list.includes(l)); const st = pick(STATUS), rd = pick(READERS), kl = pick(KLASSES), sb = pick(SUBJECTS); return (!st.length || st.includes(bookStatus(b))) && (!rd.length || rd.includes(b.reader)) && (!kl.length || kl.includes(b.klass)) && (!sb.length || sb.some(x => (b.curriculum || []).includes(x))); };
+  // 主題：書籍用 topics 欄位，雜誌用 category；與課綱科目同名的（如「地理」）不重複列出
+  const topicsOf = (b) => b.topics || (b.category ? [b.category] : []);
+  const TOPICS = [...new Set(bookPool.flatMap(topicsOf))].filter(l => !SUBJECTS.includes(l));
+  const facet = (b) => { const pick = (list) => applied.filter(l => list.includes(l)); const st = pick(STATUS), rd = pick(READERS), kl = pick(KLASSES), sb = pick(SUBJECTS), tp = pick(TOPICS); return (!st.length || st.includes(bookStatus(b))) && (!rd.length || rd.includes(b.reader)) && (!kl.length || kl.includes(b.klass)) && (!sb.length || sb.some(x => (b.curriculum || []).includes(x))) && (!tp.length || tp.some(x => topicsOf(b).includes(x))); };
   const books = bookPool.filter(b => !terms.length || terms.reduce((acc, t, i) => i === 0 ? bookMatch(b, t) : t.op === "OR" ? acc || bookMatch(b, t) : acc && bookMatch(b, t), true)).filter(facet);
   // 單一結果清單：書籍為主，每 3 本穿插 1 則新聞、1 項線上學習資源（同一種清單卡呈現）
   const resPool = withRes ? resSorted : [];
@@ -157,11 +159,9 @@ function SearchResultsScreen({ go }) {
           {bookTypes.length > 0 && <>
           <FilterBlock title="狀態" items={STATUS.map(l => [l, bookPool.filter(b => bookStatus(b) === l).length])} selected={picked} onToggle={toggle} />
           <FilterBlock title="讀者" items={READERS.map(l => [l, bookPool.filter(b => b.reader === l).length])} selected={picked} onToggle={toggle} />
-          {bookTypes.includes("電子書") && <Collapsible><DSR.EbookCollapse selected={picked} onToggle={toggle} /></Collapsible>}
-          {bookTypes.includes("有聲書") && <Collapsible><DSR.AudiobookCollapse selected={picked} onToggle={toggle} /></Collapsible>}
           <FilterBlock title="類別" items={KLASSES.map(l => [l, bookPool.filter(b => b.klass === l).length])} selected={picked} onToggle={toggle} />
           <FilterBlock title="對應課綱" items={SUBJECTS.map(l => [l, bookPool.filter(b => (b.curriculum || []).includes(l)).length])} selected={picked} onToggle={toggle} initial={6} step={5} />
-          <FilterBlock title="主題" items={topicItems} selected={picked} onToggle={toggle} initial={6} step={5} />
+          <FilterBlock title="主題" items={TOPICS.map(l => [l, bookPool.filter(b => topicsOf(b).includes(l)).length]).sort((x, y) => y[1] - x[1])} selected={picked} onToggle={toggle} initial={6} step={5} />
           </>}
           {withRes && <>
           <FilterBlock title="資源類型" items={resTypeItems} selected={picked} onToggle={toggle} />
