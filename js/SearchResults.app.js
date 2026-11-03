@@ -59,7 +59,7 @@ function SearchResultsScreen({ go }) {
   const resDomains = React.useMemo(() => window.RES_SUBJECTS.filter(d => (resData || []).some(x => (x.subjects || []).includes(d))), [resData]);
   // 對應課綱（科目）→ 領域，讓書籍與資源共用學科篩選
   const domainOf = (label) => { if (resDomains.includes(label)) return label; const hit = window.K12_CURRICULUM.find(([, ss]) => ss.includes(label)); return hit ? (hit[0] === "高中家政" ? "家政" : hit[0]) : null; };
-  const resMatch = (x, t) => { const k = t.text.toLowerCase(); const pool = t.field === "名稱" ? [x.title] : t.field === "平台" ? [x.publisher] : t.field === "作者" ? [] : t.field === "主題" ? [...(x.categories || []), ...(x.subjects || [])] : [x.title, x.description, x.publisher]; return pool.some(v => v && v.toLowerCase().includes(k)); };
+  const resMatch = (x, t) => { const k = t.text.toLowerCase(); const pool = t.field === "名稱" ? [x.title] : t.field === "平台" ? [x.publisher] : t.field === "作者" ? [] : t.field === "主題" ? [...(x.categories || []), ...(x.subjects || [])] : [x.title, x.description, x.publisher, ...(x.categories || []), ...(x.subjects || [])]; return pool.some(v => v && v.toLowerCase().includes(k)); };
   // 「讀者」篩選：使用電子資源的分級（國中／高中／大學／不限學級）。書籍沒有分級時，依 reader 欄位換算：青少年＝國中、高中；成人＝大學；都沒有的（如雜誌）視為不限學級
   const READERS = ["國中", "高中", "大學", "不限學級"];
   const levelsOf = (x) => x.levels || (x.reader === "成人" ? ["大學"] : x.reader === "青少年" ? ["國中", "高中"] : ["不限學級"]);
@@ -85,7 +85,8 @@ function SearchResultsScreen({ go }) {
   const doSearch = () => {
     const text = q.trim();
     if (!text) return;
-    const t = { text, field: field && field !== "所有欄位" ? field : null };
+    const f = field === "平台／提供單位" ? "平台" : field;
+    const t = { text, field: f && f !== "所有欄位" ? f : null };
     setTerms(within && terms.length ? [...terms, { ...t, op }] : [{ ...t, op: null }]);
     setQ(""); setPage("1");
   };
@@ -105,7 +106,7 @@ function SearchResultsScreen({ go }) {
   const allBooks = [...window.K12_BOOKS, ...window.K12_MAGAZINES.map(m => ({ ...m, type: "雜誌", tag: m.category }))];
   const bookPool = allBooks.filter(b => bookTypes.includes(b.type));
     // 依搜尋詞篩選書籍與雜誌（欄位：名稱／作者／平台／主題／所有欄位）
-  const bookMatch = (b, t) => { const k = t.text.toLowerCase(); const pool = t.field === "名稱" ? [b.title] : t.field === "作者" ? [b.author] : t.field === "平台" ? [b.source, b.publisher] : t.field === "主題" ? [b.category, b.tag, ...(b.topics || [])] : [b.title, b.author, b.category, b.tag, b.synopsis, ...(b.topics || [])]; return pool.some(v => v && String(v).toLowerCase().includes(k)); };
+  const bookMatch = (b, t) => { const k = t.text.toLowerCase(); const pool = t.field === "名稱" ? [b.title, b.subtitle] : t.field === "作者" ? [b.author] : t.field === "平台" ? [b.source, b.publisher, b.edition] : t.field === "主題" ? [b.category, b.tag, ...(b.topics || [])] : [b.title, b.subtitle, b.author, b.source, b.publisher, b.edition, b.category, b.tag, b.synopsis, b.synopsisZh, ...(b.topics || [])]; return pool.some(v => v && String(v).toLowerCase().includes(k)); };
   // 左側「狀態／讀者／類別／對應課綱」篩選：同一組內任一符合即可，不同組之間須同時符合
   const STATUS = ["可用", "不可用"], KLASSES = ["文學小說類", "非小說類"], SUBJECTS = window.K12_CURRICULUM.flatMap(([, ss]) => ss);
   const bookStatus = (b) => b.available === "即將上架" ? "不可用" : "可用";
@@ -147,6 +148,19 @@ function SearchResultsScreen({ go }) {
   const pageCount = Math.max(1, Math.ceil(total / perPage));
   const pageNo = Math.min(+page, pageCount);
   const results = allResults.slice((pageNo - 1) * perPage, pageNo * perPage);
+  // 螢光筆：用瀏覽器的 CSS Highlight API 標出結果中符合搜尋詞的文字（不改動卡片內容）。選「名稱」時只標書名／標題
+  React.useEffect(() => {
+    if (!window.CSS || !CSS.highlights) return;
+    CSS.highlights.delete("k12-search");
+    const words = terms.map(t => t.text.toLowerCase()).filter(Boolean);
+    const box = document.getElementById("k12-results");
+    if (!words.length || !box) return;
+    const titleOnly = terms.every(t => t.field === "名稱");
+    const roots = titleOnly ? [...box.querySelectorAll('[style*="font-card-title"]')] : [box];
+    const ranges = [];
+    roots.forEach(root => { const walk = document.createTreeWalker(root, NodeFilter.SHOW_TEXT); for (let n = walk.nextNode(); n; n = walk.nextNode()) { const s = n.nodeValue.toLowerCase(); words.forEach(w => { for (let i = s.indexOf(w); i !== -1; i = s.indexOf(w, i + w.length)) { const r = new Range(); r.setStart(n, i); r.setEnd(n, i + w.length); ranges.push(r); } }); } });
+    CSS.highlights.set("k12-search", new Highlight(...ranges));
+  });
   const rKey = (r) => r.kind === "book" ? r.b.id : r.kind === "news" ? window.newsKey(r.n) : window.olrKey(r.x);
   const batchKeys = [...new Set(results.map(rKey))];
   const resThumb = (x) => <window.ResLogo r={x} w={64} h={64} pad={4} />;
@@ -198,7 +212,7 @@ function SearchResultsScreen({ go }) {
           <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
             <div style={{ display: "flex", gap: 12, alignItems: "center" }}>
               <input value={q} onChange={(e) => setQ(e.target.value)} onKeyDown={(e) => e.key === "Enter" && doSearch()} placeholder={within && terms.length ? "在目前結果中搜尋…" : "搜尋電子圖書館"} style={{ flex: 1, height: 53, boxSizing: "border-box", border: "1.5px solid var(--color-brand-cta)", borderRadius: 8, padding: "12px 20px", fontFamily: "var(--font-base)", fontSize: 20, outline: 0 }} />
-              <DSR.FieldDropdown value={field} onChange={setField} style={{ height: 50 }} />
+              <DSR.FieldDropdown options={["所有欄位", "名稱", "作者", "平台／提供單位", "主題"]} value={field} onChange={setField} style={{ height: 50 }} />
               <DSR.CTAButton onClick={doSearch} style={{ width: 96, height: 50, padding: "12px 24px" }}>搜尋</DSR.CTAButton>
             </div>
             {terms.length > 0 && (
@@ -269,7 +283,7 @@ function SearchResultsScreen({ go }) {
                 : r.kind === "res" ? <React.Fragment key={i} /> : <DSR.BookCard key={i} {...window.newsCardProps(r.n)} selectable checked={selection.has(window.newsKey(r.n))} onCheck={(on) => selection.set(window.newsKey(r.n), on)} onClick={() => window.openPreview("news", r.n)} />)}
             </div>
           ) : (
-            <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
+            <div id="k12-results" style={{ display: "flex", flexDirection: "column", gap: 12 }}>
               {results.map((r, i) => r.kind === "book"
                 ? <DSR.DatabaseCard key={i} style={{ boxShadow: "none" }} shareUrl={r.b.url || (location.href.split("#")[0] + "#book=" + r.b.id)} category={window.bookTag(r.b)} name={r.b.title} description={window.bookDesc(r.b)} thumbnailNode={<window.BookCover book={r.b} width={42.67} />} checked={selection.has(r.b.id)} onCheck={(on) => selection.set(r.b.id, on)} bookmarked={window.favStore.has(r.b.id)} onBookmark={() => window.favStore.toggle(r.b.id)} onOpen={() => setPreview(r.b)} onReadMore={() => setPreview(r.b)} readMore="閱讀更多" onGo={() => window.openBook(go, r.b.id)} />
                 : r.kind === "res" ? resRow(r.x, i) : <React.Fragment key={i}>{newsCard(r.n)}</React.Fragment>)}
