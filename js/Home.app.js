@@ -89,8 +89,9 @@ function BookTile({ b, onOpen }) {
     </div>
   );
 }
-function ListCard({ category, name, description, thumb, bookmarked, onBookmark, onOpen, onGo }) {
+function ListCard({ category, name, description, thumb, url, bookmarked, onBookmark, onOpen, onGo }) {
   const [checked, setChecked] = React.useState(false);
+  const [shareOpen, setShareOpen] = React.useState(false); // 分享視窗是否打開
   const [lh, setLh] = React.useState(false);
   return (
     <Card padding={16} style={{ display: "flex", alignItems: "center", gap: 16 }}>
@@ -102,9 +103,10 @@ function ListCard({ category, name, description, thumb, bookmarked, onBookmark, 
         <span style={{ fontSize: 13, lineHeight: 1.5, color: "var(--color-text-muted)", overflow: "hidden", display: "-webkit-box", WebkitLineClamp: 2, WebkitBoxOrient: "vertical" }}>{description}</span>
       </div>
       <div style={{ flexShrink: 0, display: "flex", flexDirection: "column", alignItems: "flex-end", gap: 10 }}>
-        <div style={{ display: "flex", gap: 2 }}>
-          <Button variant="icon" size="sm" icon="share" ariaLabel="分享" />
-          <Button variant="icon" size="sm" icon="external-link" ariaLabel="外部連結" />
+        <div style={{ display: "flex", gap: 2, position: "relative" }}>
+          <Button variant="icon" size="sm" icon="share" ariaLabel="分享" title="分享" selected={shareOpen} disabled={!url} onClick={() => setShareOpen(o => !o)} />
+          {shareOpen && <window.DesignSystem_65d3d1.SharePopover url={url} title={name} onClose={() => setShareOpen(false)} />}
+          <Button variant="icon" size="sm" icon="external-link" ariaLabel="在新分頁開啟" title="在新分頁開啟" disabled={!url} onClick={() => window.open(url, "_blank", "noopener")} />
           <Button variant="icon" size="sm" icon={bookmarked ? "bookmark-filled" : "bookmark"} selected={bookmarked} ariaLabel={bookmarked ? "移出我的最愛" : "加入我的最愛"} title={bookmarked ? "移出我的最愛" : "加入我的最愛"} onClick={() => onBookmark(!bookmarked)} />
         </div>
         <Button size="sm" iconRight="chevron-right" onClick={onGo}>簡介</Button>
@@ -158,7 +160,7 @@ function HomeScreen({ go, tweaks = {} }) {
       <TabbedSection title="電子資源" onBrowseAll={() => go("resources")}
         renderNew={() => <div style={grid5}>{resNew.map(r => <div key={window.olrKey(r)} onClick={() => window.openPreview("res", r)} style={{ cursor: "pointer", minWidth: 0, display: "grid" }}><ResTile r={r} name={r.title} type={(r.categories || [])[0] || "線上學習資源"} /></div>)}</div>}
         extraTabs={{ "自主學習": () => <div style={grid5}>{resSelf.map(r => <div key={window.olrKey(r)} onClick={() => window.openPreview("res", r)} style={{ cursor: "pointer", minWidth: 0, display: "grid" }}><ResTile r={r} name={r.title} type="自主學習" /></div>)}</div> }}
-        renderPopular={() => <div style={grid2}>{resHot.map(r => <ListCard key={window.olrKey(r)} thumb={<window.ResLogo r={r} w={88} h={56} pad={4} />} category={(r.categories || [])[0] || "線上學習資源"} name={r.title} description={[r.publisher, r.description].filter(Boolean).join("　")} {...fav(window.olrKey(r))} onOpen={() => window.openPreview("res", r)} onGo={() => window.openPreview("res", r)} />)}</div>} />
+        renderPopular={() => <div style={grid2}>{resHot.map(r => <ListCard key={window.olrKey(r)} thumb={<window.ResLogo r={r} w={88} h={56} pad={4} />} category={(r.categories || [])[0] || "線上學習資源"} name={r.title} description={[r.publisher, r.description].filter(Boolean).join("　")} url={r.url} {...fav(window.olrKey(r))} onOpen={() => window.openPreview("res", r)} onGo={() => window.openPreview("res", r)} />)}</div>} />
     </div>
   );
 }
