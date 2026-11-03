@@ -309,7 +309,7 @@ function BookPreview({ b, go, onClose }) {
       <div role="dialog" aria-modal="true" aria-label={b.title} onClick={(e) => e.stopPropagation()} style={{ position: "relative", width: 720, maxHeight: "86vh", overflow: "auto", boxSizing: "border-box", padding: 32, display: "flex", gap: 28, background: "var(--color-surface)", border: "var(--border-default)", borderRadius: "var(--corner-lg)", fontFamily: "var(--font-base)", color: "var(--color-text)" }}>
         <button type="button" aria-label="關閉" onClick={onClose} style={{ position: "absolute", top: 14, right: 14, width: 32, height: 32, border: "var(--border-thin)", borderRadius: "50%", background: "var(--color-surface)", cursor: "pointer", fontSize: 14, color: "var(--color-text)" }}>✕</button>
         <div style={{ flexShrink: 0, border: "var(--border-default)", boxShadow: "var(--shadow-hard-sm)", lineHeight: 0, alignSelf: "flex-start" }}><window.BookCover book={b} width={180} /></div>
-        <div style={{ flex: 1, minWidth: 0, display: "flex", flexDirection: "column", gap: 14 }}>
+        <div style={{ flex: 1, minWidth: 0, minHeight: "min-content", display: "flex", flexDirection: "column", gap: 14 }}>
           {window.bookTag(b) && <span style={{ alignSelf: "flex-start", fontFamily: "var(--font-label)", fontSize: 12, fontWeight: 700, padding: "3px 8px", borderRadius: 4, border: "var(--border-thin)", background: "var(--color-accent-tint)" }}>{window.bookTag(b)}</span>}
           <h2 style={{ margin: 0, paddingRight: 32, fontFamily: "var(--font-heading)", fontSize: 26, fontWeight: 700, lineHeight: 1.25 }}>{b.title}</h2>
           <dl style={{ margin: 0, display: "grid", gridTemplateColumns: "auto minmax(0,1fr)", gap: "6px 16px", fontSize: 14 }}>
