@@ -64,23 +64,17 @@ function SearchResultsScreen({ go }) {
   const READERS = ["國中", "高中", "大學", "不限學級"];
   const levelsOf = (x) => x.levels || (x.reader === "成人" ? ["大學"] : x.reader === "青少年" ? ["國中", "高中"] : ["不限學級"]);
   const levelMatch = (x, l) => levelsOf(x).includes(l) || (l !== "不限學級" && levelsOf(x).includes("不限學級"));
-  const levelOk = (x) => { const rd = applied.filter(l => READERS.includes(l)); return !rd.length || rd.some(l => levelMatch(x, l)); };
-  const resHitsAll = React.useMemo(() => {
-    const types = applied.filter(l => RES_TYPES.includes(l));
-    const doms = [...new Set(applied.map(domainOf).filter(Boolean))];
-    return (resData || []).filter(x => (!terms.length || terms.reduce((acc, t, i) => i === 0 ? resMatch(x, t) : t.op === "OR" ? acc || resMatch(x, t) : acc && resMatch(x, t), true))
-      && (!types.length || types.some(t => (x.categories || []).includes(t))) && (!doms.length || doms.some(d => (x.subjects || []).includes(d))) && levelOk(x));
-  }, [resData, terms, applied, resDomains]);
+  const levelOk = (x, skip) => { const rd = skip === "讀者" ? [] : applied.filter(l => READERS.includes(l)); return !rd.length || rd.some(l => levelMatch(x, l)); };
+  // 電子資源篩選；skip＝計算某一組的數字時忽略該組自己的條件
+  const resOk = (x, skip) => { const types = skip === "資源類型" ? [] : applied.filter(l => RES_TYPES.includes(l)); const doms = skip === "學科" ? [] : [...new Set(applied.map(domainOf).filter(Boolean))]; return (!terms.length || terms.reduce((acc, t, i) => i === 0 ? resMatch(x, t) : t.op === "OR" ? acc || resMatch(x, t) : acc && resMatch(x, t), true)) && (!types.length || types.some(t => (x.categories || []).includes(t))) && (!doms.length || doms.some(d => (x.subjects || []).includes(d))) && levelOk(x, skip); };
+  const resHitsAll = React.useMemo(() => (resData || []).filter(x => resOk(x)), [resData, terms, applied, resDomains]);
   const resSorted = React.useMemo(() => [...resHitsAll].sort(sort === "熱門度" ? (a, b) => b.clicks - a.clicks : sort === "書名" ? (a, b) => a.title.localeCompare(b.title, "zh-Hant") : (a, b) => a.order - b.order), [resHitsAll, sort]);
   const hintRes = !withRes && resHitsAll.length > 0 && (terms.length > 0 || applied.some(l => domainOf(l) || RES_TYPES.includes(l)));
   const NEWS_CATS = React.useMemo(() => (window.K12_TOPICS && window.K12_TOPICS.news) || [], []);
   const TIME_LABELS = window.NEWS_TIMES.map(([l]) => l);
-  const newsHitsAll = React.useMemo(() => {
-    const cats = applied.filter(l => NEWS_CATS.includes(l));
-    const srcs = applied.filter(l => l === "The New York Times");
-    const time = applied.find(l => TIME_LABELS.includes(l));
-    return window.K12_NEWS.filter(n => window.newsMatchTerms(n, terms) && (!cats.length || cats.includes(n.category)) && (!srcs.length || srcs.includes(n.source)) && window.newsInTime(n, time)).sort((a, b) => b.date.localeCompare(a.date));
-  }, [terms, applied]);
+  // 新聞篩選；skip＝計算某一組的數字時忽略該組自己的條件
+  const newsOk = (n, skip) => { const cats = skip === "新聞分類" ? [] : applied.filter(l => NEWS_CATS.includes(l)); const srcs = skip === "新聞來源" ? [] : applied.filter(l => l === "The New York Times"); const time = applied.find(l => TIME_LABELS.includes(l)); return window.newsMatchTerms(n, terms) && (!cats.length || cats.includes(n.category)) && (!srcs.length || srcs.includes(n.source)) && window.newsInTime(n, time); };
+  const newsHitsAll = React.useMemo(() => window.K12_NEWS.filter(n => newsOk(n)).sort((a, b) => b.date.localeCompare(a.date)), [terms, applied]);
   React.useEffect(() => { if (newsOnly) setSort("出版日期新到舊"); }, [newsOnly]);
   const doSearch = () => {
     const text = q.trim();
@@ -120,19 +114,25 @@ function SearchResultsScreen({ go }) {
   // 主題：書籍用 topics 欄位，雜誌用 category；與課綱科目同名的（如「地理」）不重複列出
   const topicsOf = (b) => b.topics || (b.category ? [b.category] : []);
   const TOPICS = [...new Set(allBooks.flatMap(topicsOf))].filter(l => !SUBJECTS.includes(l));
-  const facet = (b) => { const pick = (list) => applied.filter(l => list.includes(l)); const st = pick(STATUS), kl = pick(KLASSES), sb = pick(SUBJECTS), tp = pick(TOPICS); return (!st.length || st.includes(bookStatus(b))) && levelOk(b) && (!kl.length || kl.includes(b.klass)) && (!sb.length || sb.some(x => (b.curriculum || []).includes(x))) && (!tp.length || tp.some(x => topicsOf(b).includes(x))); };
+  const facet = (b, skip) => { const pick = (g, list) => g === skip ? [] : applied.filter(l => list.includes(l)); const st = pick("狀態", STATUS), kl = pick("類別", KLASSES), sb = pick("學科", SUBJECTS), tp = pick("主題", TOPICS); return (!st.length || st.includes(bookStatus(b))) && levelOk(b, skip) && (!kl.length || kl.includes(b.klass)) && (!sb.length || sb.some(x => (b.curriculum || []).includes(x))) && (!tp.length || tp.some(x => topicsOf(b).includes(x))); };
   const termOk = (b) => !terms.length || terms.reduce((acc, t, i) => i === 0 ? bookMatch(b, t) : t.op === "OR" ? acc || bookMatch(b, t) : acc && bookMatch(b, t), true);
     // 勾了新聞專用條件（新聞分類／新聞來源／時間）時，不顯示書籍與電子資源；與書籍主題或資源學科同名的分類（如「美國」）除外
   const newsFilter = applied.some(l => (NEWS_CATS.includes(l) || l === "The New York Times" || TIME_LABELS.includes(l)) && !TOPICS.includes(l) && !resDomains.includes(l));
-  const books = bookPool.filter(termOk).filter(b => !newsFilter && facet(b)).sort((a, b) => sort === "書名" ? a.title.localeCompare(b.title, "zh-Hant") : 0);
+  // 勾了電子資源專用條件（資源類型、非課綱科目的學科領域）時，不顯示書籍與新聞；與書籍主題同名的（如「社會」）除外
+  const resFilter = applied.some(l => (RES_TYPES.includes(l) || (resDomains.includes(l) && !SUBJECTS.includes(l))) && !TOPICS.includes(l));
+  const books = bookPool.filter(termOk).filter(b => !newsFilter && !resFilter && facet(b)).sort((a, b) => sort === "書名" ? a.title.localeCompare(b.title, "zh-Hant") : 0);
   // 單一結果清單：書籍為主，每 3 本穿插 1 則新聞、1 項線上學習資源（同一種清單卡呈現）
   // 勾了書籍條件（狀態／讀者／類別／主題）時不顯示電子資源；勾了書籍條件或對應課綱時不顯示新聞（與新聞分類同名的主題除外）
   const bookOnly = newsFilter || applied.some(l => [...STATUS, ...KLASSES, ...TOPICS].includes(l) && !resDomains.includes(l));
-  const hideNews = applied.some(l => [...STATUS, ...READERS, ...KLASSES, ...SUBJECTS, ...TOPICS].includes(l) && !NEWS_CATS.includes(l));
+  const hideNews = resFilter || applied.some(l => [...STATUS, ...READERS, ...KLASSES, ...SUBJECTS, ...TOPICS].includes(l) && !NEWS_CATS.includes(l));
   const newsHits = !withNews || hideNews ? [] : newsHitsAll;
   const resPool = withRes && !bookOnly ? resSorted : [];
+  // 左側各篩選項目旁的數字：依目前的搜尋詞、格式與「其他組」已套用的條件即時計算（同一組不互相扣除，才看得到勾選其他選項會有幾筆）
+  const bookCount = (skip, test) => bookPool.filter(b => termOk(b) && !newsFilter && !resFilter && facet(b, skip) && test(b)).length;
+  const resCount = (skip, test) => withRes && !bookOnly ? (resData || []).filter(x => resOk(x, skip) && test(x)).length : 0;
+  const newsCount = (skip, test) => withNews && !hideNews ? window.K12_NEWS.filter(n => newsOk(n, skip) && test(n)).length : 0;
   // 「格式」旁的數字：依目前的搜尋詞與篩選條件即時計算，不受已勾選的格式影響
-  const liveBooks = allBooks.filter(b => termOk(b) && !newsFilter && facet(b));
+  const liveBooks = allBooks.filter(b => termOk(b) && !newsFilter && !resFilter && facet(b));
   const fmtItems = [...BOOK_FMTS.map(f => [f, liveBooks.filter(b => b.type === f).length]), ["新聞", hideNews ? 0 : newsHitsAll.length], ["電子資源", bookOnly ? 0 : resHitsAll.length]];
   // 套用篩選條件且使用者沒有自己選格式時，自動勾選有結果的格式（可在上方打叉移除）；篩選條件全部清掉時自動取消
   React.useEffect(() => {
@@ -199,20 +199,20 @@ function SearchResultsScreen({ go }) {
             </div>}
           </div>
           <FilterBlock title="格式" items={fmtItems} selected={scopes} onToggle={(f) => setScopes(scopes.includes(f) ? scopes.filter(x => x !== f) : [...scopes, f])} />
-          {(bookTypes.length > 0 || withRes) && <FilterBlock title="讀者" items={READERS.map(l => [l, bookPool.filter(x => levelMatch(x, l)).length + (withRes ? (resData || []).filter(x => levelMatch(x, l)).length : 0)])} selected={picked} onToggle={toggle} />}
+          {(bookTypes.length > 0 || withRes) && <FilterBlock title="讀者" items={READERS.map(l => [l, bookCount("讀者", x => levelMatch(x, l)) + resCount("讀者", x => levelMatch(x, l))])} selected={picked} onToggle={toggle} />}
           {bookTypes.length > 0 && <>
-          <FilterBlock title="狀態" items={STATUS.map(l => [l, bookPool.filter(b => bookStatus(b) === l).length])} selected={picked} onToggle={toggle} />
-          <FilterBlock title="類別" items={KLASSES.map(l => [l, bookPool.filter(b => b.klass === l).length])} selected={picked} onToggle={toggle} />
-          <FilterBlock title="對應課綱" items={SUBJECTS.map(l => [l, bookPool.filter(b => (b.curriculum || []).includes(l)).length])} selected={picked} onToggle={toggle} initial={6} step={5} />
-          <FilterBlock title="主題" items={TOPICS.filter(l => bookPool.some(b => topicsOf(b).includes(l))).map(l => [l, bookPool.filter(b => topicsOf(b).includes(l)).length]).sort((x, y) => y[1] - x[1])} selected={picked} onToggle={toggle} initial={6} step={5} />
+          <FilterBlock title="狀態" items={STATUS.map(l => [l, bookCount("狀態", b => bookStatus(b) === l)])} selected={picked} onToggle={toggle} />
+          <FilterBlock title="類別" items={KLASSES.map(l => [l, bookCount("類別", b => b.klass === l)])} selected={picked} onToggle={toggle} />
+          <FilterBlock title="對應課綱" items={SUBJECTS.map(l => [l, bookCount("學科", b => (b.curriculum || []).includes(l)) + resCount("學科", x => (x.subjects || []).includes(domainOf(l)))])} selected={picked} onToggle={toggle} initial={6} step={5} />
+          <FilterBlock title="主題" items={TOPICS.filter(l => bookPool.some(b => topicsOf(b).includes(l))).map(l => [l, bookCount("主題", b => topicsOf(b).includes(l))]).sort((x, y) => y[1] - x[1])} selected={picked} onToggle={toggle} initial={6} step={5} />
           </>}
           {withRes && <>
-          <FilterBlock title="資源類型" items={resTypeItems} selected={picked} onToggle={toggle} />
-          <FilterBlock title="學科領域" items={resDomainItems} selected={picked} onToggle={toggle} initial={6} step={5} />
+          <FilterBlock title="資源類型" items={RES_TYPES.map(t => [t, resCount("資源類型", x => (x.categories || []).includes(t))])} selected={picked} onToggle={toggle} />
+          <FilterBlock title="學科領域" items={resDomains.map(d => [d, resCount("學科", x => (x.subjects || []).includes(d)) + (SUBJECTS.includes(d) ? bookCount("學科", b => (b.curriculum || []).includes(d)) : 0)])} selected={picked} onToggle={toggle} initial={6} step={5} />
           </>}
           {withNews && <>
-          <FilterBlock title="新聞來源" items={[["The New York Times", window.K12_NEWS.length]]} selected={picked} onToggle={toggle} />
-          <FilterBlock title="新聞分類" items={newsCatItems} selected={picked} onToggle={toggle} initial={6} step={5} />
+          <FilterBlock title="新聞來源" items={[["The New York Times", newsCount("新聞來源", n => n.source === "The New York Times")]]} selected={picked} onToggle={toggle} />
+          <FilterBlock title="新聞分類" items={NEWS_CATS.map(c => [c, newsCount("新聞分類", n => n.category === c) + (TOPICS.includes(c) ? bookCount("主題", b => topicsOf(b).includes(c)) : 0)])} selected={picked} onToggle={toggle} initial={6} step={5} />
           </>}
         </aside>
         <div style={{ flex: 1, minWidth: 0, display: "flex", flexDirection: "column", gap: 12 }}>
