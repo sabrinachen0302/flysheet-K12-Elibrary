@@ -13,7 +13,7 @@ const CURRICULUM = [
   ["綜合活動", ["生涯規劃", "生命教育"]], ["高中家政", ["高中家政"]], ["健康與體育", ["健康與護理", "體育", "全民國防"]],
 ];
 const subjectCount = (s) => 24 + ([...s].reduce((n, ch) => n + ch.charCodeAt(0), 0) % 160);
-const bookById = (id) => K12_BOOKS.find(b => b.id === id) || K12_BOOKS[0];
+const bookById = (id) => K12_BOOKS.find(b => b.id === id) || K12_MAGAZINES.map(m => ({ ...m, type: "雜誌", tag: m.category })).find(m => m.id === id) || K12_BOOKS[0];
 function CoverPattern({ kind, c }) {
   const A = { position: "absolute", pointerEvents: "none" };
   switch (kind) {
@@ -67,7 +67,7 @@ const bookCardProps = (b) => ({ title: b.title, author: b.author || b.subtitle |
 // 列表卡說明文字：缺少的欄位直接略過，不補字
 const bookDesc = (b) => [b.author ? b.author + "　著" : b.subtitle, b.synopsis].filter(Boolean).join("　");
 const openExternal = (url) => url && window.open(url, "_blank", "noopener");
-const openBook = (go, id) => { localStorage.setItem("k12-book", id); go("detail"); };
+const openBook = (go, id) => { const mag = K12_MAGAZINES.find(m => m.id === id); if (mag) return openExternal(mag.url); localStorage.setItem("k12-book", id); go("detail"); };
 Object.assign(window, { K12_PLATFORMS, bookDesc, openExternal, K12_MAGAZINES, loadJSON, K12_CURRICULUM: CURRICULUM, subjectCount, K12_BOOKS, bookById, BookCover, bookCardProps, openBook });
 
 // 書籍標籤：books.json 的 tag 欄位（畫面上顯示的分類標籤，與 topics 分開管理）
