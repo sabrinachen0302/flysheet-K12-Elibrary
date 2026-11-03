@@ -25,11 +25,11 @@ npx serve .
 
 # 高中電子圖書館 Design System
 
-K12 (senior-high) e-library web — a school digital library where students search e-books, audiobooks, magazines, news and databases, browse curated themes, and jump out to partner platforms (HyRead, KONO, NYT…). Desktop-first at 1440px; no mobile designs exist yet. 網站入口即為首頁（Landing page 已移除）。 Brief from the owner: 採用活潑、適合高中生的設計 — lively, teen-friendly.
+K12 (senior-high) e-library web — a school digital library where students search e-books, audiobooks, magazines, news and databases, browse curated themes, and jump out to partner platforms (HyRead, KONO, NYT…). Desktop-first at 1440px; no mobile designs exist yet. 網站入口即為首頁。 Brief from the owner: 採用活潑、適合高中生的設計 — lively, teen-friendly.
 
 ## Sources
 
-- **Figma:** Flysheet(test).fig (file key JOMi59OnqCz8BsZX0IuEVq, section "AI Sandbox" node 2008:34 + component frames on Page 1).
+- **Figma:** Flysheet(test).fig
 - **GitHub:** https://github.com/sabrinachen0302/K12_e-library_design — tokens.css (source of truth for color/spacing/radius), spec/*.md (per-component/page specs), screens/*.png, assets/. Explore that repo for more exact page specs when building new screens.
 
 ## Index（本資料夾 deploy/）
@@ -38,7 +38,7 @@ K12 (senior-high) e-library web — a school digital library where students sear
 - `js/*.app.js` — 各頁面（Home、Categories、SearchResults、BookDetail、Curation、Journey、Favorites…）。
 - `_ds_bundle.js` — 設計系統元件的編譯快照（元件原始碼在設計系統專案的 `components/`，不在本資料夾）。
 - `styles.css` — entry; imports tokens/fonts.css, colors.css, spacing.css, typography.css, assets.css.
-- `data/` — books.json（41 本實際匯入書籍）、books-sample.json（原示範書，網站不載入）、resources.json、NCKU-OA-resource.JSON、self-learning-resources.json、curations.json 等。
+- `data/` — books.json（41 本實際匯入書籍）、books-sample.json（原示範書(假書)，網站不顯示）、resources.json、NCKU-OA-resource.JSON、self-learning-resources.json、curations.json 等。
 - `assets/icons/` (12 SVG), `assets/images/` (covers, New badge, old school logo), `assets/covers/`（電子書、有聲書封面）, `assets/fonts/`, `assets/figma/` (2 bitmaps from the Figma import)；`covers/resources/`（電子資源圖片）。
 - `vercel.json` — Vercel 設定。
 
