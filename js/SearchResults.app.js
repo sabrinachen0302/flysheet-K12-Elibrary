@@ -10,6 +10,20 @@ function Collapsible({ children }) {
   const onClick = (e) => { const h = ref.current && ref.current.firstElementChild && ref.current.firstElementChild.firstElementChild; if (h && h.contains(e.target)) setOpen(o => !o); };
   return <div ref={ref} onClick={onClick}>{React.cloneElement(children, { state: open ? "展開" : "收合" })}</div>;
 }
+// 回到頂端按鈕：往下捲超過 600px 才出現，固定在右下角；點了平滑捲回頁首（使用者設定「減少動態效果」時直接跳回）
+function BackToTop() {
+  const [show, setShow] = React.useState(false);
+  const [hv, setHv] = React.useState(false);
+  React.useEffect(() => { const f = () => setShow(window.scrollY > 600); f(); window.addEventListener("scroll", f, { passive: true }); return () => window.removeEventListener("scroll", f); }, []);
+  const reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  return (
+    <button type="button" aria-label="回到頂端" title="回到頂端" onClick={() => window.scrollTo({ top: 0, behavior: reduce ? "auto" : "smooth" })} onMouseEnter={() => setHv(true)} onMouseLeave={() => setHv(false)}
+      style={{ position: "fixed", right: 10, bottom: 24, zIndex: 80, width: 44, height: 44, borderRadius: "50%", border: "var(--border-default)", background: hv ? "var(--color-brand-mint)" : "var(--color-surface)", boxShadow: hv ? "var(--shadow-hard-md)" : "var(--shadow-hard-sm)", cursor: "pointer", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", gap: 0, padding: 0, fontFamily: "inherit", fontSize: 10, fontWeight: 700, color: "var(--color-text)", opacity: show ? 1 : 0, pointerEvents: show ? "auto" : "none", transform: show ? "translateY(0)" : "translateY(12px)", transition: "opacity .2s ease, transform .2s ease, background .15s ease" }}>
+      <DSR.Icon name="chevron-down" size={14} style={{ transform: "rotate(180deg)" }} />
+      頂端
+    </button>
+  );
+}
 const fbHead = { fontFamily: "var(--font-base)", fontWeight: 700, fontSize: 15, lineHeight: "100%", color: "var(--color-text-primary)" };
 function FilterBlock({ title, items, selected, onToggle, initial, step }) {
   const [open, setOpen] = React.useState(true);
@@ -299,7 +313,8 @@ const allResults = React.useMemo(() => {
           </div>}
         </div>
       </div>
-      {preview && <BookPreview b={preview} go={go} onClose={() => setPreview(null)} />}
+      <BackToTop />
+{preview && <BookPreview b={preview} go={go} onClose={() => setPreview(null)} />}
     </div>
   );
 }
