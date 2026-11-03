@@ -109,10 +109,6 @@ Figma-materialized components are fixed-size, absolutely positioned reconstructi
 - Use via `<Icon name="share" size={16} />`. No icon font, no CDN set.
 - Unicode glyphs ✕ ‹ › ⌃ ⌄ ﹀ are used inside Figma filter/pagination components. No emoji.
 
-## Brand mark
-
-The source has no logo. The header uses a 30×30 #d9d9d9 placeholder square + 「高中電子圖書館」 in type. logo-school.png belongs to the retired Waterstone header — don't use it for the current brand.
-
 ## Fonts
 
 - **General Sans**（英文）— 字型檔位於 `assets/fonts/`，於 `tokens/fonts.css` 以 @font-face 載入。
