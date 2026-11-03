@@ -106,7 +106,7 @@ function OpenBook({ b, dir = 1, closing = false }) {
     const fwd = flip.dir > 0;
     const from = fwd ? -10 : 10, to = fwd ? -170 : 170;
     leaf = (
-      <div aria-hidden="true" style={{ position: "absolute", top: 0, left: fwd ? 330 : 0, width: 330, height: 440, zIndex: 5, transformStyle: "preserve-3d", transformOrigin: fwd ? "left center" : "right center", transform: `rotateY(${flip.go ? to : from}deg)`, transition: flip.go ? `transform ${FLIP_MS}ms cubic-bezier(.45,.05,.3,1)` : "none" }}>
+      <div aria-hidden="true" style={{ position: "absolute", top: 0, left: fwd ? 330 : 0, width: 330, height: 440, zIndex: 5, willChange: "transform", transformStyle: "preserve-3d", transformOrigin: fwd ? "left center" : "right center", transform: `translateZ(2px) rotateY(${flip.go ? to : from}deg)`, transition: flip.go ? `transform ${FLIP_MS}ms cubic-bezier(.45,.05,.3,1)` : "none" }}>
         <div style={{ ...(fwd ? PAGE_R : PAGE_L), ...face, boxShadow: "0 0 0 transparent" }}>{fwd ? <RightContent b={flip.old} /> : <LeftContent b={flip.old} />}</div>
         <div style={{ ...(fwd ? PAGE_L : PAGE_R), ...face, transform: "rotateY(180deg)" }}>{fwd ? <LeftContent b={b} /> : <RightContent b={b} />}</div>
       </div>
@@ -114,7 +114,7 @@ function OpenBook({ b, dir = 1, closing = false }) {
   }
   return (
     <div style={{ perspective: 1800, display: "flex", justifyContent: "center", padding: "12px 0 28px" }}>
-      <div style={{ position: "relative", display: "flex", transformStyle: "preserve-3d", transform: closing ? "rotateX(14deg) translateX(-165px) scale(.75)" : "rotateX(14deg)", opacity: closing ? 0 : 1, transition: closing ? `transform ${CLOSE_MS - FOLD_MS}ms ease-in ${FOLD_MS}ms, opacity ${CLOSE_MS - FOLD_MS - 100}ms ease ${FOLD_MS + 100}ms` : "none" }}>
+      <div style={{ position: "relative", display: "flex", willChange: "transform", transformStyle: "preserve-3d", transform: closing ? "rotateX(14deg) translateX(-165px) scale(.75)" : "rotateX(14deg)", opacity: closing ? 0 : 1, transition: closing ? `transform ${CLOSE_MS - FOLD_MS}ms ease-in ${FOLD_MS}ms, opacity ${CLOSE_MS - FOLD_MS - 100}ms ease ${FOLD_MS + 100}ms` : "none" }}>
         <div aria-hidden="true" style={{ position: "absolute", inset: "-10px -12px -14px", background: "var(--color-brand-primary)", border: "var(--border-default)", borderRadius: "var(--corner-md)", boxShadow: "var(--shadow-hard-md)", transform: "translateZ(-2px)", opacity: closing ? 0 : 1, transition: `opacity ${FOLD_MS * 0.6}ms ease ${FOLD_MS * 0.3}ms` }} />
         {/* 左頁：正面是書名頁，背面是封面；闔書時沿書背（右緣）翻 180 度蓋到右頁上 */}
         <div style={{ position: "relative", width: 330, height: 440, zIndex: closing ? 3 : "auto", transformStyle: "preserve-3d", transformOrigin: "right center", transform: `rotateY(${closing ? 180 : on ? 10 : 80}deg)`, transition: pageT }}>
