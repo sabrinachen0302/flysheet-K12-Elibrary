@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600;700&family=Noto+Serif+TC:wght@400;700&display=swap');
+/* General Sans — Latin only (unicode-range); CJK falls through to Noto Sans TC. Each role family is locked to one cut regardless of font-weight. */
+@font-face{font-family:"General Sans Label";src:url("../assets/fonts/GeneralSans-Light.woff2") format("woff2");font-weight:100 900;font-style:normal;font-display:swap;unicode-range:U+0000-024F,U+2000-206F,U+20A0-20CF,U+2100-214F,U+2190-21FF}
+@font-face{font-family:"General Sans Body";src:url("../assets/fonts/GeneralSans-Regular.woff2") format("woff2");font-weight:100 900;font-style:normal;font-display:swap;unicode-range:U+0000-024F,U+2000-206F,U+20A0-20CF,U+2100-214F,U+2190-21FF}
+@font-face{font-family:"General Sans Subheading";src:url("../assets/fonts/GeneralSans-Medium.woff2") format("woff2");font-weight:100 900;font-style:normal;font-display:swap;unicode-range:U+0000-024F,U+2000-206F,U+20A0-20CF,U+2100-214F,U+2190-21FF}
+@font-face{font-family:"General Sans Heading";src:url("../assets/fonts/GeneralSans-Bold.woff2") format("woff2");font-weight:100 900;font-style:normal;font-display:swap;unicode-range:U+0000-024F,U+2000-206F,U+20A0-20CF,U+2100-214F,U+2190-21FF}
+@font-face{font-family:"General Sans Semibold";src:url("../assets/fonts/GeneralSans-Semibold.woff2") format("woff2");font-weight:100 900;font-style:normal;font-display:swap;unicode-range:U+0000-024F,U+2000-206F,U+20A0-20CF,U+2100-214F,U+2190-21FF}

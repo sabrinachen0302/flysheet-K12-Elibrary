@@ -1,0 +1,345 @@
+[
+  {
+    "id": 620,
+    "title": "臺灣通識網",
+    "url": "https://www.youtube.com/@generaleducationtw-get1274",
+    "image": "covers/resources/620.png",
+    "description": "「臺灣通識網」為一整合國內、外通識教育資源之資訊服務平臺，典藏全臺灣大專院校之優質通識課程。\n\n教育部高教司於97年4月起，為提供各大學更為充分的通識教育資源，並催化通識教育氛圍以提高學校、教師、學生及社會大眾對通識教育認識、瞭解與關注而建立。",
+    "publisher": "教育部",
+    "categories": [
+      "自主學習",
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "levels": [
+      "高中"
+    ],
+    "clicks": 0,
+    "order": 508
+  },
+  {
+    "id": 621,
+    "title": "國立陽明交通大學開放式課程",
+    "url": "https://ocw.nycu.edu.tw/",
+    "image": "covers/resources/621.png",
+    "description": "「國立陽明交通大學開放式課程」每年開放分享約12~16門校內優質知識資源，包含各院系基礎、專業課程、共同必修課程及通識教育課程，以及15-20場演講，無償地提供自學者更多元豐富的學習管道。本網站於2012年更從全球超過250個大學開放式課程網站中脫穎而出，百裡選一地獲得全球開放式課程聯盟年度「標竿網站獎」(Landmark Site Award)。",
+    "publisher": "國立陽明交通大學",
+    "categories": [
+      "自主學習",
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "levels": [
+      "高中"
+    ],
+    "clicks": 0,
+    "order": 509
+  },
+  {
+    "id": 622,
+    "title": "可汗學院",
+    "url": "https://zh.khanacademy.org/",
+    "image": "covers/resources/622.png",
+    "description": "可汗學院是由孟加拉裔美國人、麻省理工學院及哈佛大學商學院畢業生薩爾曼·可汗於2006年創立的一所非營利教育機構。機構通過網絡提供一系列免費教材，現於Youtube載有超過5,600段教學影片，內容涵蓋數學、歷史、醫療衛生及醫學、金融、物理、化學、生物學、天文學、經濟學、宇宙學、有機化學、能量運動、美術史、宏觀經濟學、微觀經濟學及電腦科學等眾多方面。",
+    "publisher": "可汗學院",
+    "categories": [
+      "自主學習",
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "levels": [
+      "不限學級"
+    ],
+    "clicks": 0,
+    "order": 510
+  },
+  {
+    "id": 623,
+    "title": "網易公開課",
+    "url": "https://open.163.com/",
+    "image": "covers/resources/623.png",
+    "description": "收錄多種中國開放課程影音，同時也有國外大學如了哈佛、史丹佛、牛津的相關影音資源。",
+    "publisher": "網易(中國公司)",
+    "categories": [
+      "自主學習",
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "levels": [
+      "高中"
+    ],
+    "clicks": 0,
+    "order": 511
+  },
+  {
+    "id": 624,
+    "title": "Dave Conservatoire",
+    "url": "https://daveconservatoire.org/",
+    "image": "covers/resources/624.png",
+    "description": "免費音樂線上資源，包含百種影音課程、播放清單、互動學習練習，讓學習音樂變得更有趣！",
+    "publisher": "英國音樂家Dave",
+    "categories": [
+      "自主學習",
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "levels": [
+      "高中"
+    ],
+    "clicks": 0,
+    "order": 512
+  },
+  {
+    "id": 625,
+    "title": "TEDxTaipei",
+    "url": "https://www.youtube.com/user/TEDxTaipei",
+    "image": "covers/resources/625.png",
+    "description": "包含多元主題的TED台北場演講影片",
+    "publisher": "TED Talks",
+    "categories": [
+      "自主學習",
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "levels": [
+      "高中"
+    ],
+    "clicks": 0,
+    "order": 513
+  },
+  {
+    "id": 626,
+    "title": "科普一傳十",
+    "url": "https://www.youtube.com/@%E7%A7%91%E6%99%AE%E4%B8%80%E5%82%B3%E5%8D%81/playlists",
+    "image": "covers/resources/626.png",
+    "description": "Youtube頻道內涵蓋上百支影片，內容為科學家訪談，跨越不同的自然領域，解離傳統教育現場，為科學教育帶來新氣象。",
+    "publisher": "科普一傳十",
+    "categories": [
+      "自主學習",
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "levels": [
+      "高中"
+    ],
+    "clicks": 0,
+    "order": 514
+  },
+  {
+    "id": 627,
+    "title": "科學人",
+    "url": "https://www.scitw.cc/",
+    "image": "covers/resources/627.png",
+    "description": "專欄文章、報導涵蓋形上集、教科書之外、機器思維、科學棋談、媒事多科學、醫學、古生物、心理學、生態學、物理、化學、地球科學、天文，掌握國外科學發展的最新趨勢。",
+    "publisher": "台灣科學人股份有限公司",
+    "categories": [
+      "自主學習",
+      "媒體與知識雜誌"
+    ],
+    "subjects": [],
+    "levels": [
+      "不限學級"
+    ],
+    "clicks": 0,
+    "order": 515
+  },
+  {
+    "id": 628,
+    "title": "政策研究指標資料庫",
+    "url": "https://pride.stpi.narl.org.tw/index",
+    "image": "covers/resources/628.png",
+    "description": "政策研究指標資料庫是科政中心建置的數值型資料庫。自2014年對外開放以來，本資料庫以服務科技政策研究為導向，蒐集與整合Eurostat, OECD, WEF, World Bank等國際組織與機構，以及國內政府機關等多種來源的指標數值資料，以提供研究人員one-stop service的便捷服務。 資料庫核心內容有各國人口、經濟、財政、教育、能源、環境、勞工、政府效能、生活品質、科學技術等調查統計或排名資料。近期新增「學術能量統計」，可查詢各領域之論文發表數、相對影響力、期刊影響係數等指標，藉由這些指標配合繪圖功能，可輕鬆掌握各領域學術研發能量。",
+    "publisher": "國研院科政中心",
+    "categories": [
+      "圖書館與學術資源",
+      "自主學習"
+    ],
+    "subjects": [],
+    "levels": [
+      "高中"
+    ],
+    "clicks": 0,
+    "order": 516
+  },
+  {
+    "id": 629,
+    "title": "MIT Open Course Ware",
+    "url": "https://ocw.mit.edu/",
+    "image": "covers/resources/629.png",
+    "description": "免費提供麻省理工學院的幾乎所有課程影片和教材。",
+    "publisher": "麻省理工學院",
+    "categories": [
+      "自主學習",
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "levels": [
+      "高中"
+    ],
+    "clicks": 0,
+    "order": 517
+  },
+  {
+    "id": 630,
+    "title": "Yale Open Courses",
+    "url": "https://oyc.yale.edu/",
+    "image": "covers/resources/630.png",
+    "description": "「耶魯開放課程」免費向公眾提供經篩選的耶魯學院課程之講座及其他教材。這些線上課程涵蓋通識教育的所有學科領域，包括人文學科、社會科學，以及物理與生物科學",
+    "publisher": "耶魯大學",
+    "categories": [
+      "自主學習",
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "levels": [
+      "高中"
+    ],
+    "clicks": 0,
+    "order": 518
+  },
+  {
+    "id": 631,
+    "title": "EdX",
+    "url": "https://www.edx.org/",
+    "image": "covers/resources/631.png",
+    "description": "來自全球頂尖大學、google與微軟的線上課程，登入後即可免費上部分課程，並提供付費證書。",
+    "publisher": "哈佛與MIT",
+    "categories": [
+      "自主學習",
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "levels": [
+      "高中"
+    ],
+    "clicks": 0,
+    "order": 519
+  },
+  {
+    "id": 632,
+    "title": "Cognitive Class",
+    "url": "https://cognitiveclass.ai/",
+    "image": "covers/resources/632.png",
+    "description": "IBM的免費線上學習平台，主要將重點放在人工智慧（AI）、資料科學（Data Science）、大數據與雲端運算等技術學習。",
+    "publisher": "IBM",
+    "categories": [
+      "自主學習",
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "levels": [
+      "高中"
+    ],
+    "clicks": 0,
+    "order": 520
+  },
+  {
+    "id": 633,
+    "title": "Code AI",
+    "url": "https://code.org/zh-Hans",
+    "image": "covers/resources/633.png",
+    "description": "CodeAI是致力於教育創新的非營利組織，希望讓每位學生都有機會在K-12核心教育中學習人工智慧（AI）與電腦科學（CS）。",
+    "publisher": "Code AI",
+    "categories": [
+      "自主學習",
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "levels": [
+      "高中"
+    ],
+    "clicks": 0,
+    "order": 521
+  },
+  {
+    "id": 634,
+    "title": "Codecamy",
+    "url": "https://www.codecademy.com/",
+    "image": "covers/resources/634.png",
+    "description": "由多位工程師發起的Codecademy是一個線上互動式網站平台，它提供免費寫程式課程，其程式語言包括例如Python、JavaScript和Ruby，也包括標示語言例如HTML和CSS。",
+    "publisher": "Codecamy",
+    "categories": [
+      "自主學習",
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "levels": [
+      "不限學級"
+    ],
+    "clicks": 0,
+    "order": 522
+  },
+  {
+    "id": 635,
+    "title": "Grow with Google",
+    "url": "https://grow.google/intl/zh-TW_tw/",
+    "image": "covers/resources/635.png",
+    "description": "Google提供的免費課程",
+    "publisher": "Google",
+    "categories": [
+      "自主學習",
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "levels": [
+      "高中"
+    ],
+    "clicks": 0,
+    "order": 523
+  },
+  {
+    "id": 636,
+    "title": "Justin Guitar",
+    "url": "https://www.justinguitar.com/",
+    "image": "covers/resources/636.png",
+    "description": "免費的吉他線上課程",
+    "publisher": "Justin",
+    "categories": [
+      "自主學習",
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "levels": [
+      "高中"
+    ],
+    "clicks": 0,
+    "order": 524
+  },
+  {
+    "id": 637,
+    "title": "教育大市集",
+    "url": "https://market.cloud.edu.tw/",
+    "image": "covers/resources/637.png",
+    "description": "「教育大市集」整合了全國22縣市教育單位、教育部部屬機構及民間單位之多元數位教學資源，累積超過15萬筆的資源。資源內容豐富且皆經專家審核後上架，並且採用TW LOM後設資料交換標準及CC授權方式，方便資源間分享與取用。",
+    "publisher": "教育部",
+    "categories": [
+      "自主學習",
+      "線上課程與影音"
+    ],
+    "subjects": [],
+    "levels": [
+      "國中",
+      "高中"
+    ],
+    "clicks": 0,
+    "order": 525
+  },
+  {
+    "id": 638,
+    "title": "古騰堡計畫",
+    "url": "https://www.gutenberg.org/",
+    "image": "covers/resources/638.png",
+    "description": "把公版著作（public domain）數位化, 放在網路上供大眾自由取用。",
+    "publisher": "",
+    "categories": [
+      "圖書館與學術資源",
+      "自主學習"
+    ],
+    "subjects": [],
+    "levels": [
+      "高中"
+    ],
+    "clicks": 0,
+    "order": 526
+  }
+]

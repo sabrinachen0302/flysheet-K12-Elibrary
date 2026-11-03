@@ -1,0 +1,4895 @@
+[
+ {
+  "id": "DB000000010",
+  "title": "ACROSS檔案資源整合查詢平台",
+  "url": "https://across.archives.gov.tw",
+  "description": "《ACROSS檔案資源整合查詢平台》為檔案管理局於民國98年所建置，將政府機關、民間團體處理業務產生之紀錄，以及由家庭或個人產生之私人紀錄進行整合。初期先以政府機關典藏之文書、圖像及照片資料為主，共11個機關29個資料庫，後續逐步擴大至影音、樂譜及電子文獻等其他類型檔案。 ACROSS採內容、時間、型態及機關等方式分類，說明如下： ● 依內容區分為官方檔案與民間文書； ● 依時間區分為中華民國(民國元年~迄今)、日治時期(1895~1945)及明清時期(1895以前)； ● 依檔案型態區分為圖像/照片及文書兩類； ● 依機關區分為中央研究院、國史館、台灣大學圖書館、國家圖書館、行政院文化建設委員會、高雄市立歷史博物館、新竹縣縣史館及檔案管理局，再依隸屬關係展延全部收錄機關及資料庫名稱。",
+  "publisher": "檔案管理局",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史",
+   "公民與社會"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 5,
+  "order": 1
+ },
+ {
+  "id": "DB000000738",
+  "title": "American Doctoral Dissertations 1933-1955™",
+  "url": "http://www.opendissertations.com",
+  "description": "在H.W. Wilson基金會的贊助之下，EBSCO Information Services與位於美國波士頓的Congregational Library & Archives共同合作將原為紙本型式的美國大學博士論文索引檔案(Doctoral Dissertations Accepted by American Universities, DDAAU)數位化。美國博士論文檔案資料庫1933-1955(American Doctoral Dissertations 1933-1955)收錄約有100,000筆從1933年至1955間的論文文獻。該資料庫是唯一收錄1933-1955年間，被美國大學所承認的博士論文最完整的檔案資料庫。",
+  "publisher": "EBSCO",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 42,
+  "order": 2
+ },
+ {
+  "id": "DB000183267",
+  "title": "Archive.org 網際網路檔案館",
+  "url": "https://archive.org",
+  "description": "美國的一個非營利性的、提供網際網路多媒體資料檔案閱覽服務的數位圖書館。網際網路檔案館由Alexa創始人布魯斯特·卡利於1996年創辦，總部位於加利福尼亞州舊金山的列治文區，其使命是「普及所有知識」。該網站提供的數位資料有如網站、網頁、圖形材料音樂、影片、音訊、軟體、動態圖像和數百萬書籍等的永久性免費儲存及取得的副本。 迄至2021年2月，該網站儲存了7280 億個網頁、3800萬本書和文字、1400 萬個錄音（包括 240,000 場現場音樂會）、700 萬個影片（包括 200 萬個電視新聞節目）、400 萬張圖片、790,000 個軟體程式。[7]除此之外，網際網路檔案館也是網路開放與自由化的倡議者之一。(來自: 維基百科)",
+  "publisher": "",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 238,
+  "order": 3
+ },
+ {
+  "id": "DB000000037",
+  "title": "arXiv.org",
+  "url": "http://arxiv.org/",
+  "description": "收錄有關物理學、數學、電腦科學、定量生物學、統計學等領域之預印本(e-print)全文資料。由康乃爾大學(Cornell University)所維護。",
+  "publisher": "Cornell University Library",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "數學",
+   "物理",
+   "生物",
+   "資訊科技"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 154,
+  "order": 4
+ },
+ {
+  "id": "DB000000048",
+  "title": "Bibliography of the History of Art",
+  "url": "http://www.getty.edu/research/tools/bha/",
+  "description": "The name BHA has been used informally to refer to a group of databases: RAA, RILA, BHA, and IBA. The data available on the Getty Web site as of July 1, 2010, comprises two databases: BHA and RILA. BHA (Bibliography of the History of Art/Bibliographie d'histoire de l'art) covers the years 1990–2007; the Getty Web version includes all records with abstracts in French or English and all subject terms in French and English. RILA (Rpertoire de la litterature de l'art), covers 1975–1989; the Getty Web version includes all records with abstracts in English and all subject terms in English.",
+  "publisher": "Getty Research Institute",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "美術",
+   "歷史",
+   "英文"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 251,
+  "order": 5
+ },
+ {
+  "id": "DB000000052",
+  "title": "BioMed Central",
+  "url": "http://www.biomedcentral.com/",
+  "description": "Publisher of 199 peer-reviewed open access journals",
+  "publisher": "BioMed Central",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "生物",
+   "醫學",
+   "健康與護理"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 266,
+  "order": 6
+ },
+ {
+  "id": "DB000000896",
+  "title": "British Library's Research Repository: UK Doctoral Thesis Metadata from EThOS",
+  "url": "https://bl.iro.bl.uk/",
+  "description": "EThOS is the UK’s national thesis service which aims to maximise the visibility and availability of the UK’s doctoral research theses.",
+  "publisher": "British Library",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 124,
+  "order": 7
+ },
+ {
+  "id": "DB000000058",
+  "title": "British National Corpus (BNC)",
+  "url": "https://www.english-corpora.org/bnc/",
+  "description": "The British National Corpus (BNC) was originally created by Oxford University press in the 1980s - early 1990s, and it contains 100 million words of text from a wide range of genres (e.g. spoken, fiction, magazines, newspapers, and academic). The BNC is related to many other corpora of English that we have created. These corpora were formerly known as the \"BYU Corpora\"), and they offer unparalleled insight into variation in English. Click on any of the links in the search form to the left for context-sensitive help, and to see the range of queries that the corpus offers. You might pay special attention to thecomparisons between genres ;and virtual corpora, which allow you to create personalized collections of texts related to a particular area of interest. Five minute tour",
+  "publisher": "University of Oxford",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "英文",
+   "美術",
+   "藝術生活"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 164,
+  "order": 8
+ },
+ {
+  "id": "DB000000064",
+  "title": "Canadian Industrial Designs Database",
+  "url": "http://www.ic.gc.ca/app/opic-cipo/id/dsplySrch.do?lang=eng",
+  "description": "",
+  "publisher": "Canadian Intellectual Property Office",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "藝術生活",
+   "公民"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 28,
+  "order": 9
+ },
+ {
+  "id": "DB000000065",
+  "title": "Canadian Patents Database",
+  "url": "https://www.ic.gc.ca/opic-cipo/cpd/eng/search/basic.html",
+  "description": "由Canadian Intellectual Property Office(CIPO)製作，收錄超過75年、1,900,000餘筆的加拿大專利資料及全文影像。",
+  "publisher": "Canadian Intellectual Property Office",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "藝術生活",
+   "公民"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 197,
+  "order": 10
+ },
+ {
+  "id": "DB000000066",
+  "title": "Canadian Trade-marks Database",
+  "url": "http://www.ic.gc.ca/app/opic-cipo/trdmrks/srch/tmSrch.do?lang=eng",
+  "description": "",
+  "publisher": "Canadian Intellectual Property Office",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "藝術生活",
+   "公民"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 452,
+  "order": 11
+ },
+ {
+  "id": "DB000000826",
+  "title": "Chemistry Central",
+  "url": "http://www.chemistrycentral.com/",
+  "description": "Chemistry Central is the open access chemistry platform from Springer Science+Business Media, committed to the free and widespread dissemination of chemical research. All original research articles published by, or in co-operation with, Chemistry Central are made freely and permanently accessible online immediately upon publication.",
+  "publisher": "Springer",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "化學"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 43,
+  "order": 12
+ },
+ {
+  "id": "DB000000074",
+  "title": "CiNii ─ NII論文情報ナビゲータ",
+  "url": "http://ci.nii.ac.jp/ja",
+  "description": "《CiNii》是由日本國立情報學研究中心(National Institute of Informatics)所製作之電子資料庫平台，提供各機關學校及個人能上網讀取日本各大學研究紀要、研究論文、各學(協)會刊物及專業雜誌論文等。收錄主題包括人文科學、法律、經濟學、理學、工學、農學、 醫學等日文期刊(Journal)或大學學刊(Bulletin)，現已收錄超過1250萬筆資料，其中約320萬筆直接附有全文，另廣納多種管道串聯外部全文，主要資料來源如下： ● NII-ELS：全名Electronic Library Service，由NII製作，收錄日本300個學會的7000種學術期刊，以及來自800所大學院校的5800種大學學刊，總文獻量超過350萬筆。提供全文或摘要，部分標示“有料”全文需額外加入會員付費觀看。 ● CJP：全名Citation Database for Japanese Publications，由NII製作，選錄NII-ELS資料庫中，約1700種自然科學領域的學術期刊，將各篇文章的參考文獻建檔，提供這些文獻間引用、被引用關係的查詢，參考文獻回溯年份不一，最早回溯至1992年。 ● NDLJPI：日本國家圖書館製作的期刊文獻資料庫，收錄近2萬種全國學術期刊、大學學刊、以及來自核心出版社的專業雜誌，總文獻量超過770萬筆，僅提供書目資料。 ● JAIRO：由NII製作，整合日本超過130所大學之機構典藏系統，資料量超過77萬筆。CiNii收錄JAIRO內93個單位中期刊、學刊類型中附有全文的資料，總文獻量超過33萬筆。 ● J-STAGE、Journal@rchive：由Japan Science and Technology Agency (JST)製作，收錄超過500種日本各領域之公開取用電子期刊，部份經JST同意的文獻會被收錄於CiNii中，總文獻量約9萬筆。 ● 其他全文管道：部分資料透過CrossRef、醫中誌等管道作全文串聯，但能否開啟全文則視所在單位是否具使用權而定。 ＊僅限本校訂購之範圍可下載全文，未訂購者無授權",
+  "publisher": "国立情報学研究所",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "日文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 386,
+  "order": 13
+ },
+ {
+  "id": "DB000000620",
+  "title": "CNKI工具書總庫",
+  "url": "https://gongjushu.oversea.cnki.net/fanti/",
+  "description": "《中國工具書網路出版總庫》（簡稱《工具書總庫》）集精准、權威、可信於一身，是超大型的中文工具書線上檢索平臺。由中國學術期刊（光碟版）電子雜誌社出版研製發行，是《中國知識資源總庫》的重要組成部分，更是“十一五”國家重大網路出版專案、“十一五”國家重點電子出版物規劃選題。 《工具書總庫》與上海辭書出版社、商務印書館、中華書局等300餘家出版社長期合作，彙集了1.2萬餘部工具書，約2000萬詞條，300餘萬張圖片。 自2006年3月立項至今，《工具書總庫》的用戶已遍佈全球，日均檢索量達100萬次，成為人們在書山探寶、學海求知的重要工具，也是海外學者研究中國問題、瞭解中華文化的快捷通道。 產品特點 1.內容來源權威可信。收錄的工具書都是權威專家編纂、出版社正規出版的工具書，讀者可以放心引用參考。 2.數據豐富、體系完整，資源覆蓋各學科、各領域。 3.基於全文數位化的高效檢索。產品對紙書內容進行了全文數位化，配合高效的全文檢索系統，突破了傳統工具書在檢索方面的局限性。 4.數據深度挖掘。開發了圖片、表格等特色搜索功能，幫助讀者更好地利用工具書。 5.知網節相互關聯。與知網學術期刊、博碩學位論文、會議論文、報紙、年鑒等產品之間建立了鏈接，實現了不同資料庫內相關條目的跳轉閱讀，幫助讀者建立全面的知識網路。 6.本次升級亮點有： （1）資源多維度精准定位：增加資源特色類型導航、行業導航，更易發現有價值的工具書資源。 （2）詞條內容知識圖譜化：增加條目內容的知識擴展，使用知識圖譜的方式擴展詞條的語言知識、相關詞知識。 （3）引證文獻分析拓展：增加工具書的參考/被引網路分析圖，對用戶科學使用工具書具有極高的參考價值。 （4）提升資源檢索完整度：增加欄目、附錄、關鍵字檢索功能，使資源檢索更加多元化，同時保證資源利用的完整度。 （5）提供免費增值服務：增加字詞翻譯、成語接龍、猜謎語、格言諺語的特色功能，基於資源XML結構化挖掘的基礎上，為用戶提供更具特色的服務。",
+  "publisher": "CNKI中國知網",
+  "categories": [
+   "閱讀推薦與電子書"
+  ],
+  "subjects": [
+   "生活科技",
+   "國文",
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 228,
+  "order": 14
+ },
+ {
+  "id": "DB000000083",
+  "title": "CONCERT 電子期刊聯合目錄",
+  "url": "http://unicat.stpi.narl.org.tw/unicat2c/unicat2tp",
+  "description": "「CONCERT 電子期刊聯合目錄資料庫」目前包括有 71 個聯盟資料庫，2 個國科會人文處引進的資料庫，以及 22 個非聯盟資料庫所收錄之電子期刊 56,892 筆，除刊名、出版者、ISSN、資料庫名稱等 4 項可供查詢外，並提供相關 URL 之連接。",
+  "publisher": "國研院科資中心",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 502,
+  "order": 15
+ },
+ {
+  "id": "DB000000084",
+  "title": "Conference Alerts: Academic Conferences Worldwide",
+  "url": "http://www.conferencealerts.com/",
+  "description": "提供即時的研討會(conference)的訊息。,具有檢索和瀏覽的功能，可依主題或舉辦國家進行瀏覽。",
+  "publisher": "Conference Alerts. com",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 80,
+  "order": 16
+ },
+ {
+  "id": "DB000000928",
+  "title": "CREST: 25-Year Program Archive",
+  "url": "https://graysondemocrats.org/crest-25-year-program-archive-cia-foia-foia-cia-gov/",
+  "description": "Since 2000, CIA has installed and maintained an electronic full-text searchable system named CREST (the CIA Records Search Tool), at NARA II in College Park, Maryland. The CREST system is the publicly accessible repository of the subset of CIA records reviewed under the 25-year program in electronic format (manually reviewed and released records are accessioned directly into the National Archives in their original format). Over 11 million pages have been released in electronic format and reside on the CREST database, from which researchers have printed about 1.1 million pages.",
+  "publisher": "CIA",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "歷史",
+   "全民國防",
+   "公民與社會"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 172,
+  "order": 17
+ },
+ {
+  "id": "DB000000091",
+  "title": "Current Index to Statistics",
+  "url": "https://mathscinet.ams.org/cis",
+  "description": "The Current Index to Statistics (CIS) is a bibliographic index of publications in statistics, probability, and related fields. It includes data from approximately 160 core journals, 1,200 additional journals in related fields, and 11,000 books. The bulk of the content in CIS is from 1975-2017. CIS was developed by the Institute of Mathematical Statistics and the American Statistical Association.",
+  "publisher": "文道\nCIS/ED",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "數學"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 32,
+  "order": 18
+ },
+ {
+  "id": "DB000000096",
+  "title": "DART-Europe E-theses Portal",
+  "url": "https://www.dart-europe.org/basic-search.php",
+  "description": "為歐洲29個國家575所大學的學位論文檢索平台, 截至2022/6/2包含1,186,128篇電子全文。",
+  "publisher": "LIBER",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 81,
+  "order": 19
+ },
+ {
+  "id": "DB000000097",
+  "title": "Database Chronik",
+  "url": "http://www.munzinger.de",
+  "description": "本線上資料庫為德國Munzinger-Archiv出版社產品，該出版社於1913年即開始蒐集整理百科全書目錄，線上版於1997年正式啟用，全資料庫分為人物、國家剪影、運動、世界歷史大事記、重要紀念日、流行音樂、電影、百科全書、Duden辭典、德國當代文學辭典(KLG)、德國歌詞辭典(KDG)，以及外語當代辭典(KLfG)等模組；本計畫購買的模組為世界歷史大事記、重要紀念日及國家剪影三項模組。進入資料庫頁面後將看見三個頁籤，若點選不在合約中的模組，將無法閱讀文件。本資料庫用於以德文了解各國民情、世界大事記及各國重要紀念日，藉由詞彙解釋提供初步釋義，做為參考文獻。檢索介面與功能標示清楚，容易操作，適合教師、研究生、大學生及對德文有興趣者。 國科會人文處德語學術研究資源建置計畫』，提供全國公私立大專院(含中央研究院及國圖)於2010年10月1日至2013年9月30日止可連線使用，限制可同時10人上線使用。",
+  "publisher": "國科會",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "歷史",
+   "藝術生活"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 318,
+  "order": 20
+ },
+ {
+  "id": "DB000000047",
+  "title": "Digital Commons [Berkeley]",
+  "url": "https://www.elsevier.com/products/digital-commons",
+  "description": "Digital Commons 是機構典藏的平台，蒐集Berkeley Electronic Press出版的開放取閱期刊，同時也與協會、聯盟、大學、學院及公共圖書館等單位支機構典藏系統相串連",
+  "publisher": "Berkeley Electronic Press",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 389,
+  "order": 21
+ },
+ {
+  "id": "DB000129914",
+  "title": "Digitaler Bibliothek Deutscher Klassiker [ProQuest]",
+  "url": "https://www.proquest.com/dkv",
+  "description": "本網站為1981年出版的「德國經典名人圖書館」系列之數位版，收錄了超過30位作家(如赫爾德Herder、克萊斯特Kleist、畢希納Büchner等)的全文作品，也收錄哲學家如康德、史萊馬哈Schleiermacher及菲希特Fichte等的文選。收錄領域包含歷史、哲學、神學、政治及史地等，收錄年代涵蓋11個世紀，主要集中在19 世紀的文學作品。 進入資料庫後可輸入關鍵字針對全文、關鍵字、文種或文章時間對原始文章或評論進行檢索，檢索結果將以文章索引方式顯現，每段呈現部分文章，使用者可初步篩選是否為需要的資料。點選章節進入後即可觀看全文。另外也可瀏覽所有目錄，選擇需要的文章資料。 收錄內容： Bibliothek der Frühen Neuzeit 近代史選集 Bibliothek des Mittelalters 中古世紀選集 Bibliothek der Geschichte und Politik 歷史政治選集 Bibliothek der Kunstliteratur 藝術文學選集 Bibliothek der Philosophie 哲學選集 收錄作者： Achim von Arnim / Bettine von Arnim / Georg Büchner / Joseph von Eichendorff / Brüder Grimm / Franz Grillparzer / Johann Gottfried Herder / E. T. A. Hoffmann / Friedrich Hölderlin / Gottfried Keller / Heinrich von Kleist / Gotthold Ephraim Lessing / Karl Philipp Moritz / Johann Gottfried Seume / Theodor Storm / Ludwig Tieck / Karl August Varnhagen von Ense 更改網址:https://www.proquest.com/dkv",
+  "publisher": "ProQuest",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "歷史",
+   "地理",
+   "公民與社會"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 15,
+  "order": 22
+ },
+ {
+  "id": "DB000001011",
+  "title": "DOAB: Directory of Open Access Books",
+  "url": "https://www.doabooks.org",
+  "description": "The primary aim of DOAB is to increase discoverability of Open Access books. Academic publishers are invited to provide metadata of their Open Access books to DOAB. Metadata will be harvestable in order to maximize dissemination, visibility and impact. Aggregators can integrate the records in their commercial services and libraries can integrate the directory into their online catalogues, helping scholars and students to discover the books. The directory is open to all publishers who publish academic, peer reviewed books in Open Access and should contain as many books as possible, provided that these publications are in Open Access and meet academic standards.",
+  "publisher": "OAPEN Foundation",
+  "categories": [
+   "閱讀推薦與電子書"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 176,
+  "order": 23
+ },
+ {
+  "id": "DB000000108",
+  "title": "DOAJ: Directory of Open Access Journals",
+  "url": "http://www.doaj.org/",
+  "description": "由Lund University Libraries主辦，Open Society Institute - Budapest, SPARC(The Scholarly Publishing and Academic Resources Coalition)協辦而組成之機構。 涵蓋農學及食品科學、醫學、生物學、地球及環境科學、經濟及法律社會科學等主題，為綜合性之免費電子資料庫。",
+  "publisher": "Infrastructure Services for Open Access",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "生物",
+   "地科",
+   "公民與社會",
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 54,
+  "order": 24
+ },
+ {
+  "id": "DB000000109",
+  "title": "Drugs@FDA",
+  "url": "http://www.accessdata.fda.gov/scripts/cder/drugsatfda/",
+  "description": "Catalog of FDA approved drug products.",
+  "publisher": "FDA",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "醫學",
+   "健康與護理",
+   "生物"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 35,
+  "order": 25
+ },
+ {
+  "id": "DB000000138",
+  "title": "Erudit Online Cart",
+  "url": "http://www.erudit.org/default.asp",
+  "description": "&Eacute;rudit is a multi-institutional publishing consortium (Université de Montréal, Université Laval, Université du Québec à Montréal) and a non-profit society established in 1998. &Eacute;rudit is the leading provider of Francophone and Canadian peer reviewed journals in North America. The platform gathers in one point nearly 150 Canadian scholarly and cultural publishers, including the most prestigious French-language Canadian university presses. Known for their rigourous content and quality digital publishing, &Eacute;rudit’s collections are truly unique. Strongly rooted in the scholarly Francophone community of North America, they also offer space to research results and cultural documents written in English or published by international researchers. Be it for fundamental or applied research, &Eacute;rudit’s collections are consulted around the world for study, exploration, and discovery purposes.",
+  "publisher": "Erudit",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 80,
+  "order": 26
+ },
+ {
+  "id": "DB000000139",
+  "title": "Espacenet",
+  "url": "http://www.epo.org/searching/free/espacenet.html",
+  "description": "Espacenet offers free access to more than 70 million patent documents worldwide, containing information about inventions and technical developments from 1836 to today 相關連結： 世界智慧財產權組織 WIPO 日本專利局 Japan Patent Office 美國專利商標局 USPTO Patent Database Delphion 專利資料庫 Delphion Intellectual Property Network (可查詢美國專利之書目資料，欲查全文須成為會員並付費。) 中華民國專利公報資料庫 中華民國專利情報系統 經濟部智慧財產局",
+  "publisher": "European Patent Office",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "生活科技"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 373,
+  "order": 27
+ },
+ {
+  "id": "DB000001086",
+  "title": "Europeana Collections",
+  "url": "https://www.europeana.eu/portal/en",
+  "description": "Europeana與數千家歐洲檔案館，圖書館和博物館合作，共享文化遺產，供使用者享受，教育和研究。 Europeana Collections提供超過5000萬種數字化項目 - 書籍，音樂，藝術品等 - 使用先進的搜索和過濾工具，幫助您找到所需內容。 專注於藝術，時尚，音樂，攝影和第一次世界大戰的專題收藏包括畫廊，博客和展覽，以提供資訊和啟發。",
+  "publisher": "European Commission",
+  "categories": [
+   "博物館與線上展覽"
+  ],
+  "subjects": [
+   "歷史",
+   "美術",
+   "音樂"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 56,
+  "order": 28
+ },
+ {
+  "id": "DB000000142",
+  "title": "Eurostat : your key to European statistic",
+  "url": "http://ec.europa.eu/eurostat/web/main",
+  "description": "Eurostat was established in 1953 to meet the requirements of the Coal and Steel Community. Over the years its task has broadened and when the European Community was founded in 1958 it became a Directorate-General (DG) of the European Commission. Eurostat’s key role is to supply statistics to other DGs and supply the Commission and other European Institutions with data so they can define, implement and analyse Community policies. Eurostat offers a whole range of important and interesting data that governments, businesses, the education sector, journalists and the public can use for their work and daily life.",
+  "publisher": "European Commission",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "地理",
+   "公民與社會"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 74,
+  "order": 29
+ },
+ {
+  "id": "DB000000145",
+  "title": "Frantext",
+  "url": "http://www.frantext.fr/",
+  "description": "◎此資料庫隸屬於法國國家研究院(Centre National de la Recherche Scientifique)，由法國法文資訊分析處理實驗室(Analyse et Traitement Informatique de la Langue Franaise)管理。 ◎本資料庫為一龐大法國文本語料庫，分為兩個版本：Frantext intgral與Frantext catgoris。前者收錄16至20世紀，有關藝術、文學、科技、科學等學科領域近4 000筆文本，其中80%為文學作品，資料類型則涵蓋小說、詩詞、戲劇、散文、書信及科技報告等；後者則彙整1 940筆19-20世紀的散文作品。 ◎本資料庫的文本皆經過專家學者分析彙編，旨在提供於法文文法與歷史演變的相關研究資源，使用者除了可經由年代、文體、作者與作品名檢索資源並設定研究範圍外，還可透過語法或詞類來設定研究的條件，對文學及語言學方面之研究頗有助益。 國科會人文處法語學術研究資源建置計畫, 全國大專院校校園IP使用，同時上線人數100人, 使用至102/12/31止",
+  "publisher": "Centre National de la Recherche Scientifique",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 98,
+  "order": 30
+ },
+ {
+  "id": "DB000000146",
+  "title": "Free Books 4 Doctors",
+  "url": "http://www.freebooks4doctors.com/",
+  "description": "收錄超過300本免費線上電子書，可利用主題、語言等方式瀏覽或用書名搜尋。欲收到最新電子書訊息，可點選Subscribe進行註冊。",
+  "publisher": "FreeBooks4Doctors",
+  "categories": [
+   "閱讀推薦與電子書"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 111,
+  "order": 31
+ },
+ {
+  "id": "DB000000152",
+  "title": "Google Scholar",
+  "url": "https://scholar.google.com.tw/",
+  "description": "",
+  "publisher": "Google. com",
+  "categories": [
+   "自主學習"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 91,
+  "order": 32
+ },
+ {
+  "id": "DB000001046",
+  "title": "GPI政府出版品資訊網",
+  "url": "https://gpi.culture.tw/",
+  "description": "政府出版品資訊網（Government Publications Information，以下簡稱GPI）為行政院文化部委託民間單位維運及推廣政府出版品的專案，建立一更便利、更齊備、更符合網路世代使用習慣的網路平台，整合政府出版品各類資訊及機關出版活動。 使用者透過平台整合查詢功能，即可獲得目前最新的政府出版品書目情報、新聞與活動、出版現況、出版政策、出版獎項及其他與出版相關連結資訊。 GPI依政府出版品的書籍主題，提供「台灣采風」、「生活藝術」、「文化歷史」、「教育學習」、「社會／科學」、「財金產業」、「政治／外交／國防」等七大主題書籍的深度文章，並從出版品衍伸更多有趣、實用、多元的加值內容。 想找好活動：各政府機關所舉辦的藝文活動、講座訊息及其公開公告之活動新聞稿。 新書特推薦：邀請與出版品主題相關的專業領域撰稿人，撰寫深度評論。 得獎好書：歷年於各徵獎活動獲獎的政府出版品彙整。 主題書展：將主題相近、具有類似特色的政府出版品，整合評論，提列推薦書單。 焦點人物：採訪政府出版品相關人員，讓政府出版品內容更立體、更有溫度。 GPI政府出版資訊網提供最完整且即時更新的出版品資訊，透過單一服務窗口，您可以查詢最完整的政府出版品書目情報，獲知最新的出版資訊，政府出版品還能同時享受線上購書的服務。",
+  "publisher": "文化部",
+  "categories": [
+   "自主學習"
+  ],
+  "subjects": [
+   "公民與社會",
+   "藝術生活",
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 254,
+  "order": 33
+ },
+ {
+  "id": "DB000000163",
+  "title": "ICD-11 Online",
+  "url": "https://icd.who.int/en",
+  "description": "國際疾病分類標準",
+  "publisher": "World Health Organization",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "醫學",
+   "健康與護理"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 334,
+  "order": 34
+ },
+ {
+  "id": "DB000000164",
+  "title": "IDEAS: Economics and Finance Research",
+  "url": "http://ideas.repec.org/",
+  "description": "為RePEc的檢索平台。RePEc為來自67個國家的相關學者所協力合作的公開取閱的經濟類資料庫，目前包含了超過了76萬筆的資料，其中超過65萬筆的資料提供電子全文下載。",
+  "publisher": "IDEAS",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 201,
+  "order": 35
+ },
+ {
+  "id": "DB000183676",
+  "title": "iMarine 航港發展資料庫(體驗版)",
+  "url": "https://imarine.motcmpb.gov.tw/",
+  "description": "112年9月20日推出全新的航港發展資料庫(體驗版)「iMarine」，為原航港發展資料庫之升級版，呈現全球海運指數、臺灣數據統計、航港法令、國際組織動態、即時與豐富的海運時事等重要航港資訊，且提供使用者線上簡易操作數據統計工具，可即時掌握航港趨勢。",
+  "publisher": "交通部航港局",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "地理",
+   "地科"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 214,
+  "order": 36
+ },
+ {
+  "id": "DB000000173",
+  "title": "Information Bridge: DOE Scientific and Technical Information",
+  "url": "https://www.osti.gov",
+  "description": "可以檢索並取得美國能源部(Department of Energy)提供的研究與發展報告全文。",
+  "publisher": "US Department of Energy",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "地科"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 229,
+  "order": 37
+ },
+ {
+  "id": "DB000000175",
+  "title": "Ingentaconnect",
+  "url": "http://www.ingentaconnect.com/",
+  "description": "收錄不同學科領域的27,000多種英文期刊之內容目次及摘要，並提供文獻傳遞功能。",
+  "publisher": "Ingenta",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 112,
+  "order": 38
+ },
+ {
+  "id": "DB000000187",
+  "title": "Institutional Repositories DataBase (IRDB)",
+  "url": "https://irdb.nii.ac.jp/",
+  "description": "(2019.Jul Updated) 原JAIRO系統已於2019年4月停止服務，並由新系統IRDB取代。該系統除收錄原JAIRO的資訊外，另提供日本地區有關學術單位所提供的詮釋資料(metadata)。 收錄資訊說明 《JAIRO》為「Japanese Institutional Repositories Online」之簡稱，由國立情報學研究所(National Institute of Informatics, NII)建置，為日本國內各機構典藏的整合入口，包含日本各學術機構所產出之期刊論文、學位論文、研究紀要、研究報告等，迄今共納入149個機關，近90萬筆書目資料，部分可直接連結全文。",
+  "publisher": "国立情報学研究所",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "日文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 128,
+  "order": 39
+ },
+ {
+  "id": "DB000000516",
+  "title": "ITIS智網：產業技術白皮書",
+  "url": "https://www2.itis.org.tw/Report_List.aspx?industry=5&ctgy=37",
+  "description": "經濟部自1989年起逐年編撰「產業技術發展概要」，1995年起更充實內容且更名為「產業技術白皮書」。現階段各年編印之「產業技術白皮書」，定期於十月份發行。發行目的主要在於定期發佈政府引領產業發展之規劃，也藉此希望促進國人瞭解與關注我國產業技術發展。 為因應政府資訊公開透明化趨勢，自2005年12月起啟用產業技術白皮書網路版資訊，網頁內含：1996~1998年（摘要資料）及1999以後每年之全文資料。 內容主要概分為「環境篇」、「產業篇」與「課題篇」： * 「環境篇」介紹我國產業研發創新的現況與未來動向、產業技術發展政策方向與重點； * 「產業篇」係透過創新研發領域、電資通光領域、機電運輸領域、生技醫藥與材料化工領域，闡述我國技術發展目標與未來藍圖； * 「課題篇」則著重探討年度熱門或重要產業議題。 ※ 圖書館亦有典藏紙本：產業技術白皮書83年- / 索書號：403 2352 / 館藏地：總圖中文圖書區(4F)",
+  "publisher": "經濟部技術處",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "公民與社會",
+   "生物",
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 83,
+  "order": 40
+ },
+ {
+  "id": "DB000000186",
+  "title": "ITS MARC",
+  "url": "http://www.itsmarc.com",
+  "description": "收錄美國國會圖書館 1968 年起所有英文書目記錄及 1900 年後常用之英文書目記錄，並包括影片、地圖、連續性出版品、樂譜、政府出版品等各類型資料，擁有近1,000萬筆 MARC 格式書目資料。",
+  "publisher": "ITS",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 423,
+  "order": 41
+ },
+ {
+  "id": "DB000000199",
+  "title": "J-STAGE",
+  "url": "http://www.jstage.jst.go.jp/browse/-char/ja",
+  "description": "《J-STAGE》為「Japan Science and Technology Information Aggregator, Electronic」之簡稱，由Japan Science and Technology Agency(JST)所建置，收錄日本各個科技學會刊物，包含600餘種期刊、125種會議論文、40餘種JST報告書，其中約有200種為英文期刊。就學科主題而言，以工程科技、醫學類為主，亦有部分屬於人文社會科學類。 ※ 各類刊物可免費下載全文之年限各有不同，詳細內容請參考J-STAGE收錄清單。",
+  "publisher": "独立行政法人科学技術振興機構",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "日文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 60,
+  "order": 42
+ },
+ {
+  "id": "DB000000190",
+  "title": "Japanese Law Translation",
+  "url": "http://www.japaneselawtranslation.go.jp/?re=01",
+  "description": "《Japanese Law Translation》由名古屋大學與法務省共同編修，可搜尋日本的法條、日語法律詞彙的日英對譯。最特別的是鍵入單詞搜尋後，資料庫能找出含有該詞彙的整個句子，提供全句的日英文對照。在法律翻譯的課程上，或是自學法律日文都很有幫助。",
+  "publisher": "Ministry of Justice, Japan",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "公民與社會"
+  ],
+  "languages": [
+   "日文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 24,
+  "order": 43
+ },
+ {
+  "id": "DB000000196",
+  "title": "JISC 日本工業標準調查會：JIS檢索",
+  "url": "http://www.jisc.go.jp/app/jis/general/GnrJISSearch.html",
+  "description": "JIS(Japanese Industrial Standards)為日本工業標準，是由日本工業標準調查會(Japanese Industrial Standards Committee, 簡稱JISC)所審議和制定。日本標準依其層次，由上而下可分為國家標準、團體標準和公司標準，日本工業標準(JIS)即屬於國家標準層次。目前JIS共分為19類，使用者可透過其網路檢索系統搜尋及閱讀JIS標準內容，檢索方式包括JIS標準號檢索、JIS標準名稱檢索以及JIS標準關鍵字檢索等。 ※ JIS檢索系統為網路免費電子資源，如對資料內容有任何問題，請洽詢日本工業標準調查會。 ※[重要通知] 從令和2年(2020年)12月2日星期三起，使用JIS和TS/TR瀏覽功能的所有使用者，需要進行註冊。此項措施是為了保護 JIS等內容的版權。 * 註冊和使用不收取任何費用。 * 註冊後，您可以使用註冊時提供的帳號和密碼瀏覽。 * 不可使用「組織單位」進行註冊。如需使用，請「每位使用者」個別自行註冊使用。 關於註冊步驟，詳情請參閱使用者註冊操作手冊。",
+  "publisher": "Japanese Industrial Standards Committee",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "生活科技"
+  ],
+  "languages": [
+   "日文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 12,
+  "order": 44
+ },
+ {
+  "id": "DB000000197",
+  "title": "Journal Abbreviation Sources 綜合期刊縮寫全名資源(Subject Journal Search)",
+  "url": "http://www.abbreviations.com/jas.php",
+  "description": "依據期刊的學科領域瀏覽各主題期刊的縮寫全名對照表。",
+  "publisher": "Abbreviations",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 137,
+  "order": 45
+ },
+ {
+  "id": "DB000129915",
+  "title": "Kafkas Werke [PrqQuest]",
+  "url": "https://www.proquest.com/kafka",
+  "description": "卡夫卡(1883-1924)為德國20世紀最具影響力的德國作家，其著名的意識流寫作風格為當代文明的創作。本資料庫收錄卡夫卡的創作、手稿、日記、論壇，及其創作「蛻變」、「審判」、「城堡」等著作全文。該網站為1982年出版之「卡夫卡，評論集、書信及日記」(Franz Kafka, Kritische Ausgabe, Schriften und Tagebücher)電子版，書中主要評論卡夫卡的所有生平著作，同時探討卡夫卡對後世作品的影響。 進入資料庫後可輸入關鍵字針對全文、關鍵字、文種或文章時間對原始文章或評論進行檢索，檢索結果將以文章索引方式顯現，每段呈現部分文章，使用者可初步篩選是否為需要的資料。點選章節進入後即可觀看全文。另外也可瀏覽所有目錄，選擇需要的文章資料。 收錄內容： Das Schloß (城堡) 全文集 Der Verschollene (美國) 全文集 Der Proceß (審判) 全文集 Drucke zu Lebzeiten全文集 文章及書信彙整1 文章及書信彙整2 文章，日記及評論 更改網址: https://www.proquest.com/kafka",
+  "publisher": "ProQuest",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "英文",
+   "歷史"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 60,
+  "order": 46
+ },
+ {
+  "id": "DB000000202",
+  "title": "KAKEN - Database of Grants-in-Aid for Scientific Research",
+  "url": "http://kaken.nii.ac.jp/en/",
+  "description": "《KAKEN》為日本國立情報學研究所(National Institute of Informatics)所製作的檢索資料庫，收錄從1965年起，得到由日本文部科學省(Ministry of Education, Culture, Sports, Science and Technology)與日本學術振興會(Japan Society for the Promotion of Science)兩個機構所補助的學術經費而做成的研究成果與學術報告。部份檢索結果可超連結至該篇文獻的電子全文。",
+  "publisher": "国立情報学研究所",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "日文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 168,
+  "order": 47
+ },
+ {
+  "id": "DB000000229",
+  "title": "Medscape Reference",
+  "url": "http://reference.medscape.com/",
+  "description": "Medscape Reference由以下3個Reference所組成，內容涵蓋成人醫學、小兒醫學及外科學等相關主題。 1.Medscape Condition Reference 2.Medscape Procedure Reference 3.Medscape Drug Reference",
+  "publisher": "WebMD",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "醫學",
+   "健康與護理",
+   "生物"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 81,
+  "order": 48
+ },
+ {
+  "id": "DB000000602",
+  "title": "Mendeley",
+  "url": "https://www.mendeley.com/download-reference-manager",
+  "description": "公開取用的免費文獻管理及研究社群軟體，可協助您 1.匯整從圖書館館藏目錄、資料庫、電子期刊、網路資源等管道蒐集而來的資料。 2.將蒐集到的資料便利地搜尋與分類管理。 3.與論文撰寫結合，簡化引用與撰寫參考文獻格式的作業。 4.將書目、全文、個人閱讀筆記等各種相關檔案作串連。 5.做為PDF全文線上閱讀軟體，支援個人highlight與註記。 6.具研究社群功能，方便將收集的資料與他人分享，甚至與其他Mendeley使用者建立文獻共享平台。",
+  "publisher": "Elsevier",
+  "categories": [
+   "自主學習"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 478,
+  "order": 49
+ },
+ {
+  "id": "DB000000230",
+  "title": "MetaCat + 即時跨館整合查詢館藏服務",
+  "url": "http://metacat.ntu.edu.tw",
+  "description": "MetaCat 為一分散式整合圖書館 WebPAC 之系統，其特色如下： 1.整合國內多所重要圖書館之館藏查詢系統。 2.可即時得知所需資料的借閱狀況，但查詢速度會受網路及各圖書館系統快慢之影響。 3.將各圖書館之 WebPAC 系統按館藏類型及地區分類。 4.可自行選擇多個圖書館整合查詢。 5.查詢結果依題名條列，並列出擁有此館藏之圖書館。",
+  "publisher": "國立台灣大學圖書館",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 487,
+  "order": 50
+ },
+ {
+  "id": "DB000000751",
+  "title": "NASA Technical Reports Server (NTRS)",
+  "url": "https://ntrs.nasa.gov/search",
+  "description": "NASA Technical Reports Server (NTRS) 資料庫保存美國NASA多年來的研究與出版品，並提供讀者相關資料的檢索。資料類型包含航太相關的引文、線上全文、影像及影音檔。資料內容有會議論文、期刊文章、專利、研究報告、影像影音檔等。此資料庫主要整合NASA 以下的三大主要收藏，提供單一的檢所平台。本館的NASA及NACA微縮資料特藏，皆可於此平台中查得全文影像。 1.NACA Collection：包含從 1915 到 1958 的引文及研究報告。 2.NASA Collection：包含從 1958 至今的的引文及文獻資料。 3.NIX Collection： 可檢索檢視NASA收藏的多媒體影音影像檔。",
+  "publisher": "NASA",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "物理",
+   "地球科學"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 131,
+  "order": 51
+ },
+ {
+  "id": "DB000000244",
+  "title": "NBER Working Papers",
+  "url": "http://www.nber.org/papers/",
+  "description": "",
+  "publisher": "NBER",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "公民與社會"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 7,
+  "order": 52
+ },
+ {
+  "id": "DB000000245",
+  "title": "NCBI Bookshelf",
+  "url": "http://www.ncbi.nlm.nih.gov/books",
+  "description": "收錄超過700本生命科學及健康照護免費線上電子書",
+  "publisher": "NCBI",
+  "categories": [
+   "閱讀推薦與電子書"
+  ],
+  "subjects": [
+   "生物",
+   "醫學",
+   "健康與護理"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 5,
+  "order": 53
+ },
+ {
+  "id": "DB000000246",
+  "title": "Networked Digital Library of Theses and Dissertations (NDLTD)",
+  "url": "https://ndltd.org/thesis-resources/find-etds/",
+  "description": "鑒於學術論文對學術研究不可或缺之重要性，1991年由美國維吉尼亞科技大學發起博碩士論文數位圖書館計畫，開始有系統地收集各校之博碩士論文，發展至今已擴及世界各國，儼然可稱得上是一個世界性的全文電子學位論文發展計劃。 NDLTD是一個致力於推廣、創造、使用、傳播、保存電子學位論文(electronic theses and dissertations (ETDs))的國際型組織。支持電子出版以及開放取用學術文獻，用以持續分享知識給全世界。 本系統提供單一查詢界面，僅將各會員各自發展之『博碩士論文數位圖書館』系統，加以整合方便檢索，因此，檢索指令及論文全文之是否開放免費瀏覽或需付費訂購等，均視個別系統而定，雖然如此，您仍能自其中取得世界各國重要學術論文資訊及部份全文，協助研究工作之進行。 會員館：清單 內容來源網站：清單",
+  "publisher": "VTLS",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 91,
+  "order": 54
+ },
+ {
+  "id": "DB000000988",
+  "title": "NewspaperSG",
+  "url": "http://eresources.nlb.gov.sg/newspapers/",
+  "description": "NewspaperSG is an online archive of Singapore newspapers. You can search our digital archive of newspapers published since 1831, or find information on over 200 newspaper titles in the National Library's microfilm collection. 可取得之報紙與年份如下： * Under Singapore Press Holdings (SPH) Berita Harian/Minggu 1957 - 1989 The Business Times 1976 - 1989 联合晚报 (Lianhe Wanbao) 1983 - 1989 联合早报 Lianhe Zaobao) 1983 - 1989 南洋商报 (Nanyang Siang Pau) 1923 - 1983 New Nation 1971 - 1982 The New Paper 1988 - 1989 星洲日報 (Sin Chew Jit Poh) 1979 - 1983 Singapore Daily News 1932 - 1933 The Singapore Free Press 1925 - 1962 The Singapore Free Press and Mercantile Advertiser (1835–1869) 1835 - 1866 The Singapore Free Press and Mercantile Advertiser (1884–1942) 1884 - 1942 The Singapore Free Press and Mercantile Advertiser (Weekly) 1888 - 1929 Singapore Monitor 1982 - 1985 The Straits Times 1845 - 1989 Straits Times Overland Journal 1869 - 1881 Straits Times Weekly Issue 1883 - 1893 * Under Mediacorp TODAY/ Weekend TODAY 2000 - 2011 * Other Publishers Comrade 1946 Daily Advertiser 1890 - 1894 Eastern Daily Mail and Straits Morning Advertiser 1905 - 1907 Indian Daily Mail 1946 - 1947 Kabar Slalu 1924 Malaya Tribune 1914 - 1947 Malayan Saturday Post 1924 - 1933 Mid - day Herald 1895 - 1898 Morning Tribune 1927 - 1947 Singapore Chronicle and Commercial Register 1831 - 1837 Singapore Weekly Herald 1888 - 1889 Straits Advocate 1889 Straits Chinese Herald 1894 Straits Daily Advertiser 1900 Straits Eurasian Advocate 1888 Straits Mail 1894 - 1895 Straits Observer (Singapore) 1874 - 1897 Straits Telegraph and Daily Advertiser 1899 Shonan Times/ Syonan Shimbun 1942 - 1945 Sunday Tribune (Singapore) 1933 - 1947 Syonan Shimbun Fortnightly 1945 Weekly Sun 1910 - 1913",
+  "publisher": "National Library Board",
+  "categories": [
+   "媒體與知識雜誌"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文",
+   "西文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 223,
+  "order": 55
+ },
+ {
+  "id": "DB000000559",
+  "title": "NLM Catalog: Journals referenced in the NCBI Databases  (醫學期刊縮寫全名查詢 abbreviations search)",
+  "url": "http://www.ncbi.nlm.nih.gov/nlmcatalog/journals",
+  "description": "不論輸入期刊的縮寫或全名，皆可方便地檢索到期刊刊名的相關資訊。",
+  "publisher": "NCBI",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 103,
+  "order": 56
+ },
+ {
+  "id": "DB000000859",
+  "title": "NYPL Digital Collections",
+  "url": "http://digitalcollections.nypl.org/",
+  "description": "NYPL Digital Collections收錄超過六十萬筆由紐約公共圖書館收藏轉為數位化的項目，包括版畫、照片、地圖、手稿、串流影片等，其旨在將歷史資料轉成數位格式，讓使用者自由下載使用，對於學術研究或保存、傳遞資料來說都是非常有用的，不需經過美國紐約公共圖書館的同意，都能重新利用這些資料。",
+  "publisher": "The New York Public Library",
+  "categories": [
+   "博物館與線上展覽"
+  ],
+  "subjects": [
+   "歷史",
+   "美術"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 129,
+  "order": 57
+ },
+ {
+  "id": "DB000129082",
+  "title": "Olympic World Library",
+  "url": "https://library.olympic.org",
+  "description": "奧林匹克研究中心長年致力於推廣奧林匹克相關主題之研究，並於2016年成立「奧林匹克世界圖書館」；該圖書館典藏資料共有36,000個主題，並含10,500份數位資源供使用者查詢；典藏亦涵蓋國際奧會及歷年奧運會籌備會官方出版品、奧林匹克憲章、奧林匹克期刊、奧運會主辦城市候選程序文件、學術類書籍與期刊等資訊。 影片介紹：https://youtu.be/bu4DVZf4DcE",
+  "publisher": "The Olympic Studies Centre",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "體育"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 206,
+  "order": 58
+ },
+ {
+  "id": "DB000000779",
+  "title": "Open FREER | SACKLER 開放弗瑞爾與薩克勒藝廊",
+  "url": "http://www.asia.si.edu/collections/edan/default.cfm",
+  "description": "弗瑞爾藝廊 (Freer Gallery of Art) 與薩克勒藝廊 (Arthur M. Sackler Gallery) 是位在華盛頓特區內兩間緊鄰的博物館，合稱Freer and Sackler Galleries，是隸屬於美國史密森尼學會的國立亞洲藝術博物館。其將館內典藏的 40,000 件以上藝術作品高解析度照片在線上開放，稱為「Open FREER | SACKLER」，以亞洲藝術作品為主，這些照片可被使用在藝術、教育、學術、個人計畫等廣泛性的「非商業使用(行銷或販售)」，例如可用於(但不限於列舉)演講、研究、刺青、電腦桌面背景、免費且無廣告的App、節慶裝飾、浴簾等。 可以關鍵字檢索作品；或依物件類型、主題、創作者、文化性質、語言、地區、日期等類別瀏覽作品。",
+  "publisher": "Smithsonian Institution",
+  "categories": [
+   "博物館與線上展覽"
+  ],
+  "subjects": [
+   "美術",
+   "藝術生活"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 40,
+  "order": 59
+ },
+ {
+  "id": "DB000000926",
+  "title": "OpenDissertations [EBSCOhost]",
+  "url": "http://search.ebscohost.com/login.aspx?profile=ehost&defaultdb=ddu&authtype=ip",
+  "description": "EBSCO is proud to offer American Doctoral Dissertations, a free resource accessible to all researchers. American Doctoral Dissertations provides electronic access to the only comprehensive record of dissertations accepted by American universities during that time period, the print index Doctoral Dissertations Accepted by American Universities. Containing more than 172,000 theses and dissertations in total from 1902 to the present, it was created with the generous support of the H. W. Wilson Foundation and the Congregational Library & Archives in Boston.. Newly enhanced with an additional 80,000 citations for theses and dissertations, the new citations include a link to access the full text, when available, via the Institutional Repository where the thesis or dissertation is housed such as OhioLINK, Rochester Institute of Technology and North Carolina State University.",
+  "publisher": "EBSCO",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 7,
+  "order": 60
+ },
+ {
+  "id": "DB000000256",
+  "title": "OpenDOAR (Directory of Open Access Repositories)",
+  "url": "https://opendoar.ac.uk",
+  "description": "OpenDOAR是具有權威性的學術性開放取用資源庫(Open Access Repositories)目錄，提供全球高品質開放取用資源庫清單。除了提供資料庫清單，亦可以典藏單位和資料內容進行檢索。部份記錄有提供電子全文，部份記錄則提供相關全文連結。",
+  "publisher": "University of Nottingham, UK",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 357,
+  "order": 61
+ },
+ {
+  "id": "DB000225308",
+  "title": "Oxford Journal Archive (OJA) [HUSO]",
+  "url": "https://huso.stpi.niar.org.tw/husoc/husokm?000AA301000100010000000000000D200000001E000000000",
+  "description": "資料庫內容： 收錄英國牛津大學出版社 (Oxford University Press) 出版之71種回溯至1996年止之電子期刊。 主題範疇： 生物、醫學、物理、化學、心理學、數學、資訊、工程、大眾傳播、政治、經濟、法律、語言、文學、音樂、藝術、哲學、社會科學...等學科。",
+  "publisher": "國研院科資中心",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 16,
+  "order": 62
+ },
+ {
+  "id": "DB000001120",
+  "title": "PsychPorta",
+  "url": "https://psychporta.org",
+  "description": "A freely accessible search portal for psychological references and publications based on a semantic data model of the psychological field. PsychPorta provide a knowledge graph that is fed by the databases PSYNDEX Lit and PSYNDEX Tests, author profiles, as well as the repositories PsychArchives and Open Test Archive. In addition to test and literature references, it also includes research data, analysis code, preregistrations, full-text publications, test reviews, and plain-language summaries. PsychPorta additionally integrated into PubPsych.",
+  "publisher": "Leibniz Institute for Psychology (ZPID)",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 114,
+  "order": 63
+ },
+ {
+  "id": "DB000000286",
+  "title": "ResearcherID.com",
+  "url": "https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/researcher-profiles/",
+  "description": "ResearcherID.COM 幫您: 自動更新引用次數 獲得您的個人專屬網址並發布您的研究成果 將個人的研究表現建立引用圖表 找出研究夥伴及評論者",
+  "publisher": "Clarivate Analytics",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 235,
+  "order": 64
+ },
+ {
+  "id": "DB000000297",
+  "title": "SAO/NASA Astrophysics Data System",
+  "url": "https://ui.adsabs.harvard.edu",
+  "description": "由美國國家航空暨太空總署（NASA)贊助，哈佛大學 Smithsonian Astrophysical Observatory (SAO)維護的天文學和物理學線上資料庫。收錄超過800萬筆的紀錄，大多數的文章摘要可以免費線上查看，舊的完整的文章可以查看GIF和PDF格式的掃描版本，新的文章可超連結至該期刊網頁，若為本館所訂購的電子期刊可查看全文。",
+  "publisher": "Smithsonian Astrophysical Observatory (SAO)",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "物理",
+   "地球科學"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 41,
+  "order": 65
+ },
+ {
+  "id": "DB000129916",
+  "title": "Schillers Werke [ProQuest]",
+  "url": "https://www.proquest.com/schiller",
+  "description": "席勒(1759-1805)為德國狂飆時期代表作家，本資料庫內容為德國自1940年起對席勒作品的國家典藏計畫，資料共56冊，目前由威瑪古典主義基金會及席勒國家博物館收藏。本資料庫為國家典藏計畫數位版，收錄席勒的文學作品、手稿、書信、談話及語錄。 進入資料庫後可輸入關鍵字針對全文、關鍵字、文種或文章時間對原始文章或評論進行檢索，檢索結果將以文章索引方式顯現，每段呈現部分文章，使用者可初步篩選是否為需要的資料。點選章節進入後即可觀看全文。另外也可瀏覽所有目錄，選擇需要的文章資料。 收錄內容： 文學作品(文集第1-16冊)：詩集，小說及散文 手稿(文集第17-22冊)：歷年手稿，哲學手稿 書信(文集第23-41冊)：席勒信件(1772-1805)、寫給席勒的信件(1781-1805) 談話及語錄(文集第42冊) 更改網址: https://www.proquest.com/schiller",
+  "publisher": "ProQuest",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 76,
+  "order": 66
+ },
+ {
+  "id": "DB000000305",
+  "title": "SCImago Journal & Country Rank (SJR)",
+  "url": "http://www.scimagojr.com/index.php",
+  "description": "為類似Journal Citation Reports (JCR)的科學類期刊評估資料庫，其資料來源為Elsevier B.V.公司所出版的Scopus資料庫。",
+  "publisher": "Scimago Lab",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 29,
+  "order": 67
+ },
+ {
+  "id": "DB000000134",
+  "title": "SciTech Connect",
+  "url": "http://www.osti.gov/scitech/",
+  "description": "SciTech Connect is a portal to free, publicly-available DOE-sponsored R&D results including technical reports, bibliographic citations, journal articles, conference papers, books, multimedia, software, and data information, and was developed by the U.S. Department of Energy (DOE) Office of Scientific and Technical Information (OSTI) to increase access to science, technology, and engineering research information from DOE and its predecessor agencies. OSTI is a program within DOE's Office of Science, the single largest supporter of basic research in the physical sciences in the United States. Our mission is to advance science and sustain technological creativity by making R&D findings available and useful to DOE researchers and the American people.",
+  "publisher": "OSTI",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "物理"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 305,
+  "order": 68
+ },
+ {
+  "id": "DB000197579",
+  "title": "Semantic Scholar: A free, AI-powered research tool for scientific literature",
+  "url": "https://www.semanticscholar.org/",
+  "description": "Semantic Scholar provides free, AI-driven search and discovery tools, and open resources for the global research community. We index over 200 million academic papers sourced from publisher partnerships, data providers, and web crawls.",
+  "publisher": "Ai2",
+  "categories": [
+   "自主學習"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 15,
+  "order": 69
+ },
+ {
+  "id": "DB000001134",
+  "title": "Smithsonian Open Access",
+  "url": "https://www.si.edu/openaccess",
+  "description": "位於華盛頓DC的知名博物館 Smithsonian Museum，宣布開放館藏數位圖片供無償使用，兩千八百萬張各種主題及類型高解析度圖片全部提供免費下載",
+  "publisher": "Smithsonian Museum",
+  "categories": [
+   "博物館與線上展覽"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "國中",
+   "高中",
+   "大學"
+  ],
+  "clicks": 66,
+  "order": 70
+ },
+ {
+  "id": "DB000225309",
+  "title": "Springer Online Journal Archive (SOJA) [HUSO]",
+  "url": "https://huso.stpi.niar.org.tw/husoc/husokm?000AA301000100010000000000001D600000001E000000000",
+  "description": "資料庫內容： 收錄德國Springer出版之259種回溯至1996年止之電子期刊。 主題範疇： 商業與經濟、行為學科、人文科學、社會科學跟法學...等學科。",
+  "publisher": "國研院科資中心",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 59,
+  "order": 71
+ },
+ {
+  "id": "DB000000827",
+  "title": "Springer Open",
+  "url": "http://www.springeropen.com/",
+  "description": "SpringerOpen journals and books are made freely and permanently available online immediately upon publication. They are subject to high-level peer review, author and production services ensuring quality and reliability of the work. Authors publishing with SpringerOpen retain the copyright to their work, licensing it under a Creative Commons license.",
+  "publisher": "BioMed Central\nSpringer",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "生物"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 25,
+  "order": 72
+ },
+ {
+  "id": "DB000136748",
+  "title": "The MERCK INDEX ONLINE",
+  "url": "https://www.rsc.org/merck-index",
+  "description": "Merck Index為英國皇家化學會RSC (Royal Society of Chemistry)所發行之綜合性百科全書，是化學與藥物開發領域重要的資料來源之一。Merck Index Online為其發行之線上版本全文資料庫，能幫助研究人員不受時間與空間的限制，透過網路可直接線上查詢各種化學物質、藥物和生物製品等相關資料。此資料庫為最新最完整的化學品、藥物和生理性物質的綜合性百科全書，包含物質各項名稱、結構式、物理特性、參考文獻與應用等。 使用規範 本資源僅提供互動式查詢，請勿以程式化方法操作批次下載資料，以免影響其他用戶權益。 若您有Data Mining需求，請與國網中心聯繫，會將您的需求進行記錄，作為爭取預算採購Data Mining方案的佐證。 注意事項 若用戶有違反使用規定之事項，本中心有權停止該用戶的使用權限。 致謝說明 為使得科技部等主管單位能更具體了解國網中心資源運用之成效，用戶如有發表成果（期刊、研討會論文），懇請於成果內文之致謝(Acknowledgement)欄位中，註記使用本中心資源，並撥冗於iService網頁登錄成果，以做為能持續為您提供優質服務的重要依據。 參考文字如下： 中文： 感謝國研院國網中心及「健康大數據永續平台計畫」之「建置國家級之友善生醫資料分析與分享平台」提供資料庫查詢服務，協助本研究順利進行。 英文： We thank to National Center for High-performance Computing (NCHC) and Pilot Project for Nationwide Biomedical Data Commons which under Sustainable Platform for Big Data in Health(SPBDH) project for providing Database resources.",
+  "publisher": "Royal Society of Chemistry",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "化學",
+   "醫學"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 461,
+  "order": 73
+ },
+ {
+  "id": "DB000000330",
+  "title": "The National Academies Press",
+  "url": "http://www.nap.edu/",
+  "description": "The National Academies Press （NAP）是由美國國家科學院（National Academies）創建的，出版美國國家科學院（National Academy of Sciences）、美國國家工程學院（the National Academy of Engineering）、美國國家醫學院（the Institute of Medicine）和美國國家研究委員會（the National Research Council）發表的學術論文，其所有的商業運作都是在美國國會的特許同意之下進行的。NAP每年出版約200本有關科學、工程、健康及其相關政策等方面的書籍。提供2500多種可以免費網上閱覽的電子圖書。部份電子圖書可免費下載PDF全文，部份則必須付費購買。",
+  "publisher": "National Academies Press",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "物理",
+   "化學",
+   "生物",
+   "地球科學",
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 573,
+  "order": 74
+ },
+ {
+  "id": "DB000000332",
+  "title": "The World Bank Open Data",
+  "url": "http://data.worldbank.org/",
+  "description": "The World Bank's Open Data initiative is intended to provide all users with access to World Bank data. The data catalog is a listing of available World Bank data sources. This listing will continue to be updated as additional data resources are added. These resources include databases, pre-formatted tables and reports. Each of the listings includes a description of the data source and a direct link to that source. Where possible, the databases are linked directly to a selection screen to allow users to select the countries, indicators, and years they would like to search. Those search results can be exported in different formats. Users can also choose to download the entire database directly from the catalog.",
+  "publisher": "World Bank",
+  "categories": [
+   "自主學習"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 198,
+  "order": 75
+ },
+ {
+  "id": "DB000000895",
+  "title": "Theses Canada",
+  "url": "https://library-archives.canada.ca/eng/services/services-libraries/theses/Pages/theses-canada.aspx",
+  "description": "Theses Canada, launched in 1965 at the request of the deans of Canadian graduate schools, is a collaborative program between Library and Archives Canada (LAC) and nearly 70 universities accredited by Universities Canada. It strives to: acquire and preserve theses and dissertations from participating universities provide free access to Canadian electronic theses and dissertations in the collection facilitate access to non-digital theses and dissertations in the collection. The collection contains both microfiche and electronic theses and dissertations that are for personal or academic research purposes. Any commercial use, publication, reproduction or lending of this material is strictly prohibited.",
+  "publisher": "Library and Archives Canada",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 113,
+  "order": 76
+ },
+ {
+  "id": "DB000187999",
+  "title": "TOAJ臺灣學術期刊開放取用平台",
+  "url": "https://toaj.stpi.narl.org.tw/",
+  "description": "建置「臺灣學術期刊開放取用平台」(TOAJ，Taiwan Open Access Journals)主要係為協助臺灣學術期刊開放取用，藉由提供國家級開放平台創造更公開、平等、友善之學術環境，並加速研究成果的傳播交流與落實學術資源永續典藏",
+  "publisher": "國科會",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 216,
+  "order": 77
+ },
+ {
+  "id": "DB000000337",
+  "title": "Trademark Electronic Search System (TESS)",
+  "url": "https://www.uspto.gov/trademarks-application-process/search-trademark-database",
+  "description": "",
+  "publisher": "USPTO",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 302,
+  "order": 79
+ },
+ {
+  "id": "DB000001061",
+  "title": "Trove (The Australian Web Archive)",
+  "url": "https://trove.nla.gov.au/",
+  "description": "Trove是由澳洲國家圖書館（NLA）創立的整合查詢服務。 Trove蒐集並提供許多開放資訊，收錄與澳洲相關的歷史與現代史資訊。Trove收錄的資料形式包含報紙、期刊、書籍、地圖、個人論文以及各數位典藏網站的典藏資訊。此外，匯集了來自澳洲各地的圖書館、博物館、畫廊、大學、檔案館、數據庫和其他研究和收集組織的記錄和數位化內容。 當檢索結果是由其他營利機構、出版社或其他單位所提供的服務時，可直接透過Trove連結至該機構網站，請使用者再行評估是否下載或付費。 惟請注意，Trove所收錄的內容部分係由第三方單位所提供，澳洲國家圖書館並不負責審查與審核之責，參考並引用時請多加查證。",
+  "publisher": "National Library of Australia",
+  "categories": [
+   "媒體與知識雜誌"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 136,
+  "order": 80
+ },
+ {
+  "id": "DB000000341",
+  "title": "U.S. Government Printing Office: Federal Digital System (FDsys)",
+  "url": "http://www.gpo.gov/fdsys/search/home.action",
+  "description": "The U.S. Government Printing Office disseminates official information from all three branches of the Federal Government. Search for documents and publications — FDsys provides advanced search capabilities and the ability to refine and narrow your search for quick access to the information you need. Browse for documents and publications — FDsys offers browsing by collection, Congressional committee, date, and Government author. Access metadata about documents and publications — FDsys provides information about Government publications in standard XML formats.",
+  "publisher": "US Government Printing Office",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 153,
+  "order": 81
+ },
+ {
+  "id": "DB000000806",
+  "title": "udn讀書館",
+  "url": "https://reading.udn.com/udnlib/tpml/",
+  "description": "精選電子書、電子期刊、電子報紙提供試用。 「udn讀書館」有下列新服務： * 線上閱讀, 不需要下載任何軟體, 只要打開瀏覽器即可閱讀書 * 下載『udn讀書吧』APP，即可直接於APP內借閱。 * 行動閱讀,行動借閱,走到哪看到哪。下載後手機或平板都可以離線閱讀",
+  "publisher": "聯合線上",
+  "categories": [
+   "閱讀推薦與電子書"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "國中",
+   "高中",
+   "大學"
+  ],
+  "clicks": 189,
+  "order": 82
+ },
+ {
+  "id": "DB000000344",
+  "title": "UNdata",
+  "url": "http://data.un.org/Default.aspx",
+  "description": "此資料庫由聯合國建置，免費提供有關全球的統計資料，可以檢索當前世界人口，貿易，農業，就業，環境，工業，教育，旅遊等方面的統計資料。",
+  "publisher": "United Nations Statistics Division",
+  "categories": [
+   "自主學習"
+  ],
+  "subjects": [
+   "地理",
+   "公民與社會",
+   "資訊科技"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 42,
+  "order": 83
+ },
+ {
+  "id": "DB000000240",
+  "title": "USDA National Agricultural Library Collection",
+  "url": "https://search.nal.usda.gov",
+  "description": "What am I searching? SEARCH is the USDA National Agricultural Library’s main search tool. It provides simple, one-stop access to more than 7 million records covering all aspects of agriculture and related disciplines. SEARCH Everything for results from the Catalog and Articles database (AGRICOLA), PubAg, and the NAL Digital Collections (NALDC). Or you can choose to limit your SEARCH to: Articles, indexed journal article citations PubAg, USDA’s public access repository Digital Collections, full-text historical documents and images",
+  "publisher": "National Agricultural Library",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "生物"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 593,
+  "order": 84
+ },
+ {
+  "id": "DB000000346",
+  "title": "USPTO Patent Public Search tool",
+  "url": "https://ppubs.uspto.gov/pubwebapp/static/pages/landing.html",
+  "description": "美國專利商標局(USPTO)於2022年2月推出新的專利檢索工具(Patent Public Search tool)，可檢索自1790至今頒發的美國專利，包括實用程序、設計、再頒發和植物專利，以及 SIR 文件。亦可檢索 2001 年至今提交的美國公開專利申請（包括新實用程序和植物）。 新檢索平台，係基於USPTO審查員用於尋找先前技術文獻的專利端對端(Patents End-to-End, PE2E)進階檢索工具的免費雲端平台，結合以下四個檢索工具的功能：公眾-審查員自動化檢索工具(Public-Examiner’s Automated Search Tool, PubEAST)、公眾-審查員網路檢索工具(Public-Web-based Examiner’s Search Tool, PubWEST)、專利全文及影像資料庫(Patent Full-Text and Image Database, PatFT) 以及公開全文及影像資料庫(Patent Application Full-Text and Image Database, AppFT)。",
+  "publisher": "美國專利局",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 336,
+  "order": 85
+ },
+ {
+  "id": "DB000001122",
+  "title": "WHO ICTRP Search Portal: International Clinical Trials Registry Platform",
+  "url": "https://www.who.int/ictrp/en/",
+  "description": "世界衛生組織提供的International Clinical Trials Registry Platform (ICTRP)，是一個匯集各國臨床試驗登記的檢索平台，目前資料提供者包含美國、歐盟、中國、日本、韓國、紐澳等14個國家或組織，以每週或每月更新資料。",
+  "publisher": "World Health Organization",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "生物",
+   "醫學",
+   "健康與護理"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 115,
+  "order": 86
+ },
+ {
+  "id": "DB000000572",
+  "title": "WHO Regional Databases",
+  "url": "https://www.who.int/library/",
+  "description": "Regional health and medical databases for Africa, Eastern Europe and the Mediterranean, Latin America and Caribbean, and South-East Aisa. Compiled to complement indexes such as PubMed MEDLINE.",
+  "publisher": "World Health Organization",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "生物",
+   "醫學",
+   "健康與護理"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 57,
+  "order": 87
+ },
+ {
+  "id": "DB000000352",
+  "title": "WIPO Gold: The Global IP Reference Resource",
+  "url": "https://www.wipo.int/portal/en/",
+  "description": "「世界智慧財產權組織(WIPO)」為聯合國的一個專業機構，其任務在於保護全世界智慧財產權，提供開放式線上檢索資料服務，提供各類智產權相關數據、相關法律查詢、及WIPO出版電子期刊。 世界智慧財產權組織提供專利、商標、產品外觀設計等查詢之資料庫，並提供查詢其他國家智慧財產權的法律，對於研究人員、法律商業人員、行政管理人員以及有需要使用到的人員，提供強而有利的搜尋介面（CLEA）。 並有提供申請專利方法指引。 相關連結：1.世界智慧財產權組織WIPO2.日本專利局Japan Patent Office 3.美國專利商標局 USPTO Patent Database 4.Delphion 專利資料庫Delphion Intellectual Property Network (可查詢美國專利之書目資料，欲查全文須成為會員並付費)5.中華民國專利公報資料庫6.中華民國專利情報系統",
+  "publisher": "WIPO",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "公民與社會"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 171,
+  "order": 88
+ },
+ {
+  "id": "DB000000355",
+  "title": "WorldCat",
+  "url": "http://www.worldcat.org/",
+  "description": "OCLC為世界各國圖書館中的圖書及其他資料所編纂的目錄書本、手稿本、網址與網路資源、地圖、電腦程式、樂譜、電影與幻燈、報紙、期刊與雜誌、錄音、文章、文件、錄像帶",
+  "publisher": "OCLC",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 443,
+  "order": 89
+ },
+ {
+  "id": "DB000000785",
+  "title": "Zotero 書目管理軟體",
+  "url": "https://www.zotero.org/",
+  "description": "Zotero [zoh-TAIR-oh] is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources. Zotero is the only research tool that automatically senses content in your web browser, allowing you to add it to your personal library with a single click. Whether you're searching for a preprint on arXiv.org, a journal article from JSTOR, a news story from the New York Times, or a book from your university library catalog, Zotero has you covered with support for thousands of sites. Zotero collects all your research in a single, searchable interface. You can add PDFs, images, audio and video files, snapshots of web pages, and really anything else. Zotero automatically indexes the full-text content of your library, enabling you to find exactly what you're looking for with just a few keystrokes.",
+  "publisher": "Roy Rosenzweig Center for History and New Media",
+  "categories": [
+   "自主學習"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 59,
+  "order": 90
+ },
+ {
+  "id": "DB000000585",
+  "title": "中國大百科全書",
+  "url": "https://www.zgbk.com/",
+  "description": "《中國大百科全書》是中國第一部大型現代綜合性百科全書，由北京「中國大百科出版社」召集共二萬餘名全國各學科的學者專家，於1978年起至1993年歷經15年時間編纂而成。內容浩繁，共撰述約8萬個詞條、1億3千萬個漢字、5萬幅圖表，收錄在74本書卷中。主題涵蓋人類遠古至20世紀的知識領域，含括人文學科、社會科學、自然科學等三大類，共66個知識學門。 ※ 此資料庫為訂購《大英百科全書線上繁體中文版》贈送使用，使用期限至2014/12/31止。",
+  "publisher": "中國大百科全書出版社\n智慧藏",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 50,
+  "order": 91
+ },
+ {
+  "id": "DB000000370",
+  "title": "中國文化研究論文目錄 1946~1979",
+  "url": "https://tpl.ncl.edu.tw/NclService/chineseCultureQuery",
+  "description": "此為《中國文化研究論文目錄：民國35年至68年》一書之網路電子版，收錄1946-1979年研究中國文化之論文集、期刊、報紙及學位論文之書目資料。 此資料庫是將《中國文化研究論文目錄（1946-1979）》所收錄的文獻，建檔收錄於資料庫中，所收錄的近三十年資料包括期刊、報紙、論文集、學位論文、行政院國家科學委員會（現在的科技部）研究報告中有關中國文化研究的單篇論文；總計包括期刊文獻901篇，專書論文11萬多篇，15種報紙中的論文3萬多篇，論文集205種，論文3,900篇，學位論文2,200多篇，行政院國家科學委員會研究報告1,200多篇。使數量龐大卻又分散於各不同類型文獻中的中國文化研究相關論文，得以藉由此目錄索引資料庫而簡化查詢途徑。 ※ 請按此查看圖書館典藏之紙本館藏。",
+  "publisher": "國家圖書館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "國文",
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 212,
+  "order": 92
+ },
+ {
+  "id": "DB000000582",
+  "title": "中國歷代人物傳記資料庫",
+  "url": "https://projects.iq.harvard.edu/chinesecbdb/home",
+  "description": "《中國歷代人物傳記資料庫》為哈佛燕京學社、中研院史語所及北京大學三方共同合作，原是賓州大學已故教授Robert Hartwell(1932–1996)之個人資料庫，初衷是研究宋代士大夫階級之構成，故原始資料庫主要包含宋代士人之傳記及親屬等資料。爾後才將財產所有權交由哈佛燕京學社。 《中國歷代人物傳記資料庫》之性質非一般史料全文資料庫，而是將史料就歷史人物之特性加以分析、分門別類、逐項建置之關係型資料庫，其準確度仰賴史料分析者的學識和判斷能力，不同於一般歷史平面式記錄。其遠程目標在於系統性地收入中國歷史上所有重要的傳記資料，並將其內容毫無限制地、免費地公諸學術之用。截至2012年1月為止，資料庫共收錄約116,150人的傳記資料，這些人物主要出自七世紀至十九世紀，本資料庫現正致力於增錄更多的明清代人物傳記資料。本資料庫除可作為人物傳記的一種參考資料外，亦冀可敷統計分析與空間分析之用。",
+  "publisher": "哈佛燕京學社",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 176,
+  "order": 93
+ },
+ {
+  "id": "DB000000376",
+  "title": "中國現代戲劇資料庫",
+  "url": "http://mcdrama.lib.cuhk.edu.hk",
+  "description": "本資料庫由香港中文大學圖書館所建置，內容收錄該館聯合書院圖書館戲劇特藏中珍貴之近代中國劇本，以及戲劇研究之期刊文獻，主要為《劇本月刊》1956-64。 ※ 連結時若出現空白畫面，為瀏覽器編碼問題，請點選瀏覽器上方→檢視→編碼→勾選「自動選取」及「Unicode(UTF-8)」，即可正常顯示網頁。",
+  "publisher": "香港中文大學",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "國文",
+   "藝術生活"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 170,
+  "order": 94
+ },
+ {
+  "id": "DB000000371",
+  "title": "中國西南少數民族數位典藏資料庫",
+  "url": "https://ihparchive.ihp.sinica.edu.tw/ihpkmc/ihpkm_op?!!FUNC320",
+  "description": "民國十八年到卅二年間(西元1929-1943年)，中央研究院歷史語言研究所的早期研究人員，在中國南方、西南和東北地區，進行中國有史以來有計劃的、科學性的跨省區田野調查工作。他們蒐集並且留下極為豐富的近現代中國少數民族文物、文書與田野照片。這批民族調查報告，對當代中國民族主義與少數民族相關的歷史學和人類學研究，均具有相當重要的參考價值。 「中國西南少數民族數位典藏資料庫」係為數位化典藏而開發，針對上述所提田野調查所蒐集的少數民族照片保存需求，設計符合照片保存、研究與教育推廣所需的數位化典藏資料庫，建構民族學照片影像專屬的資訊管理系統，將有關於少數民族的日常生活、村寨聚落、宗教儀式與體質測量等不同主題的田野調查照片，依拍攝時間與照片主題等方式予以集冊管理，以有效保存所蒐集的少數民族照片。 《中研院史語所數位資料庫開放國內免費授權使用》 ※ 資料庫內容為中央研究院歷史語言研究所版權所有，若要引用，請遵守資料庫相關規定！",
+  "publisher": "中央研究院歷史語言研究所",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史",
+   "地理"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 17,
+  "order": 95
+ },
+ {
+  "id": "DB000000367",
+  "title": "中央研究院地圖數位典藏查詢系統",
+  "url": "https://map.rchss.sinica.edu.tw",
+  "description": "《中央研究院地圖數位典藏查詢系統》整合「地圖與遙測影像數位典藏計畫」多年以來所建立的12項地圖資料庫，匯集國內最主要的地圖收藏單位，包括：中研院、國防部、農委會林務局、經濟部礦物局、經濟部水利署、內政部地政司等典藏地圖圖資，形成百來以來涵蓋中國大陸及台灣地區之地圖整合查詢系統，累積數位化成果超過12萬餘筆。",
+  "publisher": "中央研究院",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "地理",
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 102,
+  "order": 96
+ },
+ {
+  "id": "DB000001088",
+  "title": "中央研究院數位典藏",
+  "url": "https://ascdc.sinica.edu.tw/databases",
+  "description": "整合中央研究院逾128萬筆珍貴數位資源、164個成果網站的「中央研究院數位典藏」入口網隆重上線！提供跨資料庫檢索服務，數位藏品森羅萬象，是社會大眾進入數位典藏世界的入門磚，亦是學術研究與各式應用的根底。 中國信史起源的殷墟甲骨文及青銅器、展示臺灣不同時期政權遞嬗多元的文書檔案、臺灣原住民族的口語傳說及田調資料、報導每個時代下人民生活實況的寫真集及新聞雜誌，加上極為豐富的魚貝類影像、臺灣特有種植物標本等，逾128萬筆數位藏品來自本院各所，皆為專業的研究資源，內容具權威性、正確性。 為讓使用者更易於獲得所需資料，「中央研究院數位典藏」網提供跨資料庫的檢索服務，並建置更符合現代人使用模式、更便利的檢索介面。使用者亦可於行動載具上瀏覽、操作。",
+  "publisher": "中央研究院",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史",
+   "美術",
+   "生物",
+   "地理"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 93,
+  "order": 97
+ },
+ {
+  "id": "DB000000712",
+  "title": "中山學術資料庫",
+  "url": "https://sunology.yatsen.gov.tw/",
+  "description": "一、 國父全集全文檢索系統：以《國父全集》1－12冊建置本全文系統，並同時製作成資料庫檢索網站與DVD光碟。前述《國父全集》12冊係近代中國出版社於1989年出版，為國內外蒐羅匯集國父各類著作中資料至為完整 者。本系統除可全文檢索文字內容外，另製作電子書供讀者查閱原著，相互比對，對研究工作幫助甚大。 1.《國父全集》第11冊中「國父年譜簡編」部分，與《國父年譜》有完全相同且更加精細 之內容，故納入《國父年譜》全文檢索系統，提供更完整之服務。 2.《國父全集》第12冊所有索引款目，已分別建立於各筆文獻的詮釋資料（metadata） 中，提供讀者完整、迅速的檢索功能。 二、 國父年譜全文檢索系統：以《國父年譜》(共2冊)之文字資料為核心，可連結串接照片圖檔、影音等多元媒體，具便捷多工的檢索功能，並同時製作成資料庫檢索網站及DVD光碟，另亦製作電子書供讀者查閱原著。是項《國父年譜》為中國國民黨中央委員會黨史委員會1994年出版，亦是國內外相關類型作品的代表性著作。 三、 孫學期刊論文查詢系統：以本館出版之《孫學研究》及《館刊》之孫學研究期刊論文為主，擴及其他中山學術刊物，可介接「臺灣期刊論文索引系統」。 四、 孫學博碩士論文查詢系統：以本館圖書館典藏之博碩士論文為主，將本館圖書館系統之相關書目資料導入，並介接「臺灣博碩士論文系統」為輔。 五、 孫學研究專書查詢系統：以本館發行之孫學專書為主，擴及其他團體或個人所著之作品，並導入本館圖書館自動化系統之書目資料。",
+  "publisher": "國立國父紀念館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史",
+   "公民與社會"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 46,
+  "order": 98
+ },
+ {
+  "id": "DB000000365",
+  "title": "中文圖書資訊學文獻摘要資料庫 (CLISA)",
+  "url": "http://newsdb.ncl.edu.tw/ttscgi/ttsweb?@0:0:1:clisa@@0.8652803373988718",
+  "description": "《中文圖書資訊學文獻摘要資料庫(CLISA)》收錄自西元1955年以來國內中英文圖書資訊學相關文獻之摘要，包括：期刊論文、學位論文、圖書、會議記錄、研究報告等書目性質；內容概分一般及行政管理、圖書館自動化與資訊科學、技術服務、參考資訊服務、非書資料等五大類。目前資料量已累積近六萬筆的記錄，未來將每年持續更新。後續也將擴大收集大陸地區各主要大學信息管理系所教師著作與研究生博碩士論文，目前已同意提供資料者，包括北京大學、南京大學、武漢大學、南開大學、中山大學等校之信息管理系所。 ※ 此為國家圖書館所購置之全國版資料庫。",
+  "publisher": "漢珍",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "資訊科技"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 175,
+  "order": 99
+ },
+ {
+  "id": "DB000000384",
+  "title": "中華民國專利資訊檢索系統",
+  "url": "https://tiponet.tipo.gov.tw/twpat/",
+  "description": "《中華民國專利資訊檢索系統》為經濟部智慧財產局所建置，收錄內容如下： (一) 核准公告專利資料範圍(資料更新頻率每月三次) 1.專利書目資料：民國39年-至今 2.申請專利範圍：民國63年-至今 3.摘要：民國79年-至今 4.雜項資料：民國63年-至今 5.說明書全文資料：81年7月1日-至今 6.公報影像：民國39年-至今 7.說明書全文影像：民國79年-至今 (二) 早期公開專利資料範圍(資料更新頻率每月二次) 1.專利書目資料：民國92年5月1日-至今 2.摘要：民國92年5月1日-至今 3.說明書全文資料：民國92年5月1日-至今 4.公報影像：民國92年5月1日-至今 5.說明書全文影像：民國92年5月1日-至今",
+  "publisher": "經濟部智慧財產局",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "生活科技",
+   "公民與社會"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 40,
+  "order": 100
+ },
+ {
+  "id": "DB000000385",
+  "title": "中華民國統計資訊網",
+  "url": "http://www.stat.gov.tw",
+  "description": "《中華民國統計資訊網》為行政院主計處所建置，內容涵蓋全國各項重要統計資訊，包括國民所得統計、家庭收支統計、物價統計、工商業統計、進出口貿易統計、金融統計、人力資源統計、薪資與生產力統計、重要國情統計(含經社指標及統計圖表)及各項普查資訊等。",
+  "publisher": "行政院主計總處",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "數學",
+   "公民與社會"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 457,
+  "order": 101
+ },
+ {
+  "id": "DB000000360",
+  "title": "人名權威--明清人物傳記資料查詢系統",
+  "url": "https://newarchive.ihp.sinica.edu.tw/sncaccgi/sncacFtp?@@0.20643947396272488",
+  "description": "「人名權威--明清人物傳記資料查詢系統」的建置適用於明清檔案之相關人名權威檔之著錄，目的在於整合明清檔案所涉及之各式人名，同步建構其基本生平、傳略資料及作品集等，以提供各種數位典藏之重要考證資料。 《中研院史語所數位資料庫開放國內免費授權使用》 ※ 資料庫內容為中央研究院歷史語言研究所版權所有，若要引用，請遵守資料庫相關規定！",
+  "publisher": "中央研究院歷史語言研究所",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 377,
+  "order": 102
+ },
+ {
+  "id": "DB000000479",
+  "title": "佛學數位圖書館暨博物館",
+  "url": "https://buddhism.lib.ntu.edu.tw/DLMBS/index.jsp",
+  "description": "台大哲學系釋恆清教授為推動國內佛學整合性之研究，特於 1995 年春與台大多位教授，合作成立台大文學院「佛學研究中心」(The Center for Buddhist Studies，National Taiwan University)，以研究佛學為宗旨，藉由現代的學術研究方法，將佛學之特質、流變、潛在價值及現代意義等問題作深入的研究，並於 1995 年成立「佛學網路資料庫」，積極展開籌備工作，廣泛收集國內外佛學文獻資料，建立系統化之佛學文獻資料庫。 1999 年 10 月，由國立台灣大學校長陳維昭教授與法鼓山中華佛學研究所創辦人聖嚴法師正式締約，擴大佛學網路資料庫之內容與工作範圍，並正式更名為「佛學數位圖書館暨博物館」(Digital Buddhist Library and Museum)。成立迄今，“圖書館”的部份已收錄線上書目十萬餘筆，中英文全文兩千六百餘篇，另外“博物館”的部分也加入了許多佛學的資源。 2003 年 4 月 1 日起正式由國立台灣大學圖書館接手，相信透過台大圖書館豐富的資源與優良的技術、經驗，將會使得資料庫的內容及服務更加擴充，並且運作的更好。",
+  "publisher": "國立台灣大學圖書館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 20,
+  "order": 103
+ },
+ {
+  "id": "DB000000390",
+  "title": "內閣大庫明清檔案資料庫",
+  "url": "http://www.ihp.sinica.edu.tw/db/gsa",
+  "description": "中央研究院歷史語言研究所藏內閣大庫檔案約計三十一萬件，內閣大庫檔案原藏於清宮內閣大庫，宣統元年(1909)因大庫整修而被移出。清亡後幾經轉手，一度被賣入同懋增紙廠作還魂紙，最後在史語所首任所長傅斯年先生的奔走下，於民國十八年(1929)自李盛鐸手中購入。 這批檔案有四千多件明代(1368-1644)文書，三十多萬件清代(1644-1911)檔冊，包括內閣收貯的制詔誥敕、題奏本章、朝貢國表章、內閣各廳房處的檔案、修書各館檔案、試題、試卷、瀋陽舊檔等，其中以題奏本章佔最大宗。 內閣大庫檔案內容多涉及一般行政事務，而許多案例並不見於會典或則例，是研究制度史的重要材料，同時對於社會史、經濟史或法制史等的研究也極具價值。 《中研院史語所數位資料庫開放國內免費授權使用》 ※ 資料庫內容為中央研究院歷史語言研究所版權所有，若要引用，請遵守資料庫相關規定！ ※ 此資料庫不提供任何列印、轉存與下載功能，如有出版或商業行為等其它特殊需求，應另行就所需內容申請相關授權。建議可至中研院史語所資料庫會員申請網站申請個人帳號密碼使用(申請藏品圖象皆為付費使用)，並請詳閱申請須知。如有申請相關問題，請向中研院史語所洽詢。 ※ 若欲校外連線使用此資料庫，請先做好校外連線設定，方能於校外使用此資料庫。",
+  "publisher": "中央研究院歷史語言研究所",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 280,
+  "order": 104
+ },
+ {
+  "id": "DB000000470",
+  "title": "全國圖書書目資訊網 (NBINet)",
+  "url": "http://nbinet3.ncl.edu.tw/screens/opacmenu_cht.html",
+  "description": "「全國圖書書目資訊網 (NBINet)」，是由國家圖書館與國內其他合作圖書館聯合建立之全國中外文圖書資料聯合目錄資料庫。於民國 87 年 4 月正式啟用，主要功能在提供國內各圖書館合作編目之用，並兼具線上聯合目錄之功效，可提供一般使用者查詢利用。 其所包含之內容如下： 1. 77 所合作館館藏目錄：包含國家圖書館及76 所合作館之館藏書目資料。 2. 新書資訊 (ISBN & CIP)：由國家圖書館國際標準書號中心所提供之出版資訊，部分有館藏資料。 3. 民國元至 38 年所出版之參考書目，部分有館藏資料。 4. 港澳地區參考書目：為香港大學馮平山圖書館提供之書目，僅供參考。 其所提供之功能如下： 1. 線上聯合目錄查詢。 2. 進行線上合作編目。 3. 提供書目記錄轉錄。 4. Z39.50 跨系統查詢。",
+  "publisher": "國家圖書館",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 395,
+  "order": 105
+ },
+ {
+  "id": "DB000000469",
+  "title": "全國期刊聯合目錄暨館際合作系統",
+  "url": "https://ndds.stpi.narl.org.tw/",
+  "description": "本系統將聯合目錄及館際合作結合，除提供查詢各館期刊館藏外，另可利用此系統線上申請館際合作，節省郵寄申請件的時間，加快處理速度。同時，因與聯合目錄結合，可自動連結刊名，不需重複輸入，節省時間並減少錯誤。",
+  "publisher": "國研院科資中心",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 8,
+  "order": 106
+ },
+ {
+  "id": "DB000000467",
+  "title": "全國法規資料庫",
+  "url": "http://law.moj.gov.tw",
+  "description": "此資料庫由法務部所建置，所有中華民國現行法規均可由此資料庫網站查詢，並取得原文，且亦可透過此資料庫網站與各機關網站相連結。內容包括中央及地方法規最新訊息及預告、法規類別查詢及檢索、司法判例、中外條約協定、兩岸協議、為民服務及各相關法律資訊網站。",
+  "publisher": "法務部",
+  "categories": [
+   "自主學習"
+  ],
+  "subjects": [
+   "公民與社會"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 10,
+  "order": 107
+ },
+ {
+  "id": "DB000001032",
+  "title": "全球專利檢索系統",
+  "url": "https://tiponet.tipo.gov.tw/gpss/",
+  "description": "『經濟部智慧財產局』自2018年1月1日起開放『全球專利檢索系統』線上服務，使用者可透過該平台一站式檢索包含本國 及 美、 日、歐、中、韓專利資訊，提供國人產學研各界免費專利檢索服務。 使用者可免費註冊，登入後可進行全文檢索並提供統計分析、圖表分析、新訊通知、個人喜好設定等加值功能。",
+  "publisher": "經濟部智慧財產局",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 5,
+  "order": 108
+ },
+ {
+  "id": "DB000000391",
+  "title": "公開資訊觀測站",
+  "url": "http://mops.twse.com.tw/mops/web/index",
+  "description": "本資料庫為台灣證券交易所提供免費使用之線上系統，收錄內容包括公司概況(公司基本資料、股東常會及股利分派情形、國內外有價證券基本料等)、公司治理(組織架構、獨立董監事兼任情形、訂定公司治理之相關規程等)、財務報表(損益表、資產負債表、財務預測等)、營運概況(開立發票及營業收入資訊、各項產品業務營收統計、背書保證與資金貸放餘額資訊等)、基金資訊(基金基本資料彙總表、基金每日淨資產價值彙總表、基金每月持股前五大個股彙總表等)、董監股權異動(董監事持股餘額明細資料、內部人持股轉讓事前申報彙總表等)、證券衍生商品(上市上櫃認購權證標的證券查詢、當日重大訊息查詢等)。",
+  "publisher": "臺灣證券交易所",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "公民與社會"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 348,
+  "order": 109
+ },
+ {
+  "id": "DB000000816",
+  "title": "反性別暴力資源網",
+  "url": "http://tagv.mohw.gov.tw/",
+  "description": "反性別暴力資源網蒐集全球反性別暴力議題，包含家庭暴力、性暴力、性騷擾、兒少保護、人口販運及青少年性暴力之統計數字、研究與評估報告、活動方案、教育訓練、宣導等重要資訊。本網站於103年起發行反性別暴力電子報，透過即時資訊傳播方式，宣導反性別暴力觀念與活動訊息。",
+  "publisher": "衛生福利部",
+  "categories": [
+   "自主學習"
+  ],
+  "subjects": [
+   "公民與社會",
+   "健康與護理"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 20,
+  "order": 110
+ },
+ {
+  "id": "DB000000793",
+  "title": "古契特藏資料庫",
+  "url": "https://dl.lib.ntu.edu.tw/s/deeds/page/welcome",
+  "description": "本數位典藏計畫由行政院文化建設委員會與國立臺灣大學圖書館進行數位化的古契書。書籍來源包括（一）鄭華生先生所收藏之「竹塹北門鄭利源號古契書」；（二）臺北市文獻委員會典藏臺灣北部相關的古契書；（三）國立臺灣大學圖書館藏臺灣南部古契書三部分 本計畫所將進行的工作項目包括影像數位化、全文打字建檔、詮釋資料（Metadata）建檔、以及網頁建置等工作。。",
+  "publisher": "國立台灣大學圖書館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 87,
+  "order": 111
+ },
+ {
+  "id": "DB000000364",
+  "title": "古籍與特藏文獻資源",
+  "url": "http://rbook.ncl.edu.tw/NCLSearch/Search/Index/2",
+  "description": "前身為「臺灣地區善本古籍聯合目錄」，後整合至「古籍與特藏文獻資源」網。彙整自中國大陸、日本、歐美地區古籍收藏量居前的圖書館資料庫。前身《中文古籍書目資料庫》為國家圖書館所建置，收錄台灣、大陸及港、澳、日本、美國、歐洲等地區圖書館典藏之中文古籍書目，目前總計收錄609,941筆古籍書目資料。資料庫收錄之古籍書目以Metadata格式表達，並且選定若干核心書目欄位，加以呈現，共有14個查詢值可供使用者檢索，並提供繁、簡體版查詢介面，以利兩種字體之輸入檢索，查詢所得則可依使用者所需以詳目式或簡目式呈現。",
+  "publisher": "國家圖書館",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "國文",
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 72,
+  "order": 112
+ },
+ {
+  "id": "DB000001048",
+  "title": "台南文史研究資料庫",
+  "url": "https://tainanstudy.nmth.gov.tw/intro",
+  "description": "",
+  "publisher": "國立臺灣歷史博物館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史",
+   "地理"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 257,
+  "order": 113
+ },
+ {
+  "id": "DB000000653",
+  "title": "台灣人文及社會科學引文索引資料庫",
+  "url": "https://tci.ncl.edu.tw/",
+  "description": "「臺灣人文及社會科學引文索引資料庫（Taiwan Citation Index - Humanities and Social Sciences，簡稱TCI-HSS）」是由國家圖書館、行政院科技部人文及社會科學研究發展司、財團法人國家實驗研究院科技政策研究與資訊中心等單位合作建置，主要是提供學術社群及社會大眾人士，跨學門查詢臺灣人文及社會科學引文索引之相關資料。本資料庫透過建立學術論文間相關文獻分析，期能協助提升國家學術研究資源之質量，資料庫內容係以行政院科技部人文及社會科學研究發展司先前所建置之TSSCI和THCI引文資料為基礎，經由國家實驗研究院科技政策研究與資訊中心進行資料整併後匯入本系統。 資料庫現階段收錄臺灣及海外華人出版之人文及社會科學期刊、臺灣全國博士論文及專書，建立學術論著之來源文獻及引用文獻分析資訊，有助於瞭解學術著作之連結脈絡，同時提供跨學門資料庫檢索平臺服務，建立學術論著引用率及被引用率之書目分析，一方面作為人文及社會科學研究檢索之重點資料庫，另一方面則作為學術研究及相關機構瞭解各學門論著之參考依據。",
+  "publisher": "國家圖書館",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 318,
+  "order": 114
+ },
+ {
+  "id": "DB000000417",
+  "title": "台灣人文學引文索引資料庫 (THCI)",
+  "url": "https://tci.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?randomimg=Z8Vhjd_1792463853&validpath=Z8Vhjd_1792463853&validinput=39716&check=%E7%A2%BA%E5%AE%9A",
+  "description": "「台灣人文學引文索引資料庫(Taiwan Humanities Citation Index ,簡稱THCI)」是由行政院國科會人文學研究中心所建置。收錄我國人文學期刊論文引文資料，利用此引用文獻資料庫，可以進一步的了解我國人文學領域期刊文獻出版後，被使用的情形以及其後來的發展狀況，一方面可更進一步藉由引用文獻的分析，瞭解某一主題歷年的研究結果，可以推知此學科領域在未來的研究發展趨勢；另一方面，也可以分析期刊所收錄的學術文獻，彼此之間相互引用的情形，以藉此評估各期刊在人文學科領域上的影響力，進而提供研究者作為參考的依據。",
+  "publisher": "科技部",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 104,
+  "order": 115
+ },
+ {
+  "id": "DB000000418",
+  "title": "台灣人物誌 (1895-1945) (日治時期)",
+  "url": "https://tm.ncl.edu.tw/article?u=008_001_0000567315&lang=chn",
+  "description": "《台灣人物誌資料庫》收錄內容以日治時代人物為主，台灣地區(含澎湖)為範疇，沒有種族及性別之差異。因為以日治時代為主，日本籍人物很多，至少超過一半以上，目前已蒐集超過二萬筆資料。資料庫收錄內容來源則包括人士鑑、月旦評、地方大觀、學經歷傳及期刊雜誌等五種。 《國家圖書館全國共用資料庫》",
+  "publisher": "國家圖書館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 13,
+  "order": 116
+ },
+ {
+  "id": "DB000000901",
+  "title": "台灣原住民族民間敘事及祭典儀式書目資料庫",
+  "url": "https://db.nmtl.gov.tw/site4/s2/index",
+  "description": "台灣原住民族沒有文字，族群傳統在口耳相傳間代代相承。日治時期日本人類學家或為學術目的，或為政治目的從事田野考察，留下了為數不少的有關台灣原住民的考察成果。此時期日本學者從事台灣原住民調查報告的初始目的如竹內友治郎在《生蕃傳說集》的序中所說：「理蕃三十年，初以征御行之，今則進而以撫育。欲撫育，則有了解各族各社歷史風俗習慣之必要。」這些當時為某些目的進而觀風俗的調查，雖然大多在人類學的調查觀念下進行，卻也為台灣原住民無形文化資產保存了相當珍貴的資料。 過去專家學者在文化消失危機的使命感下，各自依其地利之便及所認定的「亟需保存」概念進行「原住民族民間敘事及祭典儀式」的採錄與調查工作，這些專家學者的調查的確為面臨消失的原住民文化資產注入一股新力量，然而在調查方向未整合的情況下進行田野調查，往往造成資源及人力的重覆，形成部份未受注意的部落並無專家學者從事調查。因此透過本計畫，針對從日治時期開始至今的調查成果做一全面蒐集、分類、整理，以釐清目前已被調查保存的資料及尚未進行調查的範圍，進而為後續調查之依據，同時提供研究者考察之所依。 本資料庫所承載的資料即是將已完成的研究成果，系統性的編製成目錄、索引，研究者可輸入關鍵詞，查考相關資料，並可連結「全國圖書書目資料網檢索」查閱館藏所在地。",
+  "publisher": "臺灣文學館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史",
+   "地理"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 477,
+  "order": 117
+ },
+ {
+  "id": "DB000000429",
+  "title": "台灣史檔案資源系統",
+  "url": "https://tais.ith.sinica.edu.tw/",
+  "description": "《台灣史檔案資源系統》為中央研究院台灣史研究所建置，中研院台史所典藏的古文書與檔案資料為歷史研究珍貴的第一手來源，為有效管理與開放取用，遂建置一整合性資訊系統，以協助古文書實體及其數位內容的管理、典藏、檢索、描述與提供使用。 系統收錄內容包括現藏史料資源：古文書、私人手稿、公家檔案、珍貴古籍等類別；以及資源的載體：文字紙本資料、圖像資料、DVD等實體館藏，及各資料庫系統中不同規格的數位檔，如JPEG、TIFF等格式的數位典藏檔案資料。 ※ 資料庫僅供學術研究之用。 ※ 申請表中的「電子郵件」欄位，請填入政府機構或學術單位所屬之電子信箱帳號(結尾為gov.tw或edu.tw之e-mail帳號)。",
+  "publisher": "中央研究院台灣史研究所",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 90,
+  "order": 118
+ },
+ {
+  "id": "DB000000914",
+  "title": "台灣文學外譯人力調查資料庫",
+  "url": "https://db.nmtl.gov.tw/site1/index",
+  "description": "本資料庫之調查對象包括從事台灣文學外譯的專家學者及文學作品、機構團體，以及台灣文學外譯相關課程之師資、研究論著。盡可能對國內外台灣文學外譯人力、作品進行全面性的資料統整與蒐集，資料收錄至2012年12月。透過本資料庫之建置，期待提供國內外從事台灣文學外譯相關工作、研究者參考使用。",
+  "publisher": "臺灣文學館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "國文",
+   "英文"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 42,
+  "order": 119
+ },
+ {
+  "id": "DB000000919",
+  "title": "台灣文學年鑑檢索系統",
+  "url": "https://db.nmtl.gov.tw/site4/s8/index",
+  "description": "為掌握及保有台灣文學的生命脈動，本館有系統、客觀、詳實地記錄與回顧每一年台灣文學的創作、出版、研究等活動。為將此珍貴資料提供外界查詢參考，台灣文學館特建置此一檢索系統。",
+  "publisher": "臺灣文學館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "國文"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 81,
+  "order": 120
+ },
+ {
+  "id": "DB000000913",
+  "title": "台灣文學期刊目錄資料庫",
+  "url": "https://db.nmtl.gov.tw/site4/s3/index",
+  "description": "本資料庫內容包含日治時期（1910-1945）、戰後初期（1945-1949）之雜誌總論、56種期刊書影、基本資料，以及個別刊物之解說。使用者可藉此了解數十種文學期刊的文獻資料，並窺見當時的文學內容、文學活動，甚至社會的變貌。",
+  "publisher": "臺灣文學館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "國文",
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 13,
+  "order": 121
+ },
+ {
+  "id": "DB000000915",
+  "title": "台灣文學研究人力論著目錄資料庫",
+  "url": "https://db.nmtl.gov.tw/site1/home",
+  "description": "本資料庫收錄152位台灣文學研究者資料與論著目錄共6263筆，資料收錄至2011年2月，收錄之研究者皆為目前於各大專院校任教的研究者及對台灣文學研究有莫大貢獻者。本資料庫提供關鍵字檢索與進階檢索等檢索功能，除可瀏覽單一研究者所有關於台灣文學研究之論著，更可針對研究主題、研究專長等查詢單位進行檢索。",
+  "publisher": "臺灣文學館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "國文"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 111,
+  "order": 122
+ },
+ {
+  "id": "DB000000900",
+  "title": "台灣文學辭典資料庫",
+  "url": "https://db.nmtl.gov.tw/site2/index",
+  "description": "本資料庫延攬學有專精的台灣文學研究者審定、校閱、通讀，以深入淺出的方式對台灣文學相關專有名詞進行詮釋說明；內容包括作品人物形象、文學術語、文學運動（論爭、思潮、事件）、文學團體、文學獎、出版者、作品集（合集、全集、選集）、作品、作家、期刊（副刊）等類別，總計收錄辭目4240條，不僅兼容台灣文學所有範疇，同時具備文學史功能，期望藉此涵蓋廣泛，內容充實，既有學術性又兼具實用性的檢索系統，提供研究者、教師、學生及社會大眾便利查考，更有效地推廣台灣文學。",
+  "publisher": "臺灣文學館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "國文"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 165,
+  "order": 123
+ },
+ {
+  "id": "DB000000975",
+  "title": "台灣文獻期刊論文索引",
+  "url": "https://itpl.ntl.edu.tw/cgi-bin/gs/jgsweb.cgi?o=djtidx",
+  "description": "將國立臺灣圖書館館典藏的中文期刊自清末到現在，有關臺灣論文著作之文獻資料，編輯成索引，供讀者查詢參考，目前收錄10萬4,806筆詮釋資料。",
+  "publisher": "國立臺灣圖書館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 50,
+  "order": 124
+ },
+ {
+  "id": "DB000000420",
+  "title": "台灣文獻資料聯合目錄",
+  "url": "https://uctl.ntl.edu.tw/cgi-bin/gs/ugsweb.cgi?o=dunidir",
+  "description": "《台灣文獻資料聯合目錄》收錄國立中央圖書館臺灣分館、台灣省文獻會、省立台中圖書館、中央研究院、台北市文獻委員會、國立臺灣師範大學圖書館、澎湖縣立文化中心、台南市立中正圖書館、東海大學圖書館、國立成功大學圖書館、傅斯年圖書館、台北市立圖書館、孫逸仙博士圖書館、桃園縣立文化中心、雲林縣立文化中心、台南縣立文化中心、高雄市文獻委員會、高雄縣立文化中心、台灣銀行經濟研究室、台中縣立文化中心、台中市立文化中心、花蓮縣立文化中心、彰化縣立文化中心、苗栗縣立文化中心、宜蘭縣立文化中心、嘉義縣立圖書館、屏東縣立文化中心、基隆市政府民政局、南投縣立文化中心、國立政治大學圖書館、台東縣立文化中心、台南市政府民政局、台中市政府民政局、國立故宮博物館圖書館、台北縣立文化中心及新竹縣立圖書館等三十六個單位之館藏目錄台灣文獻資料，內容包括台灣中文、日文、西文圖書文獻資料，凡古文書、古契、先賢遺著、士紳之文集、詩集、日記、帳簿、族譜、家乘、祭祀公業資料、寺廟教堂資料、產業組合檔案、口碑、口述史料、學術著作、政府單位出版品及博碩士論文等，此目錄另有書本式印行。",
+  "publisher": "國立臺灣圖書館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 83,
+  "order": 125
+ },
+ {
+  "id": "DB000000710",
+  "title": "台灣新民報檢索系統",
+  "url": "https://db.nmtl.gov.tw/site4/s4/index",
+  "description": "《台灣新民報》前身為《台灣民報》週刊，從1930年3月29日的第306期起，改名為「台灣新民報」，並在1932年4月15日，開始發行日刊「台灣新民報」。台灣新民報的特色是報導重於評論，站在台灣人的立場從事報導。 本岐阜聖德學園大學台灣文學研究專家中島教授於多年前在東京舊冊店發現一九三三年的《台灣新民報》，將之購買後轉贈本館珍藏。這是目前海內外唯一的孤本，其中包含很多日治時代台灣作家的作品，尤其是「鄉土文學論爭」的相關論文，這些新資料的出土，對台灣文學研究產生重大的影響。 此資料庫為中島利郎教授捐贈予「國立台灣文學館」典藏之版本，收錄日刊《台灣新民報》1933/5/2 ~ 11/30的全版影像，為將一九三三年《台灣新民報》資料公開及活用；爾後，如有其他年份之《台灣新民報》資料出土，將陸續建入，使資料更完整。",
+  "publisher": "臺灣文學館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 5,
+  "order": 126
+ },
+ {
+  "id": "DB000000426",
+  "title": "台灣日治時期統計資料庫",
+  "url": "http://tcsd.lib.ntu.edu.tw/main_search.php",
+  "description": "日本殖民政府在統治臺灣的五十年間(1895年到1945年)，進行了多項大規模、全面性且具持續性的統計調查，例如：臨時戶口調查、國勢調查。這些調查範圍涵蓋廣泛，所累積的統計資料相當豐富。由於此珍貴的統計資料目前散見於全國各圖書館，為了能方便更多學者接近使用，同時也兼顧資料保存，臺灣大學法律學院於2006年執行國家科學委員會的「臺灣法實證研究資料庫建置計畫」，規劃建置一個以收錄日治時期官方統計資料為主的「日治時期統計資料庫」，並以國立臺灣大學圖書館及國立中央圖書館臺灣分館所典藏的日治統計舊籍為收錄對象，共收錄681冊日治時期統計出版品，建置194,075頁數位化影像檔案，103,732筆詮釋資料，其中包括書名、表格名稱、統計年份、出版單位等重要資訊，並製作成可供查詢及瀏覽之資料庫。 資料庫提供「JPEG」與「PDF」兩種全文格式。JPEG全文僅供瀏覽，不提供下載；PDF全文除可瀏覽外，亦提供下載及列印功能，每10分鐘可下載10筆PDF全文(使用PDF全文請先下載安裝Adobe Reader閱讀軟體)。",
+  "publisher": "臺灣大學法律學院",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 28,
+  "order": 127
+ },
+ {
+  "id": "DB000000427",
+  "title": "台灣日記知識庫",
+  "url": "https://taco.ith.sinica.edu.tw/tdk/",
+  "description": "日記是個人逐日將自己感受、行事寫成文字保存而成，特殊性在於紀錄的是記主當日的告白，在時間上更貼近當下的心境，更保留了當事人當時的看法，並清楚呈現社會變遷的軌跡，反映記主所處時代的種種面向，是從事個人、家族史、經濟社會政治史研究的重要參考素材，因為屬於私人記錄性質，比正式的文件少了遮掩與修飾，也無意中記下許多正式文件所沒有的紀錄角度與軼事，藉由日記的第一手記錄，異於官方文獻制式說法，呈現平民百姓的多樣觀點。《台灣日記知識庫》目前收錄有17,895篇內容，2,744幅影像資料。 ※ 資料庫僅供學術研究之用。 ※ 申請表中的「電子郵件」欄位，請填入國內政府機構或學術單位所屬之電子信箱帳號(結尾為gov.tw或edu.tw之e-mail帳號)。",
+  "publisher": "中央研究院台灣史研究所",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 135,
+  "order": 128
+ },
+ {
+  "id": "DB000000431",
+  "title": "台灣本土植物資料庫",
+  "url": "https://hast.asdc.sinica.edu.tw/literature_q.php",
+  "description": "《台灣本土植物資料庫》包含中央研究院生物多樣性研究中心研究博物館之植物標本館典藏之標本標籤資訊及標本影像、植物分類文獻、植物生態影像、植物分布圖等四大主題。透過此資料庫，進行標本館典藏品之建檔及管理，並藉由數位化以永久珍藏本土植物生態照及臘葉標本影像。 《台灣本土植物標本資料庫》：中央研究院植物標本館典藏之標本目前已逾120,000號，其中採集自台灣本地者約85,000號，經由分析標本標籤內容及網路上資料庫查詢欄位之互通性，並參考國際間重要之植物資料庫，建立一套中英文雙語，兼具文字記錄、植物標本影像的台灣本土植物標本資料查詢系統。目前資料庫建檔內容統計共76,027筆。 《台灣本土植物影像資料庫》：台灣本土植物影像資料庫典藏以台灣原生維管束植物生態照為主要內容，保存珍貴的影像記錄，記錄了台灣寶貴的自然資源，並為專業學術研究奠定良好的基礎。此外，精彩寫實的生態照片，除可提供教學輔助參考之外，亦是一般大眾認識台灣原生植物的最佳管道。 《台灣本土植物文獻資料庫》：台灣本土植物文獻資料庫以台灣原生維管束植物分類文獻為主要典藏內容，建立一套台灣本土植物的分類書目資料系統，而將各時期、各分類群之資訊以資料庫查詢之方式呈現，其中以台灣早期植物分類文獻資料之整理建檔，提供植物學研究人員相當大之助益。 《台灣本土植物分布資料庫》：配合網際網路空間資訊系統(WebGIS)的技術研發，整合標本採集地之經緯度數據，製作「台灣植物採集地分布圖」，與標本資料庫內容結合，透過地圖直接針對地區查詢標本採集記錄及植物資料，亦可由地圖顯示某種植物在台灣的分布狀況，對台灣植被研究及生態、保育等方面將大有助益。",
+  "publisher": "中央研究院",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "生物"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 361,
+  "order": 129
+ },
+ {
+  "id": "DB000000442",
+  "title": "台灣植物資訊整合查詢系統",
+  "url": "https://tai2.ntu.edu.tw",
+  "description": "《台灣植物資訊整合查詢系統》主要包含植物名彙與資訊、植物數位標以及植物學電子書本三大項目，內容包含有模式標本、一般植物標本、地名資料、台灣植物誌、重要歷史文獻等。 《植物名彙與基本資訊》：包含台灣4,685種植物的學名、異名及各語言俗名。以台灣植物誌為基礎，輔以台灣植物名彙等歷史文獻統整而成的台灣植物名彙資料庫。加上植物誌的植物描述，和豐富的生態照片，提供更完整的植物基本資訊。 《植物數位標本》：收錄台灣大學植物標本館(TAI)所擁有的標本，實代表八十多年來台灣植物資源探勘及植物研究之成果。藉由數位化的處理，這些標本將以原件原貌方式呈現在研究者眼前，達到保存與供眾使用的雙重功能。 《植物學電子書》：包含台灣植物誌第一版及第二版，台灣植物目錄，台灣植物圖譜，台灣植物名彙，福爾摩沙植物名錄等。藉由書籍的電子化，將讓書中的植物線索更廣為被應用。",
+  "publisher": "中央研究院",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "生物"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 229,
+  "order": 130
+ },
+ {
+  "id": "DB000001095",
+  "title": "台灣歷史文化地圖(THCTS)",
+  "url": "http://thcts.sinica.edu.tw/",
+  "description": "該系統可分基本空間圖資、WebGIS整合應用環境與專題化的屬性資訊等三大部分。基本空間圖資依臺灣歷史發展，分成荷蘭與西班牙時期、明鄭時期、清朝、日本殖民統治時期與光復以後，建置各類基本底圖。其中1904年發行的二萬分之一《臺灣堡圖》與1920年代的二萬五千分之一《臺灣地形圖》，可作為相關歷史地圖回溯校正的基本圖資。此外可再輔以近年發行的地形圖、相片基本圖，以及遙測影像等，作為現代的底圖。 在WebGIS整合應用環境方面，本系統結合臺灣歷史文化地圖、臺灣研究網路化、臺灣地區航照管理系統、臺灣地區地名查詢系統、漢籍全文資料庫等重要研究成果，透過簡單易行的查詢介面做資料發掘與應用，進而輔助深入研究工作的推展。 臺灣歷史文化地圖系統(THCTS)所建置圖層在相關研究與教學上已廣為運用，為減少如以往圖資供應上之繁複程序，已於日前完成線上圖資下載之系統功能；使用者僅須透過登入帳號與通行碼的方式，即可線上取得所需圖資。 圖資下載方式請參考THCTS圖資下載說明。 自2018年起，該系統GIS資料同步上架到中央研究院「研究資料寄存所」網站（https://data.depositar.io/group/thcts），提供時空查詢及線上預覽功能。",
+  "publisher": "中央研究院",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史",
+   "地理"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 468,
+  "order": 131
+ },
+ {
+  "id": "DB000000917",
+  "title": "台灣民間文學歌仔冊資料庫",
+  "url": "https://db.nmtl.gov.tw/site4/s5/index",
+  "description": "「台灣唸歌」是台灣特有、屬於曲藝性質的傳統說唱藝術，它在日治時期及戰後五○、六○年代是一項民間極為常見的常民藝術，陪伴著我們的先民們渡過無數的快樂時光，也在他們的心田建立了無可磨滅的地位，是一項極為重要的民間傳統藝術。把「唸歌」的唱詞文字化，印成小書，就是「歌仔冊」，在台灣文學館的典藏文物裡面，也收藏了不少的歌仔冊，為了讓這些文學資料早日公開供公眾推廣、研究使用，乃建置台灣民間文學歌仔冊資料庫。",
+  "publisher": "臺灣文學館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "國文",
+   "音樂",
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 232,
+  "order": 132
+ },
+ {
+  "id": "DB000000916",
+  "title": "台灣現當代作家研究資料庫",
+  "url": "https://db.nmtl.gov.tw/site4/s7/index",
+  "description": "本資料庫收錄310位台灣現當代重要作家之評論資料，為一能提供研究者完整、正確的評論資料目錄線上檢索系統；除能提供海內外關心及研究台灣文學者參考使用，更可彰顯半世紀以來，台灣文學豐沛的創作力、出版力以及研究力。",
+  "publisher": "臺灣文學館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "國文"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 90,
+  "order": 133
+ },
+ {
+  "id": "DB000000713",
+  "title": "台灣當代藝術資料庫",
+  "url": "https://tcaaarchive.org/?lang=ch",
+  "description": "這是一個為了推廣台灣當代藝術家的中英雙語的專業資料庫，也是台灣當代藝術家的入口網站。 目前以藝術家為資料建置單位，並持續進行內容擴充，已完成行為藝術、錄像藝術和新媒體藝術三類型，共65位藝術家資料，資料包含簡介、展演履歷、完整系列作品(圖文、影音檔案、評論文章等)，呈現每位藝術家的完整創作脈絡和最新動態，是個\"活\"的資料庫。持續增設裝置藝術、攝影藝術類型，並透過關鍵字的專家論述，延伸美學名詞、藝術事件，串聯現有資料間的知識網絡，強化搜尋便利性。 經由本資料庫，能實踐國內外策展和研究的旨趣，同時增加台灣藝術家的國際曝光率，被理解和觀看和邀請的機會。 載具使用說明: 一般PC、NP皆可 建議google chrome、firefox皆可",
+  "publisher": "社團法人中華民國視覺藝術協會",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "美術",
+   "藝術生活"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 153,
+  "order": 134
+ },
+ {
+  "id": "DB000000452",
+  "title": "台灣癌症登記系統",
+  "url": "https://twcr.tw/",
+  "description": "《台灣癌症登記系統》由行政院衛生署所建置，為全國癌症發生報告之資料庫，提供台灣地區癌症相關訊息、年報及研究報告等。內含民國84-88年癌症登記報告 (年報)。",
+  "publisher": "台灣癌症登記中心",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "醫學",
+   "健康與護理",
+   "生物"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 251,
+  "order": 135
+ },
+ {
+  "id": "DB000000435",
+  "title": "台灣貝類資料庫",
+  "url": "http://shell.sinica.edu.tw",
+  "description": "《台灣貝類資料庫》是由台灣貝種名錄、台灣貝類標本名錄、地理分布、文獻資訊、貝類新種名錄、台灣貝塚貝類、貝類化石、國際貝庫等子資料庫所組成，目的在於讓使用者能快速查詢台灣貝類的相關資料並與國際貝類資訊接軌。",
+  "publisher": "中央研究院",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "生物"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 258,
+  "order": 136
+ },
+ {
+  "id": "DB000000450",
+  "title": "台灣資料剪報系統",
+  "url": "https://ncstl.ntl.edu.tw/cgi-bin/gs/pgsweb.cgi?o=dclip",
+  "description": "國立臺灣圖書館(原名:國立中央圖書館臺灣分館)自民國七十七年起，將每日蒐集二十餘種中文報紙剪輯有關台灣論著文獻資料，掃瞄建檔，並建置成《台灣資料剪報系統》供查詢使用。",
+  "publisher": "國立臺灣圖書館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史",
+   "公民與社會",
+   "國文"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 392,
+  "order": 137
+ },
+ {
+  "id": "DB000000443",
+  "title": "台灣鄉土文獻影像資料庫",
+  "url": "https://tm.ncl.edu.tw/overview_index?lang=chn&collection=C_TWlocalImg&page=1&page_limit=10",
+  "description": "《台灣鄉土文獻影像資料庫》收錄國家圖書館館藏各種地方文獻之數位化成果，如地方志、鄉土文獻及地方政府出版品 (包括公報、統計、小冊子等)，並擴及與各縣市文化局、鄉鎮圖書館、文獻會等合作數位典藏其所出版或收藏之地方文獻，是研究地方人、事、時、地、物之重要資料庫。",
+  "publisher": "國家圖書館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史",
+   "地理"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 506,
+  "order": 138
+ },
+ {
+  "id": "DB000000456",
+  "title": "台灣醫學會網路期刊系統",
+  "url": "http://www.fma.org.tw/",
+  "description": "臺灣醫學會期刊的網站，提供論文投稿及進度之查詢。",
+  "publisher": "台灣醫學會",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "醫學",
+   "健康與護理"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 133,
+  "order": 139
+ },
+ {
+  "id": "DB000000439",
+  "title": "台灣魚類資料庫",
+  "url": "http://fishdb.sinica.edu.tw",
+  "description": "《台灣魚類資料庫》提供台灣魚類的學名及俗名、同種異名、形態分類、基本解說(生態習性、生活史、資源利用、產地分佈、參考文獻等)、標本館典藏之標本資料、及影像(標本照、X光骨骼照、生態照、生態影片)等之數位資料，並利用多媒體資料庫技術予以整合、管理、維護，並藉開發使用者介面，使國內外各界均可透過網路公開瀏覽、查詢、擷取及使用。",
+  "publisher": "中央研究院",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "生物"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "國中",
+   "大學"
+  ],
+  "clicks": 565,
+  "order": 140
+ },
+ {
+  "id": "DB000000457",
+  "title": "司法院法學資料檢索系統",
+  "url": "https://lawsearch.judicial.gov.tw/",
+  "description": "《司法院法學資料檢索系統》由司法院所建置，提供檢索司法院主管法規、判解函釋、裁判書查詢、簡易案件查詢、除權判決公告等資料。",
+  "publisher": "司法院",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "公民與社會"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 22,
+  "order": 141
+ },
+ {
+  "id": "DB000000723",
+  "title": "司法院電子出版品檢索系統",
+  "url": "http://jirs.judicial.gov.tw/judlib/",
+  "description": "收錄司法院出版的帶職帶薪自行進修報告、出國考察報告、專題研究報告、中譯外國法學、外譯本國法學及其他出版品。",
+  "publisher": "司法院",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 187,
+  "order": 142
+ },
+ {
+  "id": "DB000000472",
+  "title": "各大學博碩士論文全文系統",
+  "url": "http://140.137.101.7/online/dissertation.htm",
+  "description": "除了可利用國家圖書館所建置之「台灣博碩士論文知識加值系統」，查詢使用台灣地區各大學院校已授權公開之博碩士論文以外，還可利用各大學所自行建置之數位論文全文系統，免費查詢、下載已授權公開之博碩士論文。請注意由於各論文作者對其畢業學校及國家圖書館之授權範圍可能會有所差異，因此在使用時請特別留意各篇論文之授權範圍。 各大學院校系統名稱： 1.大同大學博碩士論文系統 2.中山大學學位論文全文系統 3.中央大學碩博士論文系統 4.中正大學碩博士論文系統 5.中原大學碩博士論文全文系統 6.台北科技大學電子學位論文服務 7.台灣師範大學博碩士論文系統 8.交通大學博碩士論文全文系統 9.成功大學電子學位論文服務 10.東華大學博碩士論文系統 11.政治大學博碩士論文全文影像系統 12.台灣海洋大學博碩士論文系統 13.高雄第一科技大學博碩士數位論文系統 14.國立體育大學(桃園)學位論文全文系統 15.清華大學博碩士論文全文系統 16.逢甲大學學位論文提交查詢系統 17.陽明大學學位論文 18.雲林科技大學博碩士論文系統 19.彰化師範大學博碩士論文系統 20.靜宜大學博碩士論文知識加值系統",
+  "publisher": "其他",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 319,
+  "order": 143
+ },
+ {
+  "id": "DB000000500",
+  "title": "商標檢索系統",
+  "url": "https://cloud.tipo.gov.tw/S282/S282WV1/",
+  "description": "《商標檢索系統》為經濟部智慧財產局建置之免費檢索系統，提供商標相關資訊檢索。檢索方式包括圖樣文字查詢、案號查詢、申請人查詢、案件進度查詢、綜合布林查詢、圖形查詢、圖形分類路徑查詢與商品及服務近似檢索等。另外，系統中還有一項『商標電子公報上網檢索』功能，提供商標公報之相關資訊查詢。 ※因商標資料含有造字資料，可採圖樣文字檢索，或下載智慧局造字輸入法對照表，否則可能無法正常顯示商標資料。",
+  "publisher": "經濟部智慧財產局",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "公民與社會"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 456,
+  "order": 144
+ },
+ {
+  "id": "DB000001091",
+  "title": "國史館檔案史料文物查詢系統",
+  "url": "https://ahonline.drnh.gov.tw/index.php?act=Archive",
+  "description": "此查詢系統係整合本館原「史料文物查詢系統」及「數位檔案檢索系統」兩系統，提供查詢本館典藏之檔案、史料及文物。 計有99個全宗，點入全宗名稱，如「蔣中正總統文物」（如附件），即可瞭解該全宗收錄的起迄年代； 本查詢系統近149萬筆目錄，各筆目錄均有明確標示提供之閱覽方式，說明如下： 如為「數位檔/線上閱覽」，毋須事先申請，點入後即可線上瀏覽或自行下載列印。 如為「數位檔/臺北閱覽室」，毋須事先申請，可於本館臺北閱覽室開放時間內（週一至週五，09:30～17:00，國定例假日不開放）到館閱覽。 如為「原件/新店閱覽室」，採事先預約原則，並開放7日內到館之預約，請於本館新店閱覽室開放時間內（週一至週五，09:30～16:30，國定例假日不開放）到館閱覽，紙本原件僅提供閱覽、抄錄或翻拍（請自備相機）。 如為「申請閱覽(尚未檢視)」，請先註冊帳號並以E-mail回傳個人身分證明文件影本，待帳號註冊成功後，再於線上提出申請，本館將針對所申請的檔案內容做檢視，依法遮蔽或抽離密件、個人資料等內容，第一批作業的回覆時間為15-30天。",
+  "publisher": "國史館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 35,
+  "order": 145
+ },
+ {
+  "id": "DB000000501",
+  "title": "國史館臺灣文獻館文獻檔案查詢系統",
+  "url": "https://onlinearchives.th.gov.tw",
+  "description": "《國史館臺灣文獻館文獻檔案查詢系統》為國史館臺灣文獻館所建置，係針對其「臺灣省級機關檔案」、「臺灣省府委員會議檔案」、「臺灣鹽業檔案」、「臺灣總督府府報」、「臺灣總督府專賣局檔案」等子資料庫建置之整合性檢索資料庫平臺介紹如下： 《臺灣省級機關檔案》：為臺灣省政府所屬各級機關留存之公文檔案，完整紀錄臺灣省政府各項政策之重要資料，其內容包括歷年臺灣省政府在民政、財政、教育、建設、農林、交通、文化及社會等各方面發展，為瞭解與研究戰後臺灣不可或缺的第一手史料。 《臺灣省府委員會議檔案》：收藏省府委員會議、首長會談、省政會議及聯席會議等檔案等重要資料，相關會議檔案均為臺灣省政府之決策，是臺灣省政發展的重要資料也是歷史存真的第一手資料。 《臺灣鹽業檔案》：國史館台灣文獻館基於臺鹽實業股份有限公司留存文書檔案之珍貴及獨特性，整理長期存放於七股鹽場之「臺灣鹽業檔案資料」，整批檔案大致可區分為日治時期臺灣總督府專賣局公文類纂，戰後政府遷臺前臺灣鹽業檔案及政府遷臺後鹽業資料三大類。 《臺灣總督府及其他》：臺灣總督府為日治時期臺灣最高行政機關，其所發布之府報即等同於現今之政府公報，透過府報，可以查閱當時發布之法侓及行政命令，並包含都市計畫等各項施政。 《臺灣總督府專賣局檔案》：記錄日本殖民統治臺灣時期，有關全臺專賣事業以及經濟、產業等各方面發展的重要史料，檔案總計共12,815冊，約四百萬頁，其中有二萬多張為大於A3以上各式建築設計圖、機具圖及地籍圖等，內容極為珍貴。 ※ 如欲瀏覽全文影像，請先於該系統註冊會員帳號(免費註冊)，註冊完成後，輸入帳號密碼及驗證碼登入，即可開啟所需之全文影像檔案。",
+  "publisher": "國史館臺灣文獻館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 55,
+  "order": 146
+ },
+ {
+  "id": "DB000137769",
+  "title": "國土測繪圖資服務雲",
+  "url": "https://maps.nlsc.gov.tw/",
+  "description": "內政部國土測繪中心(以下簡稱本中心)為整合本中心臺灣通用電子地圖、國土利用現況調查成果圖、地籍圖等核心、基礎圖資供各界應用，建置「國土測繪圖資服務雲」(簡稱「圖資服務雲」，以下簡稱本服務；前身為「國土測繪圖資網路地圖服務系統」)。以全方位服務的理念，提供共通的規格與統一的圖資，供各界介接應用，讓全民共享最新的國土測繪圖資。 本服務現階段可供套疊圖資為臺灣通用電子地圖(含正射影像)、國土利用現況調查成果圖、段籍圖、地籍圖、行政區界圖、政府開放資料之各圖資及內政部營建署城鄉發展分署授權之都市計畫土地使用分區、非都市土地使用分區及金門縣政府授權的正射影像等各式圖層供套疊。 為符合開放資料(Open Data)潮流，提供管有圖資全面開放OGC WMS、WMTS(圖磚)服務，及Web Map API服務，使用者無需申請即可免費使用。開放OGC WMS及WMTS(圖磚)服務的圖資為：臺灣通用電子地圖(含正射影像)、國土利用現況調查成果圖、段籍圖、行政區界圖。各機關及民間企業可介接本服務於其網站網頁上，提供網頁地圖定位標示、瀏覽、查詢。 如機關或企業用於所在地標示或需要顯示地理位置之相關應用等Web Map API服務有以下2項： 一、 一般使用者 (嵌入網頁內靜態地圖)：適用於僅要將地圖加入網頁(如部落格)的使用者，只要在畫面上框選範圍以及新增自訂地標，本服務即自動產生超連結網址(URL)，使用者即能快速產生靜態地圖，加入部落格或是 e-mail 內使用。 二、 專業使用者(嵌入網頁內動態地圖)：適用於網頁設計者，可輕易地在其設計的網頁內加入具備放大縮小操作功能的動態地圖。程式設計人員只要在本服務畫面上點選位置以及新增自訂地標，即可由本服務自動產生超連結網址，將該超連結網址插入其網頁程式即能建置動態地圖元件，很方便、快速的提供該網站使用者正確的圖資資訊。",
+  "publisher": "內政部",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "地理"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 445,
+  "order": 147
+ },
+ {
+  "id": "DB000000507",
+  "title": "國家文化資料庫",
+  "url": "http://nrch.culture.tw",
+  "description": "《國家文化資料庫》建置計畫是配合行政院「挑戰2008─六年國家發展重點計畫」之數位台灣計畫「網路文化建設發展計畫」之下的一項基礎建設子計畫，目的是要系統性的、計畫性的進行文化藝術資源之蒐集、整理和保存，並藉由資訊科技將其數位化典藏，留下文化資源的長久記錄。亦即蒐集、調查全國之藝文資源(包括美術、音樂、舞蹈、文學、戲劇、建築、電影、古文書與老照片類等)，並進行建檔、拍攝、數位化等工作，以文字、聲音、影像及視訊方式呈現，使分散各地的藝文資源，得以透過網路，讓使用者整合性的查詢利用。",
+  "publisher": "文化部",
+  "categories": [
+   "博物館與線上展覽"
+  ],
+  "subjects": [
+   "歷史",
+   "美術",
+   "音樂",
+   "國文"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 276,
+  "order": 148
+ },
+ {
+  "id": "DB000000902",
+  "title": "國家檔案資訊網",
+  "url": "https://aa.archives.gov.tw/",
+  "description": "由國家發展委員會檔案管理局接管之國家檔案，經陸續整理、檢視目錄之編製，即公布於國家檔案資訊網(簡稱A+)，此為查找國家檔案最佳利器。",
+  "publisher": "國家發展委員會檔案管理局",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 147,
+  "order": 149
+ },
+ {
+  "id": "DB000000372",
+  "title": "國家知識產權局(PRC)政務服務平臺",
+  "url": "https://ggfw.cnipa.gov.cn/home",
+  "description": "提供中國科學院專利資訊查詢檢索功能。",
+  "publisher": "中國科學院",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "公民與社會"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 300,
+  "order": 150
+ },
+ {
+  "id": "DB000000508",
+  "title": "國家考試題庫(1992-)",
+  "url": "https://wwwq.moex.gov.tw/exam/wFrmExamQandASearch.aspx",
+  "description": "此網站由考選部所建置，提供各類國家考試考題。 民國90年以前 (含90年全部) 之試題為圖檔版；民國91年以後(含民國91年)全部及90年之部份試題則為 PDF 版。",
+  "publisher": "考選部",
+  "categories": [
+   "生涯與升學"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 147,
+  "order": 151
+ },
+ {
+  "id": "DB000000558",
+  "title": "國立公共資訊圖書館數位典藏服務網",
+  "url": "https://das.nlpi.edu.tw/cgi-bin/gs32/gsweb.cgi/login?",
+  "description": "「數位典藏服務網」係國立公共資訊圖書館對所收藏之早期資料進行數位化作業，包括舊版報紙、古文書、日治時期日文舊籍及地方文獻等四大主題(詳細收錄內容請參考數位典藏簡介之說明)。使用者可依主題瀏覽數位全文影像內容，另外也提供查詢服務，使用者可依個人需要之內容，進行關鍵字搜尋。 ※ 原「舊版報紙資訊網」已整合於「國立公共資訊圖書館數位典藏服務網」之下使用！連線至「數位典藏服務網」後，點選《舊報紙》項目即可使用。",
+  "publisher": "國立公共資訊圖書館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 184,
+  "order": 152
+ },
+ {
+  "id": "DB000000876",
+  "title": "國立公共資訊圖書館電子書服務平台",
+  "url": "http://ebook.nlpi.edu.tw/",
+  "description": "典藏近 2 萬 7,000 種、超過 25 萬冊繁體中文電子書，包括自然科學、文學、語言學習、財經管理等 16 項主題，開放全國民眾以各公共圖書館讀者身分註冊會員後使用，詳細註冊方法請參考「使用說明」。",
+  "publisher": "國立公共資訊圖書館",
+  "categories": [
+   "閱讀推薦與電子書"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 49,
+  "order": 153
+ },
+ {
+  "id": "DB000000899",
+  "title": "國立台灣文學館電子資源整合查詢系統",
+  "url": "https://crosearch.nmtl.gov.tw",
+  "description": "國立台灣文學館電子資源整合查詢系統分為館內資料庫、限館內使用與館外使用。其中館外使用包括：台灣作家作品檢索系統、日文舊籍臺灣文獻聯合目錄、日治時期期刊全文影像系統、臺南大學日文珍本數位典藏。 可館外使用之各資料庫說明如下： (1)台灣作家作品檢索系統：主要包括「台灣作家全集」、「台灣文學50家」、「年度短篇小說選」、「年度散文選」、「年度詩選」、「聯合報文學獎」、「中國時報文學獎」、「國家文藝獎文學類」之作家。 (2)日文舊籍臺灣文獻聯合影像：泛指在臺灣出版或非在臺灣出版之相關臺灣文獻資料。 考量日本將臺灣視為南進政策之前進基地，與南支南洋關係密切，亦將關於南支南洋資料作部份篩選收錄。南支南洋指稱中國華南地區、海南島以及東南亞各國。日治時期除日文臺灣資料外，尚有少量中、西文臺灣資料，一併收錄之。 資料登錄類型包括書籍、期刊、報紙、小冊子以及其他紙本文件或照片等。另考量讀者搜尋閱讀不以原件史料為唯一來源，1949年以後重新覆刻之日文舊籍亦列入資料庫內。 (3)日治時期期刊全文影像系統 典藏之日治時期期刊約三百餘種，內容包羅萬象，題材多元。日治時期總督府在臺推行新式教育，館藏《臺灣教育會雜誌》（後易名《臺灣教育》）及地方教育會會報等可了解當時教育的發展。另如《臺灣建築會誌》為「臺灣建築會」之機關刊物，為研究近代臺灣建築史的不可或缺之資料；《臺灣通信協會雜誌》（後易名《臺灣遞信協會雜誌》）為關於臺灣交通的重要刊物；《臺灣警察協會會誌》（後易名《臺灣警察時報》）則為研究日治時期警察制度及社會發展的珍貴資料，均是日治時期長期發行且具代表性的期刊。 日治時期文藝社團十分活躍，本館典藏的《銀鈴》、《臺灣新文學》、《華麗島》、《野葡萄》、《木瓜》、《にひたか》（新高）等文學期刊，均是全國碩果僅存的孤本。 此外，《臺灣地方行政》、《臺灣刑務月報》、《市街庄協會雜誌》、《臺灣の水利》、《臺灣農友會會報》及《臺灣海務協會報》等期刊，則是關於日治時期臺灣民政事務和產業發展之刊物，乃是研究日治時期臺灣社會、政治、產業不可或缺的素材。 日治時期隨著臺灣經濟發展，社會條件逐漸成熟，人民生活型態改變，市面上出現《風月報》、《臺灣藝術新報》、《趣味登山會會報》、《臺灣棋道》、《演藝とキネマ》（演藝與電影）、《旅と釣》等娛樂性期刊。《風月報》刊載通俗小說，並曾舉辦通訊選美活動，隨刊附贈選票，一時蔚為風潮；《臺灣藝術新報》則介紹音樂、電影、戲劇、舞蹈等藝界消息，附有照片、漫畫、插圖，圖文並茂，深具趣味性、娛樂性。 《南瀛佛教會會報》（後改名《南瀛佛教》、《臺灣佛教》）、《立正教報》、《圓通》及《福音と教會》等宗教類期刊，亦屬孤本資料。 (4)臺南大學日文珍本數位典藏 國立臺南大學 (下稱本校) 創立於西元1899年 (明治32年)。當時臺灣總督府為培育公學 校 (以中央或地方經費所開辦的兒童義務教育學校) 之師資，下令成立台北、台中、臺 南等三所師範學校，該校創立之初即設置圖書館，館藏包括明治、大正、昭和等時代之 圖書、地圖、辭典等出版品，內容為培育師資所應具有之所有知識，包括：歷史、文 化、政治、經濟、地理、物理、化學、文學、音樂、兒歌、美術、宗教、風俗民情等各 種書籍，揭露臺灣人民在日治時期的生活面貌。 時至今日，該校圖書館仍珍藏 6,000 餘 冊的日文舊籍，為使重要史料得以永久保存，提升經常性的使用率，解決傳統紙本資料 收藏與流通利用的衝突，因此將這批日文舊籍加以整理且數位化。",
+  "publisher": "臺灣文學館",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "國文",
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 87,
+  "order": 154
+ },
+ {
+  "id": "DB000205263",
+  "title": "國立成功大學機構典藏 = NCKU Institutional Repository",
+  "url": "https://nckur.lib.ncku.edu.tw/",
+  "description": "成功大學機構典藏致力於提供多樣化的本校學術與研究成果收藏，收錄有期刊論文、國科會研究計畫、博碩士論文等文獻。",
+  "publisher": "",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 448,
+  "order": 155
+ },
+ {
+  "id": "DB000000473",
+  "title": "國立成功大學考古題",
+  "url": "http://exam.lib.ncku.edu.tw/",
+  "description": "1. 收錄每年由本校教務處教學資訊組提供之碩士班（含在職專班）及轉學考試題，恕不提供解答。 2. 博士班、大學推薦甄試等由各系所自行承辦之考試試題並未收錄。 3. 考古題全文為PDF檔案格式，請先下載安裝Adobe Reader閱讀軟體，方能觀看全文。 ※ 如欲下載94學年度以後之轉學考考古題，請先自編號00的檔案中確認考試科目後，再行下載；至於94學年度以前的部分，則分共同科目與各系考題，如於各系考題中找不到部分科目之試題，請記得至「共同科目」項目下查找。 ※ 紙本考古試題置於總圖書館一樓特殊參考資料區，請親至本館使用，其中博士班及大學推薦甄試紙本試題自92學年度以後已無更新。",
+  "publisher": "成大圖書館",
+  "categories": [
+   "生涯與升學"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 143,
+  "order": 156
+ },
+ {
+  "id": "DB000133915",
+  "title": "國立故宮博物院古籍輿圖檢索系統",
+  "url": "https://rarebooks-maps.npm.edu.tw/index.php",
+  "description": "國立故宮博物院庋藏豐富及珍貴的清宮檔案，原為北平故宮博物院文獻館藏，大致可分為宮中檔、軍機處檔摺件與檔冊、內閣部院檔、及清代國史館暨民國清史館編纂紀志表傳等史冊之史館檔四大類，總計為約四十萬件（冊）。本資料庫依檔案形式與屬性，可以將其整併為奏摺、檔冊與大清國史人物列傳三大類。 古籍輿圖檢索系統 新版「古籍輿圖檢索系統」整合舊版「善本古籍」、「明清輿圖」等2種全文影像資料 庫，使用者無須帳號及密碼，即可線上瀏覽古籍輿圖資料及數位影像圖檔。 【善本古籍】 國立故宮博物院所藏善本古籍及佛教經典，除了承繼清宮舊藏之外，也有源自楊守敬於晚清在日本蒐採的觀海堂藏書，及民國七十四年由教育部撥交本院典藏的原國立北平圖書館善本，復增益以歷年接受各界捐贈暨購藏者。本資料庫包含院藏善本舊籍之基本條目、後設資料（Metadata）、影像連結，採「部」－「冊」－「圖」架構，按原書之卷次篇目連結影像檔，提供使用者不同欄位的查詢方式，便於檢得所需資料。 【明清輿圖】 明清輿圖類文獻，多數來自於前國立北平圖書館輿圖部特藏，外觀形態多呈現單幅形制（冊、件），另有收錄大量散存附刻於古籍書冊內的古地圖（或附屬於書冊，與古籍同貯的古地圖）；本資料庫特別精選故宮典藏明清輿圖之精粹，其內容概分天文、水路路程、名勝、寺廟、江河湖渠、行宮、其他、建築、軍務戰爭、陵墓、輿地、礦廠、鐵路等十三大類，除提供使用者由輿圖圖名、地名、年代、語文、質材、版式進行交錯查詢，亦可搭配輿圖所屬類別之樹狀圖檢索，提供讀者清晰之輿圖圖像瀏覽。",
+  "publisher": "國立故宮博物院",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史",
+   "地理"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 66,
+  "order": 157
+ },
+ {
+  "id": "DB000198550",
+  "title": "國立故宮博物院清代檔案檢索系統",
+  "url": "https://qingarchives.npm.edu.tw/",
+  "description": "國立故宮博物院庋藏豐富及珍貴的清宮檔案，原為北平故宮博物院文獻館藏，大致可分為宮中檔、軍機處檔摺件與檔冊、內閣部院檔、及清代國史館暨民國清史館編纂紀志表傳等史冊之史館檔四大類，總計為約四十萬件（冊）。本資料庫依檔案形式與屬性，可以將其整併為奏摺、檔冊與大清國史人物列傳三大類。 清代檔案檢索系統 新版「清代檔案檢索系統」整合舊版「清代宮中檔奏摺及軍機處檔摺件」、「清代文獻檔冊」、「大清國史人物列傳及史館檔傳包傳稿」等3種全文影像資料庫，使用者無須帳號及密碼，即可線上瀏覽檔案資料及數位影像圖檔。另為提供個人化服務，記錄個人檢索歷史及資料夾存取，新使用者敬請註冊帳號登入檢索利用。 【清代宮中檔及軍機處檔摺件】 本院所藏宮中檔奏摺15萬餘件，軍機處檔摺件19萬餘件。宮中檔奏摺包含康熙至宣統歷朝漢文、滿文及滿漢合璧奏摺，內容為中央及地方各省官員向皇帝稟奏報，並經由皇帝硃批或代批之奏摺，是研究清代歷史的第一手資料。軍機處檔摺件雖係宮中檔奏摺抄件，但原摺內所附呈之清單、供單、圖表等件多移夾於錄副一併歸檔，且錄副又記錄了皇帝硃批日期，故參考價值極高。 【清代文獻檔冊】 清宮檔冊可分軍機處檔冊、內閣部院檔冊、《滿文原檔》及清代與民國史館纂修清史彙抄輯錄之《史館檔》檔冊等。軍機處檔冊為清代軍機處依不同文書種類內容整理彙輯的各類檔冊；內閣部院檔冊依內容分有內閣宣承及進呈文書、官修書籍及其文件、內閣日行公事、起居注冊等；而《滿文原檔》是清內閣最早的檔案，記錄清代入關前的重要軍政事務。至於史館檔稿冊包含：滿漢文本紀、志書、年表、傳包與傳稿及長編檔等。 【大清國史人物列傳及史館檔傳包傳稿】 本資料庫是包含清代國史館及民國初年清史館所撰人物傳記資料，這批豐碩的清人傳記包括有「傳包」、「傳稿」以及《大清國史人物列傳》，共計15,000餘位清代人物傳記資料，是研究清史、清代人物事蹟重要文獻。 「傳包」是清國史館纂修人物列傳將徵集編輯的各類文件歸併成包而得名；「傳稿」則是史館人員纂修人物列傳的稿本，而《大清國史人物列傳》則是清國史館纂修完成之進呈本列傳，包括人物有：親王、功臣、宗室、大臣、貳臣、逆臣、忠義等。",
+  "publisher": "國立故宮博物院",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史",
+   "地理"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 175,
+  "order": 158
+ },
+ {
+  "id": "DB000000973",
+  "title": "國立臺灣圖書館數位典藏查詢系統",
+  "url": "https://dass.ntl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dwebmge&cache=1756085059330",
+  "description": "一、日文舊籍臺灣文獻聯合目錄 本館為整合臺灣各單位收藏之日文舊籍臺灣文獻，提供研究資源，便利讀者使用，於民國93完成建置「日文舊籍臺灣文獻聯合目錄」，提供讀者線上查詢。主要收錄民國38年以前出版之日文臺灣資料，亦於收錄部分華南和南洋資料及少量中、西文臺灣資料，目前線上可查詢4萬7,113筆資料。 二、日治時期圖書影像系統 本館於民國96年8月起進行館藏臺灣總督府圖書館典藏臺灣文獻的數位化工作。民國97年完成「日治時期圖書影像系統」並開放使用，至民國103年完成約1萬5,000本圖書，內容以日治時期臺灣出版品為主。因為臺灣總督府圖書館典藏大量臺灣資料，獨立以07開頭索書號為臺灣類，其中具代表性資料為臺灣史料稿本，語文為日文為主，部分是漢文及西文資料，提供下載PDF影像檔。 三、日治時期期刊影像系統 本館於民國96年8月起進行館藏臺灣總督府圖書館典藏臺灣文獻的數位化工作。民國97年完成「日治時期期刊影像系統」並開放使用，目前收錄期刊約320種，提供下載PDF影像檔，代表性期刊為臺灣教育會雜誌、臺灣警察協會雜誌，臺灣建築會誌等，期刊索書號皆以0705開頭，表示為臺灣地區出版的雜誌。 四、地圖資料庫 本館於民國96年8月起進行館藏臺灣總督府圖書館典藏臺灣文獻的數位化工作。民國97年完成「地圖資料庫」外掛於「日治時期期刊影像系統」並開放使用，目前共收錄1,649種圖。主要內容臺灣總督府圖書館典藏的臺灣地圖，類型概可分堡圖、地形圖、番社圖、交通圖、市區改政圖、臺灣鳥瞰圖等。尚有本館採購的西洋臺灣地圖、臺灣總督府圖書館典藏的中國、南洋及日本地圖等。 五、臺灣文獻書目解題 將本館典藏之臺灣文獻作有系統分類以編輯書目；選其重要的加以說明，讓讀者能夠瞭解，加以利用內容包括方志類、地圖類、族譜類、傳記類、語言類及公報類共19冊，所收文獻上起明鄭及其以前之早期圖籍，下迄當代之出版品；內含中文、日文與西文有關之臺灣文獻，民國96年12月完成「臺灣文獻書目解題」資料庫，建置詮釋資料675筆，可進行全文檢索，下載PDF影像檔或HTML文字檔。 六、臺灣文獻期刊論文索引 將本館典藏的中文期刊自清末到現在，有關臺灣論文著作之文獻資料，編輯成索引，供讀者查詢參考，目前收錄10萬4,806筆詮釋資料。 七、臺灣文獻資料聯合目錄 本目錄索引收錄本館、國史館灣文獻館、國立公共資訊圖書館、中央研究院、臺北市文獻館等36個單位，內容包括臺灣中文、日文、西文圖書文獻資料，凡古文書、古契、先賢遺著、士紳之文集、詩集、日記、帳簿、族譜、筆記、祭祀公業資料、寺廟教堂資料、產業組合檔案、口碑、口述史料、學術著作、政府單位出版品及博碩士論文等,本目錄另有書本式印行。 八、臺灣資料剪報系統 自民國77年起，將每日蒐集20餘種中文報紙剪輯有關臺灣論著文獻資料，建置5萬1,543筆詮釋資料，可供下載tiff影像檔。 九、臺灣政經資料庫 本館典藏臺灣省行政長官公署至臺灣省政府時期等機關單位的出版品，其中以戰後至民國50年期間之政治、經濟相關資料深具研究價值。為利於使用及保存原件，於民國103年進行該批圖書數位化，並結合日治時期有關政治、經濟中已數位化的臺灣資料，建置「臺灣政經資料庫」提供民眾線上查閱。目前資料庫收錄4,205(含日治時期3,587)筆詮釋資料。 十、臺灣學通訊資料庫 《臺灣學通訊》為推廣臺灣學研究於民國96年6月創刊，第1~14期為報紙型半月刊，第15~72期為雜誌型月刊，自第73期（民國102年1月）起改為雜誌型雙月刊，以「主題」方式呈現，每單月中旬出刊，目前資料庫收錄1,184筆詮釋資料。 十一、臺灣寫真帖資料庫 本館「臺灣寫真帖」資料庫由資深館員建置，歷時10年完成。「臺灣寫真帖」資料庫共計1萬0,215筆詮釋資料，內含本館珍藏寫真帖共82冊(其中的多數為海內外孤本)，附有中文翻譯說明，方便讀者查詢利用。",
+  "publisher": "國立臺灣圖書館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 5,
+  "order": 159
+ },
+ {
+  "id": "DB000000433",
+  "title": "地名資訊服務網",
+  "url": "https://gn.moi.gov.tw/Geonames/",
+  "description": "《地名資訊服務網》蒐集台灣地區各縣市地名資料建置而成，提供地名查詢、地名譯寫與地名應用等服務。地名查詢可查詢別名、地名意義、歷史沿革等關鍵字、縣市、鄉鎮、村里、類別等，圖資部分提供：1904年日治臺灣堡圖、1921年日治臺灣堡圖、1921年日治地形圖、1899年日治臺灣全圖、1924年日治臺灣全圖、1939年日治臺灣全圖、1944年美軍地形圖等。",
+  "publisher": "內政部",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "地理",
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 10,
+  "order": 160
+ },
+ {
+  "id": "DB000000884",
+  "title": "地質資料整合查詢",
+  "url": "https://geomap.gsmma.gov.tw/gsb108-1/",
+  "description": "地質資料整合查詢提供豐富的資料，如：一百萬分之一臺灣地質圖數值檔-臺灣地區陸上砂石資源分佈與品質圖、一百萬分之一臺灣區域地質圖數值檔-臺灣、一般地質災害、九二一地震車籠埔斷層沿線地表破裂位置圖、二十五萬分之一臺灣區域地質圖數值檔-臺灣、十萬分之一臺灣地質圖數值檔-屏東平原水文地質圖、十萬分之一臺灣區域地質圖數值檔-海岸山脈等。可進行快速查詢、圖層控制、與地圖定位等功能，另外，可點選門牌地址定位功能，查詢自家環境地質狀況。",
+  "publisher": "經濟部中央地質調查研究所",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "地球科學",
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 378,
+  "order": 161
+ },
+ {
+  "id": "DB000000362",
+  "title": "大學數字圖書館國際合作計劃 CADAL",
+  "url": "http://cadal.edu.cn/index/home",
+  "description": "《大學數字圖書館國際合作計劃》(China Academic Digital Associative Library, CADAL)前身為高等學校中英文圖書數位化國際合作計畫(China-America Digital Academic Library, CADAL)，是由大陸國家計委、教育部、財政部於2002年9月時，將其列入公共服務體系建設的重要組成部分，並由浙江大學聯合國內外的高等院校、科研機構共同承擔。CADAL專案建設的總體目標是：構建擁有多學科、多類型、多語種海量數位資源的，由國內外圖書館、學術組織、學科專業人員廣泛參與建設與服務的學術數位圖書館，成為國家創新體系資訊基礎設施之一。此計劃是由大陸國家投資建設，並同時得到「中美合作百萬冊書數字圖書館計劃(China-US Million Book Digital Library Project)」美國合作方出資的軟硬體系統支持，故英文名稱為China-America Digital Academic Library，簡稱CADAL。",
+  "publisher": "大陸浙江大學",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 27,
+  "order": 162
+ },
+ {
+  "id": "DB000213089",
+  "title": "學位論文品質輔助系統 (國家圖書館) = WriteAid Similarity Scanner (NCL)",
+  "url": "https://wass.ncl.edu.tw/index.html",
+  "description": "(轉錄) 教育部於民國111年委託國家圖書館及國立臺灣師範大學技術團隊，以「臺灣博碩士論文知識加值系統」之資料為基礎，開發「學位論文相似檢測輔助系統」，提供全國大學校院使用。學位論文相似檢測輔助系統係為支援學位論文寫作目的所建置，旨在提供全國各大學校院研究生論文相似檢測輔助工具，協助及促進研究生自主學習學位論文學術寫作技巧，並主動確認學位論文之原創性；系統非以商業、營利為目的，故使用對象僅限於全國各大學校院正在撰寫學位論文，且尚未於臺灣博碩士論文知識加值系統建檔之應屆畢業碩博士生。",
+  "publisher": "國家圖書館",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 403,
+  "order": 163
+ },
+ {
+  "id": "DB000000553",
+  "title": "學苑汲古：高校古文獻資源庫",
+  "url": "http://rbsc.calis.edu.cn/aopac/index.htm",
+  "description": "《學苑汲古：高校古文獻資源庫》於2004年由北京大學圖書館牽頭建置，聯合中國大陸主要高等院校收錄古籍典藏書目資料，目前已有北京大學、北京師範大學、南京大學、四川大學、吉林大學、華東師大、香港中文大學等7所大圖書館加入。 資料庫內容包括參與學校圖書館之館藏古文獻資源的書目記錄及部分書影或全文影像，影像連結有權限限制。初期只有各館館藏善本古籍和普通古籍，往後預計會再增加金石拓片、輿圖等多種古文獻資源。檢索時需使用中文繁體字或漢語拼音進行檢索。",
+  "publisher": "CALIS",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "國文",
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 17,
+  "order": 164
+ },
+ {
+  "id": "DB000000480",
+  "title": "宋詞",
+  "url": "http://cdnetb.lib.ncku.edu.tw/ttscgi/ttsweb-all.exe",
+  "description": "全宋詞係根據唐圭璋編輯本作底本，加以編輯，並加原書頁碼，以供核對。本資料庫以關鍵字可檢索宋詞詞牌、作者、全文。 詞的起源雖早，但詞的發展高峰則是在宋代，因此後人便把詞看作是宋代最有代表性的文學，與唐代詩歌並列，而有了所謂“唐詩、宋詞”的說法。 詞是一種音樂文學，它的產生、發展，以及創作、流傳都與音樂有直接關係。詞所配合的音樂是所謂燕樂，又叫宴樂，其主要成分是北周和隋以來由西域胡樂與民間里巷之曲相融而成的一種新型音樂，主要用於娛樂和宴會的演奏，隋代已開始流行。而配合燕樂的詞的起源，也就可以上溯到隋代。 宋人王灼《碧雞漫志》卷一說：“蓋隋以來，今之所謂曲子者漸興，至唐稍盛。”詞最初主要流行於民間，《敦煌曲子詞集》收錄的一百六十多首作品，大多是從盛唐到唐末五代的民間歌曲。大約到中唐時期，詩人張志和、韋應物、白居易、劉禹錫等人開始寫詞，把這一文體引入了文壇。到晚唐五代時期，文人詞有了很大的發展，晚唐詞人溫庭筠以及以他為代表的“花間”派詞人和以李煜、馮延巳為代表的南唐詞人的創作，都為詞體的成熟和基本抒情風格的建立作出了重要貢獻。詞終於在詩之外別樹一幟，成為中國古代最為突出的文學體裁之一。進入宋代，詞的創作逐步蔚為大觀，產生了大批成就突出的詞人，名篇佳作層出不窮，並出現了各種風格、流派。 《全宋詞》共收錄流傳到今天的詞作一千三百三十多家將近兩萬首，從這一數字可以推想當時創作的盛況。 ※ 使用說明：輸入檢索字詞後，請點選「執行檢索」，出現檢索結果後，再點選「顯示結果」。",
+  "publisher": "成大圖書館",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "國文"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 11,
+  "order": 165
+ },
+ {
+  "id": "DB000000489",
+  "title": "政府公報資訊網",
+  "url": "https://gaz.ncl.edu.tw/",
+  "description": "《政府公報資訊網》收錄民國元年以來，我國中央及地方政府所出版之六十餘種公報，其中行政院各部會共18種公報，已於民國94年1月整合為《行政院公報》。 此資訊網除首頁提供「最新出版公報」的即時訊息外，並提供「簡易查詢」、「一般查詢」、「進階查詢」及「瀏覽」四種方式來檢索及瀏覽所需之資料。此外，系統也提供電子全文檔案，使用者除可線上閱讀電子全文外，也可執行列印、下載等功能。 此系統所收錄之全文為\"PDF\"格式，請先下載安裝Adobe Reader軟體，方能觀看PDF全文。",
+  "publisher": "國家圖書館",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 293,
+  "order": 166
+ },
+ {
+  "id": "DB000000490",
+  "title": "政府研究資訊系統(GRB)",
+  "url": "https://www.grb.gov.tw/",
+  "description": "政府研究資訊系統 (Government Research Bulletin，簡稱 GRB)，原名「政府研究計畫基本資料檔」，因早期只有研究計畫基本資料，但 GRB 發展至今，建檔及服務內容皆已大幅擴充，故將中文名稱改為「政府研究資訊系統」，以反映現有服務功能。 系統功能： 1.計畫管理：各機關可尋找及列印歷年主管之計畫。 2.資料線上填寫及更新：自 89 年度起各部會署委託研究計畫之基本資料、期中報告摘要及研究報告摘要資料，皆由計畫執行人員自行利用此系統上網填寫，並由計畫主管機關上網審核。 3.資料庫查詢：研究計畫及研究報告等二個資料庫皆免費提供查詢。 4.全文線上瀏覽及下載：此系統所提供之全文電子檔包含 tiff 檔及 pdf 檔二種格式，免費提供線上瀏覽、列印及下載服務；另提供全文報告縮片訊息，使用者可向國科會科資中心申請複製微片或複印成紙本式資料。 5.線上及批次統計分析：使用者可自行下條件後選擇統計項目及顯示樣式，另有數十種統計報表供主管機關使用。",
+  "publisher": "國研院科資中心",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 63,
+  "order": 167
+ },
+ {
+  "id": "DB000000491",
+  "title": "政府統計資訊網",
+  "url": "https://stat.ncl.edu.tw/",
+  "description": "國家圖書館藏有豐富的政府統計及調查報告書刊，為便利讀者運用極具參考價值的政府統計資源，於民國87年初著手建置政府統計資料庫。迄目前為止，「政府統計資訊網」已整合政府機關構近650種不同類型統計資料，累計提供之數位內容超過246萬餘頁影像及68萬筆詮釋資料，並持續增加中。民國109年上線之新版「政府統計資訊網」在既有數位內容基礎上，繼續強化分類導覽及資訊視覺化等加值服務，期能提高檢索閱覽數位內容之便利性，並擴大服務能量，提升數位服務品質。 收錄範圍：以中央政府及地方政府出版自民國35年迄今的的統計年刊、專論及調查報告為主。 收錄機關：立法院、司法院、考試院、監察院、行政院暨行政院所屬各部會及各縣市地方政府。 收錄主題：包含縣市統計、人口、人力資源、就業及收入、兒童青少年、司法警政、教育文化、產業普查、土地勞工、交通觀光、貿易財經、環保及水資源、糧食食品、醫藥衛生...等20餘種統計分類。本網站並提供兩種模式之統計分類專區，以利分層瀏覽各類統計詳目內容。 (一)研究人員模式: 以政府施政分類架構為基礎，提供衛生福利勞動、財政經濟、農業環保、教育文化、交通建設、法務、內政及國土、綜合行政等八大分類專區。 (二)一般民眾模式:提供生活、人口與勞動、經濟、教育文化、法務、環境資源、地方行政等七大分類專區。 本網站提供簡易及進階查詢檢索；配合依筆畫、依出版機關、依出版日期等刊名瀏覽模式，導引民眾查詢統計刊物名稱；再經由點選刊名，便能連結至該統計書刊之刊物指南，呈現我國政府統計調查書刊出版現況及官方網站之電子資訊。同時，新版網站亦提供統計通報、統計指標及統計分類，以利呈獻最新統計數字資訊及資訊加值導覽服務，引導使用者查找所欲查詢之統計資料。另提供政府統計名詞解釋以及統計資源相關網頁連結，以拓展民眾近用政府統計資訊之管道。 以PDF格式影像提供服務，請先下載安裝Adobe Reader軟體，方能觀看PDF全文。",
+  "publisher": "國家圖書館",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "數學",
+   "公民與社會",
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 147,
+  "order": 168
+ },
+ {
+  "id": "DB000000784",
+  "title": "政策研究指標資料庫 PRIDE",
+  "url": "https://pride.stpi.narl.org.tw/",
+  "description": "政策研究指標資料庫 (Policy Research Indicators DatabasE, PRIDE )是由國家實驗研究院科技政策與資訊中心建置的數值型資料庫，免費提供註冊使用。 本資料庫以服務科技政策研究為導向，蒐集多方來源之指標數值資料，指標主要來源有Eurostat, OECD, WEF, World Bank等，以提供研究人員one-stop service的便捷服務。 資料庫核心內容有各國人口、經濟、財政、教育、能源、環境、勞工、政府效能、生活品質、科學技術等調查統計或排名資料。 本系統服務功能主要分為：指標清單、圖表檢視、個人化繪圖及競爭力資料共四部分。指標清單：提供研究人員查詢與批次下載指標原始excel檔之功能；圖表檢視：提供快速的圖形繪製功能，如折線圖、圓餅圖、散點圖、雙層圓餅圖、雷達圖、雙縱軸圖、三縱軸圖、泡泡圖等；個人化繪圖區：協助研究人員將個人調查、蒐集所得之數值進行圖表之繪製；競爭力資料：整理WEF每年出版之The Global Competitiveness Report中各國競爭力排名與台灣之競爭力分析，以檔案方式提供資料下載。 PRIDE將繁雜的數據藉由圖形的呈現，讓數據更容易解讀，除可比較各國家指標間之發展趨勢、分析指標間之相關性及總體表現以豐富研究人員之研究外，同時協助研究人員新議題的發想及提供全新的研究途徑。",
+  "publisher": "科技政策研究與資訊中心",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 319,
+  "order": 169
+ },
+ {
+  "id": "DB000000969",
+  "title": "故宮Open Data",
+  "url": "https://theme.npm.edu.tw/opendata/",
+  "description": "國立故宮博物院為提升政府資料開放品質、促進故宮資料在教學、個人賞析及營利使用之傳播，特別自106年起更新下載專區之「文物圖像下載」及「精選圖像下載」，所有圖像民眾無需申請，不限用途，不用付費，可直接下載使用，歡迎各界多加利用。",
+  "publisher": "國立故宮博物院",
+  "categories": [
+   "博物館與線上展覽"
+  ],
+  "subjects": [
+   "美術",
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "國中",
+   "高中",
+   "大學"
+  ],
+  "clicks": 279,
+  "order": 170
+ },
+ {
+  "id": "DB000133916",
+  "title": "故宮典藏資料檢索系統：書畫、器物、織品",
+  "url": "https://digitalarchive.npm.gov.tw/",
+  "description": "結合原「器物典藏資料檢索系統」與「書畫典藏資料檢索系統」",
+  "publisher": "國立故宮博物院",
+  "categories": [
+   "博物館與線上展覽"
+  ],
+  "subjects": [
+   "美術",
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "國中",
+   "大學"
+  ],
+  "clicks": 314,
+  "order": 171
+ },
+ {
+  "id": "DB000000513",
+  "title": "教育部人權教育資訊網",
+  "url": "http://hre.pro.edu.tw/",
+  "description": "此網站由教育部所建置，內容包含人權入門、人權文獻資料庫、人權影音資料庫、人權圖書館、生活議題、人權專家資料庫、人權網站資料庫等與人權教育相關之資料。",
+  "publisher": "教育部",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "公民與社會",
+   "生命教育"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "國中",
+   "大學"
+  ],
+  "clicks": 41,
+  "order": 172
+ },
+ {
+  "id": "DB000000523",
+  "title": "敦煌壁畫",
+  "url": "http://cdnetb.lib.ncku.edu.tw/ttscgi/ttsweb-all.exe",
+  "description": "敦煌漢文寫本目錄乃據台灣（國家圖書館，簡稱 T）、英（劉名恕、黃永武、榮新江編目，簡稱 S）、法（王重民、黃永武編目，簡稱 P）、俄（孟烈夫、黃永武編目，簡稱 XD）、北京（黃永武編目，簡稱 P 及北新）及大陸各地（凡分敦補、滬、永登、津、敦研、敦博、津藝、北大、蘇氏、味青、敦補，簡稱 WB）、日本（凡分藤井、招提、法隆、東、大東、天理、九州、大谷、井、赤井、橘氏、龍谷、谷）等圖書館收藏之敦煌卷子編目，經王三慶教授匯聚再加修正後重新編輯而成。 敦煌研究論著目錄據鄭阿財教授編輯之目錄加以改編，以供檢索參考。敦煌類書乃王三慶教授根據敦煌寫卷整理迻錄，並編次條目。 “敦，大也；煌，盛也。”敦煌是佛教東傳的通道和門戶，也是河西地區的佛教中心。有一大批佛學高僧在敦煌講經說法，河西各地的佛門弟子多來此地研修習學。前秦建元二年（西元366年），樂僔和尚在三危山下的大泉河谷首開石窟供佛，莫高窟從此誕生了。之後，開窟造佛之舉延續了千百年，創造了聞名於世的敦煌藝術。 北魏滅了北涼，統一了北方，佔據了河西。這個時期，敦煌比較安定，百姓安居樂業，佛教隨之盛行。現莫高窟存留有北魏開鑿的洞窟13個。 隋文帝崇信佛教，曾幾次下詔各州建造舍利塔，詔命遠至敦煌。在最高統治者的提倡下，隋代雖存在了短短的37年，但在莫高窟開窟有77個，且規模宏大，壁畫和彩塑技藝精湛，同時並存著南北兩種截然不同的藝術風格。 唐代莫高窟開窟數量多達1000餘窟，保存到現在的有232窟。壁畫和塑像都達到異常高的藝術水平。安史之亂以後，吐蕃統治河西長達60多年，莫高窟中唐洞窟中保存了大量吐蕃時期的壁畫藝術以及吐蕃文經卷。 元朝統治者也崇信佛教，莫高窟的開鑿得以延續，開鑿洞窟約10個。自元朝以後，千里河西才逐漸失去了昔日的光彩。 敦煌文獻中保存了佛經、藏外佚經、寺院文書、歷史、地理著作、公私文書、大量古典文學資料（包括《詩經》、《尚書》、《論語》等儒家經典及詩、歌辭、變文、小說、俗賦等）、科技史料音樂、舞蹈資料等等。豐富的內涵和珍貴價值，不僅受到中國學者的極大重視，而且吸引了世界許多國家的眾多學者競相致力於對它的研究，遂形成了一門國際顯學--敦煌學，在國際人文社會科學領域內大放異彩。 1.本檢索系統乃為全文檢索。 2.輸入檢索字詞後，請點選「執行檢索」，出現檢索結果後，再點選「顯示結果」。",
+  "publisher": "成大圖書館",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 22,
+  "order": 173
+ },
+ {
+  "id": "DB000000521",
+  "title": "敦煌目錄",
+  "url": "http://cdnetb.lib.ncku.edu.tw/ttscgi/ttsweb-all.exe",
+  "description": "敦煌漢文寫本目錄乃據台灣（國家圖書館，簡稱 T）、英（劉名恕、黃永武、榮新江編目，簡稱 S）、法（王重民、黃永武編目，簡稱 P）、俄（孟烈夫、黃永武編目，簡稱 XD）、北京（黃永武編目，簡稱 P 及北新）及大陸各地（凡分敦補、滬、永登、津、敦研、敦博、津藝、北大、蘇氏、味青、敦補，簡稱 WB）、日本（凡分藤井、招提、法隆、東、大東、天理、九州、大谷、井、赤井、橘氏、龍谷、谷）等圖書館收藏之敦煌卷子編目，經王三慶教授匯聚再加修正後重新編輯而成。 敦煌研究論著目錄據鄭阿財教授編輯之目錄加以改編，以供檢索參考。敦煌類書乃王三慶教授根據敦煌寫卷整理迻錄，並編次條目。 “敦，大也；煌，盛也。”敦煌是佛教東傳的通道和門戶，也是河西地區的佛教中心。有一大批佛學高僧在敦煌講經說法，河西各地的佛門弟子多來此地研修習學。前秦建元二年（西元366年），樂僔和尚在三危山下的大泉河谷首開石窟供佛，莫高窟從此誕生了。之後，開窟造佛之舉延續了千百年，創造了聞名於世的敦煌藝術。 北魏滅了北涼，統一了北方，佔據了河西。這個時期，敦煌比較安定，百姓安居樂業，佛教隨之盛行。現莫高窟存留有北魏開鑿的洞窟13個。 隋文帝崇信佛教，曾幾次下詔各州建造舍利塔，詔命遠至敦煌。在最高統治者的提倡下，隋代雖存在了短短的37年，但在莫高窟開窟有77個，且規模宏大，壁畫和彩塑技藝精湛，同時並存著南北兩種截然不同的藝術風格。 唐代莫高窟開窟數量多達1000餘窟，保存到現在的有232窟。壁畫和塑像都達到異常高的藝術水平。安史之亂以後，吐蕃統治河西長達60多年，莫高窟中唐洞窟中保存了大量吐蕃時期的壁畫藝術以及吐蕃文經卷。 元朝統治者也崇信佛教，莫高窟的開鑿得以延續，開鑿洞窟約10個。自元朝以後，千里河西才逐漸失去了昔日的光彩。 敦煌文獻中保存了佛經、藏外佚經、寺院文書、歷史、地理著作、公私文書、大量古典文學資料（包括《詩經》、《尚書》、《論語》等儒家經典及詩、歌辭、變文、小說、俗賦等）、科技史料音樂、舞蹈資料等等。豐富的內涵和珍貴價值，不僅受到中國學者的極大重視，而且吸引了世界許多國家的眾多學者競相致力於對它的研究，遂形成了一門國際顯學--敦煌學，在國際人文社會科學領域內大放異彩。 1.本檢索系統乃為全文檢索。 2.輸入檢索字詞後，請點選「執行檢索」，出現檢索結果後，再點選「顯示結果」。 3.進入「顯示詳目」後，可點選「影像」PDF 檔觀看影像資料。",
+  "publisher": "成大圖書館",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 83,
+  "order": 174
+ },
+ {
+  "id": "DB000000522",
+  "title": "敦煌研究文獻",
+  "url": "http://cdnetb.lib.ncku.edu.tw/ttscgi/ttsweb-all.exe",
+  "description": "敦煌漢文寫本目錄乃據台灣（國家圖書館，簡稱 T）、英（劉名恕、黃永武、榮新江編目，簡稱 S）、法（王重民、黃永武編目，簡稱 P）、俄（孟烈夫、黃永武編目，簡稱 XD）、北京（黃永武編目，簡稱 P 及北新）及大陸各地（凡分敦補、滬、永登、津、敦研、敦博、津藝、北大、蘇氏、味青、敦補，簡稱 WB）、日本（凡分藤井、招提、法隆、東、大東、天理、九州、大谷、井、赤井、橘氏、龍谷、谷）等圖書館收藏之敦煌卷子編目，經王三慶教授匯聚再加修正後重新編輯而成。敦煌研究論著目錄據鄭阿財教授編輯之目錄加以改編，以供檢索參考。敦煌類書乃王三慶教授根據敦煌寫卷整理迻錄，並編次條目。 “敦，大也；煌，盛也。”敦煌是佛教東傳的通道和門戶，也是河西地區的佛教中心。有一大批佛學高僧在敦煌講經說法，河西各地的佛門弟子多來此地研修習學。前秦建元二年（西元366年），樂僔和尚在三危山下的大泉河谷首開石窟供佛，莫高窟從此誕生了。之後，開窟造佛之舉延續了千百年，創造了聞名於世的敦煌藝術。 北魏滅了北涼，統一了北方，佔據了河西。這個時期，敦煌比較安定，百姓安居樂業，佛教隨之盛行。現莫高窟存留有北魏開鑿的洞窟13個。 隋文帝崇信佛教，曾幾次下詔各州建造舍利塔，詔命遠至敦煌。在最高統治者的提倡下，隋代雖存在了短短的37年，但在莫高窟開窟有77個，且規模宏大，壁畫和彩塑技藝精湛，同時並存著南北兩種截然不同的藝術風格。 唐代莫高窟開窟數量多達1000餘窟，保存到現在的有232窟。壁畫和塑像都達到異常高的藝術水平。安史之亂以後，吐蕃統治河西長達60多年，莫高窟中唐洞窟中保存了大量吐蕃時期的壁畫藝術以及吐蕃文經卷。 元朝統治者也崇信佛教，莫高窟的開鑿得以延續，開鑿洞窟約10個。自元朝以後，千里河西才逐漸失去了昔日的光彩。 敦煌文獻中保存了佛經、藏外佚經、寺院文書、歷史、地理著作、公私文書、大量古典文學資料（包括《詩經》、《尚書》、《論語》等儒家經典及詩、歌辭、變文、小說、俗賦等）、科技史料音樂、舞蹈資料等等。豐富的內涵和珍貴價值，不僅受到中國學者的極大重視，而且吸引了世界許多國家的眾多學者競相致力於對它的研究，遂形成了一門國際顯學--敦煌學，在國際人文社會科學領域內大放異彩。 1.本檢索系統乃為全文檢索。 2.輸入檢索字詞後，請點選「執行檢索」，出現檢索結果後，再點選「顯示結果」。",
+  "publisher": "成大圖書館",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 39,
+  "order": 175
+ },
+ {
+  "id": "DB000000394",
+  "title": "日文舊籍臺灣文獻聯合目錄",
+  "url": "https://jobtl.ntl.edu.tw/cgi-bin/gs/wgsweb.cgi?o=dccw",
+  "description": "《日文舊籍臺灣文獻聯合目錄》收錄民國三十八年以前之日文舊籍台灣文獻，內容包括國立台灣圖書館、中研院文哲所圖書館、中研院民社所圖書館、中研院地科所圖書館、中研院社科所圖書館、中研院近史所圖書館、中研院傅斯年圖書館、中研院經濟所圖書館、中研院臺史所圖書館、中研院語言所圖書館、中研院歐美所圖書館、台大法學圖書館、台大圖書館、台北市文獻委員會、台南市立圖書館、台灣文獻館、台灣史料中心、東海大學圖書館、政大圖書館、師範大學歷史系、國立臺中圖書館、國家圖書館、淡江大學圖書館、新竹縣文化局等單位之館藏目錄日文舊籍資料。",
+  "publisher": "國立臺灣圖書館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 239,
+  "order": 176
+ },
+ {
+  "id": "DB000000395",
+  "title": "日本古典籍総合目録",
+  "url": "http://base1.nijl.ac.jp/infolib/meta_pub/G0001401KTG",
+  "description": "《日本古典籍総合目録》為日本國文學研究資料館(National Institute of Japanese Literature)所建置，提供查詢日本古典書籍之書目資料以及各書的實際典藏地，是日本古籍之總目錄的資料庫。日本國文學研究資料館已有收錄微縮資料版／電子版之古籍，在目錄中亦加以註記。本資料庫收錄含國文學研究資料館已收有全文資料之著作約454,000 件、著者約67,000筆、僅有書目資料者約437,000筆。",
+  "publisher": "National Institute of Japanese Literature",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "日文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 122,
+  "order": 177
+ },
+ {
+  "id": "DB000000396",
+  "title": "日本所藏中文古籍數據庫(全国漢籍データベース)",
+  "url": "http://kanji.zinbun.kyoto-u.ac.jp/kanseki?detail",
+  "description": "《日本所藏中文古籍數據庫》於2001年由京都大學人文科學研究所附屬漢字情報研究中心開始建置，收錄日本國內存藏中國古籍書目資料，截至2008年5月，已收錄日本55所圖書館單位中國古籍書目資料近75萬筆，卷端書影1萬餘幅。 資料庫檢索方式分為「簡單檢索」及「詳細檢索」，兩種檢索方式皆可以『繁體中文』輸入查詢。前者是輸入關鍵字來查詢；後者則提供書名、著者名、刊年、出版者、子目、keyword、所藏機關等7種查詢欄位。",
+  "publisher": "日本全国漢籍データベース",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "日文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 34,
+  "order": 178
+ },
+ {
+  "id": "DB000000402",
+  "title": "日本政府統計の総合窓口(e-Stat)",
+  "url": "http://www.e-stat.go.jp/",
+  "description": "《日本政府統計の総合窓口(e-Stat)》由日本「独立行政法人 統計センター」所維護，為日本政府各部門組織統計資料的整合入口網站，包含來自日本30餘種各級省廳政府單位、17種屬性的統計資料供查詢，並提供日本統計年鑑、日本の統計、世界の統計、日本の長期統計系列、総合統計データ月報、ポケット統計情報、Statistical Handbook of Japan等七種日本統計局出版品線上版全文連結。",
+  "publisher": "日本総務省統計局",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "地理"
+  ],
+  "languages": [
+   "日文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 174,
+  "order": 179
+ },
+ {
+  "id": "DB000000397",
+  "title": "日本法令索引",
+  "url": "http://hourei.ndl.go.jp/SearchSys/",
+  "description": "《日本法令索引》為日本國立國會圖書館所建置，內容為現行法令與明治19年2月公文式施行以後所公布的法令之資料索引檢索系統，亦可檢索昭和22年第1回國會之後所提出的法律案、條約承認案。",
+  "publisher": "日本國立國會圖書館",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "公民與社會"
+  ],
+  "languages": [
+   "日文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 318,
+  "order": 180
+ },
+ {
+  "id": "DB000000398",
+  "title": "日本法令索引〔明治前期編〕",
+  "url": "http://dajokan.ndl.go.jp/SearchSys/index.pl",
+  "description": "《日本法令索引〔明治前期編〕》為自慶應3年10月大政奉還起至明治19年2月公文式施行為止的期間所制定的法令之資料索引檢索系統。",
+  "publisher": "日本國立國會圖書館",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "公民與社會"
+  ],
+  "languages": [
+   "日文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 56,
+  "order": 181
+ },
+ {
+  "id": "DB000000399",
+  "title": "日本法院判決檢索系統",
+  "url": "https://www.courts.go.jp/app/hanrei_jp/search1",
+  "description": "《日本法院判決檢索系統》為日本裁判所(Courts in Japan)所製作的全文資料庫，收錄範圍從1947年以後開始的日本各法院判例內容，使用者除可由最高、高等、下級裁判所與行政、勞工、智慧財產權相關案件的類別來檢索外，亦可以跨類別檢索。除此之外，並提供最近三個月內與最高和下級裁判所與最近一個月與智慧財產權相關案件判例的瀏覽。",
+  "publisher": "Supreme Court of Japan",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "公民與社會"
+  ],
+  "languages": [
+   "日文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 281,
+  "order": 182
+ },
+ {
+  "id": "DB000000403",
+  "title": "日本經濟產業省特許廳(Japan Patent Office)",
+  "url": "http://www.jpo.go.jp/",
+  "description": "",
+  "publisher": "Japan Patent office",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "公民與社會"
+  ],
+  "languages": [
+   "日文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 215,
+  "order": 183
+ },
+ {
+  "id": "DB000000404",
+  "title": "日治時期台灣研究古籍資料庫",
+  "url": "https://rarebooks.ith.sinica.edu.tw:8443/sinicafrsFront99/index.htm",
+  "description": "在戰亂及政權交替中，日治時期官方及坊間刊行的各種出版品面臨了毀損與保存不易等問題。為深化臺灣史研究，中央研究院臺灣史研究所透過研究人員薦購與各界人士贈送，積極徵集1950年以前出版的舊籍。且基於提升日治舊籍使用率，改善圖書典藏品質，於民國88年(1999)與臺灣分館協議合作典藏。由臺史所將「臺灣總督府圖書館」、「南方資料館」及臺灣省圖書館購藏帝大教授藏書，運至中研院典藏、整編與開放閱覽。民國93年(2004)臺史所參與數位典藏國家型科技計畫，將前述珍貴歷史文獻史料陸續數位典藏及建置「日治時期台灣研究古籍資料庫」，並於民國94年(2005)對外開放使用。 開放方式：線上目錄全面開放，影像則需申請帳號方可瀏覽(僅供本國教育、學術研究單位或政府機關所屬人員申請)。 ※ 資料庫僅供學術研究之用。 ※ 申請表中的「電子郵件」欄位，請填入國內政府機構或學術單位所屬之電子信箱帳號(結尾為gov.tw或edu.tw之e-mail帳號)。",
+  "publisher": "中央研究院台灣史研究所",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 416,
+  "order": 184
+ },
+ {
+  "id": "DB000000819",
+  "title": "日治法院檔案資料庫",
+  "url": "http://tccra.lib.ntu.edu.tw/tccra_develop/",
+  "description": "日治法院檔案資料庫主要收錄內容為臺北、新竹、臺中、嘉義等四個地方法院所典藏的日治時期各類司法文書，包括民刑事判決原本、民刑事案件登記簿、非訟事件以及強制執行事件等卷宗、公證書原本、有關法人等的各種登記簿、行政卷宗等，此外尚有少量由臺灣高等法院、高雄和花蓮地方法院所典藏的日治時期司法文書。上述檔案所涉時間始自1895年，迄於1945年，完整地呈現出日治五十年臺灣法院之運作實況。",
+  "publisher": "國立台灣大學圖書館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 401,
+  "order": 185
+ },
+ {
+  "id": "DB000000524",
+  "title": "景氣指標查詢系統",
+  "url": "https://index.ndc.gov.tw/n/zh_tw#/",
+  "description": "「景氣指標查詢系統」係由行政院經濟建設委員會開發完成，提供景氣指標及其構成項目、景氣燈號，以及產業調查等，共計約四十五項經濟指標約四十年的時間數據，並可於網站上直接進行運算及繪圖分析。 進入本系統網頁，共有三部份可供查詢： 1.景氣指標查詢 2.指標構成項目及產業調查查詢 3.製造業景氣預期查詢",
+  "publisher": "行政院經濟建設委員會",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "公民與社會",
+   "數學"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 103,
+  "order": 186
+ },
+ {
+  "id": "DB000143747",
+  "title": "智慧型全臺詩知識庫",
+  "url": "https://db.nmtl.gov.tw/site5/index",
+  "description": "關於全臺詩 2001年起，國立臺灣文學館(以下簡稱本館)委託臺灣古典詩研究領域的學者進行「《全臺詩》蒐集、整理、編校、出版計畫」。整理、編校從鄭氏、清領至日治(1661-1945)各階段臺灣古典詩作品， 採取「以人繫詩」的方式呈現。2004年起陸續出版紙本，至2017年為止，共出版50冊《全臺詩》，計800多位詩人，1,000餘萬字，目前蒐集編校出版的工作仍持續進行。為了便利民眾使用，本館同步於紙本出版後的第二年(2005)委託資訊領域的學者建置「智慧型全臺詩知識庫」，其中包括「詩作檢索」、「詩人檢索」、「詩社檢索」三部份。十年後的今天，審視原有的資料庫功能已不敷所需，因此於2016年邀請熟悉全臺詩的人文研究學者與資訊領域學者，共同執行科技部三年期計畫：「數位全臺詩─知識庫開發與人文數位工具應用對臺灣古典詩主題研究的加值與創新」，針對舊有的資料庫進行全面性的改革，因而有本資料庫的建置。 「數位全臺詩資料庫」主要分為：資料檢索(含詩人、詩作、詩社三大類的檢索)、分類檢索(物件、娛樂的主題分類檢索)、GIS資訊(含詩社、詩人、事件的地理標示)以及分類統計(計算物件比例)，再加上整合查詢，共有五大功能。除了原有的資料搜尋外，又新增「詩人關係圖」、「詩人行跡圖」、「詩社及相關活動地理分佈圖」等功能，讓詩人的生平、活動、詩作得以更立體地呈現。目前資料庫仍在建置中，後續將會增補更新資料，也會讓資料庫運作達到更好的效率。希望藉由這個資料庫，讓臺灣古典詩的主題研究，具有更多元而豐富的面向。",
+  "publisher": "臺灣文學館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "國文"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 72,
+  "order": 187
+ },
+ {
+  "id": "DB000000482",
+  "title": "東京大學東洋文化研究所所藏漢籍善本全文影像資料庫",
+  "url": "http://shanben.ioc.u-tokyo.ac.jp/",
+  "description": "《東京大學東洋文化研究所所藏漢籍善本全文影像資料庫》收錄東京大學東洋文化研究所藏貴重圖書4630種(截至2009年3月)，其中4019種可瀏覽全部的影像，611種則僅能瀏覽部分影像(特定機構才可瀏覽全部影像，請見資料庫介紹之說明)。使用時可依四部分類順序或書名筆劃順序瀏覽書籍清單，另外，也可輸入書名、內容分類、索書號等關鍵字來做檢索利用。 ※ 使用注意事項： 1. 資料庫提供之瀏覽、下載或列印等功能，都限於以個人的調査或研究為目的。 2. 除了小規模的研究會或大學授課等場合之外，禁止將下載或者列印的影像複製或散發給第三者。 3. 請勿超過個人使用範圍大量下載或列印。 4. 未經許可，請勿轉載。需要登載此網站內容者，請遵守東洋文化研究所之規定。",
+  "publisher": "東京大學東洋文化研究所",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 37,
+  "order": 189
+ },
+ {
+  "id": "DB000000483",
+  "title": "東洋學文獻類目",
+  "url": "http://ruimoku.zinbun.kyoto-u.ac.jp/ruimoku/",
+  "description": "《東洋學文獻類目》為京都大學人文科學研究所附屬漢字情報研究中心所發行，是今日世界上最具權威性的中國史研究索引之一，收錄1934年之後的中國、朝鮮、韓國、東南亞、南亞和西亞的研究論文及論著資料。 ※「Version 5 (α版)」(東洋学文献類目検索 第5版)：收錄1934-2000年之資料。 ※「Version 6 (β版)」(東洋学文献類目検索 第6版)：收錄1981年以後之資料。",
+  "publisher": "XEmacs CHISE",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "日文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 17,
+  "order": 190
+ },
+ {
+  "id": "DB000000794",
+  "title": "林業試驗所日治時期林業文獻資料庫",
+  "url": "https://tfriliterature.culture.tw/home/zh-tw",
+  "description": "此資料庫之數位化之內容可分為三類，第一為日治時期台灣林業相關文獻，其中包含台灣各地林業資源調查報告、林業政策史料及林業技術專論等典籍；第二為珍貴植物圖鑑及樹木材鑑，如「本草圖譜」95冊，本館為台灣唯一完整珍藏之處，而各類之植物圖譜、樹木圖譜等亦為典藏重點；第三則為世界林業發展之史料文獻，其中包含日本在20世紀初在各殖民地的林業資源調查報告，更有其時日本搜羅世界各地之林業西文期刊數十種。",
+  "publisher": "行政院農委會林業試驗所",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "生物",
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 496,
+  "order": 191
+ },
+ {
+  "id": "DB000000903",
+  "title": "機關檔案目錄查詢網",
+  "url": "https://near.archives.gov.tw",
+  "description": "查詢仍由各機關管有之機關檔案",
+  "publisher": "國家發展委員會檔案管理局",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 164,
+  "order": 192
+ },
+ {
+  "id": "DB000000955",
+  "title": "法律文件資料庫",
+  "url": "http://itdels.digital.ntu.edu.tw/",
+  "description": "不同於傳統資料庫的內容以特定重要人物的資料為主，法律文件資料庫從一般民眾的觀點出發，收錄發生在台灣社會的各式法律文件，目的在提供一個開放近用的免費法律實證研究資源，供學術研究與民眾查詢。資料庫收錄的檔案分為三大類：人權案件檔案、個別法律文件及特定法律議題。這些法律文件的典藏，不僅為後人留下理解台灣社會變遷與發展的紀錄，也為學術研究提供豐富的歷史素材。本資料庫收錄之資料，若涉及個人敏感隱私，皆會加以隱匿，以在個 人隱私與研究自由中求取適當平衡。",
+  "publisher": "國立臺灣大學",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "公民與社會",
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 9,
+  "order": 193
+ },
+ {
+  "id": "DB000000545",
+  "title": "漢籍電子文獻資料庫",
+  "url": "http://hanchi.ihp.sinica.edu.tw/",
+  "description": "「漢籍全文資料庫計畫」的建置始於民國73年，為「史籍自動化」計畫的延伸，內容包括經、史、子、集四部，其中以史部為主，經、子、集部為輔。若以類別相屬，又可略分為宗教文獻、醫藥文獻、文學與文集、政書、類書與史料彙編等，累計收錄歷代典籍已達四百六十多種，三億五千八百萬字。 《中研院史語所數位資料庫開放國內免費授權使用》 ※ 資料庫內容為中央研究院歷史語言研究所版權所有，若要引用，請遵守資料庫相關規定！",
+  "publisher": "中央研究院歷史語言研究所",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "國文",
+   "歷史",
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 163,
+  "order": 194
+ },
+ {
+  "id": "DB000000525",
+  "title": "無盡藏學術期刊資料庫",
+  "url": "https://libap.nhu.edu.tw/citesys/",
+  "description": "《無盡藏學術期刊資料庫》為南華大學所建置，收錄南華大學二十餘種學術期刊，同時亦結集1200餘篇學術論文成為一資料庫，無償提供各界研究參考使用。2007年6月14日，「彰雲嘉大學校院十六校聯盟」第三屆第一次理、監事聯席會議通過提案，將此一資料庫擴充為中部地區「彰雲嘉大學校院十六校聯盟」共同參與建構的資料庫。 至2011年11月止，總計共收錄包含南華大學、國立彰化師範大學、國立虎尾科技大學、國立雲林科技大學、元培科技大學、臺灣健康管理學會、朝陽科技大學、環球科技大學、育達商業科技大學、德明財經科技大學、大葉大學、吳鳳科技大學、修平技術學院、正修科技大學、亞洲大學、崑山科技大學、興國管理學院、明道大學等單位所出版的期刊70餘種，2000餘篇學術論文。內容包含人文學、社會科學、自然科學、應用科學、醫學與生命科學等各大類。",
+  "publisher": "南華大學",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 32,
+  "order": 195
+ },
+ {
+  "id": "DB000000412",
+  "title": "王梵志詩",
+  "url": "http://cdnetb.lib.ncku.edu.tw/ttscgi/ttsweb-all.exe",
+  "description": "王梵志詩集據朱鳳玉編輯之校本作底本，又以項楚教授之編輯本作校本，王三慶教授再根據敦煌寫卷重新加以訂正編輯。並加各書原頁碼，以供核對。 唐代白話詩人王梵志在唐代就被稱為 \"菩薩示化\"（《桂苑叢談》），晚唐名僧宗密所編《禪藏》（已佚）即收入了王梵志詩。自從敦煌遺書中發現大量王梵志詩寫卷後，中、日、法、俄、德等各國學者發表研究論文數以百計，王梵志詩的全輯本亦有法國戴密微《王梵志詩集》、張錫厚《王梵志詩校輯》、臺灣朱鳳玉《王梵志詩研究》等多種。王梵志詩也讓漢語史研究者公認是研究唐代口語辭彙的基本資料之一。本檢索系統乃為全文檢索。",
+  "publisher": "成大圖書館",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "國文",
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 70,
+  "order": 196
+ },
+ {
+  "id": "DB000000463",
+  "title": "甲骨文全文影像資料庫",
+  "url": "http://cdnetb.lib.ncku.edu.tw/ttscgi/ttsweb1.exe",
+  "description": "《甲骨文全文影像資料庫》收錄 41956 筆甲骨文書目及影像資料，可利用分類、關鍵字及拓片影像等進行檢索，相關介紹請參閱「國立成功大學「甲骨文全文檢索與全文影像系統」第一階段建構工程 --《甲骨文合集》簡介」一文。 1. 輸入檢索字詞後，請點選「執行檢索」，出現檢索結果後，再點選「顯示結果」。 2. 進入「顯示詳目」後，可點選「全文影像」連結觀看影像資料。(初次使用請先下載安裝看圖程式)。",
+  "publisher": "成大圖書館",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "國文",
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 6,
+  "order": 197
+ },
+ {
+  "id": "DB000205264",
+  "title": "研究資料寄存所 = depositar",
+  "url": "https://data.depositar.io/",
+  "description": "depositar 這個詞在葡萄牙語／西班牙語裡是寄存的意思，我們用它來稱呼這個線上寄存研究資料的所在。data.depositar.io 這網站是由研究人員依據研究人員的需求所建立的。為了研究目的，您可在研究資料寄存所上面自由的儲存、尋找、並再次使用研究資料。 任何使用上的意見與回饋，請寄到 data.contact@depositar.io 這項工作在台灣的中央研究院進行，得到中央研究院的資訊科學研究所以及資訊科技創新研究中心的支持，另外也得到台灣國家科學及技術委員會的專題研究計畫的補助。 這項計畫啟始於和同在中央研究院的地理資訊科學研究專題中心（隸屬於人文社會科學研究中心）的協力研究工作，並維持到現在。 ( Cited from https://data.depositar.io/about )",
+  "publisher": "",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 40,
+  "order": 198
+ },
+ {
+  "id": "DB000000883",
+  "title": "科技大觀園",
+  "url": "https://scitechvista.nat.gov.tw/",
+  "description": "為推廣大眾科學教育，科技部除出版發行科普雜誌《科學發展》月刊外，並規劃及補助舉辦包含科普教育素材的研發、親手做活動、展示、演講及競賽等各類科普活動。為妥善保存多年來此類科普活動產出的成果，並使一般大眾能透過網際網路分享科普資源，科技部於2007年完成「科技大觀園」科普網站的建置，並於2008年1月正式上線營運。 「科技大觀園」網站為一數位整合平台，累積了大量的科普影音、科技新知、科普文章、科普演講及各類科普活動訊息，期使科學能扎根於每個人的生活與文化中。 「科技大觀園」網站新增英文版、行動版，提供新知報、影音、文章、訊息、講座及資源等六大單元之豐富資訊及內容，更新增搜尋引擎，加強全文檢索功能。",
+  "publisher": "科技部",
+  "categories": [
+   "媒體與知識雜誌"
+  ],
+  "subjects": [
+   "物理",
+   "化學",
+   "生物",
+   "地球科學",
+   "資訊科技"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "國中",
+   "高中",
+   "大學"
+  ],
+  "clicks": 232,
+  "order": 199
+ },
+ {
+  "id": "DB000138553",
+  "title": "簡牘字典",
+  "url": "https://wcd-ihp.ascdc.sinica.edu.tw/woodslip/",
+  "description": "1930年代西北科學考察團的瑞典考古學家貝格曼（Folke Bergman）等人在額濟納河流域一帶發掘出1萬3千餘枚的居延漢簡，爾後，這批珍貴的文物在戰亂之時輾轉於北京、香港、美國，最終保存在南港中央研究院歷史語言研究所。 1990年代史語所開始進行簡牘影像及釋文數位化工作，2002年起參與數位典藏國家型科技計畫，建立歷史語言研究所藏漢代簡牘資料庫，大幅提升漢簡數位化成果的質與量。2014年隨著引進高解析度紅外線掃描儀器，簡牘整理小組重啟釋讀，出版《居延漢簡》圖版及釋文，校正了過去的錯誤與遺漏。這段期間，史語所與日本奈良文化財研究所也簽訂木簡文物雙邊交流的合作協議。 2019年「『簡牘字典』開發計畫—開放性資料庫的結構及技術探索」在上述成果奠基下正式展開。史語所與數位文化中心共同合作，在國際圖像互通架構（International Image Interoperability Framework, IIIF）的規範下，結合鏈結開放資料（Linked Open Data, LOD）、影像文字辨識（Optical Character Recognition, OCR）等技術，開發「簡牘字典—史語所藏居延漢簡資料庫」，期望以更完整、多元、細緻的面相，提升漢簡研究的便利性。",
+  "publisher": "中央研究院歷史語言研究所",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "國文",
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 228,
+  "order": 200
+ },
+ {
+  "id": "DB000001027",
+  "title": "美國證券交易委員會(SEC) EDGAR資料庫",
+  "url": "https://www.sec.gov/edgar/searchedgar/companysearch.html",
+  "description": "EDGAR, the Electronic Data Gathering, Analysis, and Retrieval system, performs automated collection, validation, indexing, acceptance, and forwarding of submissions by companies and others who are required by law to file forms with the U.S. Securities and Exchange Commission (SEC). Its primary purpose is to increase the efficiency and fairness of the securities market for the benefit of investors, corporations, and the economy by accelerating the receipt, acceptance, dissemination, and analysis of time-sensitive corporate information filed with the agency. Not all documents filed with the Commission by public companies will be available on EDGAR. Companies were phased in to EDGAR filing over a three-year period, ending May 6, 1996. As of that date, all public domestic companies were required to make their filings on EDGAR, except for filings made in paper because of a hardship exemption. Third-party filings with respect to these companies, such as tender offers and Schedules 13D, are also filed on EDGAR.",
+  "publisher": "其他",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "公民與社會"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 168,
+  "order": 201
+ },
+ {
+  "id": "DB000000474",
+  "title": "老子化胡經",
+  "url": "http://cdnetb.lib.ncku.edu.tw/ttscgi/ttsweb-all.exe",
+  "description": "西晉惠帝時 (公元 290-306)，天師道祭酒王浮每與沙門帛遠爭邪正，遂造作《化胡經》一卷，記述老子入天竺變化為佛陀，教胡人為佛教之事，「以謗佛法」。後陸續增廣改編為十卷，成為道教徒攻擊佛教的依據之一，借此提高道教地位於佛教之上。由此引起了道佛之間的激烈沖突，唐高宗、中宗都曾下令禁止。 元世祖至元二十二年 (公元 1285)，下令焚毀《道藏》偽經，第一種即為《化胡經》，從此亡佚，故明《正統道藏》不存。清末敦煌發現此書唐寫本殘卷，有的作《老子西升化胡經》(伯 2007)，有的作《太上靈寶老子化胡妙經》(斯 2081)，系同書異名。今英、法等國所藏敦煌《化胡經》殘卷，當系十卷本，非王浮原書。 ※本檢索系統乃為全文檢索。 ※使用方式：輸入檢索字詞後，請點選「執行檢索」，出現檢索結果後，再點選「顯示結果」。",
+  "publisher": "成大圖書館",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "國文",
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 360,
+  "order": 202
+ },
+ {
+  "id": "DB000000949",
+  "title": "考古文物3D資料庫",
+  "url": "http://3d.nmp.gov.tw/",
+  "description": "資料庫以典藏考古文物3D模型為主，所有3D模型皆由史前館3D作業人員對真實考古文物進行3D掃描作業完成，為全彩模型，屬於高階3D數化技術，單一件小型文物模型的三角網格(mesh)數高達上百萬，史前館為避免造成使用者困擾，經由3D工程師處理後上傳3D資料庫供大家瀏覽。 目前資料庫中已有80件考古文物，包括25件陶質標本、10件玉質標本、42件石質標本、1件骨質標本與2件其他類別標本，使用者除了可藉由文物時代、類別與出土遺址進行資料庫搜尋，還可以直接於網頁上瀏覽3D模型，不需安裝其它程式即可從任意角度觀看考古文物。",
+  "publisher": "國立臺灣史前文化博物館",
+  "categories": [
+   "博物館與線上展覽"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "國中",
+   "高中",
+   "大學"
+  ],
+  "clicks": 450,
+  "order": 203
+ },
+ {
+  "id": "DB000000475",
+  "title": "考古資料數位典藏資料庫",
+  "url": "http://ihparchive.ihp.sinica.edu.tw/ihpkmc/ihpkm",
+  "description": "「考古資料數位典藏資料庫」是一個以中央研究院歷史語言研究所考古工作成果為主的考古資料庫，目前開放查詢的部分以史語所考古報告及相關出版品已發表的材料為限。此系統的特色有二，其一為採取考古學的系絡關係，而分為遺址、遺跡、遺物三個子資料庫。其二，系統內收納各種媒體資料，包括與考古工作及研究相關的各式照片、線繪圖、拓片、田野記載表、墓葬記載表、地圖等各式記錄，且不限其數位化後為影像、聲音、記錄影片等媒材形式，皆收錄在此系統的多媒體影像資料庫中。 《中研院史語所數位資料庫開放國內免費授權使用》 ※ 資料庫內容為中央研究院歷史語言研究所版權所有，若要引用，請遵守資料庫相關規定！ ※ 資料庫內容為中央研究院歷史語言研究所版權所有，若要引用，請遵守資料庫相關規定！※ 此資料庫不提供任何列印、轉存與下載功能，如有出版或商業行為等其它特殊需求，應另行就所需內容申請相關授權。建議可至申請個人帳號密碼使用(申請藏品圖象皆為付費使用)，並請詳閱申請須知。如有申請相關問題，請向中研院史語所洽詢。",
+  "publisher": "中央研究院歷史語言研究所",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 263,
+  "order": 204
+ },
+ {
+  "id": "DB000000476",
+  "title": "考科藍文獻回顧中文摘要",
+  "url": "http://www.cochrane.org/zh-hant/evidence",
+  "description": "國衛院與全國各醫院，動員700位醫事人員，費時兩年， 共同翻譯Cochrane Library 資料庫裡的Cochrane Database of Systemic Review (CDSR)摘要，目前資料庫中有51個群組、3200篇的文獻摘要。",
+  "publisher": "國家衛生研究院",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "醫學",
+   "健康與護理"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 87,
+  "order": 205
+ },
+ {
+  "id": "DB000000886",
+  "title": "臺南研究資料庫",
+  "url": "https://trd.tnc.gov.tw/",
+  "description": "臺南地區是臺灣開墾先驅，無論人文、史蹟、生活風俗、風土人情、產業經濟等皆有豐碩之資源。本資料庫為蒐藏研究臺南地區相關資料所成立之專業數位圖書館，旨在彙集臺南地區相關圖書文獻資料、多媒體資料、電子資料、文物等，涵括臺南食、衣、住、行、科技產業、人文研究、文學發展、藝術創作、文獻史料…等等各項資料，提供作為研究臺南完整的資料來源，藉此加速對臺南的發展。 臺南地區百年來關於食、衣、住、行、科技產業、人文研究、文學發展、藝術創作、文獻史料…等等各項資料，許多資料尚有瀕臨失傳之虞。建置專題數位化資料庫，對文化資產的保存將有重要指標意義。",
+  "publisher": "臺南市政府文化局",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史",
+   "地理"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 34,
+  "order": 206
+ },
+ {
+  "id": "DB000136949",
+  "title": "臺大圖書館數位典藏館",
+  "url": "https://dl.lib.ntu.edu.tw/s/ntu_digital/page/all",
+  "description": "臺灣大學圖書館為保存珍貴舊籍及影音資料，進而推廣利用，並活化數位資源，建置「臺大圖書館數位典藏館」，自2013年5月啟用，現階段有臺北帝國大學期刊、大鳥文庫、清代樣式雷圖輯、四海唱片、林文月教授手稿資料及小川文庫6個資料庫，日後將陸續增加其他資料庫",
+  "publisher": "國立臺灣大學",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史",
+   "美術"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 172,
+  "order": 207
+ },
+ {
+  "id": "DB000000440",
+  "title": "臺灣博碩士論文知識加值系統",
+  "url": "http://ndltd.ncl.edu.tw",
+  "description": "《台灣博碩士論文知識加值系統》原為《全國博碩士論文資訊網》，為教育部委託國家圖書館執行的專案計畫，回溯國內博碩士論文相關資料整理工作的投入，國家圖書館早在民國59年起即著手編印「中華民國博士碩士論文目錄」，自民國83年以來，國家圖書館正式接受教育部高教司之委託，執行「全國博碩士論文摘要建檔計畫」。86年9月提供Web版線上檢索系統，民國87年9月在教育部的經費支援之下，順利開發完成「全國博碩士論文摘要檢索系統」。民國89年2月於原有之「全國博碩士論文摘要線上建檔系統」當中，新增電子全文上傳與電子全文授權書線上印製之功能，進一步地整合既有之「全國博碩士論文資訊網」線上資料庫共建共享服務。 為了進一步提昇服務效能，國家圖書館除了在民國93年推出「全國博碩士論文資訊網」第二代系統之外，有鑑於近年來國內免費開放利用之學位論文電子全文授權率逐年下降，以及為配合各階段學術研究之需求，國家圖書館積極規劃、設計與建置加值型學術研究支援功能，於民國98年12月起開發新一代的學位論文服務平台，並自民國99年6月10日起，進行新舊博碩士論文系統轉換。同時，為更符合本資料庫所收錄之資料係以臺灣各大學校院之博碩士論文為主，國家圖書館第三代學位論文系統亦正式更名為「台灣博碩士論文知識加值系統」。 民國99年6月10日起將進行新舊系統轉換，轉換期間新版「台灣博碩士論文知識加值系統」將與舊有之「全國博碩士論文資訊網」展開平行作業，除98學年度全國各校研究生線上建檔，以及資料查核仍維持在舊系統完成作業之外，「全國博碩士論文資訊網」將不再新增或修改資料，而改由「台灣博碩士論文知識加值系統」接續提供讀者博碩士論文相關之查詢服務。 ※ 「全國博碩士論文資訊網」於民國99年9月15日起停止服務，自99學年度第一學期起，全國各校院研究生線上建檔以及資料查核均改由「台灣博碩士論文知識加值系統」接續提供服務。 ※ 如何下載論文電子全文： 1. 若研究生有授權，在論文簡目中會有「電子全文」標示，註冊後即可下載電子全文；若研究生沒授權則須至有典藏該論文之圖書館借閱，無法取得論文電子全文。另外，部分有標示「博碩士全文影像檔(限館內使用)」之論文則僅限國家圖書館館內使用。 2. 下載全文請先自行註冊帳號密碼，註冊完成後，輸入帳號密碼登入，再點選所需論文之「電子全文」選項， 即可下載。《請注意，電子全文僅授權使用者為學術研究之目的，進行個人非營利性質之檢索、閱讀、列印。請遵守中華民國著作權法之相關規定，切勿任意重製、散佈、改作、轉貼、播送，以免觸法。》 3. 此系統提供之電子全文係 WinZip 壓縮檔，以提供離線閱覽為目的，使用前請先以 WinZip 軟體解壓縮(下載WinZip解壓縮軟體)。",
+  "publisher": "國家圖書館",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 131,
+  "order": 208
+ },
+ {
+  "id": "DB000001024",
+  "title": "臺灣學數位圖書館",
+  "url": "https://tsdl.ntl.edu.tw/",
+  "description": "# Coverage (自臺灣學數位圖書館擷錄) - 館藏南方資料：匯聚了二十世紀前半葉累積的南方資料，含蓋範圍為日治時期日本、中國(滿洲及華南)、韓國(朝鮮)及南洋資料。 - 臺灣寫真帖：寫真帖即是相片簿，臺灣總督府圖書館典藏許多寫真帖，蒐集的內容，從漢人的傳統習俗、日治時期的風景名勝，乃至重要工程及慶典活動等，本資料庫翻譯寫真帖照片的「日文圖說」成「中文圖說」，共收錄數量達1萬200張以上的珍貴照片，極具歷史意義與研究價值。 - 臺灣方志：各縣市鄉鎮區的史志，提供研究臺灣歷史、地理、政治、經濟、風俗、教育、物產、人物等重要史料，提供教學、學習及學術研究之非營利使用。 - 日治時期圖書：總督府圖書館典藏之圖書 - 日治時期期刊：日治時期期刊約三百餘種，內容包羅萬象，題材多元。 - 地圖資料庫：收藏千餘種地圖，除臺灣地圖（堡圖、地形圖、蕃地地形圖）外，亦有西洋地圖，特別是南方資料館典藏的南洋、東南亞等地圖，十分珍貴。",
+  "publisher": "國立臺灣圖書館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史",
+   "地理"
+  ],
+  "languages": [
+   "日文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 41,
+  "order": 209
+ },
+ {
+  "id": "DB000217328",
+  "title": "臺灣學術會議資訊平台 = Taiwan Conference Commons",
+  "url": "https://tcc.stpi.niar.org.tw/",
+  "description": "臺灣學術會議資訊平台由國科會支持建置，財團法人國家實驗研究院科技政策研究與資訊中心執行，可免費提供會議發布、報名系統、活動查詢與資料典藏 。",
+  "publisher": "STPI\n國科會",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 8,
+  "order": 210
+ },
+ {
+  "id": "DB000000547",
+  "title": "臺灣學術電子書聯盟電子書整合查詢系統",
+  "url": "http://bookchoice.lib.ntnu.edu.tw/search.jsp",
+  "description": "1.為方便讀者利用臺灣學術電子書聯盟共購共享之電子書，由師範大學圖書館所開發的電子書整合查詢介面。 2.目前總計採購了13種電子書資料庫，Cambridge Collections Online、CRCnetBASE電子書、Oxford Scholarship Online、Sage eReference、Siam Reference Collection、SpringerLink、MyiLibrary、Greenwood、IOS、NetLibrary、OVID、 Cambridge E-Books、Columbia University Press等2萬餘種電子書，學科範圍涵蓋各領域，整合查詢功能能幫您一次檢索不同資料庫裡的眾多電子書。",
+  "publisher": "臺灣學術電子書聯盟",
+  "categories": [
+   "閱讀推薦與電子書"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "西文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 78,
+  "order": 211
+ },
+ {
+  "id": "DB000000984",
+  "title": "臺灣教育研究資訊網",
+  "url": "https://teric.naer.edu.tw/wSite/mp?mp=teric_b&OWASP_CSRFTOKEN=SBVG-AAV8-K50S-O2J4-0A1E-0ST9-YI47-HOZZ",
+  "description": "本網站整合多種資料類型及教育資源，包含期刊論文、研討會論文、圖書全文、專案研究報告、國內教育輿情剪報、國際教育訊息、本院出版品、館藏書目、教學媒體等9類，本網站做為本院重要核心教育資源之一，加強教育資訊蒐集整理與研究出版，以增進教育資訊創新加值與推廣運用。",
+  "publisher": "國家教育研究院",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 9,
+  "order": 213
+ },
+ {
+  "id": "DB000001070",
+  "title": "臺灣文獻叢刊",
+  "url": "https://taicool.ith.sinica.edu.tw/",
+  "description": "《臺灣文獻叢刊》是臺灣銀行經濟研究室以臺灣為核心，各方收錄相關圖書文獻，於1957至1972年陸續出版，內容涵蓋臺灣之地理、歷史、風俗與人文等主題，共有309種、近600冊。並於1977年出版《臺灣文獻叢刊提要》一書，介紹叢刊印行目的、搜輯範圍，並就各種圖書文獻簡介作者生平及摘錄內容。 「臺灣文獻叢刊資料庫」收錄《臺灣文獻叢刊》所有圖書文獻及提要一書之全文，並增加蔣毓英的《臺灣府志》，共計311種圖書。全文繕打依據，皆以臺灣銀行經濟研究室所出版的版本；而新增的《臺灣府志》一書全文，是採用1985年北京中華書局復刊的版本，標點則參考1985年廈門大學出版社刊行之《臺灣府志校注》。總計本資料庫建置的全文約近5,000萬字。",
+  "publisher": "中央研究院台灣史研究所",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史",
+   "地理"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 6,
+  "order": 214
+ },
+ {
+  "id": "DB000000898",
+  "title": "臺灣漢語傳統文學書目資料庫",
+  "url": "https://db.nmtl.gov.tw/site4/s1/index",
+  "description": "1999年，《臺灣漢語傳統文學書目》由臺北文津出版社出版，吳福助主編，乃全臺第一部大規模有系統蒐羅整理臺灣漢語傳統文學的工具書，2000年國科會專題研究計畫續作《臺灣漢語傳統文學書目續編》，直到2012年與黃震南共同增訂完成，2013年由本館出版《臺灣漢語傳統文學書目新編》，本資料庫即依《臺灣漢語傳統文學書目新編》整理而成。 臺灣漢語傳統文學，自明鄭以來迄今三百五十餘年，持續發展，從未間斷。分為四期：（1）明鄭時期（1661-1683年）。（2）清領時期（1683-1895年）。（3）日治時期（1895-1945年）。（4）戰後迄今（1945-2013年），依時間先後排列。另外日治時期日人所出版漢詩集為數亦不少，故特立一類，即（5）日籍作家作品。每本傳統文學書籍下，分列「著錄」、「版本」兩項，詳舉清代迄今公私纂修地方志藝文篇等著錄經過，以及各書傳鈔刊印先後情況。 這些先人遺留下來的豐富文學寶藏，希望透過「臺灣漢語傳統文學書目資料庫檢索系統」的建置，能開啟社會各界對傳統文學文獻的重視與研究。",
+  "publisher": "臺灣文學館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "國文",
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 28,
+  "order": 215
+ },
+ {
+  "id": "DB000000974",
+  "title": "臺灣總督府圖書館地圖資料庫",
+  "url": "http://stfj.ntl.edu.tw",
+  "description": "國立臺灣圖書館於民國96年8月起進行館藏臺灣總督府圖書館典藏臺灣文獻的數位化工作。民國97年完成「地圖資料庫」外掛於「日治時期期刊影像系統」並開放使用，目前共收錄1,649種圖。主要內容臺灣總督府圖書館典藏的臺灣地圖，類型概可分堡圖、地形圖、番社圖、交通圖、市區改政圖、臺灣鳥瞰圖等。尚有本館採購的西洋臺灣地圖、臺灣總督府圖書館典藏的中國、南洋及日本地圖等。",
+  "publisher": "國立臺灣圖書館",
+  "categories": [
+   "博物館與線上展覽"
+  ],
+  "subjects": [
+   "地理",
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 152,
+  "order": 216
+ },
+ {
+  "id": "DB000000795",
+  "title": "臺灣舊照片資料庫",
+  "url": "https://dl.lib.ntu.edu.tw/s/photo/page/Home",
+  "description": "國立臺灣大學圖書館收藏豐富的日治時期出版品，該批館藏涵蓋臺灣相關主題，包括教育、衛生、政治、經濟、交通、地理環境、植物、動物、礦產、林產、牧產、農產、社會、文化、語言、人類學、文學、旅遊等，內容十分多樣而豐富。該批出版品裡有不少附有插圖、照片，本館自該批館藏中挑選與臺灣相關的照片加以數位化，並建置詮釋資料總計三萬七千餘筆，提供完善的檢索機制。使用者除可於臺灣舊照片資料庫查詢詮釋資料，亦能線上瀏覽數位圖像，更能就學術合理使用範圍內下載詮釋資料與數位圖像。",
+  "publisher": "國立台灣大學圖書館",
+  "categories": [
+   "博物館與線上展覽"
+  ],
+  "subjects": [
+   "全科適用"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "國中",
+   "高中",
+   "大學"
+  ],
+  "clicks": 224,
+  "order": 217
+ },
+ {
+  "id": "DB000000872",
+  "title": "臺灣莎士比亞資料庫",
+  "url": "http://shakespeare.digital.ntu.edu.tw/shakespeare/home.php?Language=ch",
+  "description": "「臺灣莎士比亞資料庫」是公開取閱的線上資源，數位典藏臺灣的莎士比亞戲劇製作相關資料，提供中英文雙語介面。除了有雙語字幕演出錄影的線上播放之外，也搜集有製作背景、訪問、文宣、設計圖、照片、新聞報導、劇評與論文等資料，意圖在歷史與文化語境中重現戲劇演出。資料皆經過雙語注釋：每一部戲劇製作皆有中英文簡介，其他資料也有中英文摘要。",
+  "publisher": "國立臺灣大學數位人文研究中心",
+  "categories": [
+   "線上課程與影音"
+  ],
+  "subjects": [
+   "藝術生活",
+   "國文"
+  ],
+  "languages": [
+   "中文",
+   "西文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 11,
+  "order": 218
+ },
+ {
+  "id": "DB000000438",
+  "title": "臺灣記憶展覽 (Taiwan Memory Exhibition)",
+  "url": "https://tm.ncl.edu.tw",
+  "description": "國家圖書館蒐集典藏了相當豐富的臺灣文獻史料，如日治時期臺灣明信片、各地老照片、舊籍、地方志、古書契、家譜、碑碣拓片等。為妥善保存臺灣歷史記憶，配合數位化發展，建置了「臺灣記憶Taiwan Memory」系統，希望透過系統的建立，數位典藏有關臺灣的歷史文獻，並分析建置數位物件的詮釋資料，以達資源分享與利用的目的。此外，另規劃與各縣市政府機關及民間文史單位合作，以廣蒐散布於各界的相關資源，透過網際網路寬廣的觸角，進一步將臺灣史料之閱讀與研究，擴展到臺灣各地及海外。 ※ 系統中部份文獻或影像內容僅限國家圖書館館內瀏覽。",
+  "publisher": "國家圖書館",
+  "categories": [
+   "博物館與線上展覽"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "國中",
+   "高中",
+   "大學"
+  ],
+  "clicks": 127,
+  "order": 219
+ },
+ {
+  "id": "DB000000805",
+  "title": "臺灣音聲一百年",
+  "url": "http://audio.nmth.gov.tw/",
+  "description": "以「全體臺灣人的博物館」為宗旨，國立臺灣歷史博物館致力於歷史文物典藏與研究，近幾年在音聲資料的整理上有所進展，更與國內在音聲資料典藏與研究學有專精之學者、機構建立合作關係。2014年10月與國立成功大學合辦「唱片工業一百年」特展，讓這場以紀念1914年—臺灣唱片工業、音樂市場起點—為主旨的活動，也成為音聲資料徵集工作的起點。 本網站「唱片工業100年專案」徵集整理之主題展覽文字及圖檔資料，為國立成功大學文學院閩南文化研究中心規劃辦理成果。相關音聲資料由國立臺灣歷史博物館及成大文學院取得唱片擁有者之授權，圖檔及說明文字由成功大學文學院閩南文化研究中心提供，並為成功大學文學院閩南文化研究中心著作權所有。臺灣電視廣告數位化專案」為本館與鳴岐錄音室合作辦理，相關資料由鳴岐錄音室提供授權。 「2015年館藏唱片數位化」資料為依據國立臺灣歷史博物館部分典藏唱片之整理成果。本網站音軌數位化資料均加入音聲浮水印，以作為其他利用之辨識，相關文字、影像及聲音資料之利用，請預先向國立臺灣歷史博物館提交申請，以學術研究、無涉侵害著作權事項為限。",
+  "publisher": "國立臺灣歷史博物館",
+  "categories": [
+   "線上課程與影音"
+  ],
+  "subjects": [
+   "音樂",
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "國中",
+   "高中",
+   "大學"
+  ],
+  "clicks": 170,
+  "order": 220
+ },
+ {
+  "id": "DB000000877",
+  "title": "設計師之手-數位設計展示平台",
+  "url": "https://digitalgallery.nlpi.edu.tw/index.aspx",
+  "description": "「設計師之手-數位設計展示平台」由國立公共資訊圖書館自行建置，以成立設計創作展示平台為規劃主軸，將國內學生歷年創作之優秀作品建立數位典藏資料庫，以提供讀者欣賞瀏覽、教學觀摩及創作交流，透過平台的建立，讓學生創作發揮最大價值，期望成為國內學生文創設計的交流平台。 目前已與38所設計系所簽訂合作備忘錄，收錄國立臺北科技大學、國立雲林科技大學、國立臺中科技大學、國立臺中教育大學系、國立師範大學、國立臺南藝術大學、朝陽科技大學、嶺東科技大學、建國科技大學、南開科技大學、大葉大學、南台科技大學、臺南應用科技大學及第一屆台中市威達盃青少年創意影片等共計537件作品，類型包含模型、紙本、動畫互動多媒體及影片等。 未來希望能持續與全國各設計相關系所進行合作。",
+  "publisher": "國立公共資訊圖書館",
+  "categories": [
+   "博物館與線上展覽"
+  ],
+  "subjects": [
+   "美術",
+   "生活科技"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 8,
+  "order": 221
+ },
+ {
+  "id": "DB000000528",
+  "title": "貴重書画像データベース",
+  "url": "http://dl.ndl.go.jp/#classic",
+  "description": "《貴重書画像データベース》為日本國立國會圖書館所建置，將國會圖書館貴重書典藏以全彩數位圖檔方式呈現，主要包含四種資料類型：中日文貴重書、錦圖版畫、地圖、重要文化財。",
+  "publisher": "日本國立國會圖書館",
+  "categories": [
+   "博物館與線上展覽"
+  ],
+  "subjects": [
+   "歷史",
+   "美術"
+  ],
+  "languages": [
+   "日文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 347,
+  "order": 222
+ },
+ {
+  "id": "DB000000560",
+  "title": "題記",
+  "url": "http://cdnetb.lib.ncku.edu.tw/ttscgi/ttsweb-all.exe",
+  "description": "敦煌題記乃據台灣、英、法、俄、北京及大陸、日本各地圖書館收藏之敦煌寫卷凡有可供研究參考之資料，如人名、寺名、年代及作者或抄錄者，皆加以迻錄，匯聚成編。 ※ 輸入檢索字詞後，請點選「執行檢索」，出現檢索結果後，再點選「顯示結果」。",
+  "publisher": "成大圖書館",
+  "categories": [
+   "臺灣研究資料庫"
+  ],
+  "subjects": [
+   "歷史"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "大學"
+  ],
+  "clicks": 133,
+  "order": 223
+ },
+ {
+  "id": "DB000000821",
+  "title": "颱風資料庫",
+  "url": "https://rdc28.cwa.gov.tw/TDB/",
+  "description": "颱風資料庫蒐集歷年來北太平洋西部發生之颱風的名稱與編號，將中央氣象局發佈颱風警報期間，所收錄多種氣象資料，以文字或圖表呈現，包括：颱風警報發布概況表、綜觀天氣圖、衛星雲圖、斜溫圖、區域雨量圖、雷達圖、颱風路徑對應、時雨量及風場顯示、颱風路徑圖、氣象測站資料、颱風調查報告、累積雨量圖、颱風警報單、颱風逐時路徑圖、各測站氣象要素逐時變化圖、各階段風場圖、各階段氣壓場圖、各測站最大平均風與最大陣風長條圖、各測站總雨量長條圖、各測站連續 24 小時累積雨量長條圖、颱風雨量綜合資訊等 22 種資料類型，以提供查詢。",
+  "publisher": "中央氣象局",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "地球科學"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "國中",
+   "高中",
+   "大學"
+  ],
+  "clicks": 160,
+  "order": 224
+ },
+ {
+  "id": "DB000000562",
+  "title": "體育文獻資料庫",
+  "url": "https://lis.ntus.edu.tw/index.php?code=list&ids=1495",
+  "description": "《體育文獻資料庫》為國立台灣體育運動大學圖書館所建置，為該校之機構典藏系統，內容包含學位論文、教職員著作、學報、系所刊物等學術文獻，另外還有收錄體育照片及體育新聞剪報資料，其中體育新聞剪報系統，為目前國內唯一收錄國內各家報刊之體育相關新聞、評論、政策、措施、各項賽事及部份國外與大陸體育新聞資料。 資料庫內之新聞剪報資料收錄範圍自民國73年至99年間共27個年度，超過20萬筆以上之體育新聞資料，分類詳盡並加入系列及關鍵字索引，提供使用者能完整而快速的查找資料。資料庫並已取得聯合報、民生報、中國時報、自由時報、中央日報、新生報、民眾日報等報之授權，合法公開全文影像，做為學術、教學、體育歷史...等多方面之應用。",
+  "publisher": "國立臺灣體育運動大學圖書資訊處",
+  "categories": [
+   "圖書館與學術資源"
+  ],
+  "subjects": [
+   "體育"
+  ],
+  "languages": [
+   "中文"
+  ],
+  "levels": [
+   "高中",
+   "大學"
+  ],
+  "clicks": 87,
+  "order": 225
+ }
+]

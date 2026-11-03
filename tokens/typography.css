@@ -1,0 +1,27 @@
+/* The .fig defines no named text styles; this scale is derived from actual usage. */
+:root{
+--font-base:"General Sans Body","Noto Sans TC",sans-serif;    /* 本文 Regular */
+--font-label:"General Sans Label","Noto Sans TC",sans-serif;  /* 標籤 Light */
+--font-subheading:"General Sans Subheading","Noto Sans TC",sans-serif; /* 小標題 Medium */
+--font-card-title:"General Sans Semibold","Noto Sans TC",sans-serif; /* 資料庫卡／新聞列卡標題 Semibold */
+--font-display:"General Sans Heading","Noto Sans TC",sans-serif; /* 大標題 Bold */
+--font-inter:var(--font-base);
+--font-school:var(--font-base);
+--font-card-serif:var(--font-base);
+--font-badge:var(--font-label);
+--text-display:61px;   /* landing title, Emblema One */
+--text-h-category:36px;/* category block titles, Bold */
+--text-h1:32px;        /* hero 你想找什麼？, detail title */
+--text-h2:28px;        /* section titles, SemiBold */
+--text-nav-brand:24px; /* header wordmark SemiBold / header links Regular */
+--text-lg:20px;        /* nav items Medium, search input, CTA */
+--text-field:18px;
+--text-md:16px;        /* news rows, dropdown options */
+--text-db-name:17px;
+--text-body:14px;      /* default body, card title/author */
+--text-sm:13px;
+--text-xs:12px;
+--text-chip:10px;
+--weight-regular:400;--weight-medium:500;--weight-semibold:600;--weight-bold:700;
+}
+h1,h2{font-family:var(--font-heading)}h3,h4,h5,h6{font-family:var(--font-subheading)}
