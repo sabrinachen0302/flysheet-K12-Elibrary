@@ -254,7 +254,7 @@ function SearchResultsScreen({ go }) {
               <div style={{ display: "flex", gap: 8, alignItems: "center", color: "var(--color-text-secondary)", position: "relative" }}>
                 每頁顯示：
                 <div data-dd="pp" style={{ position: "relative" }}>
-                  <button type="button" onClick={() => setPpOpen(!ppOpen)} style={{ border: 0, boxShadow: "inset 0 0 0 2px var(--color-border)", borderRadius: ppOpen ? "8px 8px 0 0" : 8, background: "var(--color-surface)", padding: "8px 16px", display: "flex", gap: 8, alignItems: "center", cursor: "pointer", fontFamily: "inherit", fontSize: 14, color: "var(--color-text-primary)", lineHeight: "100%" }}>{perPage} 筆<span style={{ fontSize: 12, color: "var(--color-text-secondary)" }}>⌄</span></button>
+                  <button type="button" onClick={() => setPpOpen(!ppOpen)} style={{ border: 0, boxShadow: "inset 0 0 0 2px var(--color-border)", borderRadius: ppOpen ? "8px 8px 0 0" : 8, background: "var(--color-surface)", padding: "8px 16px", display: "flex", gap: 8, alignItems: "center", cursor: "pointer", fontFamily: "inherit", fontSize: 14, color: "var(--color-text-primary)", lineHeight: "100%" }}>{perPage} 筆<span style={{ fontSize: 12, color: "var(--color-text-secondary)" }}>{ppOpen ? "﹀" : "︿"}</span></button>
                   {ppOpen && <div role="listbox" style={{ position: "absolute", top: "calc(100% - 2px)", left: 0, minWidth: "100%", zIndex: 20, background: "var(--color-surface)", border: "2px solid var(--color-border)", borderRadius: "0 0 8px 8px", boxShadow: "4px 4px 0 0 var(--color-border)", padding: "4px 0" }}>
                     {[10, 20, 30, 50].map(n => <div key={n} role="option" aria-selected={n === perPage} onClick={() => { setPerPage(n); setPpOpen(false); }} style={{ padding: "8px 16px", fontSize: 14, cursor: "pointer", whiteSpace: "nowrap", background: n === perPage ? "var(--color-mint-tint)" : "transparent", color: n === perPage ? "var(--color-brand-cta)" : "var(--color-text-primary)" }}>{n} 筆</div>)}
                   </div>}
@@ -262,10 +262,12 @@ function SearchResultsScreen({ go }) {
               </div>
               <div data-dd="sort" style={{ display: "flex", gap: 8, alignItems: "center", color: "var(--color-text-secondary)", position: "relative" }}>
                 排序：
-                <Clickable onPick={(t) => { if (sortOpen && ["熱門度","相關度","出版日期新到舊","書名"].includes(t)) setSort(t); setSortOpen(!sortOpen); }}>
-                  <div style={{ position: sortOpen ? "absolute" : "static", right: 0, top: 0, zIndex: 10 }}><DSR.SortDropdown state={sortOpen ? "open" : "closed-" + sort} /></div>
-                  {sortOpen && <div style={{ width: 91, height: 36 }} />}
-                </Clickable>
+                <div style={{ position: "relative" }}>
+                  <button type="button" onClick={() => setSortOpen(!sortOpen)} style={{ border: 0, boxShadow: "inset 0 0 0 2px var(--color-border)", borderRadius: sortOpen ? "8px 8px 0 0" : 8, background: "var(--color-surface)", padding: "8px 16px", minWidth: 150, boxSizing: "border-box", display: "flex", justifyContent: "space-between", gap: 8, alignItems: "center", cursor: "pointer", fontFamily: "inherit", fontSize: 14, color: "var(--color-text-primary)", lineHeight: "100%" }}>{sort}<span style={{ fontSize: 12, color: "var(--color-text-secondary)" }}>{sortOpen ? "﹀" : "︿"}</span></button>
+                  {sortOpen && <div role="listbox" style={{ position: "absolute", top: "calc(100% - 2px)", left: 0, minWidth: "100%", zIndex: 20, background: "var(--color-surface)", border: "2px solid var(--color-border)", borderRadius: "0 0 8px 8px", boxShadow: "4px 4px 0 0 var(--color-border)", padding: "4px 0" }}>
+                    {["熱門度", "相關度", "出版日期新到舊", "書名"].map(o => <div key={o} role="option" aria-selected={o === sort} onClick={() => { setSort(o); setSortOpen(false); }} style={{ padding: "8px 16px", fontSize: 14, cursor: "pointer", whiteSpace: "nowrap", background: o === sort ? "var(--color-mint-tint)" : "transparent", color: o === sort ? "var(--color-brand-cta)" : "var(--color-text-primary)" }}>{o}</div>)}
+                  </div>}
+                </div>
               </div>
             </div>
           </div>
