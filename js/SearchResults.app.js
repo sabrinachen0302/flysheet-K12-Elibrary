@@ -35,7 +35,7 @@ function SearchResultsScreen({ go }) {
   const view = "資料庫卡";
   const [sortOpen, setSortOpen] = React.useState(false);
   const [sort, setSort] = React.useState("熱門度");
-  const [picked, setPicked] = React.useState(["可用"]);
+  const [picked, setPicked] = React.useState([]);
   const saved = React.useMemo(() => { try { return JSON.parse(localStorage.getItem("k12-search") || "{}"); } catch (e) { return {}; } }, []);
   const [applied, setApplied] = React.useState(saved.applied || []);
   const [terms, setTerms] = React.useState(saved.terms || []);
@@ -59,6 +59,7 @@ function SearchResultsScreen({ go }) {
   const resDomains = React.useMemo(() => window.RES_SUBJECTS.filter(d => (resData || []).some(x => (x.subjects || []).includes(d))), [resData]);
   // 對應課綱（科目）→ 領域，讓書籍與資源共用學科篩選
   const domainOf = (label) => { if (resDomains.includes(label)) return label; const hit = window.K12_CURRICULUM.find(([, ss]) => ss.includes(label)); return hit ? (hit[0] === "高中家政" ? "家政" : hit[0]) : null; };
+  const resMatch = (x, t) => { const k = t.text.toLowerCase(); const pool = t.field === "名稱" ? [x.title] : t.field === "平台" ? [x.publisher] : t.field === "作者" ? [] : t.field === "主題" ? [...(x.categories || []), ...(x.subjects || [])] : [x.title, x.description, x.publisher]; return pool.some(v => v && v.toLowerCase().includes(k)); };
   // 「讀者」篩選：使用電子資源的分級（國中／高中／大學／不限學級）。書籍沒有分級時，依 reader 欄位換算：青少年＝國中、高中；成人＝大學；都沒有的（如雜誌）視為不限學級
   const READERS = ["國中", "高中", "大學", "不限學級"];
   const levelsOf = (x) => x.levels || (x.reader === "成人" ? ["大學"] : x.reader === "青少年" ? ["國中", "高中"] : ["不限學級"]);
@@ -70,7 +71,7 @@ function SearchResultsScreen({ go }) {
     return (resData || []).filter(x => (!terms.length || terms.reduce((acc, t, i) => i === 0 ? resMatch(x, t) : t.op === "OR" ? acc || resMatch(x, t) : acc && resMatch(x, t), true))
       && (!types.length || types.some(t => (x.categories || []).includes(t))) && (!doms.length || doms.some(d => (x.subjects || []).includes(d))) && levelOk(x));
   }, [resData, terms, applied, resDomains]);
-  const resSorted = React.useMemo(() => [...resHitsAll].sort(sort === "熱門度" ? (a, b) => b.clicks - a.clicks : (a, b) => a.order - b.order), [resHitsAll, sort]);
+  const resSorted = React.useMemo(() => [...resHitsAll].sort(sort === "熱門度" ? (a, b) => b.clicks - a.clicks : (a, b) => b.clicks - a.clicks : sort === "書名" ? (a, b) => a.title.localeCompare(b.title, "zh-Hant") : (a, b) => a.order - b.order), [resHitsAll, sort]);
   const hintRes = !withRes && resHitsAll.length > 0 && (terms.length > 0 || applied.some(l => domainOf(l) || RES_TYPES.includes(l)));
   const NEWS_CATS = React.useMemo(() => (window.K12_TOPICS && window.K12_TOPICS.news) || [], []);
   const TIME_LABELS = window.NEWS_TIMES.map(([l]) => l);
@@ -113,10 +114,10 @@ function SearchResultsScreen({ go }) {
   const TOPICS = [...new Set(allBooks.flatMap(topicsOf))].filter(l => !SUBJECTS.includes(l));
   const facet = (b) => { const pick = (list) => applied.filter(l => list.includes(l)); const st = pick(STATUS), kl = pick(KLASSES), sb = pick(SUBJECTS), tp = pick(TOPICS); return (!st.length || st.includes(bookStatus(b))) && levelOk(b) && (!kl.length || kl.includes(b.klass)) && (!sb.length || sb.some(x => (b.curriculum || []).includes(x))) && (!tp.length || tp.some(x => topicsOf(b).includes(x))); };
   const termOk = (b) => !terms.length || terms.reduce((acc, t, i) => i === 0 ? bookMatch(b, t) : t.op === "OR" ? acc || bookMatch(b, t) : acc && bookMatch(b, t), true);
-  const books = bookPool.filter(termOk).filter(facet);
+    const books = bookPool.filter(termOk).filter(facet).sort((a, b) => sort === "書名" ? a.title.localeCompare(b.title, "zh-Hant") : 0);
   // 單一結果清單：書籍為主，每 3 本穿插 1 則新聞、1 項線上學習資源（同一種清單卡呈現）
   // 勾了書籍條件（狀態／讀者／類別／主題）時不顯示電子資源；勾了書籍條件或對應課綱時不顯示新聞（與新聞分類同名的主題除外）
-  const bookOnly = applied.some(l => [...STATUS, ...KLASSES, ...TOPICS].includes(l));
+  const bookOnly = applied.some(l => [...STATUS, ...KLASSES, ...TOPICS].includes(l) && !resDomains.includes(l));
   const hideNews = applied.some(l => [...STATUS, ...READERS, ...KLASSES, ...SUBJECTS, ...TOPICS].includes(l) && !NEWS_CATS.includes(l));
   const newsHits = !withNews || hideNews ? [] : newsHitsAll;
   const resPool = withRes && !bookOnly ? resSorted : [];
@@ -161,14 +162,14 @@ function SearchResultsScreen({ go }) {
             </div>
             <div style={{ display: "flex", flexDirection: "column", gap: 8, fontSize: 14 }}>
               <div style={{ display: "flex", flexWrap: "wrap", gap: 8 }}>
-                {applied.map(l => <span key={l} style={{ ...chip, cursor: "default", background: "var(--color-brand-mint)", color: "var(--color-text)" }}>{l}</span>)}
+                  {applied.map(l => <button key={l} onClick={() => { setApplied(applied.filter(x => x !== l)); setPicked(p => p.filter(x => x !== l)); setPage("1"); }} style={{ ...chip, background: "var(--color-brand-mint)", color: "var(--color-text)" }}>{l} <span>✕</span></button>)} 
               </div>
             </div>
           </>)}
           <div style={{ border: "1px solid var(--color-border-default)", borderRadius: 8, padding: "8px 12px 8px 16px", display: "flex", flexDirection: "column", gap: 8, color: "var(--color-text-secondary)", boxSizing: "border-box", fontSize: 14 }}>
             <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
-              <span style={{ whiteSpace: "nowrap" }}>已套用篩選：</span>
-              <button onClick={() => setApplied(picked)} disabled={!picked.length} style={{ border: 0, cursor: picked.length ? "pointer" : "default", opacity: picked.length ? 1 : 0.4, background: "var(--color-brand-mint)", color: "var(--color-text)", borderRadius: 6, padding: "4px 16px", fontFamily: "inherit", fontSize: 14 }}>套用</button>
+              <span style={{ whiteSpace: "nowrap" }}>待套用：</span>
+              <button onClick={() => { setApplied(picked); setPage("1"); }} disabled={!picked.length} style={{ border: 0, cursor: picked.length ? "pointer" : "default", opacity: picked.length ? 1 : 0.4, background: "var(--color-brand-mint)", color: "var(--color-text)", borderRadius: 6, padding: "4px 16px", fontFamily: "inherit", fontSize: 14 }}>套用</button>
             </div>
             {picked.length > 0 && <div style={{ display: "flex", flexWrap: "wrap", gap: 8 }}>
               {picked.map(l => <button key={l} onClick={() => toggle(l)} style={chip}>{l} <span>✕</span></button>)}
@@ -184,6 +185,7 @@ function SearchResultsScreen({ go }) {
           </>}
           {withRes && <>
           <FilterBlock title="資源類型" items={resTypeItems} selected={picked} onToggle={toggle} />
+          <FilterBlock title="學科領域" items={resDomainItems} selected={picked} onToggle={toggle} initial={6} step={5} />
           </>}
           {withNews && <>
           <FilterBlock title="新聞來源" items={[["The New York Times", window.K12_NEWS.length]]} selected={picked} onToggle={toggle} />
@@ -219,7 +221,7 @@ function SearchResultsScreen({ go }) {
                   </React.Fragment>
                 ))}
                 {scopes.map(f => <button key={f} onClick={() => setScopes(scopes.filter(x => x !== f))} style={chip}>格式：{f} <span>✕</span></button>)}
-                <button onClick={() => { setTerms([]); setScopes([]); setQ(""); setWithin(false); }} style={{ marginLeft: "auto", border: 0, background: "none", padding: 0, cursor: "pointer", fontFamily: "inherit", fontSize: 14, color: "var(--color-link)", textDecoration: "underline", whiteSpace: "nowrap" }}>清除全部</button>
+                <button onClick={clearAll} style={{ marginLeft: "auto", border: 0, background: "none", padding: 0, cursor: "pointer", fontFamily: "inherit", fontSize: 14, color: "var(--color-link)", textDecoration: "underline", whiteSpace: "nowrap" }}>清除全部</button>
               </div>
             )}
           </div>
@@ -285,14 +287,14 @@ function BookPreview({ b, go, onClose }) {
   React.useEffect(() => { const k = (e) => e.key === "Escape" && onClose(); document.addEventListener("keydown", k); return () => document.removeEventListener("keydown", k); }, []);
   window.useFavs();
   const saved = window.favStore.has(b.id);
-  const rows = [["作者", b.author], ["類型", [b.type, b.edition].filter(Boolean).join(" · ")], ["狀態", b.available], ["讀者", b.reader], ["類別", b.klass], ["對應課綱", (b.curriculum || []).join("、")], ["主題", (b.topics || []).join("、")]];
+  const rows = [["作者", b.author], ["類型", [b.type, b.edition].filter(Boolean).join(" · ")], ["狀態", b.type === "雜誌" ? "" : b.available === "即將上架" ? "不可用（即將上架）" : "可用"], ["讀者", (b.levels || (b.reader === "成人" ? ["大學"] : b.reader === "青少年" ? ["國中", "高中"] : [])).join("、")], ["類別", b.klass], ["對應課綱", (b.curriculum || []).join("、")], ["主題", (b.topics || []).join("、")]];
   return ReactDOM.createPortal(
     <div onClick={onClose} style={{ position: "fixed", inset: 0, zIndex: 90, background: "rgba(40,30,70,.35)", display: "flex", alignItems: "center", justifyContent: "center" }}><div style={{ zoom: (document.getElementById("root") || {}).style?.zoom || 1, display: "flex" }}>
       <div role="dialog" aria-modal="true" aria-label={b.title} onClick={(e) => e.stopPropagation()} style={{ position: "relative", width: 720, maxHeight: "86vh", overflow: "auto", boxSizing: "border-box", padding: 32, display: "flex", gap: 28, background: "var(--color-surface)", border: "var(--border-default)", borderRadius: "var(--corner-lg)", fontFamily: "var(--font-base)", color: "var(--color-text)" }}>
         <button type="button" aria-label="關閉" onClick={onClose} style={{ position: "absolute", top: 14, right: 14, width: 32, height: 32, border: "var(--border-thin)", borderRadius: "50%", background: "var(--color-surface)", cursor: "pointer", fontSize: 14, color: "var(--color-text)" }}>✕</button>
         <div style={{ flexShrink: 0, border: "var(--border-default)", boxShadow: "var(--shadow-hard-sm)", lineHeight: 0, alignSelf: "flex-start" }}><window.BookCover book={b} width={180} /></div>
         <div style={{ flex: 1, minWidth: 0, display: "flex", flexDirection: "column", gap: 14 }}>
-          {window.bookTag(b) && <span style={{ alignSelf: "flex-start", fontFamily: "var(--font-label)", fontSize: 12, fontWeight: 700, padding: "3px 8px", borderRadius: 4, border: "var(--border-thin)", background: "var(--color-accent-tint)" }}>{b.category}</span>}
+          {window.bookTag(b) && <span style={{ alignSelf: "flex-start", fontFamily: "var(--font-label)", fontSize: 12, fontWeight: 700, padding: "3px 8px", borderRadius: 4, border: "var(--border-thin)", background: "var(--color-accent-tint)" }}>{window.bookTag(b)}</span>}
           <h2 style={{ margin: 0, paddingRight: 32, fontFamily: "var(--font-heading)", fontSize: 26, fontWeight: 700, lineHeight: 1.25 }}>{b.title}</h2>
           <dl style={{ margin: 0, display: "grid", gridTemplateColumns: "auto minmax(0,1fr)", gap: "6px 16px", fontSize: 14 }}>
             {rows.map(([k, v]) => <React.Fragment key={k}><dt style={{ color: "var(--color-text-muted)" }}>{k}</dt><dd style={{ margin: 0 }}>{v || "-"}</dd></React.Fragment>)}
@@ -303,7 +305,7 @@ function BookPreview({ b, go, onClose }) {
           </div>
           <div style={{ marginTop: "auto", paddingTop: 8, display: "flex", gap: 12, justifyContent: "flex-end" }}>
             <DSR.Button size="md" tone="paper" selected={saved} icon={saved ? "bookmark-filled" : "bookmark"} onClick={() => window.favStore.toggle(b.id)}>{saved ? "已收藏" : "加入收藏"}</DSR.Button>
-            <DSR.Button variant="primary" size="md" iconRight="chevron-right" onClick={() => window.openBook(go, b.id)}>書籍詳細資料</DSR.Button>
+            <DSR.Button variant="primary" size="md" iconRight="chevron-right" onClick={() => window.openBook(go, b.id)}>{b.type === "雜誌" ? "前往閱讀" : "書籍詳細資料"}</DSR.Button>
           </div>
         </div>
       </div></div>
