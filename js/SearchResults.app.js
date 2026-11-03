@@ -107,7 +107,7 @@ function SearchResultsScreen({ go }) {
   const allBooks = [...window.K12_BOOKS, ...window.K12_MAGAZINES.map(m => ({ ...m, type: "雜誌", tag: m.category }))];
   const bookPool = allBooks.filter(b => bookTypes.includes(b.type));
     // 依搜尋詞篩選書籍與雜誌（欄位：名稱／作者／平台／主題／所有欄位）
-  const bookMatch = (b, t) => { const k = t.text.toLowerCase(); const pool = t.field === "名稱" ? [b.title, b.subtitle] : t.field === "作者" ? [b.author] : t.field === "平台" ? [b.source, b.publisher, b.edition] : t.field === "主題" ? [b.category, b.tag, ...(b.topics || [])] : [b.title, b.subtitle, b.author, b.source, b.publisher, b.edition, b.category, b.tag, b.synopsis, b.synopsisZh, ...(b.topics || [])]; return pool.some(v => v && String(v).toLowerCase().includes(k)); };
+  const bookMatch = (b, t) => { const k = t.text.toLowerCase(); const pool = t.field === "名稱" ? [b.title, b.subtitle] : t.field === "作者" ? [b.author] : t.field === "平台" ? [b.source, b.publisher, b.edition] : t.field === "主題" ? [b.category, b.tag, ...(b.topics || []), ...(b.curriculum || [])] : [b.title, b.subtitle, b.author, b.source, b.publisher, b.edition, b.category, b.tag, b.synopsis, b.synopsisZh, ...(b.topics || []), ...(b.curriculum || [])]; return pool.some(v => v && String(v).toLowerCase().includes(k)); };
   // 左側「狀態／讀者／類別／對應課綱」篩選：同一組內任一符合即可，不同組之間須同時符合
   const STATUS = ["可用", "不可用"], KLASSES = ["文學小說類", "非小說類"], SUBJECTS = window.K12_CURRICULUM.flatMap(([, ss]) => ss);
   const bookStatus = (b) => b.available === "即將上架" ? "不可用" : "可用";
