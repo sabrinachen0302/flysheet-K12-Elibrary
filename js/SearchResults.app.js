@@ -86,13 +86,6 @@ function SearchResultsScreen({ go }) {
   };
   const removeTerm = (i) => setTerms(ts => ts.filter((_, j) => j !== i).map((t, j) => j === 0 ? { ...t, op: null } : t));
   const clearAll = () => { setTerms([]); setApplied([]); setPicked([]); setScopes([]); setQ(""); setWithin(false); };
-  const total = React.useMemo(() => {
-    let c = terms.length ? 128 : 3150;
-    terms.slice(1).forEach(t => { c = t.op === "AND" ? Math.max(1, Math.round(c * 0.4)) : c + 57; });
-    applied.forEach(() => { c = Math.max(1, Math.round(c * 0.8)); });
-    if (!bookTypes.length) c = 0; else if (bookTypes.length === 1) c = Math.max(1, Math.round(c * 0.5));
-    return c + newsHits.length + (withRes ? resHitsAll.length : 0);
-  }, [terms, applied, scopes, newsHits, resHitsAll]);
   const resTypeItems = RES_TYPES.map(t => [t, (resData || []).filter(x => (x.categories || []).includes(t)).length]);
   const resDomainItems = resDomains.map(d => [d, (resData || []).filter(x => (x.subjects || []).includes(d)).length]);
   const toggleTime = (l) => setPicked(p => p.includes(l) ? p.filter(x => x !== l) : [...p.filter(x => !TIME_LABELS.includes(x)), l]);
@@ -107,18 +100,25 @@ function SearchResultsScreen({ go }) {
   const [preview, setPreview] = React.useState(null);
   const [ppOpen, setPpOpen] = React.useState(false);
   const bookPool = [...window.K12_BOOKS, ...window.K12_MAGAZINES.map(m => ({ ...m, type: "雜誌", tag: m.category }))].filter(b => bookTypes.includes(b.type));
-  const books = bookPool.length ? Array.from({ length: perPage }, (_, i) => bookPool[i % bookPool.length]) : [];
+    // 依搜尋詞篩選書籍與雜誌（欄位：名稱／作者／平台／主題／所有欄位）
+  const bookMatch = (b, t) => { const k = t.text.toLowerCase(); const pool = t.field === "名稱" ? [b.title] : t.field === "作者" ? [b.author] : t.field === "平台" ? [b.source, b.publisher] : t.field === "主題" ? [b.category, b.tag, ...(b.topics || [])] : [b.title, b.author, b.category, b.tag, b.synopsis, ...(b.topics || [])]; return pool.some(v => v && String(v).toLowerCase().includes(k)); };
+  const books = bookPool.filter(b => !terms.length || terms.reduce((acc, t, i) => i === 0 ? bookMatch(b, t) : t.op === "OR" ? acc || bookMatch(b, t) : acc && bookMatch(b, t), true));
   // 單一結果清單：書籍為主，每 3 本穿插 1 則新聞、1 項線上學習資源（同一種清單卡呈現）
   const resPool = withRes ? resSorted : [];
-  const results = React.useMemo(() => {
+  const allResults = React.useMemo(() => {
     const out = []; let ni = 0, ri = 0;
     books.forEach((b, i) => {
       out.push({ kind: "book", b });
       if (i % 3 === 2) { if (ni < newsHits.length) out.push({ kind: "news", n: newsHits[ni++] }); if (ri < resPool.length) out.push({ kind: "res", x: resPool[ri++] }); }
     });
     while (ni < newsHits.length || ri < resPool.length) { if (ni < newsHits.length) out.push({ kind: "news", n: newsHits[ni++] }); if (ri < resPool.length) out.push({ kind: "res", x: resPool[ri++] }); }
-    return newsOnly ? out : out.slice(0, perPage);
-  }, [books.length, bookPool.length, newsHits, resPool, perPage, newsOnly]);
+        return out;
+  }, [books, newsHits, resPool]);
+  // 真實筆數與分頁
+  const total = allResults.length;
+  const pageCount = Math.max(1, Math.ceil(total / perPage));
+  const pageNo = Math.min(+page, pageCount);
+  const results = allResults.slice((pageNo - 1) * perPage, pageNo * perPage);
   const rKey = (r) => r.kind === "book" ? r.b.id : r.kind === "news" ? window.newsKey(r.n) : window.olrKey(r.x);
   const batchKeys = [...new Set(results.map(rKey))];
   const resThumb = (x) => <window.ResLogo r={x} w={64} h={64} pad={4} />;
@@ -248,8 +248,8 @@ function SearchResultsScreen({ go }) {
                 : r.kind === "res" ? resRow(r.x, i) : <React.Fragment key={i}>{newsCard(r.n)}</React.Fragment>)}
             </div>
           ))}
-          {results.length > 0 && !newsOnly && <div style={{ display: "flex", justifyContent: "center" }}>
-            <Clickable onPick={(t) => { if (["1","2","3","4","5","6","76"].includes(t)) setPage(t); else if (t === "›") setPage(String(Math.min(6, +page + 1))); else if (t === "‹") setPage(String(Math.max(1, +page - 1))); }}><DSR.Pagination state={page} /></Clickable>
+         {pageCount > 1 && <div style={{ display: "flex", justifyContent: "center" }}>
+            <DSR.Paginator page={pageNo} total={pageCount} onChange={(n) => { setPage(String(n)); window.scrollTo(0, 0); }} />
           </div>}
         </div>
       </div>
