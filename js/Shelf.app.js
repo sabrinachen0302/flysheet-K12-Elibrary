@@ -33,11 +33,14 @@ function Spine({ b, h, showAuthor, onClick }) {
     </button>
   );
 }
-function FaceOut({ b, h, onClick }) {
+function FaceOut({ b, h, onClick, landing = false }) {
   const [hv, setHv] = React.useState(false);
+    // 從翻開的書回到書架時，封面由稍大、透明落回定位
+  const [landed, setLanded] = React.useState(!landing);
+  React.useEffect(() => { if (!landing) return; const t = setTimeout(() => setLanded(true), 30); return () => clearTimeout(t); }, []);
   return (
     <button type="button" onClick={onClick} onMouseEnter={() => setHv(true)} onMouseLeave={() => setHv(false)} aria-label={`翻開《${b.title}》`} title="點封面翻開"
-      style={{ position: "relative", marginRight: DEPTH + 4, padding: 0, border: "var(--border-default)", borderBottom: 0, background: "none", cursor: "pointer", lineHeight: 0, flexShrink: 0, transform: `translateY(${hv ? -8 : 0}px)`, transition: "transform .18s ease", boxShadow: "var(--shadow-hard-md)" }}>
+      style={{ position: "relative", marginRight: DEPTH + 4, padding: 0, border: "var(--border-default)", borderBottom: 0, background: "none", cursor: "pointer", lineHeight: 0, flexShrink: 0, opacity: landed ? 1 : 0, transform: `translateY(${hv ? -8 : 0}px) scale(${landed ? 1 : 1.12})`, transition: landing ? "transform .4s ease-out, opacity .3s ease" : "transform .18s ease", boxShadow: "var(--shadow-hard-md)" }}>
       <Thickness side />
       <window.BookCover book={b} width={Math.round(h / 1.5)} />
       <span aria-hidden="true" style={{ position: "absolute", top: 0, bottom: 0, left: 0, width: 14, background: "linear-gradient(90deg, rgba(0,0,0,.22), rgba(0,0,0,.06) 55%, rgba(255,255,255,.18) 70%, rgba(0,0,0,0))", borderRight: "1px solid rgba(0,0,0,.18)", pointerEvents: "none" }} />
@@ -77,8 +80,9 @@ function RightContent({ b }) {
 }
 // 翻頁：下一本 = 右頁沿書脊翻向左；上一本 = 左頁翻向右。翻動中底下兩頁分別顯示舊／新書內容。
 const FLIP_MS = 700;
-// 闔書動畫長度（毫秒）
-const CLOSE_MS = 650;
+// 闔書動畫：左頁沿書背翻到右頁上、露出封面（FOLD_MS），接著整本書縮小淡出、回到書架（CLOSE_MS 為總長，毫秒）
+const FOLD_MS = 550;
+const CLOSE_MS = 950;
 function OpenBook({ b, dir = 1, closing = false }) {
   const [shown, setShown] = React.useState(false);
   const [flip, setFlip] = React.useState(null);
@@ -94,7 +98,7 @@ function OpenBook({ b, dir = 1, closing = false }) {
   }, [b.id]);
   const leftB = flip && flip.dir > 0 ? flip.old : b;
   const rightB = flip && flip.dir < 0 ? flip.old : b;
-  const pageT = closing ? `transform ${CLOSE_MS * 0.7}ms cubic-bezier(.45,0,.25,1)` : "transform .55s cubic-bezier(.2,.7,.2,1)";
+  const pageT = closing ? `transform ${FOLD_MS}ms cubic-bezier(.45,0,.25,1)` : "transform .55s cubic-bezier(.2,.7,.2,1)";
   const on = shown && !closing; // 書本攤開中
   const face = { position: "absolute", inset: 0, backfaceVisibility: "hidden", WebkitBackfaceVisibility: "hidden" };
   let leaf = null;
@@ -110,10 +114,16 @@ function OpenBook({ b, dir = 1, closing = false }) {
   }
   return (
     <div style={{ perspective: 1800, display: "flex", justifyContent: "center", padding: "12px 0 28px" }}>
-      <div style={{ position: "relative", display: "flex", transformStyle: "preserve-3d", transform: closing ? "rotateX(14deg) scale(.9)" : "rotateX(14deg)", opacity: closing ? 0 : 1, transition: `transform ${CLOSE_MS}ms ease, opacity ${CLOSE_MS * 0.3}ms ease ${CLOSE_MS * 0.7}ms` }}>
-        <div aria-hidden="true" style={{ position: "absolute", inset: "-10px -12px -14px", background: "var(--color-brand-primary)", border: "var(--border-default)", borderRadius: "var(--corner-md)", boxShadow: "var(--shadow-hard-md)", transform: "translateZ(-2px)" }} />
-        <div style={{ ...PAGE_L, position: "relative", transformOrigin: "right center", transform: `rotateY(${on ? 10 : closing ? 90 : 80}deg)`, transition: pageT }}><LeftContent b={leftB} /></div>
-        <div style={{ ...PAGE_R, position: "relative", transformOrigin: "left center", transform: `rotateY(${on ? -10 : closing ? -90 : -80}deg)`, transition: pageT }}><RightContent b={rightB} /></div>
+      <div style={{ position: "relative", display: "flex", transformStyle: "preserve-3d", transform: closing ? "rotateX(14deg) translateX(-165px) scale(.75)" : "rotateX(14deg)", opacity: closing ? 0 : 1, transition: closing ? `transform ${CLOSE_MS - FOLD_MS}ms ease-in ${FOLD_MS}ms, opacity ${CLOSE_MS - FOLD_MS - 100}ms ease ${FOLD_MS + 100}ms` : "none" }}>
+        <div aria-hidden="true" style={{ position: "absolute", inset: "-10px -12px -14px", background: "var(--color-brand-primary)", border: "var(--border-default)", borderRadius: "var(--corner-md)", boxShadow: "var(--shadow-hard-md)", transform: "translateZ(-2px)", opacity: closing ? 0 : 1, transition: `opacity ${FOLD_MS * 0.6}ms ease ${FOLD_MS * 0.3}ms` }} />
+        {/* 左頁：正面是書名頁，背面是封面；闔書時沿書背（右緣）翻 180 度蓋到右頁上 */}
+        <div style={{ position: "relative", width: 330, height: 440, zIndex: closing ? 3 : "auto", transformStyle: "preserve-3d", transformOrigin: "right center", transform: `rotateY(${closing ? 180 : on ? 10 : 80}deg)`, transition: pageT }}>
+          <div style={{ ...PAGE_L, ...face }}><LeftContent b={leftB} /></div>
+          <div aria-hidden="true" style={{ ...face, transform: "rotateY(180deg)", border: "var(--border-default)", borderRadius: "var(--corner-sm)", overflow: "hidden", background: "var(--color-surface)", boxShadow: "var(--shadow-hard-md)" }}>
+            {b.cover ? <img src={b.cover} alt="" style={{ width: "100%", height: "100%", objectFit: "cover", display: "block" }} /> : <window.BookCover book={b} width={330} />}
+          </div>
+        </div>
+        <div style={{ ...PAGE_R, position: "relative", transformOrigin: "left center", transform: `rotateY(${closing ? 0 : on ? -10 : -80}deg)`, transition: pageT }}><RightContent b={rightB} /></div>
         {leaf}
       </div>
     </div>
@@ -149,12 +159,12 @@ function BookShelf({ go, mode = "先展示封面", spineAuthor = true }) {
   const [sel, setSel] = React.useState(0);
   const [open, setOpen] = React.useState(false);
   // 回到書架：先播放闔書動畫，結束後才切回書架（使用者設定「減少動態效果」時直接切回）
-  const [closing, setClosing] = React.useState(false);
+  const [landing, setLanding] = React.useState(false); // 剛闔上書、封面正落回書架
   const closeBook = () => {
     if (closing) return;
     if (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches) { setOpen(false); return; }
     setClosing(true);
-    setTimeout(() => { setClosing(false); setOpen(false); }, CLOSE_MS + 50);
+    setTimeout(() => { setClosing(false); setOpen(false); setLanding(true); setTimeout(() => setLanding(false), 600); }, CLOSE_MS + 50);
   };
   const [dir, setDir] = React.useState(1);
   const isShelf = !!SHELF_LISTS[tab];
@@ -194,7 +204,7 @@ function BookShelf({ go, mode = "先展示封面", spineAuthor = true }) {
             <div style={{ padding: "52px 40px 0" }}>
               <div style={{ display: "flex", alignItems: "flex-end", justifyContent: "center", gap: 10, minHeight: 404 }}>
                 {books.map((x, i) => !direct && i === sel
-                  ? <FaceOut key={x.id} b={x} h={SPINE_H[i % SPINE_H.length]} onClick={() => setOpen(true)} />
+                  ? <FaceOut key={x.id} b={x} h={SPINE_H[i % SPINE_H.length]} landing={landing} onClick={() => setOpen(true)} />
                   : <Spine key={x.id} b={x} h={SPINE_H[i % SPINE_H.length]} showAuthor={spineAuthor} onClick={() => { setSel(i); if (direct) setOpen(true); }} />)}
               </div>
               <div aria-hidden="true" style={{ height: 18, margin: "0 -40px", background: "var(--color-brand-cta)", borderTop: "var(--border-default)" }} />
