@@ -69,7 +69,6 @@ function SearchResultsScreen({ go }) {
   const resOk = (x, skip) => { const types = skip === "資源類型" ? [] : applied.filter(l => RES_TYPES.includes(l)); const doms = skip === "學科" ? [] : [...new Set(applied.map(domainOf).filter(Boolean))]; return (!terms.length || terms.reduce((acc, t, i) => i === 0 ? resMatch(x, t) : t.op === "OR" ? acc || resMatch(x, t) : acc && resMatch(x, t), true)) && (!types.length || types.some(t => (x.categories || []).includes(t))) && (!doms.length || doms.some(d => (x.subjects || []).includes(d))) && levelOk(x, skip); };
   const resHitsAll = React.useMemo(() => (resData || []).filter(x => resOk(x)), [resData, terms, applied, resDomains]);
   const resSorted = React.useMemo(() => [...resHitsAll].sort(sort === "熱門度" ? (a, b) => b.clicks - a.clicks : sort === "書名" ? (a, b) => a.title.localeCompare(b.title, "zh-Hant") : (a, b) => a.order - b.order), [resHitsAll, sort]);
-  const hintRes = !withRes && resHitsAll.length > 0 && (terms.length > 0 || applied.some(l => domainOf(l) || RES_TYPES.includes(l)));
   const NEWS_CATS = React.useMemo(() => (window.K12_TOPICS && window.K12_TOPICS.news) || [], []);
   const TIME_LABELS = window.NEWS_TIMES.map(([l]) => l);
   // 新聞篩選；skip＝計算某一組的數字時忽略該組自己的條件
@@ -270,13 +269,6 @@ const allResults = React.useMemo(() => {
               </div>
             </div>
           </div>
-          {hintRes && (
-            <button type="button" onClick={() => setScopes(["電子資源"])} style={{ display: "flex", alignItems: "center", gap: 10, width: "100%", boxSizing: "border-box", border: "2px solid var(--color-border)", borderRadius: 8, background: "var(--color-background-page)", padding: "12px 16px", cursor: "pointer", fontFamily: "inherit", fontSize: 14, color: "var(--color-text-primary)", textAlign: "left" }}>
-              <DSR.Icon name="external-link" size={14} style={{ color: "var(--color-text)" }} />
-              <span style={{ flex: 1 }}>另有 <b>{resHitsAll.length}</b> 項電子資源符合{terms.length ? <>「{terms.map(t => t.text).join("」「")}」</> : "目前的篩選條件"}</span>
-              <span style={{ color: "var(--color-link)", textDecoration: "underline", whiteSpace: "nowrap" }}>查看 ›</span>
-            </button>
-          )}
           {results.length > 0 && <window.BatchBar selection={selection} keys={batchKeys}><window.AddToFolderMenu keys={selection.keys()} onDone={selection.clear} /></window.BatchBar>}
           {!results.length && (
             <div style={{ padding: "64px 0", display: "flex", flexDirection: "column", alignItems: "center", gap: 12, color: "var(--color-text-secondary)", fontSize: 16 }}>
