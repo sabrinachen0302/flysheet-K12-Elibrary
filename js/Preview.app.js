@@ -20,7 +20,7 @@ function ItemPreview({ kind, item, go, onClose }) {
   const c = previewCfg(kind, item, go);
   const saved = window.favStore.has(c.key);
   const body = (
-    <div style={{ flex: 1, minWidth: 0, display: "flex", flexDirection: "column", gap: 14 }}>
+    <div style={{ flex: 1, minWidth: 0, minHeight: "min-content", display: "flex", flexDirection: "column", gap: 14 }}>
       {c.badge && <span style={{ alignSelf: "flex-start", fontFamily: "var(--font-label)", fontSize: 12, fontWeight: 700, padding: "3px 8px", borderRadius: 4, border: "var(--border-thin)", background: "var(--color-accent-tint)" }}>{c.badge}</span>}
       <h2 style={{ margin: 0, paddingRight: 32, fontFamily: "var(--font-heading)", fontSize: 26, fontWeight: 700, lineHeight: 1.25, textWrap: "pretty" }}>{c.title}</h2>
       <dl style={{ margin: 0, display: "grid", gridTemplateColumns: "auto minmax(0,1fr)", gap: "6px 16px", fontSize: 14 }}>
