@@ -76,6 +76,8 @@ function SearchResultsScreen({ go }) {
   const newsOk = (n, skip) => { const cats = skip === "新聞分類" ? [] : applied.filter(l => NEWS_CATS.includes(l)); const srcs = skip === "新聞來源" ? [] : applied.filter(l => l === "The New York Times"); const time = applied.find(l => TIME_LABELS.includes(l)); return window.newsMatchTerms(n, terms) && (!cats.length || cats.includes(n.category)) && (!srcs.length || srcs.includes(n.source)) && window.newsInTime(n, time); };
   const newsHitsAll = React.useMemo(() => window.K12_NEWS.filter(n => newsOk(n)).sort((a, b) => b.date.localeCompare(a.date)), [terms, applied]);
   React.useEffect(() => { if (newsOnly) setSort("出版日期新到舊"); }, [newsOnly]);
+    // 有搜尋詞時預設依相關度排序；清掉搜尋詞時回到熱門度（之後使用者仍可自行切換）
+  React.useEffect(() => { setSort(terms.length ? "相關度" : "熱門度"); }, [terms]);
   const doSearch = () => {
     const text = q.trim();
     if (!text) return;
@@ -141,15 +143,22 @@ function SearchResultsScreen({ go }) {
     const has = fmtItems.filter(([, n]) => n > 0).map(([f]) => f);
     setScopes(has.length < fmtItems.length ? has : []); autoScope.current = has.length < fmtItems.length;
   }, [applied, resData]);
-  const allResults = React.useMemo(() => {
+  // 相關度：搜尋詞出現在越重要的欄位分數越高（名稱 10、作者 6、主題／課綱 5、平台 3、簡介 1）；欄位內容與搜尋詞完全相同再加 15；分數相同時維持原本順序
+  const REL_W = {
+    book: [[10, b => [b.title, b.subtitle]], [6, b => [b.author]], [5, b => [b.tag, b.category, ...(b.topics || []), ...(b.curriculum || [])]], [3, b => [b.source, b.publisher, b.edition]], [1, b => [b.synopsis, b.synopsisZh]]],
+    res: [[10, x => [x.title]], [5, x => [...(x.categories || []), ...(x.subjects || [])]], [3, x => [x.publisher]], [1, x => [x.description]]],
+    news: [[10, n => [n.title]], [5, n => [n.category, n.sectionLabel]], [3, n => [n.source]], [1, n => [n.summary]]],
+  };
+  const relScore = (r) => { const x = r.kind === "book" ? r.b : r.kind === "news" ? r.n : r.x; return terms.reduce((s, t) => { const k = t.text.toLowerCase(); return s + REL_W[r.kind].reduce((ss, [w, get]) => { const vs = get(x).filter(Boolean).map(v => String(v).toLowerCase()); return ss + (vs.includes(k) ? w + 15 : vs.some(v => v.includes(k)) ? w : 0); }, 0); }, 0); };
+const allResults = React.useMemo(() => {
     const out = []; let ni = 0, ri = 0;
     books.forEach((b, i) => {
       out.push({ kind: "book", b });
       if (i % 3 === 2) { if (ni < newsHits.length) out.push({ kind: "news", n: newsHits[ni++] }); if (ri < resPool.length) out.push({ kind: "res", x: resPool[ri++] }); }
     });
     while (ni < newsHits.length || ri < resPool.length) { if (ni < newsHits.length) out.push({ kind: "news", n: newsHits[ni++] }); if (ri < resPool.length) out.push({ kind: "res", x: resPool[ri++] }); }
-        return out;
-  }, [books, newsHits, resPool]);
+    return sort === "相關度" && terms.length ? out.sort((a, b) => relScore(b) - relScore(a)) : out;
+  }, [books, newsHits, resPool, sort, terms]);
   // 真實筆數與分頁
   const total = allResults.length;
   const pageCount = Math.max(1, Math.ceil(total / perPage));
