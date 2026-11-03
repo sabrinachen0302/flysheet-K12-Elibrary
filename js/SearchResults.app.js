@@ -71,7 +71,7 @@ function SearchResultsScreen({ go }) {
   const levelMatch = (x, l) => levelsOf(x).includes(l) || (l !== "不限學級" && levelsOf(x).includes("不限學級"));
   const levelOk = (x, skip) => { const rd = skip === "讀者" ? [] : applied.filter(l => READERS.includes(l)); return !rd.length || rd.some(l => levelMatch(x, l)); };
   // 電子資源篩選；skip＝計算某一組的數字時忽略該組自己的條件
-  const resOk = (x, skip) => { const types = skip === "資源類型" ? [] : applied.filter(l => RES_TYPES.includes(l)); const doms = skip === "學科" ? [] : [...new Set(applied.map(domainOf).filter(Boolean))]; return (!terms.length || terms.reduce((acc, t, i) => i === 0 ? resMatch(x, t) : t.op === "OR" ? acc || resMatch(x, t) : acc && resMatch(x, t), true)) && (!types.length || types.some(t => (x.categories || []).includes(t))) && (!doms.length || doms.some(d => (x.subjects || []).includes(d))) && levelOk(x, skip); };
+  const resOk = (x, skip) => { const types = skip === "資源類型" ? [] : applied.filter(l => RES_TYPES.includes(l)); const subs = skip === "學科" ? [] : applied.filter(l => domainOf(l)); return (!terms.length || terms.reduce((acc, t, i) => i === 0 ? resMatch(x, t) : t.op === "OR" ? acc || resMatch(x, t) : acc && resMatch(x, t), true)) && (!types.length || types.some(t => (x.categories || []).includes(t))) && (!subs.length || subs.some(l => window.subjMatch(x, l))) && levelOk(x, skip); };
   const resHitsAll = React.useMemo(() => (resData || []).filter(x => resOk(x)), [resData, terms, applied, resDomains]);
   const resSorted = React.useMemo(() => [...resHitsAll].sort(sort === "熱門度" ? (a, b) => b.clicks - a.clicks : sort === "書名" ? (a, b) => a.title.localeCompare(b.title, "zh-Hant") : (a, b) => a.order - b.order), [resHitsAll, sort]);
   const NEWS_CATS = React.useMemo(() => (window.K12_TOPICS && window.K12_TOPICS.news) || [], []);
@@ -216,12 +216,12 @@ const allResults = React.useMemo(() => {
           {bookTypes.length > 0 && <>
           <FilterBlock title="狀態" items={STATUS.map(l => [l, bookCount("狀態", b => bookStatus(b) === l)])} selected={picked} onToggle={toggle} />
           <FilterBlock title="類別" items={KLASSES.map(l => [l, bookCount("類別", b => b.klass === l)])} selected={picked} onToggle={toggle} />
-          <FilterBlock title="對應課綱" items={SUBJECTS.map(l => [l, bookCount("學科", b => (b.curriculum || []).includes(l)) + resCount("學科", x => (x.subjects || []).includes(domainOf(l)))])} selected={picked} onToggle={toggle} initial={6} step={5} />
+          <FilterBlock title="對應課綱" items={SUBJECTS.map(l => [l, bookCount("學科", b => (b.curriculum || []).includes(l)) + resCount("學科", x => window.subjMatch(x, l))])} selected={picked} onToggle={toggle} initial={6} step={5} />
           <FilterBlock title="主題" items={TOPICS.filter(l => bookPool.some(b => topicsOf(b).includes(l))).map(l => [l, bookCount("主題", b => topicsOf(b).includes(l))]).sort((x, y) => y[1] - x[1])} selected={picked} onToggle={toggle} initial={6} step={5} />
           </>}
           {withRes && <>
           <FilterBlock title="資源類型" items={RES_TYPES.map(t => [t, resCount("資源類型", x => (x.categories || []).includes(t))])} selected={picked} onToggle={toggle} />
-          <FilterBlock title="學科領域" items={resDomains.map(d => [d, resCount("學科", x => (x.subjects || []).includes(d)) + (SUBJECTS.includes(d) ? bookCount("學科", b => (b.curriculum || []).includes(d)) : 0)])} selected={picked} onToggle={toggle} initial={6} step={5} />
+          <FilterBlock title="學科領域" items={resDomains.map(d => [d, resCount("學科", x => window.subjMatch(x, d)) + (SUBJECTS.includes(d) ? bookCount("學科", b => (b.curriculum || []).includes(d)) : 0)])} selected={picked} onToggle={toggle} initial={6} step={5} />
           </>}
           {withNews && <>
           <FilterBlock title="新聞來源" items={[["The New York Times", newsCount("新聞來源", n => n.source === "The New York Times")]]} selected={picked} onToggle={toggle} />
