@@ -106,7 +106,7 @@ function OpenBook({ b, dir = 1, closing = false }) {
     const fwd = flip.dir > 0;
     const from = fwd ? -10 : 10, to = fwd ? -170 : 170;
     leaf = (
-      <div aria-hidden="true" style={{ position: "absolute", top: 0, left: fwd ? 330 : 0, width: 330, height: 440, zIndex: 5, willChange: "transform", transformStyle: "preserve-3d", transformOrigin: fwd ? "left center" : "right center", transform: `translateZ(2px) rotateY(${flip.go ? to : from}deg)`, transition: flip.go ? `transform ${FLIP_MS}ms cubic-bezier(.45,.05,.3,1)` : "none" }}>
+      <div aria-hidden="true" style={{ position: "absolute", top: 0, left: fwd ? 330 : 0, width: 330, height: 440, zIndex: 5, willChange: "transform", transformStyle: "preserve-3d", transformOrigin: fwd ? "left center" : "right center", transform: `translateZ(0.25px) rotateY(${flip.go ? to : from}deg)`, transition: flip.go ? `transform ${FLIP_MS}ms cubic-bezier(.45,.05,.3,1)` : "none" }}>
         <div style={{ ...(fwd ? PAGE_R : PAGE_L), ...face, boxShadow: "0 0 0 transparent" }}>{fwd ? <RightContent b={flip.old} /> : <LeftContent b={flip.old} />}</div>
         <div style={{ ...(fwd ? PAGE_L : PAGE_R), ...face, transform: "rotateY(180deg)" }}>{fwd ? <LeftContent b={b} /> : <RightContent b={b} />}</div>
       </div>
