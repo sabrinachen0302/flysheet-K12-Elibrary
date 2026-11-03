@@ -136,13 +136,13 @@ function SearchResultsScreen({ go }) {
   // 「格式」旁的數字：依目前的搜尋詞與篩選條件即時計算，不受已勾選的格式影響
   const liveBooks = allBooks.filter(b => termOk(b) && !newsFilter && !resFilter && facet(b));
   const fmtItems = [...BOOK_FMTS.map(f => [f, liveBooks.filter(b => b.type === f).length]), ["新聞", hideNews ? 0 : newsHitsAll.length], ["電子資源", bookOnly ? 0 : resHitsAll.length]];
-  // 套用篩選條件且使用者沒有自己選格式時，自動勾選有結果的格式（可在上方打叉移除）；篩選條件全部清掉時自動取消
+  // 輸入關鍵字或套用篩選條件，且使用者沒有自己選格式時，自動勾選有結果的格式（可在上方打叉移除）；關鍵字與篩選條件全部清掉時自動取消
   React.useEffect(() => {
-    if (!applied.length) { if (autoScope.current) setScopes([]); return; }
+    if (!applied.length && !terms.length) { if (autoScope.current) setScopes([]); return; }
     if (scopes.length && !autoScope.current) return;
     const has = fmtItems.filter(([, n]) => n > 0).map(([f]) => f);
-    setScopes(has.length < fmtItems.length ? has : []); autoScope.current = has.length < fmtItems.length;
-  }, [applied, resData]);
+    setScopes(has); autoScope.current = has.length > 0;
+  }, [applied, terms, resData]);
   // 相關度：搜尋詞出現在越重要的欄位分數越高（名稱 10、作者 6、主題／課綱 5、平台 3、簡介 1）；欄位內容與搜尋詞完全相同再加 15；分數相同時維持原本順序
   const REL_W = {
     book: [[10, b => [b.title, b.subtitle]], [6, b => [b.author]], [5, b => [b.tag, b.category, ...(b.topics || []), ...(b.curriculum || [])]], [3, b => [b.source, b.publisher, b.edition]], [1, b => [b.synopsis, b.synopsisZh]]],
