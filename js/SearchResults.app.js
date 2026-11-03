@@ -71,7 +71,7 @@ function SearchResultsScreen({ go }) {
     return (resData || []).filter(x => (!terms.length || terms.reduce((acc, t, i) => i === 0 ? resMatch(x, t) : t.op === "OR" ? acc || resMatch(x, t) : acc && resMatch(x, t), true))
       && (!types.length || types.some(t => (x.categories || []).includes(t))) && (!doms.length || doms.some(d => (x.subjects || []).includes(d))) && levelOk(x));
   }, [resData, terms, applied, resDomains]);
-  const resSorted = React.useMemo(() => [...resHitsAll].sort(sort === "熱門度" ? (a, b) => b.clicks - a.clicks : (a, b) => b.clicks - a.clicks : sort === "書名" ? (a, b) => a.title.localeCompare(b.title, "zh-Hant") : (a, b) => a.order - b.order), [resHitsAll, sort]);
+  const resSorted = React.useMemo(() => [...resHitsAll].sort(sort === "熱門度" ? (a, b) => b.clicks - a.clicks : sort === "書名" ? (a, b) => a.title.localeCompare(b.title, "zh-Hant") : (a, b) => a.order - b.order), [resHitsAll, sort]);
   const hintRes = !withRes && resHitsAll.length > 0 && (terms.length > 0 || applied.some(l => domainOf(l) || RES_TYPES.includes(l)));
   const NEWS_CATS = React.useMemo(() => (window.K12_TOPICS && window.K12_TOPICS.news) || [], []);
   const TIME_LABELS = window.NEWS_TIMES.map(([l]) => l);
@@ -114,7 +114,7 @@ function SearchResultsScreen({ go }) {
   const TOPICS = [...new Set(allBooks.flatMap(topicsOf))].filter(l => !SUBJECTS.includes(l));
   const facet = (b) => { const pick = (list) => applied.filter(l => list.includes(l)); const st = pick(STATUS), kl = pick(KLASSES), sb = pick(SUBJECTS), tp = pick(TOPICS); return (!st.length || st.includes(bookStatus(b))) && levelOk(b) && (!kl.length || kl.includes(b.klass)) && (!sb.length || sb.some(x => (b.curriculum || []).includes(x))) && (!tp.length || tp.some(x => topicsOf(b).includes(x))); };
   const termOk = (b) => !terms.length || terms.reduce((acc, t, i) => i === 0 ? bookMatch(b, t) : t.op === "OR" ? acc || bookMatch(b, t) : acc && bookMatch(b, t), true);
-    const books = bookPool.filter(termOk).filter(facet).sort((a, b) => sort === "書名" ? a.title.localeCompare(b.title, "zh-Hant") : 0);
+  const books = bookPool.filter(termOk).filter(facet).sort((a, b) => sort === "書名" ? a.title.localeCompare(b.title, "zh-Hant") : 0);
   // 單一結果清單：書籍為主，每 3 本穿插 1 則新聞、1 項線上學習資源（同一種清單卡呈現）
   // 勾了書籍條件（狀態／讀者／類別／主題）時不顯示電子資源；勾了書籍條件或對應課綱時不顯示新聞（與新聞分類同名的主題除外）
   const bookOnly = applied.some(l => [...STATUS, ...KLASSES, ...TOPICS].includes(l) && !resDomains.includes(l));
@@ -162,7 +162,7 @@ function SearchResultsScreen({ go }) {
             </div>
             <div style={{ display: "flex", flexDirection: "column", gap: 8, fontSize: 14 }}>
               <div style={{ display: "flex", flexWrap: "wrap", gap: 8 }}>
-                  {applied.map(l => <button key={l} onClick={() => { setApplied(applied.filter(x => x !== l)); setPicked(p => p.filter(x => x !== l)); setPage("1"); }} style={{ ...chip, background: "var(--color-brand-mint)", color: "var(--color-text)" }}>{l} <span>✕</span></button>)} 
+              {applied.map(l => <button key={l} onClick={() => { setApplied(applied.filter(x => x !== l)); setPicked(p => p.filter(x => x !== l)); setPage("1"); }} style={{ ...chip, background: "var(--color-brand-mint)", color: "var(--color-text)" }}>{l} <span>✕</span></button>)} 
               </div>
             </div>
           </>)}
