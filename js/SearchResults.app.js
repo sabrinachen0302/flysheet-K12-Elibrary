@@ -114,15 +114,17 @@ function SearchResultsScreen({ go }) {
   const TOPICS = [...new Set(allBooks.flatMap(topicsOf))].filter(l => !SUBJECTS.includes(l));
   const facet = (b) => { const pick = (list) => applied.filter(l => list.includes(l)); const st = pick(STATUS), kl = pick(KLASSES), sb = pick(SUBJECTS), tp = pick(TOPICS); return (!st.length || st.includes(bookStatus(b))) && levelOk(b) && (!kl.length || kl.includes(b.klass)) && (!sb.length || sb.some(x => (b.curriculum || []).includes(x))) && (!tp.length || tp.some(x => topicsOf(b).includes(x))); };
   const termOk = (b) => !terms.length || terms.reduce((acc, t, i) => i === 0 ? bookMatch(b, t) : t.op === "OR" ? acc || bookMatch(b, t) : acc && bookMatch(b, t), true);
-  const books = bookPool.filter(termOk).filter(facet).sort((a, b) => sort === "書名" ? a.title.localeCompare(b.title, "zh-Hant") : 0);
+    // 勾了新聞專用條件（新聞分類／新聞來源／時間）時，不顯示書籍與電子資源；與書籍主題或資源學科同名的分類（如「美國」）除外
+  const newsFilter = applied.some(l => (NEWS_CATS.includes(l) || l === "The New York Times" || TIME_LABELS.includes(l)) && !TOPICS.includes(l) && !resDomains.includes(l));
+  const books = bookPool.filter(termOk).filter(b => !newsFilter && facet(b)).sort((a, b) => sort === "書名" ? a.title.localeCompare(b.title, "zh-Hant") : 0);
   // 單一結果清單：書籍為主，每 3 本穿插 1 則新聞、1 項線上學習資源（同一種清單卡呈現）
   // 勾了書籍條件（狀態／讀者／類別／主題）時不顯示電子資源；勾了書籍條件或對應課綱時不顯示新聞（與新聞分類同名的主題除外）
-  const bookOnly = applied.some(l => [...STATUS, ...KLASSES, ...TOPICS].includes(l) && !resDomains.includes(l));
+  const bookOnly = newsFilter || applied.some(l => [...STATUS, ...KLASSES, ...TOPICS].includes(l) && !resDomains.includes(l));
   const hideNews = applied.some(l => [...STATUS, ...READERS, ...KLASSES, ...SUBJECTS, ...TOPICS].includes(l) && !NEWS_CATS.includes(l));
   const newsHits = !withNews || hideNews ? [] : newsHitsAll;
   const resPool = withRes && !bookOnly ? resSorted : [];
   // 「格式」旁的數字：依目前的搜尋詞與篩選條件即時計算，不受已勾選的格式影響
-  const liveBooks = allBooks.filter(b => termOk(b) && facet(b));
+  const liveBooks = allBooks.filter(b => termOk(b) && !newsFilter && facet(b));
   const fmtItems = [...BOOK_FMTS.map(f => [f, liveBooks.filter(b => b.type === f).length]), ["新聞", hideNews ? 0 : newsHitsAll.length], ["電子資源", bookOnly ? 0 : resHitsAll.length]];
   // 套用篩選條件且使用者沒有自己選格式時，自動勾選有結果的格式（可在上方打叉移除）；篩選條件全部清掉時自動取消
   React.useEffect(() => {
