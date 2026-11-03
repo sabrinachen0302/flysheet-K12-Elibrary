@@ -58,7 +58,7 @@ function CurationScreen({ go }) {
   const hero = 1 - seg(p, 0.05, 0.11);
   const texts = PHASES.map(ph => Math.min(seg(p, ...ph.textIn), ph.out ? 1 - seg(p, ...ph.out) : 1));
   const cards = PHASES.map(ph => SCATTER.map((_, i) => Math.min(seg(p, ph.cardsIn + i * 0.014, ph.cardsIn + 0.06 + i * 0.014), ph.out ? 1 - seg(p, ...ph.out) : 1)));
-  const hint = Math.max(hero, ...texts);
+  const hint = Math.max(hero, ...texts) * (1 - seg(p, 0.9, 0.97));
   if (cur && cur.layout === "journey") return <window.JourneyCuration key={cur.id} cur={cur} go={go} />;
   return (
     <div ref={ref} style={{ height: STAGE_H * SCROLL_SCREENS, position: "relative" }}>
